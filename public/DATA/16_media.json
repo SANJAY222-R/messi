@@ -1,0 +1,23 @@
+{
+  "media_hub": {
+    "project": "messi-database",
+    "version": "2.0",
+
+    "structure": {
+      "images": "./17_images.json"
+    },
+
+    "ui_config": {
+      "lazy_loading": true,
+      "cdn_ready": true,
+      "format": ["jpg", "png", "webp", "jpeg", "embed"],
+      "max_image_resolution": "4k"
+    },
+
+    "rules": {
+      "no_direct_downloads": true,
+      "use_official_sources_only": true,
+      "prefer_wikimedia": true
+    }
+  }
+}

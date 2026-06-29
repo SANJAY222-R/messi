@@ -1,0 +1,107 @@
+{
+  "project": "messi-database",
+  "version": "2.0",
+  "description": "Central index file for Lionel Messi structured database system",
+
+  "basePath": "/DATA",
+
+  "metadata": {
+    "player": "Lionel Andrés Messi",
+    "createdBy": "sanjay",
+    "yearRange": "1987-2024",
+    "status": "active"
+  },
+
+  "sections": {
+    "personal": {
+      "title": "Personal Information",
+      "file": "/DATA/01_personal.json"
+    },
+    "family": {
+      "title": "Family",
+      "file": "/DATA/02_family.json"
+    },
+    "childhood": {
+      "title": "Childhood",
+      "file": "/DATA/03_childhood.json"
+    },
+    "youthCareer": {
+      "title": "Youth Career",
+      "file": "/DATA/04_youth_career.json"
+    },
+
+    "barcelona": {
+      "title": "FC Barcelona",
+      "file": "/DATA/05_barcelona.json"
+    },
+    "psg": {
+      "title": "Paris Saint-Germain",
+      "file": "/DATA/06_psg.json"
+    },
+    "interMiami": {
+      "title": "Inter Miami",
+      "file": "/DATA/07_inter_miami.json"
+    },
+    "argentina": {
+      "title": "Argentina National Team",
+      "file": "/DATA/08_argentina.json"
+    },
+
+    "statistics": {
+      "title": "Career Statistics",
+      "file": "/DATA/09_statistics.json"
+    },
+    "trophies": {
+      "title": "Trophies",
+      "file": "/DATA/10_trophies.json"
+    },
+    "awards": {
+      "title": "Awards",
+      "file": "/DATA/11_awards.json"
+    },
+    "records": {
+      "title": "Records",
+      "file": "/DATA/12_records.json"
+    },
+    "goals": {
+      "title": "Goals",
+      "file": "/DATA/13_goals.json"
+    },
+    "matches": {
+      "title": "Matches",
+      "file": "/DATA/14_matches.json"
+    },
+    "timeline": {
+      "title": "Timeline",
+      "file": "/DATA/15_timeline.json"
+    },
+
+    "media": {
+      "title": "Media Hub",
+      "file": "/DATA/16_media.json"
+    },
+    "images": {
+      "title": "Images",
+      "file": "/DATA/17_images.json"
+    },
+    "references": {
+      "title": "References",
+      "file": "/DATA/19_references.json"
+    }
+  },
+
+  "uiConfig": {
+    "lazyLoading": true,
+    "imageOptimization": true,
+    "videoEmbedOnly": true,
+    "theme": "cinematic-dark",
+    "animation": "enabled"
+  },
+
+  "rules": {
+    "dataAccess": "use this file as single source of truth",
+    "loadingStrategy": "fetch only required section file",
+    "mediaPolicy": "do not download copyrighted media for public redistribution",
+    "performance": "use lazy loading for images and videos"
+  }
+}

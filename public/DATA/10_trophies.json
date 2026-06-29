@@ -1,0 +1,1383 @@
+{
+  "overview": {
+    "player": "Lionel Messi",
+    "status": "Active",
+    "professional_debut": "2004-10-16",
+    "first_trophy": {
+      "name": "La Liga",
+      "season": "2004-05",
+      "club": "Barcelona"
+    },
+    "latest_trophy": {
+      "name": "Copa América",
+      "year": 2024,
+      "team": "Argentina"
+    },
+    "total_official_trophies": 46,
+    "club_trophies": 39,
+    "international_trophies": 7,
+    "major_club_trophies": {
+      "league_titles": 12,
+      "domestic_cups": 8,
+      "domestic_super_cups": 9,
+      "continental_titles": 4,
+      "continental_super_cups": 3,
+      "club_world_titles": 3
+    },
+    "major_international_trophies": {
+      "fifa_world_cup": 1,
+      "copa_america": 2,
+      "finalissima": 1,
+      "olympic_gold_medal": 1,
+      "fifa_u20_world_cup": 1,
+      "intercontinental_cup_of_champions": 1
+    },
+    "trophies_by_team": {
+      "barcelona": 35,
+      "paris_saint_germain": 3,
+      "inter_miami": 1,
+      "argentina": 7
+    },
+    "captain_trophies": {
+      "barcelona": 2,
+      "inter_miami": 1,
+      "argentina": 4,
+      "total": 7
+    },
+    "finals_played": {
+      "club": 25,
+      "international": 11,
+      "overall": 36
+    },
+    "finals_won": {
+      "club": 19,
+      "international": 6,
+      "overall": 25
+    },
+    "competition_breakdown": {
+      "domestic": 29,
+      "continental": 7,
+      "world": 4,
+      "international": 6
+    },
+    "career_summary": {
+      "most_successful_club": "Barcelona",
+      "most_successful_competition": "La Liga",
+      "most_recent_major_title": "Copa América 2024",
+      "world_cup_titles": 1,
+      "continental_titles": 6,
+      "league_titles": 12
+    }
+  },
+  "barcelona_trophies": {
+    "club": "Barcelona",
+    "period": {
+      "from": "2004-10-16",
+      "to": "2021-08-08"
+    },
+    "matches": 778,
+    "total_trophies": 35,
+    "competition_breakdown": {
+      "la_liga": {
+        "titles": 10,
+        "seasons": [
+          "2004-05",
+          "2005-06",
+          "2008-09",
+          "2009-10",
+          "2010-11",
+          "2012-13",
+          "2014-15",
+          "2015-16",
+          "2017-18",
+          "2018-19"
+        ]
+      },
+      "copa_del_rey": {
+        "titles": 7,
+        "seasons": [
+          "2008-09",
+          "2011-12",
+          "2014-15",
+          "2015-16",
+          "2016-17",
+          "2017-18",
+          "2020-21"
+        ]
+      },
+      "supercopa_de_espana": {
+        "titles": 8,
+        "seasons": [
+          "2005",
+          "2006",
+          "2009",
+          "2010",
+          "2011",
+          "2013",
+          "2016",
+          "2018"
+        ]
+      },
+      "uefa_champions_league": {
+        "titles": 4,
+        "seasons": [
+          "2005-06",
+          "2008-09",
+          "2010-11",
+          "2014-15"
+        ]
+      },
+      "uefa_super_cup": {
+        "titles": 3,
+        "years": [
+          2009,
+          2011,
+          2015
+        ]
+      },
+      "fifa_club_world_cup": {
+        "titles": 3,
+        "years": [
+          2009,
+          2011,
+          2015
+        ]
+      }
+    },
+    "trophy_summary": {
+      "domestic_titles": 25,
+      "european_titles": 7,
+      "world_titles": 3
+    },
+    "historic_achievements": [
+      {
+        "season": "2008-09",
+        "achievement": "Continental treble (La Liga, Copa del Rey, UEFA Champions League)"
+      },
+      {
+        "year": 2009,
+        "achievement": "Historic sextuple under Pep Guardiola"
+      },
+      {
+        "season": "2014-15",
+        "achievement": "Second continental treble in club history"
+      }
+    ],
+    "managers": [
+      {
+        "name": "Frank Rijkaard",
+        "trophies": 5
+      },
+      {
+        "name": "Pep Guardiola",
+        "trophies": 14
+      },
+      {
+        "name": "Tito Vilanova",
+        "trophies": 1
+      },
+      {
+        "name": "Luis Enrique",
+        "trophies": 9
+      },
+      {
+        "name": "Ernesto Valverde",
+        "trophies": 4
+      },
+      {
+        "name": "Ronald Koeman",
+        "trophies": 1
+      },
+      {
+        "name": "Gerardo Martino",
+        "trophies": 1
+      }
+    ],
+    "captaincy": {
+      "captain_from": 2018,
+      "captain_until": 2021,
+      "captain_trophies": 2,
+      "titles_as_captain": [
+        {
+          "competition": "La Liga",
+          "season": "2018-19"
+        },
+        {
+          "competition": "Copa del Rey",
+          "season": "2020-21"
+        }
+      ]
+    },
+    "records": {
+      "most_trophies_by_barcelona_player": 35,
+      "most_la_liga_titles_by_foreign_player": 10,
+      "most_copa_del_rey_titles_with_barcelona": 7,
+      "most_official_matches_for_barcelona": 778,
+      "most_goals_for_barcelona": 672,
+      "most_assists_for_barcelona": 303
+    }
+  },
+  "paris_saint_germain_trophies": {
+    "club": "Paris Saint-Germain",
+    "period": {
+      "from": "2021-08-10",
+      "to": "2023-06-30"
+    },
+    "matches": 75,
+    "goals": 32,
+    "assists": 35,
+    "total_trophies": 3,
+    "competition_breakdown": {
+      "ligue_1": {
+        "titles": 2,
+        "seasons": [
+          "2021-22",
+          "2022-23"
+        ]
+      },
+      "trophee_des_champions": {
+        "titles": 1,
+        "season": "2022-23",
+        "date_won": "2022-07-31",
+        "opponent": "Nantes",
+        "result": "4-0",
+        "venue": "Bloomfield Stadium, Tel Aviv, Israel",
+        "messi_statistics": {
+          "minutes": 90,
+          "goals": 1,
+          "assists": 0,
+          "player_of_the_match": false
+        }
+      },
+      "coupe_de_france": {
+        "titles": 0,
+        "best_result": "Round of 16"
+      },
+      "uefa_champions_league": {
+        "titles": 0,
+        "best_result": "Round of 16 (2021-22)",
+        "best_result_2": "Round of 16 (2022-23)"
+      }
+    },
+    "season_summary": [
+      {
+        "season": "2021-22",
+        "manager": "Mauricio Pochettino",
+        "trophies": [
+          "Ligue 1"
+        ]
+      },
+      {
+        "season": "2022-23",
+        "manager": "Christophe Galtier",
+        "trophies": [
+          "Trophée des Champions",
+          "Ligue 1"
+        ]
+      }
+    ],
+    "trophy_statistics": {
+      "domestic_league_titles": 2,
+      "domestic_super_cups": 1,
+      "domestic_cup_titles": 0,
+      "continental_titles": 0,
+      "world_titles": 0
+    },
+    "historic_milestones": [
+      {
+        "year": 2022,
+        "achievement": "Won first Ligue 1 title."
+      },
+      {
+        "year": 2022,
+        "achievement": "Scored in the Trophée des Champions final against Nantes."
+      },
+      {
+        "year": 2023,
+        "achievement": "Won second consecutive Ligue 1 title."
+      }
+    ],
+    "records": {
+      "total_official_trophies": 3,
+      "ligue_1_titles": 2,
+      "trophee_des_champions_titles": 1,
+      "champions_league_titles": 0,
+      "club_world_titles": 0,
+      "captain_trophies": 0
+    }
+  },
+  "inter_miami_trophies": {
+    "club": "Inter Miami CF",
+    "period": {
+      "from": "2023-07-15",
+      "to": "Present"
+    },
+    "matches": 60,
+    "goals": 63,
+    "assists": 26,
+    "total_trophies": 2,
+    "competition_breakdown": {
+      "leagues_cup": {
+        "titles": 1,
+        "season": "2023",
+        "date_won": "2023-08-19",
+        "opponent": "Nashville SC",
+        "venue": "GEODIS Park, Nashville",
+        "result": "1-1 (10-9 penalties)",
+        "messi_statistics": {
+          "minutes": 120,
+          "goals": 1,
+          "assists": 0,
+          "penalty_scored": true,
+          "captain": true,
+          "player_of_the_match": true
+        },
+        "awards": [
+          "Player of the Tournament",
+          "Top Scorer"
+        ]
+      },
+      "mls_supporters_shield": {
+        "titles": 1,
+        "season": "2024",
+        "date_won": "2024-10-02",
+        "description": "Awarded for finishing with the best regular-season record in Major League Soccer.",
+        "messi_statistics": {
+          "captain": true,
+          "goals": 20,
+          "assists": 16
+        }
+      },
+      "major_league_soccer": {
+        "titles": 0,
+        "best_finish": "Playoffs"
+      },
+      "concacaf_champions_cup": {
+        "titles": 0,
+        "best_finish": "Quarter-finals"
+      },
+      "us_open_cup": {
+        "titles": 0,
+        "best_finish": "Runner-up (did not play the final)"
+      }
+    },
+    "season_summary": [
+      {
+        "season": "2023",
+        "manager": "Gerardo 'Tata' Martino",
+        "trophies": [
+          "Leagues Cup"
+        ]
+      },
+      {
+        "season": "2024",
+        "manager": "Gerardo 'Tata' Martino",
+        "trophies": [
+          "MLS Supporters' Shield"
+        ]
+      }
+    ],
+    "captain_statistics": {
+      "captain_since": 2023,
+      "captain_trophies": 2,
+      "titles_as_captain": [
+        "2023 Leagues Cup",
+        "2024 MLS Supporters' Shield"
+      ]
+    },
+    "historic_achievements": [
+      {
+        "year": 2023,
+        "achievement": "Won Inter Miami's first-ever official trophy."
+      },
+      {
+        "year": 2023,
+        "achievement": "Named Leagues Cup Best Player."
+      },
+      {
+        "year": 2023,
+        "achievement": "Finished as Leagues Cup Top Scorer."
+      },
+      {
+        "year": 2024,
+        "achievement": "Led Inter Miami to its first MLS Supporters' Shield."
+      },
+      {
+        "year": 2024,
+        "achievement": "Won MLS Most Valuable Player (MVP)."
+      }
+    ],
+    "records": {
+      "official_trophies": 2,
+      "captain_trophies": 2,
+      "club_first_trophy": "Leagues Cup 2023",
+      "club_first_mls_supporters_shield": "2024",
+      "international_titles_with_club": 0,
+      "continental_titles": 0,
+      "world_titles": 0
+    }
+  },
+  "argentina_trophies": {
+    "team": "Argentina",
+    "period": {
+      "from": "2004-06-29",
+      "to": "Present"
+    },
+    "senior_debut": "2005-08-17",
+    "total_official_trophies": 7,
+    "competition_breakdown": {
+      "fifa_world_cup": {
+        "titles": 1,
+        "years": [
+          2022
+        ]
+      },
+      "copa_america": {
+        "titles": 2,
+        "years": [
+          2021,
+          2024
+        ]
+      },
+      "finalissima": {
+        "titles": 1,
+        "years": [
+          2022
+        ]
+      },
+      "olympic_games": {
+        "titles": 1,
+        "years": [
+          2008
+        ]
+      },
+      "fifa_u20_world_cup": {
+        "titles": 1,
+        "years": [
+          2005
+        ]
+      },
+      "south_american_u20_championship": {
+        "titles": 1,
+        "years": [
+          2005
+        ]
+      }
+    },
+    "trophies": [
+      {
+        "competition": "FIFA U-20 World Cup",
+        "year": 2005,
+        "host": "Netherlands",
+        "result": "Champions",
+        "opponent_in_final": "Nigeria",
+        "final_score": "2-1",
+        "captain": false,
+        "awards": [
+          "Golden Ball",
+          "Golden Boot"
+        ]
+      },
+      {
+        "competition": "South American U-20 Championship",
+        "year": 2005,
+        "host": "Colombia",
+        "result": "Champions"
+      },
+      {
+        "competition": "Olympic Games",
+        "year": 2008,
+        "host": "China",
+        "result": "Gold Medal",
+        "opponent_in_final": "Nigeria",
+        "final_score": "1-0",
+        "captain": false
+      },
+      {
+        "competition": "Copa América",
+        "year": 2021,
+        "host": "Brazil",
+        "result": "Champions",
+        "opponent_in_final": "Brazil",
+        "final_score": "1-0",
+        "captain": true,
+        "awards": [
+          "Player of the Tournament",
+          "Golden Boot"
+        ]
+      },
+      {
+        "competition": "Finalissima",
+        "year": 2022,
+        "host": "England",
+        "result": "Champions",
+        "opponent": "Italy",
+        "final_score": "3-0",
+        "captain": true,
+        "player_of_the_match": true
+      },
+      {
+        "competition": "FIFA World Cup",
+        "year": 2022,
+        "host": "Qatar",
+        "result": "Champions",
+        "opponent_in_final": "France",
+        "final_score": "3-3 (4-2 penalties)",
+        "captain": true,
+        "awards": [
+          "Golden Ball"
+        ]
+      },
+      {
+        "competition": "Copa América",
+        "year": 2024,
+        "host": "United States",
+        "result": "Champions",
+        "opponent_in_final": "Colombia",
+        "final_score": "1-0 (AET)",
+        "captain": true
+      }
+    ],
+    "captain_statistics": {
+      "captain_since": 2011,
+      "trophies_as_captain": 4,
+      "titles": [
+        "Copa América 2021",
+        "Finalissima 2022",
+        "FIFA World Cup 2022",
+        "Copa América 2024"
+      ]
+    },
+    "finals_record": {
+      "finals_played": 11,
+      "finals_won": 7,
+      "finals_lost": 4
+    },
+    "historic_achievements": [
+      "Ended Argentina's 28-year trophy drought by winning the 2021 Copa América.",
+      "Captained Argentina to the 2022 FIFA World Cup title.",
+      "Became the first player to win two FIFA World Cup Golden Balls.",
+      "Led Argentina to back-to-back Copa América titles (2021 and 2024).",
+      "Won every major international trophy available with Argentina."
+    ],
+    "records": {
+      "official_titles": 7,
+      "senior_titles": 4,
+      "youth_titles": 3,
+      "captain_titles": 4,
+      "world_cup_titles": 1,
+      "copa_america_titles": 2,
+      "finalissima_titles": 1,
+      "olympic_gold_medals": 1,
+      "u20_world_cups": 1
+    }
+  },
+  "finals_and_medals": {
+    "overview": {
+      "official_finals_played": 36,
+      "official_finals_won": 25,
+      "official_finals_lost": 11,
+      "win_percentage": 69.4
+    },
+    "club_finals": {
+      "played": 25,
+      "won": 19,
+      "lost": 6,
+      "by_competition": {
+        "uefa_champions_league": {
+          "played": 4,
+          "won": 4,
+          "years": [
+            2006,
+            2009,
+            2011,
+            2015
+          ]
+        },
+        "copa_del_rey": {
+          "played": 9,
+          "won": 7,
+          "runner_up": 2,
+          "years_won": [
+            2009,
+            2012,
+            2015,
+            2016,
+            2017,
+            2018,
+            2021
+          ]
+        },
+        "supercopa_de_espana": {
+          "played": 11,
+          "won": 8,
+          "runner_up": 3
+        },
+        "uefa_super_cup": {
+          "played": 3,
+          "won": 3
+        },
+        "fifa_club_world_cup": {
+          "played": 3,
+          "won": 3
+        },
+        "trophee_des_champions": {
+          "played": 1,
+          "won": 1
+        },
+        "leagues_cup": {
+          "played": 1,
+          "won": 1
+        }
+      }
+    },
+    "international_finals": {
+      "played": 11,
+      "won": 6,
+      "lost": 5,
+      "by_competition": {
+        "fifa_world_cup": {
+          "played": 2,
+          "won": 1,
+          "runner_up": 1,
+          "years": [
+            2014,
+            2022
+          ]
+        },
+        "copa_america": {
+          "played": 5,
+          "won": 2,
+          "runner_up": 3,
+          "years": [
+            2007,
+            2015,
+            2016,
+            2021,
+            2024
+          ]
+        },
+        "finalissima": {
+          "played": 1,
+          "won": 1,
+          "year": 2022
+        },
+        "olympic_games": {
+          "played": 1,
+          "won": 1,
+          "year": 2008
+        },
+        "fifa_u20_world_cup": {
+          "played": 1,
+          "won": 1,
+          "year": 2005
+        },
+        "south_american_u20_championship": {
+          "played": 1,
+          "won": 1,
+          "year": 2005
+        }
+      }
+    },
+    "medals": {
+      "gold": {
+        "count": 25,
+        "competitions": [
+          "La Liga",
+          "Ligue 1",
+          "MLS Supporters' Shield",
+          "Copa del Rey",
+          "Supercopa de España",
+          "UEFA Champions League",
+          "UEFA Super Cup",
+          "FIFA Club World Cup",
+          "Trophée des Champions",
+          "Leagues Cup",
+          "FIFA World Cup",
+          "Copa América",
+          "Finalissima",
+          "Olympic Games",
+          "FIFA U-20 World Cup",
+          "South American U-20 Championship"
+        ]
+      },
+      "silver": {
+        "count": 11,
+        "competitions": [
+          "FIFA World Cup",
+          "Copa América",
+          "Copa del Rey",
+          "Supercopa de España"
+        ]
+      }
+    },
+    "captain_in_finals": {
+      "finals_played": 11,
+      "finals_won": 7,
+      "major_titles": [
+        "Copa América 2021",
+        "Finalissima 2022",
+        "FIFA World Cup 2022",
+        "Leagues Cup 2023",
+        "MLS Supporters' Shield 2024",
+        "Copa América 2024"
+      ]
+    },
+    "special_records": {
+      "champions_league_finals_won": 4,
+      "club_world_cup_finals_won": 3,
+      "world_cup_final_goals": 2,
+      "copa_america_final_goals": 0,
+      "major_final_player_of_the_match_awards": 5,
+      "world_cup_final_player_of_the_match": true
+    }
+  },
+  "individual_awards": {
+    "overview": {
+      "total_major_individual_awards": 68,
+      "first_major_award": {
+        "award": "FIFA U-20 World Cup Golden Ball",
+        "year": 2005
+      },
+      "latest_major_award": {
+        "award": "MLS Most Valuable Player",
+        "year": 2024
+      }
+    },
+    "ballon_dor": {
+      "titles": 8,
+      "years": [
+        2009,
+        2010,
+        2011,
+        2012,
+        2015,
+        2019,
+        2021,
+        2023
+      ],
+      "record": "Most Ballon d'Or awards in football history"
+    },
+    "the_best_fifa_mens_player": {
+      "titles": 3,
+      "years": [
+        2019,
+        2022,
+        2023
+      ],
+      "record": "Joint-most until 2023; later surpassed by subsequent editions"
+    },
+    "fifa_world_player_of_the_year": {
+      "titles": 1,
+      "years": [
+        2009
+      ]
+    },
+    "fifa_ballon_dor": {
+      "titles": 4,
+      "years": [
+        2010,
+        2011,
+        2012,
+        2015
+      ]
+    },
+    "european_golden_shoe": {
+      "titles": 6,
+      "seasons": [
+        "2009-10",
+        "2011-12",
+        "2012-13",
+        "2016-17",
+        "2017-18",
+        "2018-19"
+      ],
+      "record": "Most European Golden Shoes"
+    },
+    "pichichi_trophy": {
+      "titles": 8,
+      "seasons": [
+        "2009-10",
+        "2011-12",
+        "2012-13",
+        "2016-17",
+        "2017-18",
+        "2018-19",
+        "2019-20",
+        "2020-21"
+      ],
+      "record": "Most Pichichi Trophy awards"
+    },
+    "champions_league_top_scorer": {
+      "titles": 6,
+      "seasons": [
+        "2008-09",
+        "2009-10",
+        "2010-11",
+        "2011-12",
+        "2014-15",
+        "2018-19"
+      ]
+    },
+    "fifa_world_cup": {
+      "golden_ball": {
+        "titles": 2,
+        "years": [
+          2014,
+          2022
+        ],
+        "record": "Only player to win two FIFA World Cup Golden Balls"
+      }
+    },
+    "copa_america": {
+      "golden_ball": {
+        "titles": 2,
+        "years": [
+          2015,
+          2021
+        ]
+      },
+      "golden_boot": {
+        "titles": 1,
+        "years": [
+          2021
+        ]
+      }
+    },
+    "fifa_club_world_cup": {
+      "golden_ball": {
+        "titles": 2,
+        "years": [
+          2009,
+          2011
+        ]
+      }
+    },
+    "olympic_games": {
+      "gold_medal": {
+        "titles": 1,
+        "year": 2008
+      }
+    },
+    "fifa_u20_world_cup": {
+      "golden_ball": {
+        "titles": 1,
+        "year": 2005
+      },
+      "golden_boot": {
+        "titles": 1,
+        "year": 2005
+      }
+    },
+    "laureus_world_sports_awards": {
+      "sportsman_of_the_year": {
+        "titles": 2,
+        "years": [
+          2020,
+          2023
+        ]
+      }
+    },
+    "mls": {
+      "most_valuable_player": {
+        "titles": 1,
+        "years": [
+          2024
+        ]
+      },
+      "best_xi": {
+        "titles": 1,
+        "years": [
+          2024
+        ]
+      }
+    },
+    "leagues_cup": {
+      "player_of_the_tournament": {
+        "titles": 1,
+        "year": 2023
+      },
+      "golden_boot": {
+        "titles": 1,
+        "year": 2023
+      }
+    },
+    "records": {
+      "ballon_dor": 8,
+      "fifa_world_player_family": 8,
+      "the_best_fifa": 3,
+      "golden_shoe": 6,
+      "pichichi": 8,
+      "world_cup_golden_ball": 2,
+      "club_world_cup_golden_ball": 2,
+      "champions_league_top_scorer": 6
+    }
+  },
+  "trophy_records_and_summary": {
+    "career_summary": {
+      "official_trophies": 46,
+      "club_trophies": 39,
+      "international_trophies": 7,
+      "clubs_represented": 3,
+      "national_team": "Argentina",
+      "career_span": "2004–Present"
+    },
+    "trophy_breakdown": {
+      "barcelona": 35,
+      "paris_saint_germain": 3,
+      "inter_miami": 1,
+      "argentina": 7
+    },
+    "competition_totals": {
+      "la_liga": 10,
+      "ligue_1": 2,
+      "mls_supporters_shield": 1,
+      "copa_del_rey": 7,
+      "supercopa_de_espana": 8,
+      "trophee_des_champions": 1,
+      "uefa_champions_league": 4,
+      "uefa_super_cup": 3,
+      "fifa_club_world_cup": 3,
+      "leagues_cup": 1,
+      "fifa_world_cup": 1,
+      "copa_america": 2,
+      "finalissima": 1,
+      "olympic_games": 1,
+      "fifa_u20_world_cup": 1,
+      "south_american_u20_championship": 1
+    },
+    "major_career_milestones": [
+      {
+        "year": 2005,
+        "milestone": "Won first professional trophy (La Liga)."
+      },
+      {
+        "year": 2009,
+        "milestone": "Completed the historic sextuple with Barcelona."
+      },
+      {
+        "year": 2015,
+        "milestone": "Won second continental treble with Barcelona."
+      },
+      {
+        "year": 2021,
+        "milestone": "Won first senior international trophy (Copa América)."
+      },
+      {
+        "year": 2022,
+        "milestone": "Won the FIFA World Cup with Argentina."
+      },
+      {
+        "year": 2023,
+        "milestone": "Won Inter Miami's first-ever official trophy (Leagues Cup)."
+      },
+      {
+        "year": 2024,
+        "milestone": "Won MLS Supporters' Shield and Copa América."
+      }
+    ],
+    "captain_honours": {
+      "barcelona": 2,
+      "inter_miami": 1,
+      "argentina": 4,
+      "total": 7
+    },
+    "historic_records": {
+      "most_trophies_with_barcelona": 35,
+      "first_player_to_win_two_world_cup_golden_balls": true,
+      "only_player_with": [
+        "FIFA World Cup",
+        "Copa América",
+        "Finalissima",
+        "Olympic Gold Medal",
+        "FIFA U-20 World Cup"
+      ],
+      "continental_trebles": 2,
+      "club_sextuples": 1,
+      "champions_league_titles": 4,
+      "league_titles": 12
+    },
+    "records": [
+      {
+        "title": "Most trophies won with Barcelona",
+        "value": 35
+      },
+      {
+        "title": "Most Ballon d'Or awards",
+        "value": 8
+      },
+      {
+        "title": "Most European Golden Shoes",
+        "value": 6
+      },
+      {
+        "title": "Most Pichichi Trophy awards",
+        "value": 8
+      },
+      {
+        "title": "Only player to win two FIFA World Cup Golden Balls",
+        "value": 2
+      },
+      {
+        "title": "Most Copa América appearances",
+        "value": 7
+      },
+      {
+        "title": "Argentina's all-time leading appearance maker",
+        "value": true
+      },
+      {
+        "title": "Argentina's all-time top scorer",
+        "value": true
+      }
+    ],
+    "legacy": {
+      "recognized_as": [
+        "One of the greatest footballers in history",
+        "Most decorated Barcelona player",
+        "Argentina World Cup-winning captain",
+        "Eight-time Ballon d'Or winner",
+        "Leader of the 2009 sextuple-winning Barcelona team",
+        "Leader of Argentina's golden generation"
+      ],
+      "career_status": "Active",
+      "last_updated": "After Copa América 2024"
+    }
+  },
+  "season_by_season_trophies": [
+    {
+      "season": "2004-05",
+      "club": "Barcelona",
+      "manager": "Frank Rijkaard",
+      "trophies": [
+        {
+          "competition": "La Liga",
+          "result": "Champions"
+        }
+      ],
+      "total_trophies": 1
+    },
+    {
+      "season": "2005-06",
+      "club": "Barcelona",
+      "manager": "Frank Rijkaard",
+      "trophies": [
+        {
+          "competition": "La Liga",
+          "result": "Champions"
+        },
+        {
+          "competition": "UEFA Champions League",
+          "result": "Champions"
+        },
+        {
+          "competition": "Supercopa de España",
+          "result": "Champions"
+        }
+      ],
+      "total_trophies": 3
+    },
+    {
+      "season": "2006-07",
+      "club": "Barcelona",
+      "manager": "Frank Rijkaard",
+      "trophies": [
+        {
+          "competition": "Supercopa de España",
+          "result": "Champions"
+        }
+      ],
+      "total_trophies": 1
+    },
+    {
+      "season": "2007-08",
+      "club": "Barcelona",
+      "manager": "Frank Rijkaard",
+      "trophies": [],
+      "total_trophies": 0
+    },
+    {
+      "season": "2008-09",
+      "club": "Barcelona",
+      "manager": "Pep Guardiola",
+      "trophies": [
+        {
+          "competition": "La Liga",
+          "result": "Champions"
+        },
+        {
+          "competition": "Copa del Rey",
+          "result": "Champions"
+        },
+        {
+          "competition": "UEFA Champions League",
+          "result": "Champions"
+        }
+      ],
+      "special_achievement": "Continental Treble",
+      "total_trophies": 3
+    },
+    {
+      "season": "2009-10",
+      "club": "Barcelona",
+      "manager": "Pep Guardiola",
+      "trophies": [
+        {
+          "competition": "La Liga",
+          "result": "Champions"
+        },
+        {
+          "competition": "Supercopa de España",
+          "result": "Champions"
+        },
+        {
+          "competition": "UEFA Super Cup",
+          "result": "Champions"
+        },
+        {
+          "competition": "FIFA Club World Cup",
+          "result": "Champions"
+        }
+      ],
+      "special_achievement": "Completed Historic Sextuple (2009)",
+      "total_trophies": 4
+    },
+    {
+      "season": "2010-11",
+      "club": "Barcelona",
+      "manager": "Pep Guardiola",
+      "trophies": [
+        {
+          "competition": "La Liga",
+          "result": "Champions"
+        },
+        {
+          "competition": "UEFA Champions League",
+          "result": "Champions"
+        },
+        {
+          "competition": "Supercopa de España",
+          "result": "Champions"
+        }
+      ],
+      "total_trophies": 3
+    },
+    {
+      "season": "2011-12",
+      "club": "Barcelona",
+      "manager": "Pep Guardiola",
+      "trophies": [
+        {
+          "competition": "Copa del Rey",
+          "result": "Champions"
+        },
+        {
+          "competition": "UEFA Super Cup",
+          "result": "Champions"
+        },
+        {
+          "competition": "FIFA Club World Cup",
+          "result": "Champions"
+        },
+        {
+          "competition": "Supercopa de España",
+          "result": "Champions"
+        }
+      ],
+      "total_trophies": 4
+    },
+    {
+      "season": "2012-13",
+      "club": "Barcelona",
+      "manager": "Tito Vilanova",
+      "trophies": [
+        {
+          "competition": "La Liga",
+          "result": "Champions"
+        }
+      ],
+      "total_trophies": 1
+    },
+    {
+      "season": "2013-14",
+      "club": "Barcelona",
+      "manager": "Gerardo Martino",
+      "trophies": [
+        {
+          "competition": "Supercopa de España",
+          "result": "Champions"
+        }
+      ],
+      "total_trophies": 1
+    },
+    {
+      "season": "2014-15",
+      "club": "Barcelona",
+      "manager": "Luis Enrique",
+      "trophies": [
+        {
+          "competition": "La Liga",
+          "result": "Champions"
+        },
+        {
+          "competition": "Copa del Rey",
+          "result": "Champions"
+        },
+        {
+          "competition": "UEFA Champions League",
+          "result": "Champions"
+        }
+      ],
+      "special_achievement": "Second Continental Treble",
+      "total_trophies": 3
+    },
+    {
+      "season": "2015-16",
+      "club": "Barcelona",
+      "manager": "Luis Enrique",
+      "trophies": [
+        {
+          "competition": "UEFA Super Cup",
+          "result": "Champions"
+        },
+        {
+          "competition": "FIFA Club World Cup",
+          "result": "Champions"
+        },
+        {
+          "competition": "La Liga",
+          "result": "Champions"
+        },
+        {
+          "competition": "Copa del Rey",
+          "result": "Champions"
+        }
+      ],
+      "total_trophies": 4
+    },
+    {
+      "season": "2016-17",
+      "club": "Barcelona",
+      "manager": "Luis Enrique",
+      "trophies": [
+        {
+          "competition": "Supercopa de España",
+          "result": "Champions"
+        },
+        {
+          "competition": "Copa del Rey",
+          "result": "Champions"
+        }
+      ],
+      "total_trophies": 2
+    },
+    {
+      "season": "2017-18",
+      "club": "Barcelona",
+      "manager": "Ernesto Valverde",
+      "trophies": [
+        {
+          "competition": "La Liga",
+          "result": "Champions"
+        },
+        {
+          "competition": "Copa del Rey",
+          "result": "Champions"
+        }
+      ],
+      "total_trophies": 2
+    },
+    {
+      "season": "2018-19",
+      "club": "Barcelona",
+      "manager": "Ernesto Valverde",
+      "trophies": [
+        {
+          "competition": "Supercopa de España",
+          "result": "Champions"
+        },
+        {
+          "competition": "La Liga",
+          "result": "Champions"
+        }
+      ],
+      "total_trophies": 2
+    },
+    {
+      "season": "2019-20",
+      "club": "Barcelona",
+      "manager": "Ernesto Valverde / Quique Setién",
+      "trophies": [],
+      "total_trophies": 0
+    },
+    {
+      "season": "2020-21",
+      "club": "Barcelona",
+      "manager": "Ronald Koeman",
+      "trophies": [
+        {
+          "competition": "Copa del Rey",
+          "result": "Champions"
+        }
+      ],
+      "total_trophies": 1
+    },
+    {
+      "season": "2021-22",
+      "club": "Paris Saint-Germain",
+      "manager": "Mauricio Pochettino",
+      "trophies": [
+        {
+          "competition": "Ligue 1",
+          "result": "Champions"
+        }
+      ],
+      "total_trophies": 1
+    },
+    {
+      "season": "2022-23",
+      "club": "Paris Saint-Germain",
+      "manager": "Christophe Galtier",
+      "trophies": [
+        {
+          "competition": "Trophée des Champions",
+          "result": "Champions"
+        },
+        {
+          "competition": "Ligue 1",
+          "result": "Champions"
+        }
+      ],
+      "total_trophies": 2
+    },
+    {
+      "season": "2023",
+      "club": "Inter Miami",
+      "manager": "Gerardo 'Tata' Martino",
+      "trophies": [
+        {
+          "competition": "Leagues Cup",
+          "result": "Champions"
+        }
+      ],
+      "total_trophies": 1
+    },
+    {
+      "season": "2024",
+      "club": "Inter Miami",
+      "manager": "Gerardo 'Tata' Martino",
+      "trophies": [
+        {
+          "competition": "MLS Supporters' Shield",
+          "result": "Champions"
+        },
+        {
+          "competition": "Copa América",
+          "team": "Argentina",
+          "result": "Champions"
+        }
+      ],
+      "total_trophies": 2
+    }
+  ]
+}

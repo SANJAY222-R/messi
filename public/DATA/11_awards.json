@@ -1,0 +1,1311 @@
+{
+  "overview": {
+    "player": "Lionel Andrés Messi",
+    "status": "Active",
+    "career_span": {
+      "professional_debut": "2004-10-16",
+      "latest_update": "2024-12-31"
+    },
+    "major_awards_summary": {
+      "ballon_dor": 8,
+      "fifa_world_player_of_the_year": 1,
+      "fifa_ballon_dor": 4,
+      "the_best_fifa_mens_player": 3,
+      "european_golden_shoe": 6,
+      "pichichi_trophy": 8,
+      "uefa_best_player_in_europe": 3,
+      "uefa_club_footballer_of_the_year": 1,
+      "champions_league_top_scorer": 6,
+      "world_cup_golden_ball": 2,
+      "copa_america_best_player": 2,
+      "copa_america_top_scorer": 1,
+      "club_world_cup_golden_ball": 2,
+      "laureus_world_sportsman_of_the_year": 2,
+      "fifpro_world11": 17
+    },
+    "award_categories": {
+      "global_individual_awards": [
+        "Ballon d'Or",
+        "The Best FIFA Men's Player",
+        "FIFA World Player of the Year",
+        "FIFA Ballon d'Or"
+      ],
+      "continental_awards": [
+        "UEFA Best Player in Europe",
+        "UEFA Club Footballer of the Year"
+      ],
+      "league_awards": [
+        "European Golden Shoe",
+        "Pichichi Trophy",
+        "La Liga Best Player",
+        "La Liga Best Forward",
+        "MLS Most Valuable Player"
+      ],
+      "international_tournament_awards": [
+        "FIFA World Cup Golden Ball",
+        "Copa América Best Player",
+        "Copa América Golden Boot",
+        "Finalissima Player of the Match"
+      ],
+      "club_tournament_awards": [
+        "Champions League Top Scorer",
+        "Club World Cup Golden Ball",
+        "Leagues Cup Best Player",
+        "Leagues Cup Golden Boot"
+      ],
+      "youth_awards": [
+        "FIFA U-20 World Cup Golden Ball",
+        "FIFA U-20 World Cup Golden Boot"
+      ]
+    },
+    "first_major_award": {
+      "award": "FIFA U-20 World Cup Golden Ball",
+      "year": 2005,
+      "competition": "FIFA U-20 World Cup"
+    },
+    "latest_major_award": {
+      "award": "MLS Most Valuable Player",
+      "year": 2024
+    },
+    "career_recognition": {
+      "recognized_as": [
+        "Record eight-time Ballon d'Or winner",
+        "Record six-time European Golden Shoe winner",
+        "Only player to win two FIFA World Cup Golden Balls",
+        "One of the most awarded footballers in history"
+      ]
+    }
+  },
+  "ballon_dor": {
+    "overview": {
+      "total_titles": 8,
+      "record_holder": true,
+      "first_win": 2009,
+      "latest_win": 2023,
+      "first_nomination": 2006,
+      "career_nominations": 16
+    },
+    "titles": [
+      {
+        "year": 2009,
+        "club": "Barcelona",
+        "age": 22,
+        "award": "Ballon d'Or"
+      },
+      {
+        "year": 2010,
+        "club": "Barcelona",
+        "age": 23,
+        "award": "FIFA Ballon d'Or"
+      },
+      {
+        "year": 2011,
+        "club": "Barcelona",
+        "age": 24,
+        "award": "FIFA Ballon d'Or"
+      },
+      {
+        "year": 2012,
+        "club": "Barcelona",
+        "age": 25,
+        "award": "FIFA Ballon d'Or"
+      },
+      {
+        "year": 2015,
+        "club": "Barcelona",
+        "age": 28,
+        "award": "FIFA Ballon d'Or"
+      },
+      {
+        "year": 2019,
+        "club": "Barcelona",
+        "age": 32,
+        "award": "Ballon d'Or"
+      },
+      {
+        "year": 2021,
+        "club": "Paris Saint-Germain",
+        "age": 34,
+        "award": "Ballon d'Or"
+      },
+      {
+        "year": 2023,
+        "club": "Inter Miami",
+        "age": 36,
+        "award": "Ballon d'Or"
+      }
+    ],
+    "top_three_finishes": [
+      {
+        "year": 2007,
+        "position": 3
+      },
+      {
+        "year": 2008,
+        "position": 2
+      },
+      {
+        "year": 2009,
+        "position": 1
+      },
+      {
+        "year": 2010,
+        "position": 1
+      },
+      {
+        "year": 2011,
+        "position": 1
+      },
+      {
+        "year": 2012,
+        "position": 1
+      },
+      {
+        "year": 2013,
+        "position": 2
+      },
+      {
+        "year": 2014,
+        "position": 2
+      },
+      {
+        "year": 2015,
+        "position": 1
+      },
+      {
+        "year": 2016,
+        "position": 2
+      },
+      {
+        "year": 2017,
+        "position": 2
+      },
+      {
+        "year": 2018,
+        "position": 5
+      },
+      {
+        "year": 2019,
+        "position": 1
+      },
+      {
+        "year": 2021,
+        "position": 1
+      },
+      {
+        "year": 2023,
+        "position": 1
+      }
+    ],
+    "timeline": [
+      {
+        "period": "2009",
+        "titles": 1
+      },
+      {
+        "period": "2010-2012",
+        "titles": 3,
+        "achievement": "Three consecutive FIFA Ballon d'Or awards"
+      },
+      {
+        "period": "2015",
+        "titles": 1
+      },
+      {
+        "period": "2019",
+        "titles": 1
+      },
+      {
+        "period": "2021",
+        "titles": 1
+      },
+      {
+        "period": "2023",
+        "titles": 1
+      }
+    ],
+    "records": {
+      "most_ballon_dor_titles": 8,
+      "youngest_four_time_winner": true,
+      "only_player_to_win_ballon_dor_in_three_decades": true,
+      "largest_gap_between_first_and_last_title_years": 14,
+      "consecutive_titles": 4,
+      "most_fifa_ballon_dor_titles": 4
+    },
+    "statistics": {
+      "wins_with_barcelona": 7,
+      "wins_with_paris_saint_germain": 1,
+      "wins_with_inter_miami": 1,
+      "wins_as_world_cup_champion": 1,
+      "wins_before_world_cup": 7,
+      "wins_after_world_cup": 1
+    },
+    "career_highlights": [
+      "Won his first Ballon d'Or in 2009 after Barcelona's historic sextuple season.",
+      "Won four consecutive Ballon d'Or/FIFA Ballon d'Or awards from 2009 to 2012.",
+      "Won his eighth Ballon d'Or in 2023 after captaining Argentina to the 2022 FIFA World Cup title.",
+      "Holds the all-time record with eight Ballon d'Or awards."
+    ]
+  },
+  "fifa_awards": {
+    "overview": {
+      "total_major_fifa_awards": 36,
+      "first_fifa_award": 2005,
+      "latest_fifa_award": 2023
+    },
+    "fifa_world_player_of_the_year": {
+      "titles": 1,
+      "years": [
+        2009
+      ],
+      "history": [
+        {
+          "year": 2007,
+          "position": 3
+        },
+        {
+          "year": 2008,
+          "position": 2
+        },
+        {
+          "year": 2009,
+          "position": 1
+        }
+      ]
+    },
+    "fifa_ballon_dor": {
+      "titles": 4,
+      "years": [
+        2010,
+        2011,
+        2012,
+        2015
+      ],
+      "record": "Most FIFA Ballon d'Or titles"
+    },
+    "the_best_fifa_mens_player": {
+      "titles": 3,
+      "years": [
+        2019,
+        2022,
+        2023
+      ],
+      "runner_up": [
+        2016,
+        2017,
+        2021
+      ]
+    },
+    "fifa_fifpro_world11": {
+      "appearances": 17,
+      "years": [
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "record": "Most selections in FIFA FIFPRO World 11 history"
+    },
+    "fifa_world_cup_awards": {
+      "golden_ball": {
+        "titles": 2,
+        "years": [
+          2014,
+          2022
+        ],
+        "record": "Only player to win two FIFA World Cup Golden Balls"
+      },
+      "silver_boot": {
+        "titles": 1,
+        "year": 2022
+      },
+      "dream_team": {
+        "appearances": 2,
+        "years": [
+          2014,
+          2022
+        ]
+      },
+      "player_of_the_match": {
+        "awards": 11,
+        "record": "Most FIFA World Cup Player of the Match awards"
+      }
+    },
+    "fifa_club_world_cup": {
+      "golden_ball": {
+        "titles": 2,
+        "years": [
+          2009,
+          2011
+        ]
+      },
+      "silver_ball": {
+        "titles": 1,
+        "year": 2015
+      }
+    },
+    "fifa_u20_world_cup": {
+      "golden_ball": {
+        "titles": 1,
+        "year": 2005
+      },
+      "golden_boot": {
+        "titles": 1,
+        "year": 2005,
+        "goals": 6
+      }
+    },
+    "records": {
+      "most_fifa_world_cup_golden_balls": 2,
+      "most_fifpro_world11_selections": 17,
+      "most_fifa_ballon_dor_titles": 4,
+      "most_world_cup_player_of_the_match_awards": 11,
+      "only_player_with_two_world_cup_golden_balls": true
+    },
+    "career_highlights": [
+      "Won FIFA World Player of the Year in its final edition (2009).",
+      "Won four FIFA Ballon d'Or awards between 2010 and 2015.",
+      "Won The Best FIFA Men's Player three times.",
+      "Selected to the FIFA FIFPRO World 11 a record 17 consecutive times (2007–2023).",
+      "Only footballer to win two FIFA World Cup Golden Ball awards.",
+      "Won both the Golden Ball and Golden Boot at the 2005 FIFA U-20 World Cup."
+    ]
+  },
+  "uefa_awards": {
+    "overview": {
+      "total_major_uefa_awards": 35,
+      "first_uefa_award": 2009,
+      "latest_uefa_award": 2019
+    },
+    "uefa_best_player_in_europe": {
+      "titles": 3,
+      "years": [
+        2011,
+        2015,
+        2019
+      ],
+      "runner_up": [
+        2014
+      ],
+      "top_three_finishes": [
+        2011,
+        2012,
+        2014,
+        2015,
+        2019
+      ],
+      "record": "Joint-most UEFA Best Player in Europe awards"
+    },
+    "uefa_club_footballer_of_the_year": {
+      "titles": 1,
+      "years": [
+        2009
+      ],
+      "history": "Award presented before being replaced by UEFA Best Player in Europe."
+    },
+    "uefa_champions_league_top_scorer": {
+      "titles": 6,
+      "seasons": [
+        "2008-09",
+        "2009-10",
+        "2010-11",
+        "2011-12",
+        "2014-15",
+        "2018-19"
+      ],
+      "goals_by_season": [
+        {
+          "season": "2008-09",
+          "goals": 9
+        },
+        {
+          "season": "2009-10",
+          "goals": 8
+        },
+        {
+          "season": "2010-11",
+          "goals": 12
+        },
+        {
+          "season": "2011-12",
+          "goals": 14
+        },
+        {
+          "season": "2014-15",
+          "goals": 10
+        },
+        {
+          "season": "2018-19",
+          "goals": 12
+        }
+      ],
+      "record": "Joint-most UEFA Champions League Top Scorer awards"
+    },
+    "uefa_team_of_the_year": {
+      "selections": 12,
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020
+      ],
+      "record": "Most selections in UEFA Team of the Year history"
+    },
+    "uefa_champions_league_breakthrough": {
+      "forwards_of_the_season": {
+        "titles": 1,
+        "season": "2018-19"
+      },
+      "team_of_the_season": {
+        "appearances": 8,
+        "seasons": [
+          "2014-15",
+          "2015-16",
+          "2016-17",
+          "2017-18",
+          "2018-19",
+          "2019-20",
+          "2020-21",
+          "2022-23"
+        ]
+      }
+    },
+    "uefa_super_cup": {
+      "player_of_the_match": {
+        "awards": 2,
+        "years": [
+          2009,
+          2015
+        ]
+      }
+    },
+    "records": {
+      "uefa_best_player_titles": 3,
+      "champions_league_top_scorer_titles": 6,
+      "uefa_team_of_the_year_selections": 12,
+      "champions_league_titles": 4
+    },
+    "career_highlights": [
+      "Won UEFA Club Footballer of the Year in 2009.",
+      "Won UEFA Best Player in Europe three times (2011, 2015, 2019).",
+      "Finished as UEFA Champions League Top Scorer six times.",
+      "Selected to UEFA Team of the Year a record 12 times.",
+      "Named UEFA Champions League Forward of the Season in 2018–19."
+    ]
+  },
+  "domestic_league_awards": {
+    "overview": {
+      "primary_leagues": [
+        "La Liga",
+        "Ligue 1",
+        "Major League Soccer"
+      ],
+      "major_domestic_awards": 33
+    },
+    "pichichi_trophy": {
+      "titles": 8,
+      "record_holder": true,
+      "seasons": [
+        "2009-10",
+        "2011-12",
+        "2012-13",
+        "2016-17",
+        "2017-18",
+        "2018-19",
+        "2019-20",
+        "2020-21"
+      ],
+      "goals": [
+        {
+          "season": "2009-10",
+          "goals": 34
+        },
+        {
+          "season": "2011-12",
+          "goals": 50
+        },
+        {
+          "season": "2012-13",
+          "goals": 46
+        },
+        {
+          "season": "2016-17",
+          "goals": 37
+        },
+        {
+          "season": "2017-18",
+          "goals": 34
+        },
+        {
+          "season": "2018-19",
+          "goals": 36
+        },
+        {
+          "season": "2019-20",
+          "goals": 25
+        },
+        {
+          "season": "2020-21",
+          "goals": 30
+        }
+      ]
+    },
+    "european_golden_shoe": {
+      "titles": 6,
+      "record_holder": true,
+      "seasons": [
+        "2009-10",
+        "2011-12",
+        "2012-13",
+        "2016-17",
+        "2017-18",
+        "2018-19"
+      ]
+    },
+    "la_liga_mvp": {
+      "titles": 9,
+      "record_holder": true,
+      "seasons": [
+        "2008-09",
+        "2009-10",
+        "2010-11",
+        "2011-12",
+        "2012-13",
+        "2014-15",
+        "2016-17",
+        "2017-18",
+        "2018-19"
+      ]
+    },
+    "la_liga_best_forward": {
+      "titles": 7,
+      "seasons": [
+        "2008-09",
+        "2009-10",
+        "2010-11",
+        "2011-12",
+        "2012-13",
+        "2014-15",
+        "2015-16"
+      ]
+    },
+    "ligue_1": {
+      "player_of_the_year": {
+        "titles": 0,
+        "best_finish": "Nominee"
+      },
+      "team_of_the_year": {
+        "selections": 1,
+        "years": [
+          "2022-23"
+        ]
+      }
+    },
+    "major_league_soccer": {
+      "most_valuable_player": {
+        "titles": 1,
+        "years": [
+          2024
+        ]
+      },
+      "best_xi": {
+        "selections": 1,
+        "years": [
+          2024
+        ]
+      },
+      "all_star": {
+        "selections": 1,
+        "years": [
+          2024
+        ]
+      },
+      "newcomer_of_the_year": {
+        "result": "Runner-up",
+        "year": 2023
+      }
+    },
+    "records": {
+      "most_pichichi_trophies": 8,
+      "most_european_golden_shoes": 6,
+      "most_la_liga_mvp_awards": 9
+    },
+    "career_highlights": [
+      "Won a record eight Pichichi Trophy awards.",
+      "Won a record six European Golden Shoes.",
+      "Won nine La Liga Best Player (MVP) awards.",
+      "Named MLS Most Valuable Player in 2024.",
+      "Named to the MLS Best XI in 2024."
+    ]
+  },
+  "international_tournament_awards": {
+    "overview": {
+      "major_tournaments": [
+        "FIFA World Cup",
+        "Copa América",
+        "Finalissima",
+        "Olympic Games",
+        "FIFA U-20 World Cup"
+      ],
+      "major_individual_awards": 13
+    },
+    "fifa_world_cup": {
+      "golden_ball": {
+        "titles": 2,
+        "years": [
+          2014,
+          2022
+        ],
+        "record": "Only player to win the FIFA World Cup Golden Ball twice"
+      },
+      "silver_boot": {
+        "titles": 1,
+        "year": 2022
+      },
+      "dream_team": {
+        "selections": 2,
+        "years": [
+          2014,
+          2022
+        ]
+      },
+      "player_of_the_match": {
+        "awards": 11,
+        "record": "Most Player of the Match awards in FIFA World Cup history"
+      }
+    },
+    "copa_america": {
+      "best_player": {
+        "titles": 2,
+        "years": [
+          2015,
+          2021
+        ],
+        "record": "Joint-most Copa América Best Player awards"
+      },
+      "golden_boot": {
+        "titles": 1,
+        "year": 2021,
+        "goals": 4,
+        "assists": 5
+      },
+      "team_of_the_tournament": {
+        "selections": 6,
+        "years": [
+          2007,
+          2011,
+          2015,
+          2016,
+          2021,
+          2024
+        ]
+      },
+      "best_young_player": {
+        "titles": 1,
+        "year": 2007
+      },
+      "player_of_the_match": {
+        "awards": 15,
+        "record": "Most Copa América Player of the Match awards"
+      }
+    },
+    "finalissima": {
+      "player_of_the_match": {
+        "titles": 1,
+        "year": 2022
+      }
+    },
+    "olympic_games": {
+      "gold_medal": {
+        "titles": 1,
+        "year": 2008
+      }
+    },
+    "fifa_u20_world_cup": {
+      "golden_ball": {
+        "titles": 1,
+        "year": 2005
+      },
+      "golden_boot": {
+        "titles": 1,
+        "year": 2005,
+        "goals": 6
+      }
+    },
+    "records": {
+      "world_cup_golden_ball_titles": 2,
+      "copa_america_best_player_titles": 2,
+      "copa_america_team_of_the_tournament": 6,
+      "world_cup_player_of_the_match_awards": 11,
+      "copa_america_player_of_the_match_awards": 15,
+      "fifa_u20_world_cup_double_awards": true
+    },
+    "career_highlights": [
+      "Only footballer to win two FIFA World Cup Golden Ball awards.",
+      "Won Copa América Best Player in 2015 and 2021.",
+      "Won the Copa América Golden Boot in 2021.",
+      "Selected to the Copa América Team of the Tournament six times.",
+      "Won both the Golden Ball and Golden Boot at the 2005 FIFA U-20 World Cup.",
+      "Named Player of the Match in the 2022 Finalissima."
+    ]
+  },
+  "club_competition_awards": {
+    "overview": {
+      "competitions": [
+        "UEFA Champions League",
+        "FIFA Club World Cup",
+        "Leagues Cup",
+        "UEFA Super Cup"
+      ],
+      "major_individual_awards": 16
+    },
+    "uefa_champions_league": {
+      "top_scorer": {
+        "titles": 6,
+        "seasons": [
+          "2008-09",
+          "2009-10",
+          "2010-11",
+          "2011-12",
+          "2014-15",
+          "2018-19"
+        ],
+        "record": "Joint-most UEFA Champions League Top Scorer awards"
+      },
+      "forward_of_the_season": {
+        "titles": 1,
+        "season": "2018-19"
+      },
+      "team_of_the_season": {
+        "selections": 8,
+        "seasons": [
+          "2014-15",
+          "2015-16",
+          "2016-17",
+          "2017-18",
+          "2018-19",
+          "2019-20",
+          "2020-21",
+          "2022-23"
+        ]
+      },
+      "player_of_the_week": {
+        "awards": 32,
+        "record": "Most UEFA Champions League Player of the Week awards"
+      },
+      "goal_of_the_week": {
+        "awards": 9
+      }
+    },
+    "fifa_club_world_cup": {
+      "golden_ball": {
+        "titles": 2,
+        "years": [
+          2009,
+          2011
+        ]
+      },
+      "silver_ball": {
+        "titles": 1,
+        "year": 2015
+      }
+    },
+    "leagues_cup": {
+      "best_player": {
+        "titles": 1,
+        "year": 2023
+      },
+      "golden_boot": {
+        "titles": 1,
+        "year": 2023,
+        "goals": 10
+      },
+      "team_of_the_tournament": {
+        "selections": 1,
+        "year": 2023
+      }
+    },
+    "uefa_super_cup": {
+      "player_of_the_match": {
+        "awards": 2,
+        "years": [
+          2009,
+          2015
+        ]
+      }
+    },
+    "records": {
+      "champions_league_top_scorer_titles": 6,
+      "club_world_cup_golden_balls": 2,
+      "club_world_cup_silver_balls": 1,
+      "leagues_cup_best_player_titles": 1,
+      "leagues_cup_golden_boot_titles": 1,
+      "champions_league_player_of_the_week_awards": 32
+    },
+    "career_highlights": [
+      "Finished as UEFA Champions League Top Scorer six times.",
+      "Won the FIFA Club World Cup Golden Ball twice.",
+      "Won both the Best Player and Golden Boot awards at the 2023 Leagues Cup.",
+      "Named UEFA Champions League Forward of the Season in 2018-19.",
+      "Holds the record for the most UEFA Champions League Player of the Week awards."
+    ]
+  },
+  "special_and_recognition_awards": {
+    "overview": {
+      "categories": [
+        "Youth Awards",
+        "Laureus World Sports Awards",
+        "IFFHS Awards",
+        "Globe Soccer Awards",
+        "International Recognition",
+        "Special Honors"
+      ]
+    },
+    "youth_awards": {
+      "golden_boy": {
+        "titles": 1,
+        "year": 2005
+      },
+      "fifa_u20_world_cup": {
+        "golden_ball": {
+          "titles": 1,
+          "year": 2005
+        },
+        "golden_boot": {
+          "titles": 1,
+          "year": 2005,
+          "goals": 6
+        }
+      },
+      "bravo_award": {
+        "titles": 1,
+        "year": 2007
+      },
+      "world_soccer_young_player": {
+        "titles": 3,
+        "years": [
+          2006,
+          2007,
+          2008
+        ]
+      }
+    },
+    "laureus_world_sports_awards": {
+      "world_sportsman_of_the_year": {
+        "titles": 2,
+        "years": [
+          2020,
+          2023
+        ]
+      },
+      "sporting_icon_nominee": {
+        "years": [
+          2024
+        ]
+      }
+    },
+    "iffhs_awards": {
+      "world_best_playmaker": {
+        "titles": 5,
+        "years": [
+          2015,
+          2016,
+          2017,
+          2019,
+          2022
+        ],
+        "record": "Most IFFHS World's Best Playmaker awards"
+      },
+      "world_best_top_goal_scorer": {
+        "titles": 2,
+        "years": [
+          2018,
+          2022
+        ]
+      },
+      "world_best_international_goal_scorer": {
+        "titles": 1,
+        "year": 2022
+      },
+      "world_team": {
+        "selections": 17,
+        "years": [
+          2007,
+          2008,
+          2009,
+          2010,
+          2011,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023
+        ]
+      }
+    },
+    "globe_soccer_awards": {
+      "best_player": {
+        "titles": 1,
+        "year": 2015
+      },
+      "maradona_award": {
+        "titles": 1,
+        "year": 2022
+      }
+    },
+    "world_soccer_awards": {
+      "world_player_of_the_year": {
+        "titles": 4,
+        "years": [
+          2009,
+          2011,
+          2012,
+          2015
+        ]
+      }
+    },
+    "espy_awards": {
+      "best_international_athlete": {
+        "titles": 2,
+        "years": [
+          2023,
+          2024
+        ]
+      }
+    },
+    "time_magazine": {
+      "time100": {
+        "selections": 2,
+        "years": [
+          2011,
+          2023
+        ]
+      }
+    },
+    "special_honours": {
+      "ballon_dor_dream_team": {
+        "titles": 1,
+        "year": 2020
+      },
+      "fifa_world_cup_all_time_dream_team": {
+        "included": true
+      },
+      "uefa_team_of_the_decade": {
+        "included": true,
+        "period": "2011-2020"
+      },
+      "conmebol_team_of_the_decade": {
+        "included": true,
+        "period": "2011-2020"
+      }
+    },
+    "records": {
+      "laureus_world_sportsman_titles": 2,
+      "iffhs_best_playmaker_titles": 5,
+      "world_soccer_player_titles": 4,
+      "time100_selections": 2,
+      "ballon_dor_dream_team": true
+    },
+    "career_highlights": [
+      "Won the Laureus World Sportsman of the Year award twice.",
+      "Holds the record for the most IFFHS World's Best Playmaker awards.",
+      "Named to the Ballon d'Or Dream Team in 2020.",
+      "Included in multiple FIFA, UEFA and CONMEBOL all-time dream teams.",
+      "Recognized globally as one of the greatest athletes of all time."
+    ]
+  },
+  "award_records_and_milestones": {
+    "world_records": {
+      "ballon_dor_titles": {
+        "count": 8,
+        "record": "Most Ballon d'Or awards in football history"
+      },
+      "fifa_world_player_family_titles": {
+        "count": 8,
+        "description": "Combined FIFA World Player of the Year, FIFA Ballon d'Or and The Best FIFA Men's Player awards"
+      },
+      "the_best_fifa_titles": {
+        "count": 3,
+        "record": "Joint-most The Best FIFA Men's Player awards"
+      },
+      "world_cup_golden_ball": {
+        "count": 2,
+        "record": "Only player to win two FIFA World Cup Golden Balls"
+      },
+      "european_golden_shoe": {
+        "count": 6,
+        "record": "Most European Golden Shoe awards"
+      },
+      "pichichi_trophy": {
+        "count": 8,
+        "record": "Most Pichichi Trophy awards"
+      },
+      "fifa_fifpro_world11": {
+        "count": 17,
+        "record": "Most FIFA FIFPRO World 11 selections"
+      },
+      "champions_league_top_scorer": {
+        "count": 6,
+        "record": "Joint-most UEFA Champions League Top Scorer awards"
+      }
+    },
+    "career_milestones": [
+      {
+        "year": 2005,
+        "achievement": "Won first individual international awards (FIFA U-20 Golden Ball and Golden Boot)."
+      },
+      {
+        "year": 2009,
+        "achievement": "Won first Ballon d'Or and FIFA World Player of the Year."
+      },
+      {
+        "year": 2010,
+        "achievement": "Won first FIFA Ballon d'Or."
+      },
+      {
+        "year": 2012,
+        "achievement": "Completed four consecutive Ballon d'Or/FIFA Ballon d'Or victories."
+      },
+      {
+        "year": 2015,
+        "achievement": "Won fifth Ballon d'Or after Barcelona's second continental treble."
+      },
+      {
+        "year": 2019,
+        "achievement": "Won sixth Ballon d'Or and first The Best FIFA Men's Player award."
+      },
+      {
+        "year": 2021,
+        "achievement": "Won seventh Ballon d'Or after Copa América triumph."
+      },
+      {
+        "year": 2022,
+        "achievement": "Won FIFA World Cup Golden Ball and The Best FIFA Men's Player."
+      },
+      {
+        "year": 2023,
+        "achievement": "Won record eighth Ballon d'Or."
+      },
+      {
+        "year": 2024,
+        "achievement": "Won MLS Most Valuable Player."
+      }
+    ],
+    "awards_by_club": {
+      "barcelona": {
+        "major_awards": 45,
+        "ballon_dor": 7,
+        "golden_shoe": 6,
+        "pichichi": 8
+      },
+      "paris_saint_germain": {
+        "major_awards": 2,
+        "ballon_dor": 0,
+        "the_best_fifa": 1
+      },
+      "inter_miami": {
+        "major_awards": 4,
+        "ballon_dor": 1,
+        "mls_mvp": 1,
+        "leagues_cup_best_player": 1,
+        "leagues_cup_golden_boot": 1
+      }
+    },
+    "awards_by_decade": {
+      "2000s": 8,
+      "2010s": 38,
+      "2020s": 20
+    },
+    "timeline": [
+      {
+        "period": "2005-2008",
+        "highlight": "Youth and emerging player awards."
+      },
+      {
+        "period": "2009-2012",
+        "highlight": "Four consecutive Ballon d'Or/FIFA Ballon d'Or awards."
+      },
+      {
+        "period": "2013-2018",
+        "highlight": "Dominated domestic and UEFA individual awards."
+      },
+      {
+        "period": "2019-2021",
+        "highlight": "Won sixth and seventh Ballon d'Or, Copa América MVP."
+      },
+      {
+        "period": "2022-2024",
+        "highlight": "World Cup Golden Ball, The Best FIFA award, eighth Ballon d'Or and MLS MVP."
+      }
+    ],
+    "historic_firsts": [
+      "Only player to win Ballon d'Or in three different decades.",
+      "Only player to win two FIFA World Cup Golden Ball awards.",
+      "First footballer to win the Laureus World Sportsman of the Year award.",
+      "First footballer to win both Laureus Sportsman of the Year and Team of the Year in the same year.",
+      "Only player to win Best Player awards at the FIFA U-20 World Cup, FIFA World Cup and Copa América."
+    ],
+    "career_highlights": [
+      "Eight-time Ballon d'Or winner.",
+      "Six-time European Golden Shoe winner.",
+      "Eight-time Pichichi Trophy winner.",
+      "Three-time The Best FIFA Men's Player.",
+      "Record holder for FIFA FIFPRO World 11 selections.",
+      "Recognized worldwide as one of football's most decorated individual award winners."
+    ]
+  },
+  "summary": {
+    "player": "Lionel Andrés Messi",
+    "status": "Active",
+    "last_updated": "2024-12-31",
+    "career_awards_summary": {
+      "ballon_dor": 8,
+      "fifa_world_player_of_the_year": 1,
+      "fifa_ballon_dor": 4,
+      "the_best_fifa_mens_player": 3,
+      "uefa_best_player_in_europe": 3,
+      "uefa_club_footballer_of_the_year": 1,
+      "european_golden_shoe": 6,
+      "pichichi_trophy": 8,
+      "champions_league_top_scorer": 6,
+      "world_cup_golden_ball": 2,
+      "club_world_cup_golden_ball": 2,
+      "copa_america_best_player": 2,
+      "copa_america_golden_boot": 1,
+      "fifa_u20_world_cup_golden_ball": 1,
+      "fifa_u20_world_cup_golden_boot": 1,
+      "laureus_world_sportsman_of_the_year": 2,
+      "fifa_fifpro_world11": 17,
+      "uefa_team_of_the_year": 12,
+      "mls_most_valuable_player": 1,
+      "leagues_cup_best_player": 1,
+      "leagues_cup_golden_boot": 1
+    },
+    "records": {
+      "most_ballon_dor_titles": true,
+      "most_european_golden_shoes": true,
+      "most_pichichi_trophies": true,
+      "most_fifa_fifpro_world11_selections": true,
+      "joint_most_the_best_fifa_titles": true,
+      "joint_most_champions_league_top_scorer_titles": true,
+      "only_player_with_two_world_cup_golden_balls": true,
+      "only_player_to_win_ballon_dor_in_three_decades": true,
+      "largest_gap_between_first_and_last_ballon_dor": "14 years",
+      "youngest_player_to_win": {
+        "2_ballon_dor": true,
+        "3_ballon_dor": true,
+        "4_ballon_dor": true
+      }
+    },
+    "awards_by_stage": {
+      "youth": {
+        "major_titles": 5,
+        "highlights": [
+          "Golden Boy",
+          "Bravo Award",
+          "FIFA U-20 World Cup Golden Ball",
+          "FIFA U-20 World Cup Golden Boot"
+        ]
+      },
+      "club": {
+        "major_titles": 55,
+        "highlights": [
+          "Ballon d'Or",
+          "European Golden Shoe",
+          "Pichichi Trophy",
+          "UEFA Best Player",
+          "Champions League Top Scorer"
+        ]
+      },
+      "international": {
+        "major_titles": 10,
+        "highlights": [
+          "World Cup Golden Ball",
+          "Copa América Best Player",
+          "Copa América Golden Boot"
+        ]
+      }
+    },
+    "awards_by_club": {
+      "barcelona": {
+        "major_individual_awards": 48
+      },
+      "paris_saint_germain": {
+        "major_individual_awards": 2
+      },
+      "inter_miami": {
+        "major_individual_awards": 5
+      },
+      "argentina": {
+        "major_individual_awards": 10
+      }
+    },
+    "career_timeline": [
+      {
+        "era": "2005-2008",
+        "description": "Youth awards and breakthrough recognitions."
+      },
+      {
+        "era": "2009-2012",
+        "description": "Global dominance with four consecutive Ballon d'Or/FIFA Ballon d'Or awards."
+      },
+      {
+        "era": "2013-2018",
+        "description": "Continued dominance in domestic and UEFA awards."
+      },
+      {
+        "era": "2019-2021",
+        "description": "Sixth and seventh Ballon d'Or, Copa América success."
+      },
+      {
+        "era": "2022-2024",
+        "description": "World Cup Golden Ball, The Best FIFA award, eighth Ballon d'Or and MLS MVP."
+      }
+    ],
+    "legacy": {
+      "recognized_as": [
+        "Most decorated individual award winner in football history",
+        "Record eight-time Ballon d'Or winner",
+        "Record six-time European Golden Shoe winner",
+        "Record eight-time Pichichi Trophy winner",
+        "Only player with two FIFA World Cup Golden Ball awards",
+        "One of the greatest footballers of all time"
+      ],
+      "historical_significance": [
+        "Redefined individual excellence in modern football.",
+        "Maintained elite performance across three decades.",
+        "Combined club and international success with unprecedented personal recognition.",
+        "Set numerous records that remain unmatched."
+      ],
+      "career_status": "Active"
+    }
+  }
+}

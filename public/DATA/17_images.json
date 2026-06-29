@@ -1,0 +1,184 @@
+{
+  "version": "2.0.0",
+  "basePath": "/images",
+
+  "hero": [
+    "/images/hero/hero-profile-training.webp",
+    "/images/hero/hero-dark-wallpaper.webp",
+    "/images/hero/hero-black-background.jpg",
+    "/images/hero/hero-closeup-face.jpg",
+    "/images/hero/hero-looking-stadium.jpeg",
+    "/images/hero/hero-silhouette-lights.jpg",
+    "/images/hero/hero-walking-tunnel.jpg",
+    "/images/hero/hero-blue-aesthetic.jpg",
+    "/images/hero/hero-cinematic.jpeg",
+    "/images/hero/hero-minimal-portrait.jpeg"
+  ],
+
+  "childhood": [
+    "/images/childhood/childhood-messi.jpeg",
+    "/images/childhood/childhood-rosario.jpg",
+    "/images/childhood/baby-photo.jpeg",
+    "/images/childhood/newells-old-boys.jpg",
+    "/images/childhood/grandoli-fc.jpeg",
+    "/images/childhood/family-young.jpeg",
+    "/images/childhood/age-10.jpg",
+    "/images/childhood/youth-football.jpg",
+    "/images/childhood/la-masia.webp",
+    "/images/childhood/childhood-training.jpeg"
+  ],
+
+  "barcelona": [
+    "/images/Barcelona/debut-camp-nou.jpeg",
+    "/images/Barcelona/el-clasico-shirt.jpeg",
+    "/images/Barcelona/ucl-final-2011.jpg",
+    "/images/Barcelona/ucl-trophy-2015.jpeg",
+    "/images/Barcelona/free-kick-wall.jpeg",
+    "/images/Barcelona/dribbling-defender.jpg",
+    "/images/Barcelona/camp-nou-celebration.jpg",
+    "/images/Barcelona/kissing-badge.jpg",
+    "/images/Barcelona/captain.jpeg",
+    "/images/Barcelona/ballon-dor.jpeg",
+    "/images/Barcelona/xavi-iniesta.jpeg",
+    "/images/Barcelona/msn.jpeg",
+    "/images/Barcelona/real-madrid-celebration.jpg",
+    "/images/Barcelona/laliga-trophy.jpeg",
+    "/images/Barcelona/farewell.jpeg"
+  ],
+
+  "argentina": [
+    "/images/Argentina/debut.jpg",
+    "/images/Argentina/copa-america-2021.jpeg",
+    "/images/Argentina/finalissima.jpeg",
+    "/images/Argentina/world-cup-2022.webp",
+    "/images/Argentina/world-cup-kiss.webp",
+    "/images/Argentina/lifting-copa.jpeg",
+    "/images/Argentina/captain.webp",
+    "/images/Argentina/world-cup-final-france.webp",
+    "/images/Argentina/golden-ball.webp",
+    "/images/Argentina/emi-martinez.jpeg",
+    "/images/Argentina/di-maria.jpeg",
+    "/images/Argentina/fans-celebration.jpg",
+    "/images/Argentina/confetti.webp",
+    "/images/Argentina/parade.webp",
+    "/images/Argentina/portrait-2024.jpeg"
+  ],
+
+  "psg": [
+    "/images/Psg/presentation.jpg",
+    "/images/Psg/debut.jpg",
+    "/images/Psg/goal-celebration.jpg",
+    "/images/Psg/training.jpeg",
+    "/images/Psg/portrait.jpeg",
+    "/images/Psg/ligue1-trophy.jpeg",
+    "/images/Psg/neymar-mbappe.jpeg",
+    "/images/Psg/free-kick.jpg",
+    "/images/Psg/champions-league.jpeg",
+    "/images/Psg/wallpaper.jpg",
+    "/images/Psg/celebration.webp",
+    "/images/Psg/leaving.jpg"
+  ],
+
+  "interMiami": [
+    "/images/InterMiami/presentation.jpg",
+    "/images/InterMiami/debut.webp",
+    "/images/InterMiami/leagues-cup.jpg",
+    "/images/InterMiami/celebration.webp",
+    "/images/InterMiami/free-kick.jpg",
+    "/images/InterMiami/pink-jersey.jpeg",
+    "/images/InterMiami/portrait.jpeg",
+    "/images/InterMiami/mls-celebration.jpg",
+    "/images/InterMiami/david-beckham.jpg",
+    "/images/InterMiami/captain.jpg",
+    "/images/InterMiami/wallpaper.jpg",
+    "/images/InterMiami/first-goal.webp",
+    "/images/InterMiami/training.jpg",
+    "/images/InterMiami/fans.jpeg",
+    "/images/InterMiami/trophy.webp"
+  ],
+
+  "goals": [
+    "/images/Goals/free-kick.webp",
+    "/images/Goals/bicycle-kick.jpg",
+    "/images/Goals/solo-goal.webp",
+    "/images/Goals/dribble-goal.jpeg",
+    "/images/Goals/chip-goal.jpeg",
+    "/images/Goals/long-range-goal.jpg",
+    "/images/Goals/header-goal.jpg",
+    "/images/Goals/assist-celebration.jpeg",
+    "/images/Goals/iconic-goal.jpeg",
+    "/images/Goals/hat-trick.webp",
+    "/images/Goals/vs-bayern.jpg",
+    "/images/Goals/vs-manchester-united.jpeg",
+    "/images/Goals/vs-liverpool.jpeg",
+    "/images/Goals/vs-brazil.jpeg",
+    "/images/Goals/goal-wallpaper.jpeg"
+  ],
+
+  "portraits": [
+    "/images/Portraits/portrait-4k.jpg",
+    "/images/Portraits/black-background.jpeg",
+    "/images/Portraits/smiling.jpg",
+    "/images/Portraits/serious-face.jpeg",
+    "/images/Portraits/beard.jpg",
+    "/images/Portraits/side-profile.jpg",
+    "/images/Portraits/closeup.jpg",
+    "/images/Portraits/looking-down.jpeg",
+    "/images/Portraits/aesthetic.jpg",
+    "/images/Portraits/blue-lighting.jpeg",
+    "/images/Portraits/profile-wallpaper.jpeg",
+    "/images/Portraits/studio.jpeg",
+    "/images/Portraits/dramatic-lighting.jpeg",
+    "/images/Portraits/face-wallpaper.jpg",
+    "/images/Portraits/hd-portrait.jpg"
+  ],
+
+  "trophies": [
+    "/images/Trophies/ballon-dor.jpeg",
+    "/images/Trophies/world-cup.webp",
+    "/images/Trophies/champions-league.jpg",
+    "/images/Trophies/copa-america.jpg",
+    "/images/Trophies/golden-boot.webp",
+    "/images/Trophies/fifa-best.jpeg",
+    "/images/Trophies/laureus.jpeg",
+    "/images/Trophies/finalissima.jpg",
+    "/images/Trophies/leagues-cup.jpg",
+    "/images/Trophies/laliga.jpg",
+    "/images/Trophies/ligue1.jpeg", 
+    "/images/Trophies/club-world-cup.jpeg", 
+    "/images/Trophies/uefa-super-cup.jpg",
+    "/images/Trophies/copa-del-rey.jpeg",
+    "/images/Trophies/trophy-collection.jpeg"
+  ],
+
+  "wallpapers": [
+    "/images/Wallpapers/wallpaper-4k.jpg",
+    "/images/Wallpapers/blue-wallpaper.jpg",
+    "/images/Wallpapers/dark-wallpaper.jpg",
+    "/images/Wallpapers/stadium-wallpaper.jpeg",
+    "/images/Wallpapers/cinematic-wallpaper.jpeg",
+    "/images/Wallpapers/desktop-wallpaper.jpg",
+    "/images/Wallpapers/mobile-wallpaper.jpg",
+    "/images/Wallpapers/neon-wallpaper.jpeg",
+    "/images/Wallpapers/minimalist-wallpaper.jpg",
+    "/images/Wallpapers/ultra-hd-wallpaper.jpg"
+  ],
+ 
+  "statistics": {
+    "totalImages": 117,
+    "categories": 9
+  },
+
+  "settings": {
+    "lazyLoading": true,
+    "imageOptimization": true,
+    "nextImage": true,
+    "placeholder": "blur",
+    "priorityHero": true,
+    "preferredFormats": [
+      "webp",
+      "jpg",
+      "jpeg"
+    ]
+  }
+}

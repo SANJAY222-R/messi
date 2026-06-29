@@ -1,0 +1,2010 @@
+{
+  "personal_life_timeline": {
+    "overview": {
+      "player": "Lionel Andrés Messi",
+      "last_updated": "2024-12-31",
+      "period": "1987-2000"
+    },
+    "timeline": [
+      {
+        "date": "1987-06-24",
+        "year": 1987,
+        "age": 0,
+        "title": "Birth",
+        "description": "Lionel Andrés Messi was born in Rosario, Santa Fe Province, Argentina.",
+        "location": "Rosario, Santa Fe, Argentina",
+        "category": "Personal"
+      },
+      {
+        "year": 1988,
+        "age": 1,
+        "title": "Family Environment",
+        "description": "Raised in a close-knit working-class family. His father, Jorge Messi, worked in a steel factory and coached youth football, while his mother, Celia María Cuccittini, worked in a magnet manufacturing workshop.",
+        "category": "Family"
+      },
+      {
+        "year": 1991,
+        "age": 4,
+        "title": "Started Playing Football",
+        "description": "Began playing football with local club Grandoli, where his father Jorge served as coach.",
+        "club": "Grandoli",
+        "location": "Rosario, Argentina",
+        "category": "Football"
+      },
+      {
+        "year": 1994,
+        "age": 7,
+        "title": "Joined Newell's Old Boys",
+        "description": "Joined the youth academy of Newell's Old Boys and became a member of the famous 'Machine of '87' youth generation.",
+        "club": "Newell's Old Boys",
+        "category": "Youth Career"
+      },
+      {
+        "year": 1997,
+        "age": 10,
+        "title": "Diagnosed with Growth Hormone Deficiency",
+        "description": "Diagnosed with Growth Hormone Deficiency (GHD). Daily hormone treatment became necessary but was financially difficult for the family.",
+        "category": "Personal"
+      },
+      {
+        "year": 1998,
+        "age": 11,
+        "title": "Continued Youth Development",
+        "description": "Remained one of the standout youth players at Newell's Old Boys despite medical challenges.",
+        "club": "Newell's Old Boys",
+        "category": "Youth Career"
+      },
+      {
+        "year": 2000,
+        "age": 13,
+        "title": "Barcelona Trial",
+        "description": "Traveled to Barcelona for a trial after being recommended to the club. Impressed coaches immediately with his performances.",
+        "club": "FC Barcelona",
+        "category": "Career"
+      },
+      {
+        "date": "2000-12-14",
+        "year": 2000,
+        "age": 13,
+        "title": "Napkin Contract",
+        "description": "Carles Rexach agreed to sign Messi on a paper napkin, promising Barcelona would recruit him. The document became one of the most famous contracts in football history.",
+        "club": "FC Barcelona",
+        "category": "Career Milestone"
+      },
+      {
+        "year": 2000,
+        "age": 13,
+        "title": "Moved to Spain",
+        "description": "Relocated with his family to Barcelona after the club agreed to cover his medical treatment and development.",
+        "location": "Barcelona, Spain",
+        "category": "Personal"
+      }
+    ],
+    "summary": {
+      "years_covered": "1987-2000",
+      "major_events": 9,
+      "clubs": [
+        "Grandoli",
+        "Newell's Old Boys",
+        "FC Barcelona"
+      ],
+      "countries": [
+        "Argentina",
+        "Spain"
+      ]
+    }
+  },
+  "barcelona_academy_timeline": {
+    "overview": {
+      "player": "Lionel Andrés Messi",
+      "last_updated": "2024-12-31",
+      "period": "2000-2004"
+    },
+    "timeline": [
+      {
+        "date": "2000-09-17",
+        "year": 2000,
+        "age": 13,
+        "title": "Arrival in Barcelona",
+        "description": "Messi arrived in Barcelona to begin a trial after impressing scouts who had been informed of his exceptional talent.",
+        "location": "Barcelona, Spain",
+        "category": "Career"
+      },
+      {
+        "date": "2000-09-18",
+        "year": 2000,
+        "age": 13,
+        "title": "First Training Session",
+        "description": "Completed his first training session with Barcelona's youth players and immediately impressed coaches, teammates and club officials.",
+        "club": "FC Barcelona",
+        "category": "Youth Career"
+      },
+      {
+        "date": "2000-12-14",
+        "year": 2000,
+        "age": 13,
+        "title": "Napkin Contract Signed",
+        "description": "Sporting director Carles Rexach signed the famous paper napkin agreement committing Barcelona to sign Messi and support his development and medical treatment.",
+        "category": "Career Milestone"
+      },
+      {
+        "year": 2001,
+        "age": 13,
+        "title": "Joined La Masia",
+        "description": "Officially entered FC Barcelona's youth system and began playing for the Infantil B team while continuing treatment for Growth Hormone Deficiency.",
+        "team": "Barcelona Infantil B",
+        "category": "Youth Career"
+      },
+      {
+        "year": 2001,
+        "age": 14,
+        "title": "Rapid Progress Through Youth Teams",
+        "description": "Adapted quickly to Spanish football and became one of the standout talents in Barcelona's academy.",
+        "category": "Development"
+      },
+      {
+        "year": 2002,
+        "age": 15,
+        "title": "Promotion to Cadete Teams",
+        "description": "Advanced through Barcelona's Cadete levels, consistently producing goals and assists while gaining recognition as one of the academy's brightest prospects.",
+        "team": "Barcelona Cadete",
+        "category": "Youth Career"
+      },
+      {
+        "year": 2003,
+        "age": 16,
+        "title": "Promotion to Juvenil A",
+        "description": "Reached Barcelona's top youth side and continued his rapid development against older opponents.",
+        "team": "Barcelona Juvenil A",
+        "category": "Youth Career"
+      },
+      {
+        "year": 2003,
+        "age": 16,
+        "title": "Barcelona C Debut",
+        "description": "Made his official debut for Barcelona C, beginning his progression into senior football within the club.",
+        "team": "Barcelona C",
+        "category": "Club Career"
+      },
+      {
+        "date": "2003-11-16",
+        "year": 2003,
+        "age": 16,
+        "title": "Unofficial First-Team Debut",
+        "description": "Played for Barcelona's first team in a friendly against FC Porto during the inauguration of the Estádio do Dragão, becoming one of the youngest players to feature for the senior side.",
+        "competition": "Friendly",
+        "opponent": "FC Porto",
+        "category": "First Team"
+      },
+      {
+        "year": 2004,
+        "age": 16,
+        "title": "Barcelona B Promotion",
+        "description": "Earned promotion to Barcelona B after impressive performances for the youth teams and Barcelona C.",
+        "team": "Barcelona B",
+        "category": "Club Career"
+      },
+      {
+        "year": 2004,
+        "age": 17,
+        "title": "Fast-Tracked to the First Team",
+        "description": "Manager Frank Rijkaard began integrating Messi into first-team training, recognizing his exceptional technical ability and maturity.",
+        "category": "First Team"
+      },
+      {
+        "date": "2004-10-16",
+        "year": 2004,
+        "age": 17,
+        "title": "Official First-Team Debut",
+        "description": "Made his official FC Barcelona debut against Espanyol in La Liga, replacing Deco in the closing stages and becoming the club's youngest player to appear in an official match at that time.",
+        "competition": "La Liga",
+        "opponent": "Espanyol",
+        "category": "Career Milestone"
+      }
+    ],
+    "academy_progression": [
+      {
+        "team": "Infantil B",
+        "period": "2000-2001"
+      },
+      {
+        "team": "Cadete B",
+        "period": "2001-2002"
+      },
+      {
+        "team": "Cadete A",
+        "period": "2002-2003"
+      },
+      {
+        "team": "Juvenil B",
+        "period": "2003"
+      },
+      {
+        "team": "Juvenil A",
+        "period": "2003-2004"
+      },
+      {
+        "team": "Barcelona C",
+        "period": "2003-2004"
+      },
+      {
+        "team": "Barcelona B",
+        "period": "2004"
+      },
+      {
+        "team": "FC Barcelona First Team",
+        "period": "2004"
+      }
+    ],
+    "summary": {
+      "years_covered": "2000-2004",
+      "major_events": 12,
+      "academy_levels_completed": 8,
+      "first_team_debut": "2004-10-16"
+    }
+  },
+  "barcelona_career_timeline": {
+    "overview": {
+      "player": "Lionel Andrés Messi",
+      "club": "FC Barcelona",
+      "period": "2004-2021",
+      "last_updated": "2024-12-31"
+    },
+    "timeline": [
+      {
+        "date": "2004-10-16",
+        "year": 2004,
+        "age": 17,
+        "title": "Official First-Team Debut",
+        "description": "Made his official FC Barcelona debut against Espanyol in La Liga, replacing Deco.",
+        "competition": "La Liga",
+        "opponent": "Espanyol",
+        "category": "Debut"
+      },
+      {
+        "date": "2005-05-01",
+        "year": 2005,
+        "age": 17,
+        "title": "First Official Goal",
+        "description": "Scored his first senior goal against Albacete from Ronaldinho's assist, becoming Barcelona's youngest official goalscorer at the time.",
+        "competition": "La Liga",
+        "opponent": "Albacete",
+        "category": "Milestone"
+      },
+      {
+        "date": "2005-05-14",
+        "year": 2005,
+        "title": "First Major Trophy",
+        "description": "Won his first La Liga title with Barcelona.",
+        "competition": "La Liga",
+        "category": "Trophy"
+      },
+      {
+        "year": 2006,
+        "title": "Champions League Winner",
+        "description": "Barcelona won the UEFA Champions League. Messi missed the final through injury but received a winners' medal.",
+        "competition": "UEFA Champions League",
+        "category": "Trophy"
+      },
+      {
+        "date": "2007-03-10",
+        "year": 2007,
+        "title": "First El Clásico Hat-trick",
+        "description": "Scored a hat-trick in a 3-3 draw against Real Madrid, becoming the first player in 12 years to score a Clásico hat-trick.",
+        "competition": "La Liga",
+        "opponent": "Real Madrid",
+        "category": "Record"
+      },
+      {
+        "year": 2008,
+        "title": "Pep Guardiola Era Begins",
+        "description": "Pep Guardiola became first-team manager, beginning Barcelona's most successful period with Messi as the focal point.",
+        "category": "Career"
+      },
+      {
+        "year": 2009,
+        "title": "Historic Treble and Sextuple",
+        "description": "Barcelona won La Liga, Copa del Rey and UEFA Champions League, then completed the historic sextuple by winning six trophies in one calendar year.",
+        "category": "Historic Achievement"
+      },
+      {
+        "date": "2009-12-01",
+        "year": 2009,
+        "title": "First Ballon d'Or",
+        "description": "Won his first Ballon d'Or after an outstanding season.",
+        "category": "Award"
+      },
+      {
+        "year": 2010,
+        "title": "First FIFA Ballon d'Or",
+        "description": "Won the inaugural FIFA Ballon d'Or.",
+        "category": "Award"
+      },
+      {
+        "year": 2011,
+        "title": "Third UEFA Champions League Title",
+        "description": "Scored in Barcelona's 3-1 victory over Manchester United in the UEFA Champions League Final at Wembley.",
+        "competition": "UEFA Champions League",
+        "opponent": "Manchester United",
+        "category": "Trophy"
+      },
+      {
+        "date": "2012-03-20",
+        "year": 2012,
+        "title": "Barcelona All-Time Top Goalscorer",
+        "description": "Surpassed César Rodríguez to become FC Barcelona's all-time leading goalscorer.",
+        "category": "Record"
+      },
+      {
+        "year": 2012,
+        "title": "91 Goals in a Calendar Year",
+        "description": "Set the world record for the most official goals scored in a calendar year with 91.",
+        "category": "World Record"
+      },
+      {
+        "year": 2015,
+        "title": "Second Treble",
+        "description": "Barcelona won La Liga, Copa del Rey and UEFA Champions League, completing the club's second continental treble.",
+        "category": "Historic Achievement"
+      },
+      {
+        "year": 2015,
+        "title": "Fifth Ballon d'Or",
+        "description": "Won his fifth Ballon d'Or after leading Barcelona to another treble.",
+        "category": "Award"
+      },
+      {
+        "year": 2018,
+        "title": "Named Club Captain",
+        "description": "Succeeded Andrés Iniesta as captain of FC Barcelona.",
+        "category": "Leadership"
+      },
+      {
+        "date": "2020-12-22",
+        "year": 2020,
+        "title": "Most Goals for a Single Club",
+        "description": "Surpassed Pelé's record for the most official goals scored for a single club.",
+        "category": "World Record"
+      },
+      {
+        "date": "2021-03-21",
+        "year": 2021,
+        "title": "Most Appearances for Barcelona",
+        "description": "Surpassed Xavi Hernández to become FC Barcelona's all-time appearance leader.",
+        "category": "Club Record"
+      },
+      {
+        "date": "2021-04-17",
+        "year": 2021,
+        "title": "Final Trophy with Barcelona",
+        "description": "Scored twice as Barcelona defeated Athletic Club 4-0 to win the Copa del Rey.",
+        "competition": "Copa del Rey",
+        "opponent": "Athletic Club",
+        "category": "Trophy"
+      },
+      {
+        "date": "2021-08-05",
+        "year": 2021,
+        "title": "Barcelona Departure Announced",
+        "description": "FC Barcelona announced that Messi would leave the club because a new contract could not be completed under La Liga's financial regulations.",
+        "category": "Career Milestone"
+      },
+      {
+        "date": "2021-08-08",
+        "year": 2021,
+        "title": "Farewell Press Conference",
+        "description": "Held an emotional farewell press conference at Camp Nou, ending a 21-year association with FC Barcelona.",
+        "category": "Farewell"
+      }
+    ],
+    "barcelona_summary": {
+      "period": "2004-2021",
+      "official_matches": 778,
+      "official_goals": 672,
+      "official_assists": 303,
+      "major_trophies": 35,
+      "ballon_dor_won_at_barcelona": 6
+    }
+  },
+  "psg_inter_miami_timeline": {
+    "overview": {
+      "player": "Lionel Andrés Messi",
+      "period": "2021-2024",
+      "last_updated": "2024-12-31"
+    },
+    "timeline": [
+      {
+        "date": "2021-08-10",
+        "year": 2021,
+        "age": 34,
+        "title": "Signed for Paris Saint-Germain",
+        "description": "Joined Paris Saint-Germain on a two-year contract with an option for a third year after leaving FC Barcelona.",
+        "club": "Paris Saint-Germain",
+        "category": "Transfer"
+      },
+      {
+        "date": "2021-08-29",
+        "year": 2021,
+        "title": "PSG Debut",
+        "description": "Made his official debut for Paris Saint-Germain against Reims, coming on as a second-half substitute.",
+        "competition": "Ligue 1",
+        "opponent": "Reims",
+        "category": "Debut"
+      },
+      {
+        "date": "2021-09-28",
+        "year": 2021,
+        "title": "First PSG Goal",
+        "description": "Scored his first goal for Paris Saint-Germain in a UEFA Champions League victory over Manchester City.",
+        "competition": "UEFA Champions League",
+        "opponent": "Manchester City",
+        "category": "Milestone"
+      },
+      {
+        "date": "2021-11-29",
+        "year": 2021,
+        "title": "Won Seventh Ballon d'Or",
+        "description": "Won a record seventh Ballon d'Or after leading Argentina to the 2021 Copa América title.",
+        "category": "Award"
+      },
+      {
+        "date": "2022-04-23",
+        "year": 2022,
+        "title": "Won Ligue 1",
+        "description": "Helped Paris Saint-Germain win the 2021-22 Ligue 1 title.",
+        "competition": "Ligue 1",
+        "category": "Trophy"
+      },
+      {
+        "date": "2022-07-31",
+        "year": 2022,
+        "title": "Won Trophée des Champions",
+        "description": "Won the Trophée des Champions after PSG defeated Nantes.",
+        "competition": "Trophée des Champions",
+        "category": "Trophy"
+      },
+      {
+        "date": "2023-05-27",
+        "year": 2023,
+        "title": "Second Ligue 1 Title",
+        "description": "Secured a second consecutive Ligue 1 championship with Paris Saint-Germain.",
+        "competition": "Ligue 1",
+        "category": "Trophy"
+      },
+      {
+        "date": "2023-06-03",
+        "year": 2023,
+        "title": "Final Match for PSG",
+        "description": "Played his final match for Paris Saint-Germain against Clermont Foot.",
+        "competition": "Ligue 1",
+        "opponent": "Clermont Foot",
+        "category": "Farewell"
+      },
+      {
+        "date": "2023-06-07",
+        "year": 2023,
+        "title": "Announced Move to Inter Miami",
+        "description": "Confirmed that he would continue his career with Major League Soccer club Inter Miami CF.",
+        "category": "Transfer"
+      },
+      {
+        "date": "2023-07-15",
+        "year": 2023,
+        "title": "Signed for Inter Miami",
+        "description": "Inter Miami officially announced the signing of Lionel Messi.",
+        "club": "Inter Miami CF",
+        "category": "Transfer"
+      },
+      {
+        "date": "2023-07-16",
+        "year": 2023,
+        "title": "Official Presentation",
+        "description": "Was presented to Inter Miami supporters during the 'The Unveil' event at DRV PNK Stadium.",
+        "category": "Presentation"
+      },
+      {
+        "date": "2023-07-21",
+        "year": 2023,
+        "title": "Inter Miami Debut",
+        "description": "Made his debut against Cruz Azul and scored a stoppage-time free-kick winner.",
+        "competition": "Leagues Cup",
+        "opponent": "Cruz Azul",
+        "category": "Debut"
+      },
+      {
+        "date": "2023-08-19",
+        "year": 2023,
+        "title": "Won Leagues Cup",
+        "description": "Captained Inter Miami to the first trophy in club history by winning the Leagues Cup.",
+        "competition": "Leagues Cup",
+        "category": "Historic Achievement"
+      },
+      {
+        "date": "2023-10-30",
+        "year": 2023,
+        "title": "Won Eighth Ballon d'Or",
+        "description": "Won a record eighth Ballon d'Or following Argentina's 2022 FIFA World Cup triumph.",
+        "category": "Award"
+      },
+      {
+        "date": "2024-05-04",
+        "year": 2024,
+        "title": "MLS Single-Match Assist Record",
+        "description": "Recorded five assists in one MLS match against the New York Red Bulls, setting a league record.",
+        "competition": "Major League Soccer",
+        "opponent": "New York Red Bulls",
+        "category": "Record"
+      },
+      {
+        "date": "2024-10-02",
+        "year": 2024,
+        "title": "Won Supporters' Shield",
+        "description": "Inter Miami secured the MLS Supporters' Shield after defeating the Columbus Crew.",
+        "competition": "Major League Soccer",
+        "category": "Trophy"
+      },
+      {
+        "date": "2024-10-19",
+        "year": 2024,
+        "title": "MLS Regular Season Record",
+        "description": "Inter Miami finished the regular season with 74 points, setting a new MLS single-season points record.",
+        "competition": "Major League Soccer",
+        "category": "Historic Achievement"
+      },
+      {
+        "date": "2024-12-06",
+        "year": 2024,
+        "title": "Named MLS Most Valuable Player",
+        "description": "Won the MLS MVP award after an outstanding 2024 regular season.",
+        "competition": "Major League Soccer",
+        "category": "Award"
+      }
+    ],
+    "summary": {
+      "period": "2021-2024",
+      "clubs": [
+        "Paris Saint-Germain",
+        "Inter Miami CF"
+      ],
+      "major_trophies": [
+        "Ligue 1 (2021-22)",
+        "Ligue 1 (2022-23)",
+        "Trophée des Champions (2022)",
+        "Leagues Cup (2023)",
+        "Supporters' Shield (2024)"
+      ],
+      "ballon_dor_titles": [
+        2021,
+        2023
+      ],
+      "major_events": 18
+    }
+  },
+  "argentina_timeline": {
+    "overview": {
+      "player": "Lionel Andrés Messi",
+      "team": "Argentina",
+      "period": "2004-2024",
+      "last_updated": "2024-12-31"
+    },
+    "timeline": [
+      {
+        "date": "2004-06",
+        "year": 2004,
+        "age": 16,
+        "title": "Argentina U20 Debut",
+        "description": "Made his debut for Argentina's youth national team, beginning his international career.",
+        "category": "Youth International"
+      },
+      {
+        "year": 2005,
+        "title": "FIFA World Youth Championship Winner",
+        "description": "Led Argentina to victory at the FIFA World Youth Championship in the Netherlands, finishing as both Golden Ball and Golden Boot winner.",
+        "competition": "FIFA World Youth Championship",
+        "category": "Youth Trophy"
+      },
+      {
+        "date": "2005-08-17",
+        "year": 2005,
+        "title": "Senior Argentina Debut",
+        "description": "Made his senior international debut against Hungary.",
+        "competition": "International Friendly",
+        "opponent": "Hungary",
+        "category": "Senior Debut"
+      },
+      {
+        "date": "2006-03-01",
+        "year": 2006,
+        "title": "First Senior International Goal",
+        "description": "Scored his first goal for Argentina against Croatia.",
+        "competition": "International Friendly",
+        "opponent": "Croatia",
+        "category": "Milestone"
+      },
+      {
+        "year": 2006,
+        "title": "First FIFA World Cup",
+        "description": "Represented Argentina at the FIFA World Cup in Germany and became the nation's youngest World Cup goalscorer.",
+        "competition": "FIFA World Cup",
+        "category": "Tournament"
+      },
+      {
+        "year": 2007,
+        "title": "Copa América Runner-up",
+        "description": "Helped Argentina reach the Copa América Final and was named Best Young Player of the tournament.",
+        "competition": "Copa América",
+        "category": "Tournament"
+      },
+      {
+        "year": 2008,
+        "title": "Olympic Gold Medal",
+        "description": "Won the Olympic gold medal with Argentina at the Beijing Olympic Games.",
+        "competition": "Olympic Games",
+        "category": "International Trophy"
+      },
+      {
+        "year": 2011,
+        "title": "Named Argentina Captain",
+        "description": "Became the permanent captain of the Argentina national team under Alejandro Sabella.",
+        "category": "Leadership"
+      },
+      {
+        "year": 2014,
+        "title": "FIFA World Cup Runner-up",
+        "description": "Captained Argentina to the FIFA World Cup Final and received the Golden Ball as the tournament's best player.",
+        "competition": "FIFA World Cup",
+        "category": "Tournament"
+      },
+      {
+        "year": 2015,
+        "title": "Copa América Runner-up",
+        "description": "Reached the Copa América Final before losing to Chile on penalties.",
+        "competition": "Copa América",
+        "category": "Tournament"
+      },
+      {
+        "date": "2016-06-21",
+        "year": 2016,
+        "title": "Argentina's All-Time Top Goalscorer",
+        "description": "Broke Gabriel Batistuta's record by scoring against the United States in the Copa América Centenario semi-final.",
+        "competition": "Copa América Centenario",
+        "opponent": "United States",
+        "category": "Record"
+      },
+      {
+        "date": "2016-06-26",
+        "year": 2016,
+        "title": "Announced International Retirement",
+        "description": "Announced his retirement from international football after the Copa América Centenario Final loss to Chile.",
+        "category": "Career"
+      },
+      {
+        "date": "2016-08-12",
+        "year": 2016,
+        "title": "Returned to Argentina",
+        "description": "Reversed his retirement decision and returned to the national team.",
+        "category": "Career"
+      },
+      {
+        "year": 2018,
+        "title": "Fourth FIFA World Cup",
+        "description": "Represented Argentina at the FIFA World Cup in Russia.",
+        "competition": "FIFA World Cup",
+        "category": "Tournament"
+      },
+      {
+        "year": 2019,
+        "title": "Copa América Third Place",
+        "description": "Helped Argentina finish third at the Copa América in Brazil.",
+        "competition": "Copa América",
+        "category": "Tournament"
+      },
+      {
+        "date": "2021-07-10",
+        "year": 2021,
+        "title": "First Senior International Trophy",
+        "description": "Captained Argentina to victory over Brazil in the Copa América Final at the Maracanã and was named Player of the Tournament.",
+        "competition": "Copa América",
+        "opponent": "Brazil",
+        "category": "Historic Achievement"
+      },
+      {
+        "date": "2022-06-01",
+        "year": 2022,
+        "title": "Won the Finalissima",
+        "description": "Argentina defeated Italy 3-0 at Wembley, with Messi named Player of the Match.",
+        "competition": "Finalissima",
+        "opponent": "Italy",
+        "category": "International Trophy"
+      },
+      {
+        "date": "2022-12-18",
+        "year": 2022,
+        "title": "FIFA World Cup Champion",
+        "description": "Captained Argentina to victory over France in the FIFA World Cup Final, scoring twice and winning the Golden Ball for a record second time.",
+        "competition": "FIFA World Cup",
+        "opponent": "France",
+        "category": "Historic Achievement"
+      },
+      {
+        "date": "2023-03-28",
+        "year": 2023,
+        "title": "100 International Goals",
+        "description": "Scored a hat-trick against Curaçao to surpass 100 goals for Argentina.",
+        "competition": "International Friendly",
+        "opponent": "Curaçao",
+        "category": "Milestone"
+      },
+      {
+        "date": "2023-10-17",
+        "year": 2023,
+        "title": "CONMEBOL World Cup Qualifying Record",
+        "description": "Became the all-time leading goalscorer in CONMEBOL FIFA World Cup qualification.",
+        "competition": "FIFA World Cup Qualifiers",
+        "category": "Record"
+      },
+      {
+        "date": "2024-07-14",
+        "year": 2024,
+        "title": "Won Copa América 2024",
+        "description": "Argentina defeated Colombia after extra time to retain the Copa América title. Messi left the final injured during the second half but lifted his fourth major senior international trophy after the match.",
+        "competition": "Copa América",
+        "opponent": "Colombia",
+        "category": "Historic Achievement"
+      }
+    ],
+    "summary": {
+      "period": "2004-2024",
+      "major_tournaments": {
+        "fifa_world_cup": 5,
+        "copa_america": 7,
+        "olympic_games": 1,
+        "fifa_world_youth_championship": 1,
+        "finalissima": 1
+      },
+      "major_titles": [
+        "FIFA World Youth Championship (2005)",
+        "Olympic Gold Medal (2008)",
+        "Copa América (2021)",
+        "Finalissima (2022)",
+        "FIFA World Cup (2022)",
+        "Copa América (2024)"
+      ],
+      "captain_since": 2011
+    }
+  },
+  "individual_milestones_timeline": {
+    "overview": {
+      "player": "Lionel Andrés Messi",
+      "period": "2005-2024",
+      "last_updated": "2024-12-31"
+    },
+    "timeline": [
+      {
+        "date": "2005-05-01",
+        "year": 2005,
+        "title": "First Official Senior Goal",
+        "description": "Scored his first official goal for FC Barcelona against Albacete.",
+        "category": "Goals"
+      },
+      {
+        "year": 2007,
+        "title": "First El Clásico Hat-trick",
+        "description": "Scored his first hat-trick against Real Madrid in a 3–3 La Liga draw.",
+        "category": "Milestone"
+      },
+      {
+        "date": "2009-12-01",
+        "year": 2009,
+        "title": "First Ballon d'Or",
+        "description": "Won his first Ballon d'Or after Barcelona's historic sextuple season.",
+        "category": "Award"
+      },
+      {
+        "year": 2010,
+        "title": "100 Career Goals",
+        "description": "Reached 100 official senior career goals for club and country.",
+        "category": "Goals"
+      },
+      {
+        "date": "2012-03-20",
+        "year": 2012,
+        "title": "Barcelona's All-Time Leading Goalscorer",
+        "description": "Surpassed César Rodríguez to become FC Barcelona's all-time leading scorer.",
+        "category": "Record"
+      },
+      {
+        "year": 2012,
+        "title": "91 Goals in a Calendar Year",
+        "description": "Set the Guinness World Record for the most official goals scored in a calendar year (91).",
+        "category": "World Record"
+      },
+      {
+        "year": 2013,
+        "title": "Fourth Consecutive Ballon d'Or",
+        "description": "Became the first player to win four consecutive Ballon d'Or awards.",
+        "category": "Award"
+      },
+      {
+        "year": 2014,
+        "title": "400 Career Goals",
+        "description": "Reached 400 official senior career goals.",
+        "category": "Goals"
+      },
+      {
+        "year": 2015,
+        "title": "Second Continental Treble",
+        "description": "Became the first player to play a key role in two continental trebles with the same club.",
+        "category": "Historic Achievement"
+      },
+      {
+        "year": 2016,
+        "title": "500 Career Goals",
+        "description": "Reached 500 official senior career goals.",
+        "category": "Goals"
+      },
+      {
+        "year": 2018,
+        "title": "Sixth European Golden Shoe",
+        "description": "Won a record sixth European Golden Shoe.",
+        "category": "Award"
+      },
+      {
+        "date": "2020-12-22",
+        "year": 2020,
+        "title": "Most Goals for One Club",
+        "description": "Surpassed Pelé's record for the most official goals scored for a single club.",
+        "category": "World Record"
+      },
+      {
+        "year": 2021,
+        "title": "Most International Goals by a South American Man",
+        "description": "Broke Pelé's record to become the highest-scoring South American male international footballer.",
+        "category": "Record"
+      },
+      {
+        "date": "2022-12-18",
+        "year": 2022,
+        "title": "Completed Football",
+        "description": "Won the FIFA World Cup, completing every major team honour available in his senior career.",
+        "category": "Historic Achievement"
+      },
+      {
+        "date": "2023-03-28",
+        "year": 2023,
+        "title": "100 International Goals",
+        "description": "Scored a hat-trick against Curaçao to surpass 100 international goals for Argentina.",
+        "category": "Goals"
+      },
+      {
+        "date": "2023-10-30",
+        "year": 2023,
+        "title": "Eighth Ballon d'Or",
+        "description": "Extended his own record by winning an eighth Ballon d'Or.",
+        "category": "Award"
+      },
+      {
+        "year": 2023,
+        "title": "1000 Official Senior Matches",
+        "description": "Reached the milestone of 1,000 official senior appearances.",
+        "category": "Matches"
+      },
+      {
+        "date": "2024-06-20",
+        "year": 2024,
+        "title": "Copa América Appearance Record",
+        "description": "Became the player with the most appearances in Copa América history.",
+        "competition": "Copa América",
+        "category": "Record"
+      },
+      {
+        "date": "2024-07-14",
+        "year": 2024,
+        "title": "Second Copa América Title",
+        "description": "Won the Copa América for a second time, adding another major international title to his career.",
+        "category": "Trophy"
+      },
+      {
+        "date": "2024-12-06",
+        "year": 2024,
+        "title": "MLS Most Valuable Player",
+        "description": "Won the MLS MVP award after leading Inter Miami to the Supporters' Shield and a record-setting regular season.",
+        "category": "Award"
+      }
+    ],
+    "milestone_summary": {
+      "ballon_dor_titles": 8,
+      "world_records": 4,
+      "major_goal_milestones": [
+        100,
+        400,
+        500
+      ],
+      "international_goal_milestones": [
+        100
+      ],
+      "appearance_milestones": [
+        1000
+      ],
+      "major_individual_events": 20
+    }
+  },
+  "awards_timeline": {
+    "overview": {
+      "player": "Lionel Andrés Messi",
+      "period": "2005-2024",
+      "last_updated": "2024-12-31"
+    },
+    "timeline": [
+      {
+        "year": 2005,
+        "title": "Golden Boy Award",
+        "description": "Won the Golden Boy award, recognizing the best young player in European football.",
+        "category": "Youth Award"
+      },
+      {
+        "year": 2005,
+        "title": "FIFA World Youth Championship Awards",
+        "description": "Won both the Golden Ball and Golden Boot after leading Argentina to the FIFA World Youth Championship title.",
+        "competition": "FIFA World Youth Championship",
+        "category": "Tournament Award"
+      },
+      {
+        "year": 2009,
+        "title": "First Ballon d'Or",
+        "description": "Won his first Ballon d'Or after Barcelona's historic sextuple season.",
+        "category": "Major Individual Award"
+      },
+      {
+        "year": 2009,
+        "title": "FIFA World Player of the Year",
+        "description": "Won the FIFA World Player of the Year award.",
+        "category": "Major Individual Award"
+      },
+      {
+        "year": 2010,
+        "title": "First FIFA Ballon d'Or",
+        "description": "Won the inaugural FIFA Ballon d'Or after FIFA and France Football merged their awards.",
+        "category": "Major Individual Award"
+      },
+      {
+        "year": 2011,
+        "title": "Second FIFA Ballon d'Or",
+        "description": "Successfully defended the FIFA Ballon d'Or title.",
+        "category": "Major Individual Award"
+      },
+      {
+        "year": 2012,
+        "title": "Third FIFA Ballon d'Or",
+        "description": "Won a third consecutive FIFA Ballon d'Or after his record-breaking 91-goal calendar year.",
+        "category": "Major Individual Award"
+      },
+      {
+        "year": 2013,
+        "title": "Fourth Consecutive Ballon d'Or",
+        "description": "Became the first player in history to win four consecutive Ballon d'Or awards.",
+        "category": "Historic Achievement"
+      },
+      {
+        "year": 2014,
+        "title": "FIFA World Cup Golden Ball",
+        "description": "Won the Golden Ball as the best player of the 2014 FIFA World Cup.",
+        "competition": "FIFA World Cup",
+        "category": "Tournament Award"
+      },
+      {
+        "year": 2015,
+        "title": "Fifth Ballon d'Or",
+        "description": "Won his fifth Ballon d'Or after Barcelona's second continental treble.",
+        "category": "Major Individual Award"
+      },
+      {
+        "year": 2019,
+        "title": "Sixth Ballon d'Or",
+        "description": "Won a record sixth Ballon d'Or.",
+        "category": "Major Individual Award"
+      },
+      {
+        "year": 2019,
+        "title": "The Best FIFA Men's Player",
+        "description": "Won The Best FIFA Men's Player award.",
+        "category": "Major Individual Award"
+      },
+      {
+        "year": 2020,
+        "title": "Laureus World Sportsman of the Year",
+        "description": "Became the first footballer to win the Laureus World Sportsman of the Year Award (shared with Lewis Hamilton).",
+        "category": "International Award"
+      },
+      {
+        "year": 2021,
+        "title": "Seventh Ballon d'Or",
+        "description": "Won a record seventh Ballon d'Or after leading Argentina to the Copa América title.",
+        "category": "Major Individual Award"
+      },
+      {
+        "year": 2022,
+        "title": "The Best FIFA Men's Player",
+        "description": "Won The Best FIFA Men's Player following Argentina's FIFA World Cup triumph.",
+        "category": "Major Individual Award"
+      },
+      {
+        "year": 2022,
+        "title": "FIFA World Cup Golden Ball",
+        "description": "Became the first player in history to win the FIFA World Cup Golden Ball twice.",
+        "competition": "FIFA World Cup",
+        "category": "Historic Achievement"
+      },
+      {
+        "year": 2023,
+        "title": "Laureus World Sportsman of the Year",
+        "description": "Won his second Laureus World Sportsman of the Year award.",
+        "category": "International Award"
+      },
+      {
+        "year": 2023,
+        "title": "Eighth Ballon d'Or",
+        "description": "Extended his own record by winning an eighth Ballon d'Or.",
+        "category": "Major Individual Award"
+      },
+      {
+        "year": 2023,
+        "title": "TIME Athlete of the Year",
+        "description": "Named TIME Athlete of the Year after transforming football's popularity in the United States.",
+        "category": "International Award"
+      },
+      {
+        "year": 2024,
+        "title": "MLS Most Valuable Player",
+        "description": "Won the Landon Donovan MLS Most Valuable Player award after leading Inter Miami to the Supporters' Shield and a record-breaking MLS regular season.",
+        "competition": "Major League Soccer",
+        "category": "League Award"
+      }
+    ],
+    "major_awards_summary": {
+      "ballon_dor": [
+        2009,
+        2010,
+        2011,
+        2012,
+        2015,
+        2019,
+        2021,
+        2023
+      ],
+      "fifa_world_player": [
+        2009
+      ],
+      "fifa_ballon_dor": [
+        2010,
+        2011,
+        2012,
+        2015
+      ],
+      "the_best_fifa_mens_player": [
+        2019,
+        2022
+      ],
+      "world_cup_golden_ball": [
+        2014,
+        2022
+      ],
+      "laureus_world_sportsman": [
+        2020,
+        2023
+      ]
+    }
+  },
+  "trophy_timeline": {
+    "overview": {
+      "player": "Lionel Andrés Messi",
+      "period": "2005-2024",
+      "last_updated": "2024-12-31",
+      "official_team_trophies": 46
+    },
+    "timeline": [
+      {
+        "year": 2005,
+        "title": "First Senior Trophy",
+        "achievement": "Won La Liga with FC Barcelona.",
+        "club": "FC Barcelona",
+        "competition": "La Liga",
+        "category": "Club Trophy"
+      },
+      {
+        "year": 2005,
+        "title": "FIFA World Youth Championship",
+        "achievement": "Won the FIFA World Youth Championship with Argentina U20.",
+        "team": "Argentina U20",
+        "competition": "FIFA World Youth Championship",
+        "category": "International Trophy"
+      },
+      {
+        "year": 2006,
+        "title": "First UEFA Champions League",
+        "achievement": "Won the UEFA Champions League with Barcelona.",
+        "club": "FC Barcelona",
+        "competition": "UEFA Champions League",
+        "category": "Club Trophy"
+      },
+      {
+        "year": 2008,
+        "title": "Olympic Gold Medal",
+        "achievement": "Won the Men's Olympic Football Tournament with Argentina.",
+        "team": "Argentina U23",
+        "competition": "Olympic Games",
+        "category": "International Trophy"
+      },
+      {
+        "year": 2009,
+        "title": "Historic Sextuple",
+        "achievement": "Barcelona became the first club to win six official trophies in a single calendar year.",
+        "club": "FC Barcelona",
+        "category": "Historic Achievement"
+      },
+      {
+        "year": 2011,
+        "title": "Third UEFA Champions League",
+        "achievement": "Won his third UEFA Champions League title.",
+        "competition": "UEFA Champions League",
+        "category": "Club Trophy"
+      },
+      {
+        "year": 2015,
+        "title": "Second Continental Treble",
+        "achievement": "Won La Liga, Copa del Rey and UEFA Champions League in the same season.",
+        "club": "FC Barcelona",
+        "category": "Historic Achievement"
+      },
+      {
+        "year": 2018,
+        "title": "34th Barcelona Trophy",
+        "achievement": "Became FC Barcelona's most decorated player.",
+        "club": "FC Barcelona",
+        "category": "Club Record"
+      },
+      {
+        "date": "2021-07-10",
+        "year": 2021,
+        "title": "First Senior International Trophy",
+        "achievement": "Won the Copa América after defeating Brazil in the final.",
+        "team": "Argentina",
+        "competition": "Copa América",
+        "category": "International Trophy"
+      },
+      {
+        "date": "2022-04-23",
+        "year": 2022,
+        "title": "First Trophy with Paris Saint-Germain",
+        "achievement": "Won the Ligue 1 title.",
+        "club": "Paris Saint-Germain",
+        "competition": "Ligue 1",
+        "category": "Club Trophy"
+      },
+      {
+        "date": "2022-06-01",
+        "year": 2022,
+        "title": "Finalissima Champion",
+        "achievement": "Argentina defeated Italy 3–0 at Wembley Stadium.",
+        "team": "Argentina",
+        "competition": "Finalissima",
+        "category": "International Trophy"
+      },
+      {
+        "date": "2022-12-18",
+        "year": 2022,
+        "title": "FIFA World Cup Champion",
+        "achievement": "Captained Argentina to victory over France in the FIFA World Cup Final.",
+        "team": "Argentina",
+        "competition": "FIFA World Cup",
+        "category": "Historic Achievement"
+      },
+      {
+        "date": "2023-05-27",
+        "year": 2023,
+        "title": "Second Ligue 1 Title",
+        "achievement": "Won a second consecutive Ligue 1 title with Paris Saint-Germain.",
+        "club": "Paris Saint-Germain",
+        "competition": "Ligue 1",
+        "category": "Club Trophy"
+      },
+      {
+        "date": "2023-08-19",
+        "year": 2023,
+        "title": "Leagues Cup Champion",
+        "achievement": "Led Inter Miami to its first trophy in club history.",
+        "club": "Inter Miami CF",
+        "competition": "Leagues Cup",
+        "category": "Historic Achievement"
+      },
+      {
+        "date": "2024-07-14",
+        "year": 2024,
+        "title": "Second Copa América",
+        "achievement": "Argentina defeated Colombia to retain the Copa América title.",
+        "team": "Argentina",
+        "competition": "Copa América",
+        "category": "International Trophy"
+      },
+      {
+        "date": "2024-10-02",
+        "year": 2024,
+        "title": "Supporters' Shield Champion",
+        "achievement": "Inter Miami won the MLS Supporters' Shield for the first time in club history.",
+        "club": "Inter Miami CF",
+        "competition": "MLS Supporters' Shield",
+        "category": "Club Trophy"
+      }
+    ],
+    "career_trophy_progression": [
+      {
+        "period": "2005-2021",
+        "club": "FC Barcelona",
+        "trophies": 35
+      },
+      {
+        "period": "2021-2023",
+        "club": "Paris Saint-Germain",
+        "trophies": 3
+      },
+      {
+        "period": "2023-2024",
+        "club": "Inter Miami CF",
+        "trophies": 2
+      },
+      {
+        "period": "2005-2024",
+        "team": "Argentina (Senior)",
+        "trophies": 4
+      },
+      {
+        "period": "2005-2008",
+        "team": "Argentina Youth",
+        "trophies": 2
+      }
+    ],
+    "summary": {
+      "official_team_trophies": 46,
+      "club_trophies": 40,
+      "senior_international_trophies": 4,
+      "youth_international_trophies": 2,
+      "historic_titles": [
+        "Historic Sextuple (2009)",
+        "Second Continental Treble (2015)",
+        "FIFA World Cup (2022)",
+        "Leagues Cup (2023)"
+      ]
+    }
+  },
+  "records_timeline": {
+    "overview": {
+      "player": "Lionel Andrés Messi",
+      "period": "2005-2024",
+      "last_updated": "2024-12-31"
+    },
+    "timeline": [
+      {
+        "year": 2005,
+        "title": "Youngest Barcelona Goalscorer",
+        "description": "Became FC Barcelona's youngest official goalscorer at the time after scoring against Albacete.",
+        "category": "Club Record"
+      },
+      {
+        "date": "2007-03-10",
+        "year": 2007,
+        "title": "El Clásico Hat-trick",
+        "description": "Became the first player in over a decade to score a hat-trick in El Clásico.",
+        "competition": "La Liga",
+        "category": "Historic Record"
+      },
+      {
+        "year": 2009,
+        "title": "First Sextuple Winner",
+        "description": "Helped FC Barcelona become the first club in football history to win six official trophies in a calendar year.",
+        "category": "Historic Achievement"
+      },
+      {
+        "date": "2012-03-20",
+        "year": 2012,
+        "title": "Barcelona All-Time Leading Goalscorer",
+        "description": "Surpassed César Rodríguez as FC Barcelona's all-time top scorer.",
+        "category": "Club Record"
+      },
+      {
+        "year": 2012,
+        "title": "91 Goals in One Calendar Year",
+        "description": "Set the Guinness World Record for the most official goals scored in a calendar year.",
+        "category": "World Record"
+      },
+      {
+        "year": 2012,
+        "title": "50 La Liga Goals in One Season",
+        "description": "Set the record for the most goals in a single La Liga season.",
+        "competition": "La Liga",
+        "category": "League Record"
+      },
+      {
+        "year": 2013,
+        "title": "Four Consecutive Ballon d'Or Awards",
+        "description": "Became the first player in football history to win four consecutive Ballon d'Or awards.",
+        "category": "Historic Record"
+      },
+      {
+        "year": 2014,
+        "title": "Champions League All-Time Top Scorer",
+        "description": "Became the UEFA Champions League's all-time leading scorer (a record later surpassed by Cristiano Ronaldo).",
+        "competition": "UEFA Champions League",
+        "category": "UEFA Record"
+      },
+      {
+        "year": 2015,
+        "title": "Two Continental Trebles",
+        "description": "Became the first player to play a key role in winning two continental trebles with the same club.",
+        "category": "Historic Achievement"
+      },
+      {
+        "date": "2016-06-21",
+        "year": 2016,
+        "title": "Argentina's All-Time Leading Goalscorer",
+        "description": "Surpassed Gabriel Batistuta's international goals record.",
+        "category": "National Team Record"
+      },
+      {
+        "year": 2018,
+        "title": "Most Decorated Barcelona Player",
+        "description": "Became the most successful player in FC Barcelona history by trophies won.",
+        "category": "Club Record"
+      },
+      {
+        "date": "2020-12-22",
+        "year": 2020,
+        "title": "Most Goals for a Single Club",
+        "description": "Surpassed Pelé's record for the most official goals scored for one club.",
+        "category": "World Record"
+      },
+      {
+        "date": "2021-03-21",
+        "year": 2021,
+        "title": "Most Barcelona Appearances",
+        "description": "Surpassed Xavi Hernández to become FC Barcelona's all-time appearance leader.",
+        "category": "Club Record"
+      },
+      {
+        "date": "2021-09-09",
+        "year": 2021,
+        "title": "South America's Top International Goalscorer",
+        "description": "Surpassed Pelé to become the highest-scoring South American men's international footballer.",
+        "category": "International Record"
+      },
+      {
+        "date": "2022-12-18",
+        "year": 2022,
+        "title": "Two FIFA World Cup Golden Balls",
+        "description": "Became the first player to win the FIFA World Cup Golden Ball award twice.",
+        "competition": "FIFA World Cup",
+        "category": "World Record"
+      },
+      {
+        "date": "2022-12-18",
+        "year": 2022,
+        "title": "Most World Cup Minutes Played",
+        "description": "Set the all-time FIFA World Cup record for minutes played.",
+        "competition": "FIFA World Cup",
+        "category": "World Record"
+      },
+      {
+        "date": "2022-12-18",
+        "year": 2022,
+        "title": "Most World Cup Appearances",
+        "description": "Broke the all-time FIFA World Cup appearance record by reaching 26 matches.",
+        "competition": "FIFA World Cup",
+        "category": "World Record"
+      },
+      {
+        "date": "2023-03-28",
+        "year": 2023,
+        "title": "100 International Goals",
+        "description": "Became the third men's footballer and the first South American to score 100 international goals.",
+        "category": "International Record"
+      },
+      {
+        "date": "2023-10-17",
+        "year": 2023,
+        "title": "CONMEBOL World Cup Qualifying Record",
+        "description": "Became the all-time leading goalscorer in CONMEBOL FIFA World Cup qualification.",
+        "competition": "FIFA World Cup Qualifiers",
+        "category": "Continental Record"
+      },
+      {
+        "date": "2024-06-20",
+        "year": 2024,
+        "title": "Most Copa América Appearances",
+        "description": "Became the player with the most appearances in Copa América history.",
+        "competition": "Copa América",
+        "category": "Tournament Record"
+      },
+      {
+        "date": "2024-07-09",
+        "year": 2024,
+        "title": "Most Copa América Knockout Matches",
+        "description": "Set the record for the most Copa América knockout-stage appearances.",
+        "competition": "Copa América",
+        "category": "Tournament Record"
+      }
+    ],
+    "records_summary": {
+      "world_records": 6,
+      "fifa_records": 4,
+      "uefa_records": 1,
+      "barcelona_records": 4,
+      "argentina_records": 2,
+      "continental_records": 2,
+      "historic_achievements": 3,
+      "major_record_events": 21
+    }
+  },
+  "career_milestones_timeline": {
+    "overview": {
+      "player": "Lionel Andrés Messi",
+      "period": "1987-2024",
+      "last_updated": "2024-12-31"
+    },
+    "timeline": [
+      {
+        "date": "1987-06-24",
+        "year": 1987,
+        "title": "Born",
+        "description": "Born in Rosario, Santa Fe, Argentina.",
+        "category": "Personal"
+      },
+      {
+        "date": "2000-12-14",
+        "year": 2000,
+        "title": "Barcelona Agreement",
+        "description": "FC Barcelona agreed to sign Messi through the famous 'napkin contract', securing his move to Spain and funding his medical treatment.",
+        "category": "Career"
+      },
+      {
+        "date": "2004-10-16",
+        "year": 2004,
+        "title": "Professional Debut",
+        "description": "Made his official first-team debut for FC Barcelona against Espanyol in La Liga.",
+        "category": "Debut"
+      },
+      {
+        "date": "2005-05-01",
+        "year": 2005,
+        "title": "First Professional Goal",
+        "description": "Scored his first official goal for FC Barcelona against Albacete.",
+        "category": "Milestone"
+      },
+      {
+        "date": "2005-08-17",
+        "year": 2005,
+        "title": "Argentina Senior Debut",
+        "description": "Made his senior international debut for Argentina against Hungary.",
+        "category": "International"
+      },
+      {
+        "year": 2008,
+        "title": "Olympic Champion",
+        "description": "Won the Olympic gold medal with Argentina at the Beijing Olympic Games.",
+        "category": "International Trophy"
+      },
+      {
+        "year": 2009,
+        "title": "World's Best Player",
+        "description": "Won his first Ballon d'Or and helped Barcelona complete the historic sextuple.",
+        "category": "Historic Achievement"
+      },
+      {
+        "year": 2011,
+        "title": "Argentina Captain",
+        "description": "Became the permanent captain of the Argentina national team.",
+        "category": "Leadership"
+      },
+      {
+        "date": "2012-03-20",
+        "year": 2012,
+        "title": "Barcelona All-Time Top Scorer",
+        "description": "Became FC Barcelona's all-time leading goalscorer.",
+        "category": "Record"
+      },
+      {
+        "year": 2012,
+        "title": "91 Goals in a Calendar Year",
+        "description": "Set the world record with 91 official goals in a single calendar year.",
+        "category": "World Record"
+      },
+      {
+        "year": 2015,
+        "title": "Second European Treble",
+        "description": "Won his second continental treble with Barcelona.",
+        "category": "Historic Achievement"
+      },
+      {
+        "date": "2016-06-21",
+        "year": 2016,
+        "title": "Argentina's Leading Goalscorer",
+        "description": "Surpassed Gabriel Batistuta to become Argentina's all-time top goalscorer.",
+        "category": "National Record"
+      },
+      {
+        "year": 2018,
+        "title": "Barcelona Captain",
+        "description": "Succeeded Andrés Iniesta as captain of FC Barcelona.",
+        "category": "Leadership"
+      },
+      {
+        "date": "2020-12-22",
+        "year": 2020,
+        "title": "Most Goals for One Club",
+        "description": "Broke Pelé's record for the most official goals scored for a single club.",
+        "category": "World Record"
+      },
+      {
+        "date": "2021-03-21",
+        "year": 2021,
+        "title": "Barcelona Appearance Record",
+        "description": "Became FC Barcelona's all-time appearance leader.",
+        "category": "Club Record"
+      },
+      {
+        "date": "2021-07-10",
+        "year": 2021,
+        "title": "First Senior International Trophy",
+        "description": "Captained Argentina to the Copa América title after defeating Brazil in the final.",
+        "category": "Historic Achievement"
+      },
+      {
+        "date": "2021-08-10",
+        "year": 2021,
+        "title": "Paris Saint-Germain Transfer",
+        "description": "Signed for Paris Saint-Germain after leaving Barcelona.",
+        "category": "Transfer"
+      },
+      {
+        "date": "2022-06-01",
+        "year": 2022,
+        "title": "Finalissima Champion",
+        "description": "Argentina defeated Italy 3–0 at Wembley.",
+        "category": "International Trophy"
+      },
+      {
+        "date": "2022-12-18",
+        "year": 2022,
+        "title": "World Cup Champion",
+        "description": "Captained Argentina to victory in the FIFA World Cup Final against France, completing the final major trophy missing from his career.",
+        "category": "Historic Achievement"
+      },
+      {
+        "date": "2023-07-15",
+        "year": 2023,
+        "title": "Joined Inter Miami",
+        "description": "Signed with Major League Soccer club Inter Miami CF.",
+        "category": "Transfer"
+      },
+      {
+        "date": "2023-08-19",
+        "year": 2023,
+        "title": "First Inter Miami Trophy",
+        "description": "Led Inter Miami to the Leagues Cup, the first trophy in club history.",
+        "category": "Club Trophy"
+      },
+      {
+        "date": "2023-10-30",
+        "year": 2023,
+        "title": "Eighth Ballon d'Or",
+        "description": "Won a record eighth Ballon d'Or.",
+        "category": "Award"
+      },
+      {
+        "date": "2024-07-14",
+        "year": 2024,
+        "title": "Second Copa América",
+        "description": "Won his second Copa América title as Argentina defeated Colombia in the final.",
+        "category": "International Trophy"
+      },
+      {
+        "date": "2024-10-02",
+        "year": 2024,
+        "title": "Supporters' Shield Champion",
+        "description": "Helped Inter Miami win the MLS Supporters' Shield with a record-breaking regular season.",
+        "category": "Club Trophy"
+      }
+    ],
+    "summary": {
+      "career_span": "1987-2024",
+      "major_milestones": 24,
+      "professional_debut": "2004-10-16",
+      "international_debut": "2005-08-17",
+      "world_cup_titles": 1,
+      "ballon_dor_titles": 8,
+      "major_transfers": 2
+    }
+  },
+  "year_by_year_timeline": {
+    "overview": {
+      "player": "Lionel Andrés Messi",
+      "period": "1987-2024",
+      "last_updated": "2024-12-31"
+    },
+    "timeline": [
+      {
+        "year": 1987,
+        "events": [
+          "Born on 24 June in Rosario, Santa Fe, Argentina."
+        ]
+      },
+      {
+        "year": 1988,
+        "events": [
+          "Spent his early childhood with his family in Rosario."
+        ]
+      },
+      {
+        "year": 1989,
+        "events": [
+          "Developed a growing passion for football."
+        ]
+      },
+      {
+        "year": 1990,
+        "events": [
+          "Continued playing football recreationally with family and friends."
+        ]
+      },
+      {
+        "year": 1991,
+        "events": [
+          "Started playing organized football for Grandoli under his father Jorge Messi."
+        ]
+      },
+      {
+        "year": 1992,
+        "events": [
+          "Continued developing at Grandoli."
+        ]
+      },
+      {
+        "year": 1993,
+        "events": [
+          "Recognized locally as one of Rosario's most talented young footballers."
+        ]
+      },
+      {
+        "year": 1994,
+        "events": [
+          "Joined the youth academy of Newell's Old Boys."
+        ]
+      },
+      {
+        "year": 1995,
+        "events": [
+          "Became a key player in Newell's famous 'Machine of '87' youth team."
+        ]
+      },
+      {
+        "year": 1996,
+        "events": [
+          "Won numerous local youth tournaments with Newell's Old Boys."
+        ]
+      },
+      {
+        "year": 1997,
+        "events": [
+          "Diagnosed with Growth Hormone Deficiency (GHD)."
+        ]
+      },
+      {
+        "year": 1998,
+        "events": [
+          "Continued excelling despite medical challenges."
+        ]
+      },
+      {
+        "year": 1999,
+        "events": [
+          "Attracted attention from clubs in Argentina and Europe."
+        ]
+      },
+      {
+        "year": 2000,
+        "events": [
+          "Traveled to Barcelona for a trial.",
+          "Signed the famous napkin agreement.",
+          "Moved to Spain and joined La Masia."
+        ]
+      },
+      {
+        "year": 2001,
+        "events": [
+          "Officially entered Barcelona's academy."
+        ]
+      },
+      {
+        "year": 2002,
+        "events": [
+          "Progressed rapidly through Barcelona's youth teams."
+        ]
+      },
+      {
+        "year": 2003,
+        "events": [
+          "Debuted for Barcelona C.",
+          "Made his unofficial first-team debut against FC Porto."
+        ]
+      },
+      {
+        "year": 2004,
+        "events": [
+          "Promoted to Barcelona B.",
+          "Made his official Barcelona debut.",
+          "Debuted for Argentina U20."
+        ]
+      },
+      {
+        "year": 2005,
+        "events": [
+          "Scored his first Barcelona goal.",
+          "Won La Liga.",
+          "Won the FIFA World Youth Championship.",
+          "Made his Argentina senior debut."
+        ]
+      },
+      {
+        "year": 2006,
+        "events": [
+          "Won the UEFA Champions League.",
+          "Scored his first Argentina goal.",
+          "Played in his first FIFA World Cup."
+        ]
+      },
+      {
+        "year": 2007,
+        "events": [
+          "Scored his first El Clásico hat-trick.",
+          "Reached the Copa América Final."
+        ]
+      },
+      {
+        "year": 2008,
+        "events": [
+          "Won Olympic Gold with Argentina.",
+          "Pep Guardiola became Barcelona manager."
+        ]
+      },
+      {
+        "year": 2009,
+        "events": [
+          "Won the historic sextuple.",
+          "Won his first Ballon d'Or."
+        ]
+      },
+      {
+        "year": 2010,
+        "events": [
+          "Won the inaugural FIFA Ballon d'Or."
+        ]
+      },
+      {
+        "year": 2011,
+        "events": [
+          "Won the UEFA Champions League.",
+          "Became Argentina captain.",
+          "Won his third consecutive FIFA Ballon d'Or."
+        ]
+      },
+      {
+        "year": 2012,
+        "events": [
+          "Scored 91 goals in a calendar year.",
+          "Became Barcelona's all-time leading goalscorer.",
+          "Won his fourth consecutive Ballon d'Or."
+        ]
+      },
+      {
+        "year": 2013,
+        "events": [
+          "Continued as Barcelona's leading player.",
+          "Won a fourth consecutive Ballon d'Or."
+        ]
+      },
+      {
+        "year": 2014,
+        "events": [
+          "Reached the FIFA World Cup Final.",
+          "Won the FIFA World Cup Golden Ball."
+        ]
+      },
+      {
+        "year": 2015,
+        "events": [
+          "Won Barcelona's second continental treble.",
+          "Won his fifth Ballon d'Or."
+        ]
+      },
+      {
+        "year": 2016,
+        "events": [
+          "Became Argentina's all-time leading goalscorer.",
+          "Announced international retirement.",
+          "Returned to the Argentina national team."
+        ]
+      },
+      {
+        "year": 2017,
+        "events": [
+          "Qualified Argentina for the 2018 FIFA World Cup with a hat-trick against Ecuador."
+        ]
+      },
+      {
+        "year": 2018,
+        "events": [
+          "Became Barcelona captain.",
+          "Played at the FIFA World Cup in Russia."
+        ]
+      },
+      {
+        "year": 2019,
+        "events": [
+          "Won his sixth Ballon d'Or.",
+          "Won The Best FIFA Men's Player award."
+        ]
+      },
+      {
+        "year": 2020,
+        "events": [
+          "Broke Pelé's record for most goals for a single club."
+        ]
+      },
+      {
+        "year": 2021,
+        "events": [
+          "Won Copa del Rey.",
+          "Won Copa América.",
+          "Left Barcelona.",
+          "Joined Paris Saint-Germain.",
+          "Won his seventh Ballon d'Or."
+        ]
+      },
+      {
+        "year": 2022,
+        "events": [
+          "Won the Finalissima.",
+          "Won Ligue 1.",
+          "Won the FIFA World Cup.",
+          "Won the FIFA World Cup Golden Ball."
+        ]
+      },
+      {
+        "year": 2023,
+        "events": [
+          "Won a second Ligue 1 title.",
+          "Joined Inter Miami.",
+          "Won the Leagues Cup.",
+          "Reached 100 international goals.",
+          "Won his eighth Ballon d'Or."
+        ]
+      },
+      {
+        "year": 2024,
+        "events": [
+          "Won the Copa América.",
+          "Won the MLS Supporters' Shield.",
+          "Won the MLS MVP award.",
+          "Became the all-time Copa América appearance leader."
+        ]
+      }
+    ],
+    "summary": {
+      "years_covered": 38,
+      "timeline_entries": 38,
+      "career_start": 1987,
+      "career_end": 2024
+    }
+  },
+  "legacy_summary": {
+    "overview": {
+      "player": "Lionel Andrés Messi",
+      "status": "Active",
+      "last_updated": "2024-12-31",
+      "database_edition": "2024"
+    },
+    "career_overview": {
+      "full_name": "Lionel Andrés Messi",
+      "date_of_birth": "1987-06-24",
+      "birthplace": "Rosario, Santa Fe, Argentina",
+      "professional_debut": "2004-10-16",
+      "international_debut": "2005-08-17",
+      "career_span": "2004-Present",
+      "years_as_professional": 20
+    },
+    "career_journey": [
+      {
+        "period": "1987-2000",
+        "title": "Early Life",
+        "description": "Born in Rosario, developed at Grandoli and Newell's Old Boys before moving to Spain."
+      },
+      {
+        "period": "2000-2004",
+        "title": "La Masia",
+        "description": "Joined FC Barcelona's academy, progressed rapidly through every youth level and reached the first team."
+      },
+      {
+        "period": "2004-2021",
+        "title": "Barcelona Era",
+        "description": "Established himself as one of football's greatest players, winning 35 trophies and becoming Barcelona's all-time leader in appearances, goals and assists."
+      },
+      {
+        "period": "2021-2023",
+        "title": "Paris Saint-Germain",
+        "description": "Won two Ligue 1 titles and one Trophée des Champions before leaving France."
+      },
+      {
+        "period": "2023-2024",
+        "title": "Inter Miami",
+        "description": "Led Inter Miami to its first trophies while continuing to break records in Major League Soccer."
+      },
+      {
+        "period": "2005-2024",
+        "title": "Argentina",
+        "description": "Won the FIFA World Youth Championship, Olympic Gold Medal, Copa América (2021 & 2024), Finalissima and the 2022 FIFA World Cup."
+      }
+    ],
+    "career_highlights": {
+      "clubs": [
+        "FC Barcelona",
+        "Paris Saint-Germain",
+        "Inter Miami CF"
+      ],
+      "national_team": "Argentina",
+      "official_team_trophies": 46,
+      "ballon_dor_titles": 8,
+      "fifa_world_cup_titles": 1,
+      "copa_america_titles": 2,
+      "uefa_champions_league_titles": 4,
+      "olympic_gold_medals": 1,
+      "major_individual_awards": "Multiple"
+    },
+    "historical_significance": [
+      "Most Ballon d'Or awards in football history.",
+      "Most FIFA World Cup appearances.",
+      "Most FIFA World Cup minutes played.",
+      "Most appearances for Argentina.",
+      "Most appearances for FC Barcelona.",
+      "Most goals for FC Barcelona.",
+      "Most assists for FC Barcelona.",
+      "Most goals for a single club.",
+      "Only player to win two FIFA World Cup Golden Balls.",
+      "Only captain to lead Argentina to the Copa América, Finalissima and FIFA World Cup in the modern era."
+    ],
+    "timeline_statistics": {
+      "years_covered": "1987-2024",
+      "timeline_sections": 12,
+      "major_events_documented": 180,
+      "career_phases": 6,
+      "clubs_represented": 3,
+      "major_international_tournaments": 13
+    },
+    "database_information": {
+      "edition": "2024",
+      "version": "1.0",
+      "timeline_complete": true,
+      "chronological_order": true,
+      "official_events_only": true,
+      "includes_personal_life": true,
+      "includes_club_career": true,
+      "includes_international_career": true,
+      "includes_awards": true,
+      "includes_records": true,
+      "includes_trophies": true,
+      "includes_major_milestones": true
+    },
+    "legacy": {
+      "description": "By the end of 2024, Lionel Messi had completed one of the most decorated and influential careers in football history. Across more than two decades of professional football, he established numerous records, won every major team honour available to him, and earned widespread recognition as one of the greatest players ever to play the sport.",
+      "status": "Active",
+      "database_completed": true
+    }
+  }
+}

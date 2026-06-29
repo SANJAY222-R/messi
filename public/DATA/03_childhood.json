@@ -1,0 +1,208 @@
+{
+  "childhood": {
+    "overview": {
+      "period": {
+        "from": "1987-06-24",
+        "to": "2000-09-17"
+      },
+      "city": "Rosario",
+      "province": "Santa Fe",
+      "country": "Argentina",
+      "description": "Lionel Messi spent his childhood in Rosario, Argentina, where he developed an early passion for football. During this period he joined Newell's Old Boys, was diagnosed with Growth Hormone Deficiency (GHD), and eventually moved to Barcelona to continue his treatment and football development."
+    },
+
+    "birth": {
+      "date": "1987-06-24",
+      "day": "Wednesday",
+      "time": null,
+      "hospital": "Italian Hospital Garibaldi",
+      "city": "Rosario",
+      "province": "Santa Fe",
+      "country": "Argentina",
+      "birth_order": 3,
+      "weight_kg": null,
+      "length_cm": null
+    },
+
+    "home": {
+      "city": "Rosario",
+      "country": "Argentina",
+      "neighborhood": null,
+      "house_type": "Family home",
+      "economic_background": "Working-class"
+    },
+
+    "parents": {
+      "father_role": "Worked in a steel factory while supporting Messi's football career.",
+      "mother_role": "Worked in a magnet manufacturing company and cared for the family."
+    },
+
+    "grandmother": {
+      "name": "Celia",
+      "relationship": "Maternal grandmother",
+      "importance": [
+        "Encouraged Messi to start playing football.",
+        "Frequently accompanied him to matches.",
+        "Messi often dedicates celebrations to her memory by pointing to the sky."
+      ]
+    },
+
+    "early_personality": {
+      "traits": [
+        "Quiet",
+        "Shy",
+        "Highly competitive",
+        "Focused",
+        "Determined",
+        "Respectful"
+      ]
+    },
+
+    "education": {
+      "primary_school": {
+        "name": "Escuela Primaria General Las Heras",
+        "city": "Rosario"
+      },
+      "favorite_subjects": [],
+      "least_favorite_subjects": [],
+      "academic_notes": [
+        "Balanced school with football training."
+      ]
+    },
+
+    "football_beginnings": {
+      "started_playing_age": 4,
+      "first_club": {
+        "name": "Grandoli",
+        "joined_year": 1991,
+        "coach": "Salvador Aparicio"
+      },
+      "first_position": "Forward",
+      "favorite_activity": "Playing football with older children in the neighborhood."
+    },
+
+    "newells_old_boys": {
+      "joined": 1995,
+      "academy": "Youth Academy",
+      "nickname_of_team": "The Machine of '87",
+      "description": "One of the strongest youth teams in Argentina during the 1990s."
+    },
+
+    "medical_history": {
+      "diagnosis": {
+        "condition": "Growth Hormone Deficiency",
+        "diagnosed_age": 10,
+        "year": 1997
+      },
+      "symptoms": [
+        "Slower physical growth than peers"
+      ],
+      "treatment": {
+        "therapy": "Growth Hormone Injections",
+        "frequency": "Daily",
+        "estimated_cost_per_month_usd": 900
+      },
+      "impact": [
+        "Several clubs hesitated because of treatment costs."
+      ]
+    },
+
+    "skills_before_barcelona": {
+      "strengths": [
+        "Exceptional dribbling",
+        "Close ball control",
+        "Acceleration",
+        "Low center of gravity",
+        "Vision"
+      ],
+      "weaknesses": [
+        "Very small physical stature"
+      ]
+    },
+
+    "barcelona_trial": {
+      "year": 2000,
+      "age": 13,
+      "location": "Barcelona",
+      "duration": "Approximately two weeks",
+      "result": "Successfully impressed FC Barcelona coaches."
+    },
+
+    "napkin_contract": {
+      "date": "2000",
+      "description": "Carles Rexach agreed to sign Messi using a paper napkin after recognizing his exceptional talent."
+    },
+
+    "move_to_spain": {
+      "date": "2000-09",
+      "age": 13,
+      "reason": [
+        "Join FC Barcelona academy.",
+        "Receive funded Growth Hormone treatment."
+      ]
+    },
+
+    "childhood_statistics": {
+      "clubs": [
+        "Grandoli",
+        "Newell's Old Boys"
+      ],
+      "preferred_foot": "Left",
+      "dominant_position": "Forward",
+      "known_strength": "Dribbling"
+    },
+
+    "timeline": [
+      {
+        "year": 1987,
+        "age": 0,
+        "event": "Born in Rosario."
+      },
+      {
+        "year": 1991,
+        "age": 4,
+        "event": "Started playing football for Grandoli."
+      },
+      {
+        "year": 1995,
+        "age": 8,
+        "event": "Joined Newell's Old Boys youth academy."
+      },
+      {
+        "year": 1997,
+        "age": 10,
+        "event": "Diagnosed with Growth Hormone Deficiency."
+      },
+      {
+        "year": 1998,
+        "age": 11,
+        "event": "Continued hormone treatment while playing youth football."
+      },
+      {
+        "year": 1999,
+        "age": 12,
+        "event": "Began attracting attention from scouts."
+      },
+      {
+        "year": 2000,
+        "age": 13,
+        "event": "Trial with FC Barcelona and relocated to Spain."
+      }
+    ],
+
+    "legacy_of_childhood": {
+      "key_lessons": [
+        "Perseverance",
+        "Family support",
+        "Discipline",
+        "Resilience"
+      ],
+      "turning_points": [
+        "Joining Newell's Old Boys",
+        "Diagnosis of Growth Hormone Deficiency",
+        "Barcelona trial",
+        "Move to Spain"
+      ]
+    }
+  }
+}

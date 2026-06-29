@@ -1,0 +1,143 @@
+{
+  "id": "lionel-messi",
+  "slug": "lionel-messi",
+  "full_name": "Lionel Andrés Messi",
+  "known_as": "Lionel Messi",
+  "nicknames": ["Leo", "La Pulga", "La Pulga Atómica", "GOAT", "Messias"],
+  "personal_information": {
+    "date_of_birth": "1987-06-24",
+    "place_of_birth": {
+      "city": "Rosario",
+      "province": "Santa Fe",
+      "country": "Argentina",
+      "hospital": "Italian Hospital Garibaldi"
+    },
+    "nationality": "Argentine",
+    "citizenship": ["Argentina", "Spain"],
+    "ethnicity": "Italian and Spanish ancestry",
+    "gender": "Male",
+    "height": {
+      "cm": 170,
+      "ft": "5 ft 7 in"
+    },
+    "weight": {
+      "kg": 72,
+      "lbs": 159
+    },
+    "body_measurements": {
+      "chest_cm": null,
+      "waist_cm": null,
+      "biceps_cm": null
+    },
+    "eye_color": "Brown",
+    "hair_color": "Dark Brown",
+    "blood_group": null,
+    "dominant_foot": "Left",
+    "dominant_hand": "Right",
+    "playing_position": [
+      "Forward",
+      "Right Winger",
+      "False 9",
+      "Attacking Midfielder"
+    ],
+    "shirt_number": 10,
+    "captain": true,
+    "religion": "Roman Catholic",
+    "languages": ["Spanish", "Catalan"]
+  },
+  "current_status": {
+    "club": "Inter Miami CF",
+    "league": "Major League Soccer",
+    "country": "United States",
+    "national_team": "Argentina",
+    "contract_status": "Active",
+    "career_status": "Active Professional Footballer"
+  },
+  "family": {
+    "father": "Jorge Horacio Messi",
+    "mother": "Celia María Cuccittini",
+    "siblings": ["Rodrigo Messi", "Matías Messi", "María Sol Messi"],
+    "spouse": "Antonela Roccuzzo",
+    "children": ["Thiago Messi", "Mateo Messi", "Ciro Messi"]
+  },
+  "education": {
+    "highest_level": "Secondary Education",
+    "schools": [
+      {
+        "name": "Escuela Primaria General Las Heras",
+        "location": "Rosario, Argentina"
+      }
+    ]
+  },
+  "medical_history": {
+    "condition": "Growth Hormone Deficiency",
+    "diagnosed_age": 10,
+    "treatment": {
+      "type": "Growth Hormone Therapy",
+      "duration": "Several years",
+      "funded_by": "FC Barcelona"
+    }
+  },
+  "professional_information": {
+    "preferred_foot": "Left",
+    "stronger_foot": "Left",
+    "weak_foot_rating": 4,
+    "skill_moves_rating": 5,
+    "primary_role": "Playmaker",
+    "secondary_roles": ["Goalscorer", "Creator", "Free-kick Specialist"]
+  },
+  "playing_style": {
+    "strengths": [
+      "Dribbling",
+      "Ball Control",
+      "Vision",
+      "Passing",
+      "Finishing",
+      "Free Kicks",
+      "Acceleration",
+      "Agility",
+      "Decision Making",
+      "Playmaking"
+    ],
+    "traits": [
+      "Cuts Inside",
+      "Outside Foot Shot",
+      "Long Shot Taker",
+      "Playmaker",
+      "Flair",
+      "Finesse Shot",
+      "One-on-One Specialist"
+    ]
+  },
+  "social_media": {
+    "instagram": "https://www.instagram.com/leomessi",
+    "facebook": "https://www.facebook.com/leomessi",
+    "website": "https://messi.com"
+  },
+  "sponsorships": [
+    "Adidas",
+    "Apple",
+    "Gatorade",
+    "Pepsi",
+    "Lay's",
+    "Hard Rock",
+    "Mastercard"
+  ],
+  "net_worth": {
+    "currency": "USD",
+    "estimated": null,
+    "note": "Net worth estimates vary significantly by source and change over time."
+  },
+  "fifa_profile": {
+    "preferred_foot": "Left",
+    "work_rate": "Medium/Low",
+    "international_reputation": 5,
+    "skill_moves": 5,
+    "weak_foot": 4
+  },
+  "metadata": {
+    "created_for": "Football Database",
+    "version": "1.0",
+    "last_updated": "2026-06-28"
+  }
+}

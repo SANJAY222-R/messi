@@ -1,0 +1,124 @@
+{
+  "youth_career": {
+    "overview": {
+      "period": {
+        "from": "1992",
+        "to": "2004"
+      },
+      "description": "Lionel Messi's youth football journey from Grandoli in Rosario to his first-team promotion at FC Barcelona."
+    },
+
+    "clubs": [
+      {
+        "club": "Grandoli",
+        "country": "Argentina",
+        "years": "1992-1995",
+        "age_range": "5-8",
+        "position": ["Forward"],
+        "coach": "Salvador Aparicio",
+        "notes": [
+          "Messi's first football club.",
+          "Joined after his grandmother Celia encouraged the coach to let him play."
+        ]
+      },
+      {
+        "club": "Newell's Old Boys",
+        "country": "Argentina",
+        "years": "1995-2000",
+        "age_range": "8-13",
+        "team_nickname": "La Máquina del 87",
+        "position": ["Forward", "Playmaker"],
+        "coach": "Ernesto Vecchio",
+        "highlights": [
+          "Regarded as one of Rosario's best youth prospects.",
+          "Diagnosed with Growth Hormone Deficiency during this period."
+        ]
+      },
+      {
+        "club": "FC Barcelona Youth",
+        "academy": "La Masia",
+        "country": "Spain",
+        "years": "2000-2004",
+        "age_range": "13-17",
+        "teams": [
+          "Infantil B",
+          "Cadete B",
+          "Cadete A",
+          "Juvenil B",
+          "Juvenil A"
+        ],
+        "notes": [
+          "Joined after a successful trial.",
+          "Barcelona funded his medical treatment.",
+          "Rapidly progressed through multiple age groups."
+        ]
+      }
+    ],
+
+    "reserve_teams": [
+      {
+        "club": "Barcelona C",
+        "season": "2003-04",
+        "competition": "Tercera División",
+        "appearances": 10,
+        "goals": 5
+      },
+      {
+        "club": "Barcelona B",
+        "season": "2003-04",
+        "competition": "Segunda División B",
+        "appearances": 5,
+        "goals": 0
+      }
+    ],
+
+    "major_events": [
+      {
+        "year": 1992,
+        "event": "Started football at Grandoli."
+      },
+      {
+        "year": 1995,
+        "event": "Joined Newell's Old Boys youth academy."
+      },
+      {
+        "year": 1997,
+        "event": "Diagnosed with Growth Hormone Deficiency."
+      },
+      {
+        "year": 2000,
+        "event": "Moved to Barcelona and joined La Masia."
+      },
+      {
+        "year": 2002,
+        "event": "Became a regular starter for Barcelona's youth teams."
+      },
+      {
+        "year": 2003,
+        "event": "Promoted to Barcelona C."
+      },
+      {
+        "year": 2004,
+        "event": "Promoted to Barcelona B and then the first team."
+      }
+    ],
+
+    "development": {
+      "technical_strengths": [
+        "Dribbling",
+        "Ball Control",
+        "Vision",
+        "Passing",
+        "Finishing",
+        "Close Control"
+      ],
+      "physical_challenges": ["Growth Hormone Deficiency", "Small stature"],
+      "playing_style": [
+        "Creative playmaker",
+        "Left-footed attacker",
+        "Low center of gravity",
+        "Explosive acceleration"
+      ]
+    }
+  }
+}

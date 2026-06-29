@@ -1,0 +1,1562 @@
+{
+  "overview": {
+    "player": "Lionel Andrés Messi",
+    "status": "Active",
+    "last_updated": "2024-12-31",
+    "career_span": {
+      "professional_debut": "2004-10-16",
+      "international_debut": "2005-08-17",
+      "years_active": 20
+    },
+    "database_information": {
+      "edition": "2024",
+      "version": "1.0",
+      "official_matches_only": true,
+      "includes_club_matches": true,
+      "includes_international_matches": true,
+      "includes_competition_matches": true,
+      "includes_minutes_played": true,
+      "includes_captaincy_records": true,
+      "includes_appearance_records": true
+    },
+    "career_match_summary": {
+      "official_matches": 1104,
+      "club_matches": 913,
+      "international_matches": 191,
+      "official_minutes": 90456,
+      "average_minutes_per_match": 81.93
+    },
+    "match_categories": [
+      {
+        "category": "Career Appearances",
+        "description": "Official appearances across club and international football."
+      },
+      {
+        "category": "Club Matches",
+        "description": "Appearances for FC Barcelona, Paris Saint-Germain and Inter Miami CF."
+      },
+      {
+        "category": "International Matches",
+        "description": "Official appearances for Argentina."
+      },
+      {
+        "category": "Competition Matches",
+        "description": "Appearances in domestic and international competitions."
+      },
+      {
+        "category": "Season Statistics",
+        "description": "Matches played in each season."
+      },
+      {
+        "category": "Calendar Year Statistics",
+        "description": "Matches played each calendar year."
+      },
+      {
+        "category": "Captaincy",
+        "description": "Matches played as captain."
+      },
+      {
+        "category": "Playing Time",
+        "description": "Minutes played, starts and substitute appearances."
+      },
+      {
+        "category": "Milestone Matches",
+        "description": "Debut and landmark appearances."
+      },
+      {
+        "category": "Appearance Records",
+        "description": "World, FIFA, UEFA, club and competition appearance records."
+      }
+    ],
+    "major_appearance_achievements": [
+      "Most appearances for Argentina (191).",
+      "Most appearances for FC Barcelona (778).",
+      "Most FIFA World Cup appearances (26).",
+      "Most FIFA World Cup minutes played (2,314).",
+      "Most FIFA World Cup matches as captain (19).",
+      "Over 1,100 official senior appearances.",
+      "Professional career spanning more than two decades."
+    ],
+    "statistics_summary": {
+      "career_sections": 12,
+      "club_sections": 3,
+      "competition_sections": 13,
+      "season_sections": 21,
+      "calendar_year_sections": 21,
+      "captaincy_sections": 4,
+      "appearance_record_sections": 7
+    },
+    "sources": [
+      "FIFA",
+      "UEFA",
+      "CONMEBOL",
+      "La Liga",
+      "Ligue 1",
+      "Major League Soccer",
+      "FC Barcelona",
+      "Argentine Football Association",
+      "IFFHS",
+      "Opta"
+    ]
+  },
+  "career_match_statistics": {
+    "overview": {
+      "last_updated": "2024-12-31",
+      "official_matches": 1104,
+      "club_matches": 913,
+      "international_matches": 191,
+      "official_minutes": 90456
+    },
+    "appearance_breakdown": {
+      "club": {
+        "matches": 913,
+        "percentage": 82.7,
+        "minutes": 74618,
+        "average_minutes_per_match": 81.73
+      },
+      "international": {
+        "matches": 191,
+        "percentage": 17.3,
+        "minutes": 15838,
+        "average_minutes_per_match": 82.92
+      },
+      "overall": {
+        "matches": 1104,
+        "minutes": 90456,
+        "average_minutes_per_match": 81.93
+      }
+    },
+    "career_results": {
+      "overall": {
+        "wins": 746,
+        "draws": 193,
+        "losses": 165,
+        "win_percentage": 67.57
+      },
+      "club": {
+        "wins": 621,
+        "draws": 151,
+        "losses": 141,
+        "win_percentage": 68.02
+      },
+      "international": {
+        "wins": 125,
+        "draws": 42,
+        "losses": 24,
+        "win_percentage": 65.45
+      }
+    },
+    "appearance_milestones": {
+      "100th_match": {
+        "year": 2008
+      },
+      "200th_match": {
+        "year": 2010
+      },
+      "300th_match": {
+        "year": 2012
+      },
+      "400th_match": {
+        "year": 2013
+      },
+      "500th_match": {
+        "year": 2015
+      },
+      "600th_match": {
+        "year": 2017
+      },
+      "700th_match": {
+        "year": 2018
+      },
+      "800th_match": {
+        "year": 2020
+      },
+      "900th_match": {
+        "year": 2022
+      },
+      "1000th_match": {
+        "year": 2023
+      },
+      "1100th_match": {
+        "year": 2024
+      }
+    },
+    "career_consistency": {
+      "seasons_played": 21,
+      "average_matches_per_season": 52.57,
+      "calendar_years_played": 21,
+      "average_matches_per_year": 52.57
+    },
+    "club_vs_country": {
+      "club_match_percentage": 82.7,
+      "international_match_percentage": 17.3,
+      "club_to_country_ratio": 4.78
+    },
+    "major_records": {
+      "most_appearances_for_barcelona": 778,
+      "most_appearances_for_argentina": 191,
+      "most_world_cup_matches": 26,
+      "most_world_cup_minutes": 2314,
+      "most_world_cup_matches_as_captain": 19
+    },
+    "records_summary": {
+      "career_statistics": 8,
+      "appearance_milestones": 11,
+      "career_results": 9,
+      "consistency_records": 4,
+      "major_appearance_records": 5,
+      "total_statistics": 37
+    }
+  },
+  "matches_by_club": {
+    "overview": {
+      "last_updated": "2024-12-31",
+      "clubs_represented": 3,
+      "total_club_matches": 913,
+      "total_club_minutes": 74618
+    },
+    "barcelona": {
+      "period": "2004-2021",
+      "official_matches": 778,
+      "official_minutes": 63222,
+      "goals": 672,
+      "assists": 303,
+      "goal_contributions": 975,
+      "average_minutes_per_match": 81.26,
+      "competition_breakdown": {
+        "la_liga": 520,
+        "uefa_champions_league": 149,
+        "copa_del_rey": 80,
+        "supercopa_de_espana": 20,
+        "uefa_super_cup": 4,
+        "fifa_club_world_cup": 5
+      },
+      "team_results": {
+        "wins": 539,
+        "draws": 126,
+        "losses": 113,
+        "win_percentage": 69.28
+      },
+      "club_records": {
+        "most_appearances": true,
+        "most_goals": true,
+        "most_assists": true,
+        "most_goal_contributions": true,
+        "most_trophies": true
+      }
+    },
+    "paris_saint_germain": {
+      "period": "2021-2023",
+      "official_matches": 75,
+      "official_minutes": 5936,
+      "goals": 32,
+      "assists": 35,
+      "goal_contributions": 67,
+      "average_minutes_per_match": 79.15,
+      "competition_breakdown": {
+        "ligue_1": 58,
+        "uefa_champions_league": 14,
+        "trophee_des_champions": 1,
+        "coupe_de_france": 2
+      },
+      "team_results": {
+        "wins": 52,
+        "draws": 12,
+        "losses": 11,
+        "win_percentage": 69.33
+      },
+      "club_records": {
+        "ligue_1_titles": 2,
+        "trophee_des_champions_titles": 1
+      }
+    },
+    "inter_miami": {
+      "period": "2023-Present",
+      "official_matches": 60,
+      "official_minutes": 5460,
+      "goals": 63,
+      "assists": 26,
+      "goal_contributions": 89,
+      "average_minutes_per_match": 91.0,
+      "competition_breakdown": {
+        "major_league_soccer": 28,
+        "leagues_cup": 7,
+        "concacaf_champions_cup": 5,
+        "mls_cup_playoffs": 1,
+        "other_official_competitions": 19
+      },
+      "team_results": {
+        "wins": 30,
+        "draws": 13,
+        "losses": 17,
+        "win_percentage": 50.0
+      },
+      "club_records": {
+        "most_appearances_in_club_history": false,
+        "most_goals_in_club_history": true,
+        "most_goal_contributions_in_club_history": true
+      }
+    },
+    "club_comparison": {
+      "most_matches": {
+        "club": "FC Barcelona",
+        "matches": 778
+      },
+      "highest_win_percentage": {
+        "club": "Paris Saint-Germain",
+        "percentage": 69.33
+      },
+      "highest_goals_per_match": {
+        "club": "Inter Miami",
+        "value": 1.05
+      },
+      "most_goal_contributions": {
+        "club": "FC Barcelona",
+        "value": 975
+      }
+    },
+    "appearance_distribution": {
+      "barcelona_percentage": 85.21,
+      "paris_saint_germain_percentage": 8.22,
+      "inter_miami_percentage": 6.57
+    },
+    "milestones": {
+      "100th_barcelona_match": 2007,
+      "500th_barcelona_match": 2014,
+      "700th_barcelona_match": 2020,
+      "barcelona_final_match": "2021-05-16",
+      "psg_debut": "2021-08-29",
+      "inter_miami_debut": "2023-07-21"
+    },
+    "records_summary": {
+      "club_sections": 3,
+      "competition_sections": 15,
+      "club_records": 10,
+      "comparison_records": 4,
+      "major_club_match_records": 32
+    }
+  },
+  "matches_by_competition": {
+    "overview": {
+      "last_updated": "2024-12-31",
+      "official_competitions": 14,
+      "official_matches": 1104
+    },
+    "club_competitions": {
+      "la_liga": {
+        "matches": 520,
+        "club": "FC Barcelona",
+        "period": "2004-2021"
+      },
+      "uefa_champions_league": {
+        "matches": 163,
+        "clubs": [
+          "FC Barcelona",
+          "Paris Saint-Germain"
+        ]
+      },
+      "copa_del_rey": {
+        "matches": 80,
+        "club": "FC Barcelona"
+      },
+      "supercopa_de_espana": {
+        "matches": 20,
+        "club": "FC Barcelona"
+      },
+      "uefa_super_cup": {
+        "matches": 4,
+        "club": "FC Barcelona"
+      },
+      "fifa_club_world_cup": {
+        "matches": 5,
+        "club": "FC Barcelona"
+      },
+      "ligue_1": {
+        "matches": 58,
+        "club": "Paris Saint-Germain"
+      },
+      "coupe_de_france": {
+        "matches": 2,
+        "club": "Paris Saint-Germain"
+      },
+      "trophee_des_champions": {
+        "matches": 1,
+        "club": "Paris Saint-Germain"
+      },
+      "major_league_soccer": {
+        "matches": 28,
+        "club": "Inter Miami CF"
+      },
+      "leagues_cup": {
+        "matches": 7,
+        "club": "Inter Miami CF"
+      },
+      "concacaf_champions_cup": {
+        "matches": 5,
+        "club": "Inter Miami CF"
+      },
+      "mls_cup_playoffs": {
+        "matches": 1,
+        "club": "Inter Miami CF"
+      },
+      "other_official_club_competitions": {
+        "matches": 19
+      }
+    },
+    "international_competitions": {
+      "fifa_world_cup": {
+        "matches": 26,
+        "record": "World Record"
+      },
+      "copa_america": {
+        "matches": 39
+      },
+      "world_cup_qualifiers": {
+        "matches": 69
+      },
+      "finalissima": {
+        "matches": 1
+      },
+      "international_friendlies": {
+        "matches": 56
+      }
+    },
+    "most_played_competitions": [
+      {
+        "competition": "La Liga",
+        "matches": 520
+      },
+      {
+        "competition": "UEFA Champions League",
+        "matches": 163
+      },
+      {
+        "competition": "Copa del Rey",
+        "matches": 80
+      },
+      {
+        "competition": "FIFA World Cup Qualifiers",
+        "matches": 69
+      },
+      {
+        "competition": "Ligue 1",
+        "matches": 58
+      }
+    ],
+    "competition_records": {
+      "most_matches": {
+        "competition": "La Liga",
+        "matches": 520
+      },
+      "most_world_cup_matches": {
+        "matches": 26
+      },
+      "most_world_cup_minutes": {
+        "minutes": 2314
+      },
+      "most_world_cup_matches_as_captain": {
+        "matches": 19
+      },
+      "most_matches_for_barcelona": {
+        "matches": 778
+      },
+      "most_matches_for_argentina": {
+        "matches": 191
+      }
+    },
+    "competition_distribution": {
+      "club_matches": {
+        "matches": 913,
+        "percentage": 82.7
+      },
+      "international_matches": {
+        "matches": 191,
+        "percentage": 17.3
+      }
+    },
+    "records_summary": {
+      "club_competitions": 14,
+      "international_competitions": 5,
+      "competition_records": 6,
+      "distribution_records": 2,
+      "major_competition_match_records": 27
+    }
+  },
+  "matches_by_season": {
+    "overview": {
+      "last_updated": "2024-12-31",
+      "first_season": "2004-05",
+      "latest_season": "2024",
+      "total_seasons": 21,
+      "official_matches": 1104
+    },
+    "season_statistics": [
+      {
+        "season": "2004-05",
+        "club": "FC Barcelona",
+        "matches": 9
+      },
+      {
+        "season": "2005-06",
+        "club": "FC Barcelona",
+        "matches": 25
+      },
+      {
+        "season": "2006-07",
+        "club": "FC Barcelona",
+        "matches": 36
+      },
+      {
+        "season": "2007-08",
+        "club": "FC Barcelona",
+        "matches": 40
+      },
+      {
+        "season": "2008-09",
+        "club": "FC Barcelona",
+        "matches": 51
+      },
+      {
+        "season": "2009-10",
+        "club": "FC Barcelona",
+        "matches": 53
+      },
+      {
+        "season": "2010-11",
+        "club": "FC Barcelona",
+        "matches": 55
+      },
+      {
+        "season": "2011-12",
+        "club": "FC Barcelona",
+        "matches": 69
+      },
+      {
+        "season": "2012-13",
+        "club": "FC Barcelona",
+        "matches": 50
+      },
+      {
+        "season": "2013-14",
+        "club": "FC Barcelona",
+        "matches": 46
+      },
+      {
+        "season": "2014-15",
+        "club": "FC Barcelona",
+        "matches": 57
+      },
+      {
+        "season": "2015-16",
+        "club": "FC Barcelona",
+        "matches": 49
+      },
+      {
+        "season": "2016-17",
+        "club": "FC Barcelona",
+        "matches": 52
+      },
+      {
+        "season": "2017-18",
+        "club": "FC Barcelona",
+        "matches": 54
+      },
+      {
+        "season": "2018-19",
+        "club": "FC Barcelona",
+        "matches": 50
+      },
+      {
+        "season": "2019-20",
+        "club": "FC Barcelona",
+        "matches": 44
+      },
+      {
+        "season": "2020-21",
+        "club": "FC Barcelona",
+        "matches": 47
+      },
+      {
+        "season": "2021-22",
+        "club": "Paris Saint-Germain",
+        "matches": 34
+      },
+      {
+        "season": "2022-23",
+        "club": "Paris Saint-Germain",
+        "matches": 41
+      },
+      {
+        "season": "2023",
+        "club": "Inter Miami / Argentina",
+        "matches": 44
+      },
+      {
+        "season": "2024",
+        "club": "Inter Miami / Argentina",
+        "matches": 48
+      }
+    ],
+    "highest_appearance_seasons": [
+      {
+        "season": "2011-12",
+        "matches": 69
+      },
+      {
+        "season": "2014-15",
+        "matches": 57
+      },
+      {
+        "season": "2010-11",
+        "matches": 55
+      },
+      {
+        "season": "2017-18",
+        "matches": 54
+      },
+      {
+        "season": "2009-10",
+        "matches": 53
+      }
+    ],
+    "season_milestones": {
+      "first_50_match_season": "2008-09",
+      "first_60_match_season": "2011-12",
+      "ten_consecutive_40_plus_match_seasons": {
+        "from": "2008-09",
+        "to": "2017-18"
+      }
+    },
+    "consistency": {
+      "40_plus_match_seasons": 17,
+      "50_plus_match_seasons": 9,
+      "60_plus_match_seasons": 1
+    },
+    "records_summary": {
+      "season_entries": 21,
+      "highest_seasons": 5,
+      "milestone_records": 3,
+      "consistency_records": 3,
+      "major_season_records": 11
+    }
+  },
+  "matches_by_calendar_year": {
+    "overview": {
+      "last_updated": "2024-12-31",
+      "period": "2004-2024",
+      "calendar_years": 21,
+      "official_matches": 1104
+    },
+    "yearly_statistics": [
+      {
+        "year": 2004,
+        "matches": 1
+      },
+      {
+        "year": 2005,
+        "matches": 26
+      },
+      {
+        "year": 2006,
+        "matches": 36
+      },
+      {
+        "year": 2007,
+        "matches": 51
+      },
+      {
+        "year": 2008,
+        "matches": 48
+      },
+      {
+        "year": 2009,
+        "matches": 64
+      },
+      {
+        "year": 2010,
+        "matches": 64
+      },
+      {
+        "year": 2011,
+        "matches": 70
+      },
+      {
+        "year": 2012,
+        "matches": 69
+      },
+      {
+        "year": 2013,
+        "matches": 47
+      },
+      {
+        "year": 2014,
+        "matches": 66
+      },
+      {
+        "year": 2015,
+        "matches": 61
+      },
+      {
+        "year": 2016,
+        "matches": 62
+      },
+      {
+        "year": 2017,
+        "matches": 63
+      },
+      {
+        "year": 2018,
+        "matches": 54
+      },
+      {
+        "year": 2019,
+        "matches": 58
+      },
+      {
+        "year": 2020,
+        "matches": 44
+      },
+      {
+        "year": 2021,
+        "matches": 64
+      },
+      {
+        "year": 2022,
+        "matches": 51
+      },
+      {
+        "year": 2023,
+        "matches": 44
+      },
+      {
+        "year": 2024,
+        "matches": 48
+      }
+    ],
+    "highest_appearance_years": [
+      {
+        "rank": 1,
+        "year": 2011,
+        "matches": 70
+      },
+      {
+        "rank": 2,
+        "year": 2012,
+        "matches": 69
+      },
+      {
+        "rank": 3,
+        "year": 2014,
+        "matches": 66
+      },
+      {
+        "rank": 4,
+        "year": 2009,
+        "matches": 64
+      },
+      {
+        "rank": 5,
+        "year": 2010,
+        "matches": 64
+      }
+    ],
+    "calendar_year_milestones": {
+      "first_50_match_year": 2007,
+      "first_60_match_year": 2009,
+      "first_70_match_year": 2011,
+      "most_matches_in_calendar_year": {
+        "year": 2011,
+        "matches": 70
+      }
+    },
+    "consistency": {
+      "40_plus_match_years": 18,
+      "50_plus_match_years": 15,
+      "60_plus_match_years": 7,
+      "70_plus_match_years": 1
+    },
+    "records": {
+      "most_matches_calendar_year": {
+        "year": 2011,
+        "matches": 70
+      },
+      "most_consecutive_50_plus_match_years": {
+        "count": 11,
+        "period": "2009-2019"
+      },
+      "fewest_matches_after_establishing_first_team": {
+        "year": 2020,
+        "matches": 44,
+        "reason": "COVID-19 affected season"
+      }
+    },
+    "records_summary": {
+      "calendar_year_entries": 21,
+      "highest_years": 5,
+      "milestone_records": 4,
+      "consistency_records": 4,
+      "major_calendar_records": 13
+    }
+  },
+  "captaincy_records": {
+    "overview": {
+      "last_updated": "2024-12-31",
+      "official_captain_matches": 351,
+      "clubs_captained": 2,
+      "national_team_captain": true
+    },
+    "barcelona": {
+      "captain_period": "2018-2021",
+      "official_matches_as_captain": 245,
+      "official_minutes_as_captain": 21147,
+      "team_record": {
+        "wins": 168,
+        "draws": 39,
+        "losses": 38,
+        "win_percentage": 68.57
+      },
+      "individual_statistics": {
+        "goals": 230,
+        "assists": 95,
+        "goal_contributions": 325
+      },
+      "trophies_as_captain": [
+        {
+          "competition": "La Liga",
+          "season": "2018-19"
+        },
+        {
+          "competition": "Supercopa de España",
+          "season": "2018"
+        },
+        {
+          "competition": "Copa del Rey",
+          "season": "2020-21"
+        }
+      ]
+    },
+    "argentina": {
+      "captain_since": 2011,
+      "official_matches_as_captain": 106,
+      "official_minutes_as_captain": 9405,
+      "team_record": {
+        "wins": 72,
+        "draws": 22,
+        "losses": 12,
+        "win_percentage": 67.92
+      },
+      "individual_statistics": {
+        "goals": 71,
+        "assists": 40,
+        "goal_contributions": 111
+      },
+      "major_titles_as_captain": [
+        {
+          "competition": "Copa América",
+          "year": 2021
+        },
+        {
+          "competition": "Finalissima",
+          "year": 2022
+        },
+        {
+          "competition": "FIFA World Cup",
+          "year": 2022
+        },
+        {
+          "competition": "Copa América",
+          "year": 2024
+        }
+      ]
+    },
+    "inter_miami": {
+      "captain_period": "2023-Present",
+      "official_matches_as_captain": 34,
+      "official_minutes_as_captain": 3094,
+      "team_record": {
+        "wins": 19,
+        "draws": 7,
+        "losses": 8,
+        "win_percentage": 55.88
+      },
+      "individual_statistics": {
+        "goals": 39,
+        "assists": 18,
+        "goal_contributions": 57
+      },
+      "titles_as_captain": [
+        {
+          "competition": "Supporters' Shield",
+          "year": 2024
+        }
+      ]
+    },
+    "captaincy_milestones": {
+      "first_match_as_barcelona_captain": "2018-08-12",
+      "first_match_as_argentina_captain": "2011-03-26",
+      "first_match_as_inter_miami_captain": "2023-07-25",
+      "100th_match_as_argentina_captain": {
+        "year": 2024
+      },
+      "200th_match_as_club_captain": {
+        "club": "FC Barcelona",
+        "year": 2021
+      }
+    },
+    "captaincy_records": {
+      "most_matches_as_argentina_captain": true,
+      "most_world_cup_matches_as_captain": 19,
+      "most_world_cup_minutes_as_captain": 1683,
+      "only_argentina_captain_to_win": [
+        "FIFA World Cup",
+        "Copa América",
+        "Finalissima"
+      ]
+    },
+    "captaincy_summary": {
+      "total_captain_matches": 351,
+      "barcelona": 245,
+      "argentina": 106,
+      "inter_miami": 34,
+      "major_titles_as_captain": 8
+    },
+    "records_summary": {
+      "club_captaincy_records": 10,
+      "international_captaincy_records": 9,
+      "captaincy_milestones": 5,
+      "historic_records": 4,
+      "major_captaincy_records": 28
+    }
+  },
+  "playing_time": {
+    "overview": {
+      "last_updated": "2024-12-31",
+      "official_matches": 1104,
+      "official_minutes": 90456,
+      "average_minutes_per_match": 81.93
+    },
+    "career_playing_time": {
+      "total_minutes": 90456,
+      "average_minutes_per_match": 81.93,
+      "estimated_full_matches_equivalent": 1005,
+      "average_matches_per_year": 52.57
+    },
+    "club_playing_time": {
+      "matches": 913,
+      "minutes": 74618,
+      "average_minutes_per_match": 81.73,
+      "by_club": {
+        "barcelona": {
+          "matches": 778,
+          "minutes": 63222,
+          "average_minutes": 81.26
+        },
+        "paris_saint_germain": {
+          "matches": 75,
+          "minutes": 5936,
+          "average_minutes": 79.15
+        },
+        "inter_miami": {
+          "matches": 60,
+          "minutes": 5460,
+          "average_minutes": 91.0
+        }
+      }
+    },
+    "international_playing_time": {
+      "matches": 191,
+      "minutes": 15838,
+      "average_minutes_per_match": 82.92,
+      "major_tournaments": {
+        "fifa_world_cup": {
+          "matches": 26,
+          "minutes": 2314,
+          "average_minutes": 89.0
+        },
+        "copa_america": {
+          "matches": 39,
+          "minutes": 3228,
+          "average_minutes": 82.77
+        },
+        "world_cup_qualifiers": {
+          "matches": 69,
+          "minutes": 5665,
+          "average_minutes": 82.1
+        }
+      }
+    },
+    "appearance_breakdown": {
+      "starting_appearances": 1015,
+      "substitute_appearances": 89,
+      "completed_full_matches": 742,
+      "matches_played_90_plus_minutes": 703,
+      "extra_time_matches": 28
+    },
+    "playing_time_milestones": {
+      "10000_minutes": 2008,
+      "25000_minutes": 2011,
+      "50000_minutes": 2016,
+      "75000_minutes": 2021,
+      "90000_minutes": 2024
+    },
+    "longest_playing_streaks": {
+      "consecutive_matches_started": 74,
+      "consecutive_full_matches": 33,
+      "consecutive_matches_without_substitution": 41
+    },
+    "records": {
+      "most_world_cup_minutes": 2314,
+      "most_world_cup_minutes_as_captain": 1683,
+      "most_minutes_for_barcelona": 63222,
+      "most_minutes_for_argentina": 15838
+    },
+    "records_summary": {
+      "career_playing_time_records": 4,
+      "club_playing_time_records": 6,
+      "international_playing_time_records": 6,
+      "appearance_breakdown_records": 5,
+      "playing_time_milestones": 5,
+      "major_playing_time_records": 26
+    }
+  },
+  "milestone_matches": {
+    "overview": {
+      "last_updated": "2024-12-31",
+      "official_matches": 1104,
+      "tracked_milestones": 12
+    },
+    "career_milestones": [
+      {
+        "milestone": "Professional Debut",
+        "appearance": 1,
+        "date": "2004-10-16",
+        "club": "FC Barcelona",
+        "opponent": "Espanyol",
+        "competition": "La Liga"
+      },
+      {
+        "milestone": "International Debut",
+        "appearance": 1,
+        "date": "2005-08-17",
+        "team": "Argentina",
+        "opponent": "Hungary",
+        "competition": "International Friendly"
+      },
+      {
+        "milestone": "100th Official Match",
+        "appearance": 100,
+        "year": 2008
+      },
+      {
+        "milestone": "200th Official Match",
+        "appearance": 200,
+        "year": 2010
+      },
+      {
+        "milestone": "300th Official Match",
+        "appearance": 300,
+        "year": 2012
+      },
+      {
+        "milestone": "400th Official Match",
+        "appearance": 400,
+        "year": 2013
+      },
+      {
+        "milestone": "500th Official Match",
+        "appearance": 500,
+        "year": 2015
+      },
+      {
+        "milestone": "600th Official Match",
+        "appearance": 600,
+        "year": 2017
+      },
+      {
+        "milestone": "700th Official Match",
+        "appearance": 700,
+        "year": 2018
+      },
+      {
+        "milestone": "800th Official Match",
+        "appearance": 800,
+        "year": 2020
+      },
+      {
+        "milestone": "900th Official Match",
+        "appearance": 900,
+        "year": 2022
+      },
+      {
+        "milestone": "1000th Official Match",
+        "appearance": 1000,
+        "year": 2023
+      }
+    ],
+    "club_milestones": {
+      "barcelona": {
+        "debut": {
+          "date": "2004-10-16",
+          "opponent": "Espanyol"
+        },
+        "100th_match": 2007,
+        "250th_match": 2011,
+        "500th_match": 2014,
+        "750th_match": 2021,
+        "final_match": {
+          "date": "2021-05-16",
+          "opponent": "Celta Vigo"
+        }
+      },
+      "paris_saint_germain": {
+        "debut": {
+          "date": "2021-08-29",
+          "opponent": "Reims"
+        },
+        "50th_match": 2023,
+        "final_match": {
+          "date": "2023-06-03",
+          "opponent": "Clermont Foot"
+        }
+      },
+      "inter_miami": {
+        "debut": {
+          "date": "2023-07-21",
+          "opponent": "Cruz Azul",
+          "competition": "Leagues Cup"
+        },
+        "50th_match": 2024
+      }
+    },
+    "international_milestones": {
+      "debut": {
+        "date": "2005-08-17",
+        "opponent": "Hungary"
+      },
+      "50th_match": 2011,
+      "100th_match": 2017,
+      "150th_match": 2022,
+      "191st_match": {
+        "year": 2024,
+        "status": "Current Total"
+      }
+    },
+    "major_tournament_milestones": {
+      "first_world_cup_match": {
+        "year": 2006,
+        "opponent": "Serbia and Montenegro"
+      },
+      "first_copa_america_match": {
+        "year": 2007,
+        "opponent": "United States"
+      },
+      "100th_champions_league_match": {
+        "year": 2018
+      },
+      "500th_la_liga_match": {
+        "year": 2021
+      }
+    },
+    "historic_firsts": [
+      "First player to reach 26 FIFA World Cup appearances.",
+      "First Argentina player to reach 150 international appearances.",
+      "First Barcelona outfield player to reach 750 official appearances.",
+      "First player to reach 1,000 official senior appearances while winning the FIFA World Cup."
+    ],
+    "records_summary": {
+      "career_milestones": 12,
+      "club_milestones": 11,
+      "international_milestones": 5,
+      "tournament_milestones": 4,
+      "historic_firsts": 4,
+      "major_milestone_records": 36
+    }
+  },
+  "matches_by_opponent": {
+    "overview": {
+      "last_updated": "2024-12-31",
+      "official_matches": 1104,
+      "club_opponents_faced": 145,
+      "international_opponents_faced": 72
+    },
+    "most_faced_club_opponents": [
+      {
+        "opponent": "Real Madrid",
+        "matches": 45,
+        "competition": "Multiple"
+      },
+      {
+        "opponent": "Athletic Club",
+        "matches": 44,
+        "competition": "Multiple"
+      },
+      {
+        "opponent": "Sevilla",
+        "matches": 43,
+        "competition": "Multiple"
+      },
+      {
+        "opponent": "Atlético Madrid",
+        "matches": 43,
+        "competition": "Multiple"
+      },
+      {
+        "opponent": "Espanyol",
+        "matches": 36,
+        "competition": "Multiple"
+      },
+      {
+        "opponent": "Valencia",
+        "matches": 34,
+        "competition": "Multiple"
+      },
+      {
+        "opponent": "Osasuna",
+        "matches": 33,
+        "competition": "Multiple"
+      },
+      {
+        "opponent": "Real Betis",
+        "matches": 30,
+        "competition": "Multiple"
+      },
+      {
+        "opponent": "Getafe",
+        "matches": 29,
+        "competition": "Multiple"
+      },
+      {
+        "opponent": "Villarreal",
+        "matches": 29,
+        "competition": "Multiple"
+      }
+    ],
+    "most_faced_national_teams": [
+      {
+        "opponent": "Uruguay",
+        "matches": 20
+      },
+      {
+        "opponent": "Chile",
+        "matches": 18
+      },
+      {
+        "opponent": "Brazil",
+        "matches": 17
+      },
+      {
+        "opponent": "Paraguay",
+        "matches": 17
+      },
+      {
+        "opponent": "Bolivia",
+        "matches": 16
+      },
+      {
+        "opponent": "Ecuador",
+        "matches": 16
+      },
+      {
+        "opponent": "Colombia",
+        "matches": 15
+      },
+      {
+        "opponent": "Peru",
+        "matches": 15
+      },
+      {
+        "opponent": "Venezuela",
+        "matches": 14
+      },
+      {
+        "opponent": "Mexico",
+        "matches": 8
+      }
+    ],
+    "major_rivalries": {
+      "el_clasico": {
+        "opponent": "Real Madrid",
+        "matches": 45,
+        "goals": 26,
+        "assists": 14
+      },
+      "madrid_derby_opponent": {
+        "opponent": "Atlético Madrid",
+        "matches": 43,
+        "goals": 32
+      },
+      "sevilla": {
+        "matches": 43,
+        "goals": 38
+      },
+      "athletic_club": {
+        "matches": 44,
+        "goals": 29
+      }
+    },
+    "uefa_champions_league_opponents": {
+      "most_faced": {
+        "opponent": "Chelsea",
+        "matches": 10
+      },
+      "most_goals_against": {
+        "opponent": "Arsenal",
+        "goals": 9
+      }
+    },
+    "international_tournaments": {
+      "world_cup": {
+        "most_faced_opponent": "Mexico",
+        "matches": 4
+      },
+      "copa_america": {
+        "most_faced_opponent": "Chile",
+        "matches": 6
+      }
+    },
+    "special_records": {
+      "most_matches_against_single_club": {
+        "opponent": "Real Madrid",
+        "matches": 45
+      },
+      "most_matches_against_single_national_team": {
+        "opponent": "Uruguay",
+        "matches": 20
+      },
+      "most_el_clasico_appearances": 45,
+      "most_matches_against_top_ten_club_opponents": 366
+    },
+    "records_summary": {
+      "club_opponents": 10,
+      "international_opponents": 10,
+      "major_rivalries": 4,
+      "champions_league_records": 2,
+      "tournament_records": 2,
+      "special_records": 4,
+      "major_opponent_records": 32
+    }
+  },
+  "appearance_records": {
+    "overview": {
+      "last_updated": "2024-12-31",
+      "record_categories": [
+        "World Records",
+        "FIFA Records",
+        "UEFA Records",
+        "Barcelona Records",
+        "Argentina Records",
+        "Competition Records",
+        "Longevity Records"
+      ]
+    },
+    "world_records": {
+      "most_fifa_world_cup_matches": {
+        "matches": 26,
+        "status": "World Record"
+      },
+      "most_fifa_world_cup_minutes": {
+        "minutes": 2314,
+        "status": "World Record"
+      },
+      "most_fifa_world_cup_matches_as_captain": {
+        "matches": 19,
+        "status": "World Record"
+      },
+      "most_official_matches_for_single_club": {
+        "club": "FC Barcelona",
+        "matches": 778,
+        "status": "Club Record"
+      }
+    },
+    "fifa_records": {
+      "world_cup_appearances": 26,
+      "world_cup_finals": 2,
+      "world_cup_tournaments": 5,
+      "world_cup_matches_as_captain": 19,
+      "only_player_with_two_world_cup_golden_balls": true
+    },
+    "uefa_records": {
+      "champions_league_matches": 163,
+      "champions_league_matches_for_barcelona": 149,
+      "consecutive_champions_league_seasons": 18,
+      "champions_league_round_of_16_appearances": 30
+    },
+    "barcelona_records": {
+      "most_official_matches": 778,
+      "most_la_liga_matches": 520,
+      "most_champions_league_matches": 149,
+      "most_copa_del_rey_matches": 80,
+      "most_trophies": 35
+    },
+    "argentina_records": {
+      "most_official_matches": 191,
+      "most_matches_as_captain": 106,
+      "most_world_cup_matches": 26,
+      "most_copa_america_matches": 39,
+      "most_world_cup_qualifier_matches": 69
+    },
+    "competition_records": {
+      "la_liga_matches": 520,
+      "uefa_champions_league_matches": 163,
+      "fifa_world_cup_matches": 26,
+      "copa_america_matches": 39,
+      "world_cup_qualifier_matches": 69
+    },
+    "longevity_records": {
+      "professional_career": {
+        "years": 20,
+        "period": "2004-2024"
+      },
+      "international_career": {
+        "years": 19,
+        "period": "2005-2024"
+      },
+      "world_cup_tournaments": 5,
+      "copa_america_tournaments": 7,
+      "official_matches": 1104
+    },
+    "historic_firsts": [
+      "First player to appear in 26 FIFA World Cup matches.",
+      "First player to captain a team in 19 FIFA World Cup matches.",
+      "First Argentina player to reach 150 international appearances.",
+      "First Barcelona outfield player to reach 750 official appearances.",
+      "One of the few players to surpass 1,100 official senior appearances."
+    ],
+    "major_appearance_records": [
+      "Most appearances for Argentina.",
+      "Most appearances for FC Barcelona.",
+      "Most FIFA World Cup appearances.",
+      "Most FIFA World Cup minutes.",
+      "Most FIFA World Cup matches as captain.",
+      "Most La Liga appearances for Barcelona.",
+      "Most UEFA Champions League appearances for Barcelona."
+    ],
+    "records_summary": {
+      "world_records": 4,
+      "fifa_records": 5,
+      "uefa_records": 4,
+      "barcelona_records": 5,
+      "argentina_records": 5,
+      "competition_records": 5,
+      "longevity_records": 5,
+      "historic_firsts": 5,
+      "major_appearance_records": 7,
+      "total_major_records": 45
+    }
+  },
+  "summary": {
+    "player": "Lionel Andrés Messi",
+    "status": "Active",
+    "last_updated": "2024-12-31",
+    "career_overview": {
+      "professional_debut": "2004-10-16",
+      "international_debut": "2005-08-17",
+      "professional_career_years": 20,
+      "clubs": [
+        "FC Barcelona",
+        "Paris Saint-Germain",
+        "Inter Miami CF"
+      ],
+      "national_team": "Argentina"
+    },
+    "career_totals": {
+      "official_matches": 1104,
+      "club_matches": 913,
+      "international_matches": 191,
+      "official_minutes": 90456,
+      "average_minutes_per_match": 81.93,
+      "official_goals": 879,
+      "official_assists": 390,
+      "official_goal_contributions": 1269
+    },
+    "club_summary": {
+      "barcelona": {
+        "matches": 778,
+        "period": "2004-2021"
+      },
+      "paris_saint_germain": {
+        "matches": 75,
+        "period": "2021-2023"
+      },
+      "inter_miami": {
+        "matches": 60,
+        "period": "2023-Present"
+      }
+    },
+    "international_summary": {
+      "argentina_matches": 191,
+      "world_cup_matches": 26,
+      "copa_america_matches": 39,
+      "world_cup_qualifiers": 69,
+      "international_friendlies": 56
+    },
+    "captaincy_summary": {
+      "official_captain_matches": 351,
+      "barcelona": 245,
+      "argentina": 106,
+      "inter_miami": 34,
+      "major_titles_as_captain": 8
+    },
+    "career_highlights": [
+      "Most appearances for FC Barcelona (778).",
+      "Most appearances for Argentina (191).",
+      "Most FIFA World Cup appearances (26).",
+      "Most FIFA World Cup minutes played (2,314).",
+      "Most FIFA World Cup matches as captain (19).",
+      "Over 1,100 official senior appearances.",
+      "Professional career spanning two decades."
+    ],
+    "major_appearance_records": [
+      "Most appearances for FC Barcelona.",
+      "Most appearances for Argentina.",
+      "Most FIFA World Cup appearances.",
+      "Most FIFA World Cup minutes.",
+      "Most FIFA World Cup matches as captain.",
+      "Most La Liga appearances for Barcelona.",
+      "Most UEFA Champions League appearances for Barcelona."
+    ],
+    "appearance_milestones": {
+      "100_matches": true,
+      "200_matches": true,
+      "300_matches": true,
+      "400_matches": true,
+      "500_matches": true,
+      "600_matches": true,
+      "700_matches": true,
+      "800_matches": true,
+      "900_matches": true,
+      "1000_matches": true,
+      "1100_matches": true
+    },
+    "database_summary": {
+      "parts": 12,
+      "career_sections": 2,
+      "club_sections": 3,
+      "competition_sections": 14,
+      "season_sections": 21,
+      "calendar_year_sections": 21,
+      "captaincy_sections": 3,
+      "playing_time_sections": 4,
+      "milestone_sections": 12,
+      "record_sections": 7
+    },
+    "database_information": {
+      "edition": "2024",
+      "version": "1.0",
+      "official_matches_only": true,
+      "official_statistics_only": true,
+      "official_records_only": true,
+      "includes_club_matches": true,
+      "includes_international_matches": true,
+      "includes_competition_matches": true,
+      "includes_playing_time": true,
+      "includes_captaincy": true,
+      "includes_appearance_records": true
+    },
+    "legacy": {
+      "description": "By the end of the 2024 season, Lionel Messi had accumulated more than 1,100 official senior appearances across club and international football. His longevity, consistency and availability over two decades allowed him to establish appearance records for FC Barcelona, Argentina and the FIFA World Cup. His career reflects sustained excellence at the highest level of professional football.",
+      "status": "Active",
+      "database_completed": true
+    }
+  }
+}

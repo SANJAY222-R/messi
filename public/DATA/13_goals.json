@@ -1,0 +1,1572 @@
+{
+  "overview": {
+    "player": "Lionel Andrés Messi",
+    "status": "Active",
+    "last_updated": "2024-12-31",
+    "career_span": {
+      "professional_debut": "2004-10-16",
+      "international_debut": "2005-08-17",
+      "years_active": 20
+    },
+    "database_information": {
+      "edition": "2024",
+      "version": "1.0",
+      "official_matches_only": true,
+      "official_goals_only": true,
+      "includes_club_goals": true,
+      "includes_international_goals": true,
+      "includes_penalties": true,
+      "includes_free_kicks": true,
+      "includes_hat_tricks": true
+    },
+    "career_goal_summary": {
+      "official_goals": 879,
+      "club_goals": 767,
+      "international_goals": 112,
+      "goal_contributions": 1269,
+      "official_matches": 1104,
+      "goals_per_match": 0.8
+    },
+    "goal_categories": [
+      {
+        "category": "Career Goals",
+        "description": "Official goals scored across all competitions."
+      },
+      {
+        "category": "Club Goals",
+        "description": "Goals scored for FC Barcelona, Paris Saint-Germain and Inter Miami CF."
+      },
+      {
+        "category": "International Goals",
+        "description": "Goals scored for Argentina."
+      },
+      {
+        "category": "Competition Goals",
+        "description": "Goals scored in domestic and international competitions."
+      },
+      {
+        "category": "Season Goals",
+        "description": "Goals scored each season."
+      },
+      {
+        "category": "Calendar Year Goals",
+        "description": "Goals scored in each calendar year."
+      },
+      {
+        "category": "Goal Types",
+        "description": "Penalty, free-kick, header, left foot, right foot and other goal classifications."
+      },
+      {
+        "category": "Milestone Goals",
+        "description": "100th, 200th, 300th and other landmark goals."
+      },
+      {
+        "category": "Opponent Records",
+        "description": "Goals against clubs and national teams."
+      },
+      {
+        "category": "Goal Records",
+        "description": "Official goalscoring records and achievements."
+      }
+    ],
+    "major_goal_achievements": [
+      "Most goals for FC Barcelona (672).",
+      "Most goals for Argentina (112).",
+      "Most La Liga goals (474).",
+      "Most goals in a calendar year (91).",
+      "Most goals in a single La Liga season (50).",
+      "Most goals for a single club in football history (672).",
+      "Most direct free-kick goals among active players."
+    ],
+    "goal_statistics_summary": {
+      "career_sections": 12,
+      "club_sections": 3,
+      "competition_sections": 10,
+      "season_sections": 21,
+      "calendar_year_sections": 21,
+      "goal_type_sections": 8,
+      "record_sections": 10
+    },
+    "sources": [
+      "FIFA",
+      "UEFA",
+      "CONMEBOL",
+      "La Liga",
+      "Ligue 1",
+      "Major League Soccer",
+      "FC Barcelona",
+      "Argentine Football Association",
+      "IFFHS",
+      "Opta"
+    ]
+  },
+  "career_goal_statistics": {
+    "overview": {
+      "last_updated": "2024-12-31",
+      "official_matches": 1104,
+      "official_goals": 879,
+      "club_goals": 767,
+      "international_goals": 112,
+      "official_assists": 390,
+      "goal_contributions": 1269
+    },
+    "goal_breakdown": {
+      "club": {
+        "matches": 913,
+        "goals": 767,
+        "goals_per_match": 0.84
+      },
+      "international": {
+        "matches": 191,
+        "goals": 112,
+        "goals_per_match": 0.59
+      },
+      "overall": {
+        "matches": 1104,
+        "goals": 879,
+        "goals_per_match": 0.8
+      }
+    },
+    "career_milestones": {
+      "first_official_goal": {
+        "date": "2005-05-01",
+        "club": "FC Barcelona",
+        "opponent": "Albacete",
+        "competition": "La Liga"
+      },
+      "100th_goal": {
+        "year": 2010
+      },
+      "200th_goal": {
+        "year": 2012
+      },
+      "300th_goal": {
+        "year": 2013
+      },
+      "400th_goal": {
+        "year": 2015
+      },
+      "500th_goal": {
+        "year": 2016
+      },
+      "600th_goal": {
+        "year": 2018
+      },
+      "700th_goal": {
+        "year": 2021
+      },
+      "800th_goal": {
+        "year": 2023
+      }
+    },
+    "goal_frequency": {
+      "average_goals_per_season": 41.9,
+      "average_goals_per_calendar_year": 41.9,
+      "average_minutes_per_goal": 105,
+      "average_goal_contributions_per_match": 1.15
+    },
+    "career_highlights": {
+      "highest_scoring_season": {
+        "season": "2011-12",
+        "goals": 73
+      },
+      "highest_scoring_calendar_year": {
+        "year": 2012,
+        "goals": 91
+      },
+      "highest_international_scoring_year": {
+        "year": 2022,
+        "goals": 18
+      }
+    },
+    "goal_distribution": {
+      "club_percentage": 87.26,
+      "international_percentage": 12.74
+    },
+    "consistency": {
+      "seasons_with_40_plus_goals": 13,
+      "seasons_with_50_plus_goals": 10,
+      "calendar_years_with_50_plus_goals": 8,
+      "calendar_years_with_60_plus_goals": 3
+    },
+    "records": {
+      "most_goals_for_single_club": {
+        "club": "FC Barcelona",
+        "goals": 672
+      },
+      "most_goals_for_argentina": 112,
+      "most_goals_in_calendar_year": {
+        "goals": 91,
+        "year": 2012
+      },
+      "most_goals_in_single_season": {
+        "goals": 73,
+        "season": "2011-12"
+      }
+    },
+    "records_summary": {
+      "career_records": 8,
+      "milestone_records": 8,
+      "consistency_records": 4,
+      "distribution_records": 2,
+      "major_goal_statistics": 22
+    }
+  },
+  "goals_by_club": {
+    "overview": {
+      "last_updated": "2024-12-31",
+      "clubs": 3,
+      "total_club_matches": 913,
+      "total_club_goals": 767,
+      "average_goals_per_match": 0.84
+    },
+    "barcelona": {
+      "period": "2004-2021",
+      "official_matches": 778,
+      "official_goals": 672,
+      "official_assists": 303,
+      "goal_contributions": 975,
+      "goals_per_match": 0.86,
+      "competition_breakdown": {
+        "la_liga": 474,
+        "uefa_champions_league": 120,
+        "copa_del_rey": 56,
+        "supercopa_de_espana": 14,
+        "uefa_super_cup": 3,
+        "fifa_club_world_cup": 5
+      },
+      "club_records": {
+        "all_time_top_scorer": true,
+        "most_goals_single_season": 73,
+        "most_la_liga_goals": 474,
+        "most_champions_league_goals": 120,
+        "most_copa_del_rey_goals": 56
+      }
+    },
+    "paris_saint_germain": {
+      "period": "2021-2023",
+      "official_matches": 75,
+      "official_goals": 32,
+      "official_assists": 35,
+      "goal_contributions": 67,
+      "goals_per_match": 0.43,
+      "competition_breakdown": {
+        "ligue_1": 22,
+        "uefa_champions_league": 9,
+        "trophee_des_champions": 1
+      },
+      "club_records": {
+        "ligue_1_titles": 2,
+        "highest_scoring_season": {
+          "season": "2022-23",
+          "goals": 21
+        }
+      }
+    },
+    "inter_miami": {
+      "period": "2023-Present",
+      "official_matches": 60,
+      "official_goals": 63,
+      "official_assists": 26,
+      "goal_contributions": 89,
+      "goals_per_match": 1.05,
+      "competition_breakdown": {
+        "major_league_soccer": 22,
+        "leagues_cup": 10,
+        "concacaf_champions_cup": 5,
+        "mls_cup_playoffs": 1,
+        "friendlies_and_other_official_competitions": 25
+      },
+      "club_records": {
+        "all_time_top_scorer": true,
+        "most_goals_single_season": {
+          "season": 2024,
+          "goals": 34
+        },
+        "first_player_to_score_50_official_goals": true
+      }
+    },
+    "club_comparison": {
+      "highest_goal_total": {
+        "club": "FC Barcelona",
+        "goals": 672
+      },
+      "highest_goals_per_match": {
+        "club": "Inter Miami",
+        "value": 1.05
+      },
+      "most_goal_contributions": {
+        "club": "FC Barcelona",
+        "value": 975
+      },
+      "most_assists": {
+        "club": "FC Barcelona",
+        "value": 303
+      }
+    },
+    "club_goal_distribution": {
+      "barcelona_percentage": 87.61,
+      "psg_percentage": 4.17,
+      "inter_miami_percentage": 8.22
+    },
+    "milestones": {
+      "500th_club_goal": {
+        "club": "FC Barcelona",
+        "year": 2016
+      },
+      "600th_club_goal": {
+        "club": "FC Barcelona",
+        "year": 2018
+      },
+      "700th_club_goal": {
+        "club": "FC Barcelona",
+        "year": 2021
+      },
+      "750th_club_goal": {
+        "club": "Inter Miami",
+        "year": 2024
+      }
+    },
+    "records_summary": {
+      "club_sections": 3,
+      "club_records": 15,
+      "milestone_records": 4,
+      "comparison_records": 4,
+      "major_club_goal_records": 26
+    }
+  },
+  "goals_by_competition": {
+    "overview": {
+      "last_updated": "2024-12-31",
+      "official_competitions": 13,
+      "total_official_goals": 879
+    },
+    "club_competitions": {
+      "la_liga": {
+        "goals": 474,
+        "matches": 520,
+        "goals_per_match": 0.91,
+        "club": "FC Barcelona",
+        "record": "Competition Record"
+      },
+      "uefa_champions_league": {
+        "goals": 129,
+        "matches": 163,
+        "goals_per_match": 0.79,
+        "ranking": "2nd All-Time"
+      },
+      "copa_del_rey": {
+        "goals": 56,
+        "matches": 80,
+        "goals_per_match": 0.7
+      },
+      "supercopa_de_espana": {
+        "goals": 14,
+        "matches": 20,
+        "goals_per_match": 0.7,
+        "record": "Competition Record"
+      },
+      "uefa_super_cup": {
+        "goals": 3,
+        "matches": 4
+      },
+      "fifa_club_world_cup": {
+        "goals": 5,
+        "matches": 5
+      },
+      "ligue_1": {
+        "goals": 22,
+        "matches": 58,
+        "goals_per_match": 0.38
+      },
+      "trophee_des_champions": {
+        "goals": 1,
+        "matches": 1
+      },
+      "major_league_soccer": {
+        "goals": 22,
+        "matches": 28,
+        "goals_per_match": 0.79
+      },
+      "leagues_cup": {
+        "goals": 10,
+        "matches": 7,
+        "goals_per_match": 1.43,
+        "golden_boot": true
+      },
+      "concacaf_champions_cup": {
+        "goals": 5,
+        "matches": 5,
+        "goals_per_match": 1.0
+      },
+      "mls_cup_playoffs": {
+        "goals": 1,
+        "matches": 1
+      }
+    },
+    "international_competitions": {
+      "fifa_world_cup": {
+        "goals": 13,
+        "matches": 26,
+        "goals_per_match": 0.5
+      },
+      "copa_america": {
+        "goals": 14,
+        "matches": 39,
+        "goals_per_match": 0.36
+      },
+      "world_cup_qualifiers": {
+        "goals": 34,
+        "matches": 69,
+        "goals_per_match": 0.49,
+        "record": "CONMEBOL Record"
+      },
+      "international_friendlies": {
+        "goals": 51,
+        "matches": 57,
+        "goals_per_match": 0.89
+      }
+    },
+    "top_five_competitions": [
+      {
+        "competition": "La Liga",
+        "goals": 474
+      },
+      {
+        "competition": "UEFA Champions League",
+        "goals": 129
+      },
+      {
+        "competition": "Copa del Rey",
+        "goals": 56
+      },
+      {
+        "competition": "International Friendlies",
+        "goals": 51
+      },
+      {
+        "competition": "World Cup Qualifiers",
+        "goals": 34
+      }
+    ],
+    "competition_records": {
+      "most_goals": {
+        "competition": "La Liga",
+        "goals": 474
+      },
+      "highest_goals_per_match": {
+        "competition": "Leagues Cup",
+        "value": 1.43
+      },
+      "most_goals_single_competition_season": {
+        "competition": "La Liga",
+        "season": "2011-12",
+        "goals": 50
+      },
+      "only_player_with": [
+        "450+ La Liga goals",
+        "120+ UEFA Champions League goals",
+        "50+ Copa del Rey goals"
+      ]
+    },
+    "competition_distribution": {
+      "club_goals": {
+        "total": 767,
+        "percentage": 87.26
+      },
+      "international_goals": {
+        "total": 112,
+        "percentage": 12.74
+      }
+    },
+    "records_summary": {
+      "club_competitions": 12,
+      "international_competitions": 4,
+      "competition_records": 4,
+      "distribution_records": 2,
+      "major_competition_goal_records": 22
+    }
+  },
+  "goals_by_season": {
+    "overview": {
+      "last_updated": "2024-12-31",
+      "seasons": 21,
+      "official_goals": 879,
+      "first_season": "2004-05",
+      "latest_season": "2024"
+    },
+    "season_statistics": [
+      {
+        "season": "2004-05",
+        "club": "Barcelona",
+        "goals": 1
+      },
+      {
+        "season": "2005-06",
+        "club": "Barcelona",
+        "goals": 8
+      },
+      {
+        "season": "2006-07",
+        "club": "Barcelona",
+        "goals": 17
+      },
+      {
+        "season": "2007-08",
+        "club": "Barcelona",
+        "goals": 16
+      },
+      {
+        "season": "2008-09",
+        "club": "Barcelona",
+        "goals": 38
+      },
+      {
+        "season": "2009-10",
+        "club": "Barcelona",
+        "goals": 47
+      },
+      {
+        "season": "2010-11",
+        "club": "Barcelona",
+        "goals": 53
+      },
+      {
+        "season": "2011-12",
+        "club": "Barcelona",
+        "goals": 73,
+        "record": "Career Best"
+      },
+      {
+        "season": "2012-13",
+        "club": "Barcelona",
+        "goals": 60
+      },
+      {
+        "season": "2013-14",
+        "club": "Barcelona",
+        "goals": 41
+      },
+      {
+        "season": "2014-15",
+        "club": "Barcelona",
+        "goals": 58
+      },
+      {
+        "season": "2015-16",
+        "club": "Barcelona",
+        "goals": 41
+      },
+      {
+        "season": "2016-17",
+        "club": "Barcelona",
+        "goals": 54
+      },
+      {
+        "season": "2017-18",
+        "club": "Barcelona",
+        "goals": 45
+      },
+      {
+        "season": "2018-19",
+        "club": "Barcelona",
+        "goals": 51
+      },
+      {
+        "season": "2019-20",
+        "club": "Barcelona",
+        "goals": 31
+      },
+      {
+        "season": "2020-21",
+        "club": "Barcelona",
+        "goals": 38
+      },
+      {
+        "season": "2021-22",
+        "club": "Paris Saint-Germain",
+        "goals": 11
+      },
+      {
+        "season": "2022-23",
+        "club": "Paris Saint-Germain",
+        "goals": 21
+      },
+      {
+        "season": "2023",
+        "club": "Inter Miami / Argentina",
+        "goals": 28
+      },
+      {
+        "season": "2024",
+        "club": "Inter Miami / Argentina",
+        "goals": 48
+      }
+    ],
+    "highest_scoring_seasons": [
+      {
+        "season": "2011-12",
+        "goals": 73
+      },
+      {
+        "season": "2012-13",
+        "goals": 60
+      },
+      {
+        "season": "2014-15",
+        "goals": 58
+      },
+      {
+        "season": "2016-17",
+        "goals": 54
+      },
+      {
+        "season": "2010-11",
+        "goals": 53
+      }
+    ],
+    "season_milestones": {
+      "first_10_goal_season": "2006-07",
+      "first_20_goal_season": "2008-09",
+      "first_50_goal_season": "2010-11",
+      "first_70_goal_season": "2011-12",
+      "ten_consecutive_40_goal_seasons": {
+        "from": "2009-10",
+        "to": "2018-19"
+      }
+    },
+    "consistency": {
+      "40_plus_goal_seasons": 10,
+      "50_plus_goal_seasons": 5,
+      "60_plus_goal_seasons": 2,
+      "70_plus_goal_seasons": 1
+    },
+    "records_summary": {
+      "season_entries": 21,
+      "major_records": 10,
+      "milestones": 5,
+      "consistency_records": 4
+    }
+  },
+  "goals_by_calendar_year": {
+    "overview": {
+      "last_updated": "2024-12-31",
+      "calendar_years": 21,
+      "period": "2004-2024",
+      "official_goals": 879
+    },
+    "yearly_statistics": [
+      {
+        "year": 2004,
+        "goals": 0
+      },
+      {
+        "year": 2005,
+        "goals": 3
+      },
+      {
+        "year": 2006,
+        "goals": 12
+      },
+      {
+        "year": 2007,
+        "goals": 31
+      },
+      {
+        "year": 2008,
+        "goals": 22
+      },
+      {
+        "year": 2009,
+        "goals": 41
+      },
+      {
+        "year": 2010,
+        "goals": 60
+      },
+      {
+        "year": 2011,
+        "goals": 59
+      },
+      {
+        "year": 2012,
+        "goals": 91,
+        "record": "Guinness World Record"
+      },
+      {
+        "year": 2013,
+        "goals": 45
+      },
+      {
+        "year": 2014,
+        "goals": 58
+      },
+      {
+        "year": 2015,
+        "goals": 52
+      },
+      {
+        "year": 2016,
+        "goals": 59
+      },
+      {
+        "year": 2017,
+        "goals": 54
+      },
+      {
+        "year": 2018,
+        "goals": 51
+      },
+      {
+        "year": 2019,
+        "goals": 50
+      },
+      {
+        "year": 2020,
+        "goals": 27
+      },
+      {
+        "year": 2021,
+        "goals": 43
+      },
+      {
+        "year": 2022,
+        "goals": 35
+      },
+      {
+        "year": 2023,
+        "goals": 28
+      },
+      {
+        "year": 2024,
+        "goals": 48
+      }
+    ],
+    "highest_scoring_years": [
+      {
+        "rank": 1,
+        "year": 2012,
+        "goals": 91
+      },
+      {
+        "rank": 2,
+        "year": 2010,
+        "goals": 60
+      },
+      {
+        "rank": 3,
+        "year": 2011,
+        "goals": 59
+      },
+      {
+        "rank": 4,
+        "year": 2016,
+        "goals": 59
+      },
+      {
+        "rank": 5,
+        "year": 2014,
+        "goals": 58
+      }
+    ],
+    "milestones": {
+      "first_20_goal_year": 2008,
+      "first_40_goal_year": 2009,
+      "first_50_goal_year": 2010,
+      "first_60_goal_year": 2010,
+      "first_90_goal_year": 2012
+    },
+    "consistency": {
+      "20_plus_goal_years": 17,
+      "30_plus_goal_years": 15,
+      "40_plus_goal_years": 13,
+      "50_plus_goal_years": 9,
+      "60_plus_goal_years": 1,
+      "90_plus_goal_years": 1
+    },
+    "records": {
+      "most_goals_calendar_year": {
+        "goals": 91,
+        "year": 2012,
+        "recognized_by": "Guinness World Records"
+      },
+      "most_consecutive_40_plus_goal_years": {
+        "count": 11,
+        "period": "2009-2019"
+      },
+      "only_player_to_score_90_plus_goals_in_one_calendar_year": true
+    },
+    "records_summary": {
+      "calendar_year_entries": 21,
+      "major_records": 8,
+      "consistency_records": 6,
+      "milestone_records": 5
+    }
+  },
+  "goal_types": {
+    "overview": {
+      "last_updated": "2024-12-31",
+      "official_goals": 879,
+      "goal_categories": 9
+    },
+    "body_part_breakdown": {
+      "left_foot": {
+        "goals": 710,
+        "percentage": 80.77,
+        "description": "Primary scoring foot."
+      },
+      "right_foot": {
+        "goals": 131,
+        "percentage": 14.9,
+        "description": "Non-dominant foot."
+      },
+      "head": {
+        "goals": 38,
+        "percentage": 4.33,
+        "description": "Headers."
+      }
+    },
+    "goal_method_breakdown": {
+      "open_play": {
+        "goals": 697,
+        "percentage": 79.29
+      },
+      "penalties": {
+        "goals": 114,
+        "percentage": 12.97
+      },
+      "direct_free_kicks": {
+        "goals": 68,
+        "percentage": 7.74
+      }
+    },
+    "shot_location": {
+      "inside_penalty_area": {
+        "goals": 726,
+        "percentage": 82.59
+      },
+      "outside_penalty_area": {
+        "goals": 153,
+        "percentage": 17.41
+      }
+    },
+    "goal_situation": {
+      "left_foot_open_play": 574,
+      "right_foot_open_play": 96,
+      "headed_open_play": 27,
+      "left_foot_penalties": 114,
+      "direct_free_kicks": 68
+    },
+    "club_vs_country": {
+      "club": {
+        "left_foot": 620,
+        "right_foot": 113,
+        "head": 34
+      },
+      "argentina": {
+        "left_foot": 90,
+        "right_foot": 18,
+        "head": 4
+      }
+    },
+    "goal_characteristics": {
+      "winning_goals": 286,
+      "equalizing_goals": 122,
+      "opening_goals": 267,
+      "match_winning_goals": 198,
+      "injury_time_goals": 31
+    },
+    "special_goal_types": {
+      "olympic_goals": 0,
+      "volley_goals": 26,
+      "half_volley_goals": 19,
+      "chip_goals": 24,
+      "solo_goals": 52,
+      "long_range_goals": 84
+    },
+    "free_kick_breakdown": {
+      "barcelona": 50,
+      "paris_saint_germain": 2,
+      "inter_miami": 4,
+      "argentina": 12,
+      "total": 68
+    },
+    "penalty_breakdown": {
+      "barcelona": 79,
+      "paris_saint_germain": 9,
+      "inter_miami": 2,
+      "argentina": 24,
+      "total": 114
+    },
+    "records": {
+      "most_direct_free_kick_goals_for_barcelona": true,
+      "most_direct_free_kick_goals_for_argentina": true,
+      "most_left_foot_goals_among_active_players": true,
+      "most_direct_free_kick_goals_among_active_players": true
+    },
+    "records_summary": {
+      "body_part_categories": 3,
+      "goal_method_categories": 3,
+      "shot_location_categories": 2,
+      "special_goal_categories": 6,
+      "major_goal_type_records": 14
+    }
+  },
+  "hat_tricks_and_multi_goal_matches": {
+    "overview": {
+      "last_updated": "2024-12-31",
+      "official_hat_tricks": 61,
+      "four_goal_matches": 6,
+      "five_goal_matches": 2,
+      "career_braces": 165
+    },
+    "hat_trick_statistics": {
+      "total": 61,
+      "club": {
+        "total": 51,
+        "barcelona": 48,
+        "paris_saint_germain": 0,
+        "inter_miami": 3
+      },
+      "international": {
+        "total": 10,
+        "team": "Argentina"
+      }
+    },
+    "hat_tricks_by_competition": {
+      "la_liga": 36,
+      "uefa_champions_league": 8,
+      "copa_del_rey": 3,
+      "supercopa_de_espana": 1,
+      "major_league_soccer": 2,
+      "leagues_cup": 1,
+      "international_friendlies": 8,
+      "fifa_world_cup_qualifiers": 2
+    },
+    "four_goal_matches": {
+      "total": 6,
+      "club": 5,
+      "international": 1
+    },
+    "five_goal_matches": {
+      "total": 2,
+      "matches": [
+        {
+          "competition": "UEFA Champions League",
+          "opponent": "Bayer Leverkusen",
+          "date": "2012-03-07",
+          "goals": 5
+        },
+        {
+          "competition": "International Friendly",
+          "opponent": "Estonia",
+          "date": "2022-06-05",
+          "goals": 5
+        }
+      ]
+    },
+    "brace_statistics": {
+      "official_braces": 165,
+      "club_braces": 145,
+      "international_braces": 20
+    },
+    "multi_goal_matches": {
+      "two_or_more_goals": 232,
+      "three_or_more_goals": 61,
+      "four_or_more_goals": 6,
+      "five_goals": 2
+    },
+    "fastest_hat_tricks": [
+      {
+        "minutes": 17,
+        "competition": "La Liga"
+      },
+      {
+        "minutes": 19,
+        "competition": "International Friendly"
+      },
+      {
+        "minutes": 22,
+        "competition": "UEFA Champions League"
+      }
+    ],
+    "special_achievements": {
+      "most_hat_tricks_in_la_liga": 36,
+      "most_hat_tricks_for_barcelona": 48,
+      "most_hat_tricks_for_argentina": 10,
+      "only_player_to_score_five_goals_in_ucl_knockout_match": true
+    },
+    "hat_trick_milestones": {
+      "first_hat_trick": {
+        "date": "2007-03-10",
+        "competition": "La Liga",
+        "opponent": "Real Madrid"
+      },
+      "25th_hat_trick": {
+        "year": 2012
+      },
+      "50th_hat_trick": {
+        "year": 2018
+      },
+      "60th_hat_trick": {
+        "year": 2024
+      }
+    },
+    "records": {
+      "most_la_liga_hat_tricks": true,
+      "most_barcelona_hat_tricks": true,
+      "most_argentina_hat_tricks": true,
+      "only_player_with_two_five_goal_matches": true
+    },
+    "records_summary": {
+      "hat_trick_records": 8,
+      "multi_goal_records": 6,
+      "milestone_records": 4,
+      "competition_records": 8,
+      "major_records": 26
+    }
+  },
+  "milestone_goals": {
+    "overview": {
+      "last_updated": "2024-12-31",
+      "official_goals": 879,
+      "career_milestones_tracked": 10
+    },
+    "career_milestones": [
+      {
+        "milestone": "First Official Goal",
+        "goals": 1,
+        "date": "2005-05-01",
+        "club": "FC Barcelona",
+        "opponent": "Albacete",
+        "competition": "La Liga"
+      },
+      {
+        "milestone": "100th Goal",
+        "goals": 100,
+        "year": 2010
+      },
+      {
+        "milestone": "200th Goal",
+        "goals": 200,
+        "year": 2012
+      },
+      {
+        "milestone": "300th Goal",
+        "goals": 300,
+        "year": 2013
+      },
+      {
+        "milestone": "400th Goal",
+        "goals": 400,
+        "year": 2015
+      },
+      {
+        "milestone": "500th Goal",
+        "goals": 500,
+        "year": 2016
+      },
+      {
+        "milestone": "600th Goal",
+        "goals": 600,
+        "year": 2018
+      },
+      {
+        "milestone": "700th Goal",
+        "goals": 700,
+        "year": 2021
+      },
+      {
+        "milestone": "800th Goal",
+        "goals": 800,
+        "year": 2023
+      }
+    ],
+    "club_milestones": {
+      "100th_barcelona_goal": {
+        "year": 2010
+      },
+      "200th_barcelona_goal": {
+        "year": 2012
+      },
+      "300th_barcelona_goal": {
+        "year": 2013
+      },
+      "400th_barcelona_goal": {
+        "year": 2015
+      },
+      "500th_barcelona_goal": {
+        "year": 2016
+      },
+      "600th_barcelona_goal": {
+        "year": 2018
+      },
+      "first_psg_goal": {
+        "date": "2021-09-28",
+        "competition": "UEFA Champions League",
+        "opponent": "Manchester City"
+      },
+      "first_inter_miami_goal": {
+        "date": "2023-07-21",
+        "competition": "Leagues Cup",
+        "opponent": "Cruz Azul"
+      }
+    },
+    "international_milestones": {
+      "first_argentina_goal": {
+        "date": "2006-03-01",
+        "competition": "International Friendly",
+        "opponent": "Croatia"
+      },
+      "50th_argentina_goal": {
+        "year": 2016
+      },
+      "100th_argentina_goal": {
+        "date": "2023-03-28",
+        "competition": "International Friendly",
+        "opponent": "Curaçao"
+      }
+    },
+    "special_milestones": {
+      "first_world_cup_goal": {
+        "year": 2006
+      },
+      "first_copa_america_goal": {
+        "year": 2007
+      },
+      "first_champions_league_goal": {
+        "year": 2005
+      },
+      "first_el_clasico_goal": {
+        "year": 2007
+      },
+      "first_free_kick_goal": {
+        "year": 2008
+      }
+    },
+    "historic_firsts": [
+      "First Barcelona player to score 500 official goals.",
+      "First Barcelona player to score 600 official goals.",
+      "First Argentina player to score 100 international goals.",
+      "First South American men's player to score 100 international goals.",
+      "First player to score 800 official career goals among active footballers."
+    ],
+    "milestone_records": {
+      "career_goal_milestones": 9,
+      "club_goal_milestones": 8,
+      "international_goal_milestones": 3,
+      "special_goal_milestones": 5,
+      "historic_firsts": 5
+    }
+  },
+  "goals_by_opponent": {
+    "overview": {
+      "last_updated": "2024-12-31",
+      "official_goals": 879,
+      "club_opponents": 140,
+      "international_opponents": 40
+    },
+    "top_club_opponents": [
+      {
+        "opponent": "Sevilla",
+        "goals": 38,
+        "matches": 43,
+        "goals_per_match": 0.88
+      },
+      {
+        "opponent": "Atlético Madrid",
+        "goals": 32,
+        "matches": 43,
+        "goals_per_match": 0.74
+      },
+      {
+        "opponent": "Valencia",
+        "goals": 31,
+        "matches": 34,
+        "goals_per_match": 0.91
+      },
+      {
+        "opponent": "Athletic Club",
+        "goals": 29,
+        "matches": 44,
+        "goals_per_match": 0.66
+      },
+      {
+        "opponent": "Real Betis",
+        "goals": 28,
+        "matches": 24,
+        "goals_per_match": 1.17
+      },
+      {
+        "opponent": "Real Madrid",
+        "goals": 26,
+        "matches": 45,
+        "goals_per_match": 0.58
+      },
+      {
+        "opponent": "Espanyol",
+        "goals": 25,
+        "matches": 36,
+        "goals_per_match": 0.69
+      },
+      {
+        "opponent": "Osasuna",
+        "goals": 25,
+        "matches": 33,
+        "goals_per_match": 0.76
+      },
+      {
+        "opponent": "Levante",
+        "goals": 24,
+        "matches": 22,
+        "goals_per_match": 1.09
+      },
+      {
+        "opponent": "Eibar",
+        "goals": 20,
+        "matches": 11,
+        "goals_per_match": 1.82
+      }
+    ],
+    "top_international_opponents": [
+      {
+        "opponent": "Bolivia",
+        "goals": 8
+      },
+      {
+        "opponent": "Ecuador",
+        "goals": 7
+      },
+      {
+        "opponent": "Brazil",
+        "goals": 6
+      },
+      {
+        "opponent": "Uruguay",
+        "goals": 6
+      },
+      {
+        "opponent": "Paraguay",
+        "goals": 6
+      },
+      {
+        "opponent": "Estonia",
+        "goals": 5
+      },
+      {
+        "opponent": "Croatia",
+        "goals": 5
+      },
+      {
+        "opponent": "Nigeria",
+        "goals": 4
+      },
+      {
+        "opponent": "Mexico",
+        "goals": 4
+      },
+      {
+        "opponent": "Chile",
+        "goals": 4
+      }
+    ],
+    "competition_opponents": {
+      "el_clasico": {
+        "opponent": "Real Madrid",
+        "goals": 26,
+        "record": "All-time leading scorer in El Clásico"
+      },
+      "uefa_champions_league": {
+        "favorite_opponent": "Arsenal",
+        "goals": 9
+      },
+      "fifa_world_cup": {
+        "favorite_opponents": [
+          {
+            "team": "Mexico",
+            "goals": 4
+          },
+          {
+            "team": "Nigeria",
+            "goals": 2
+          },
+          {
+            "team": "Australia",
+            "goals": 2
+          }
+        ]
+      },
+      "copa_america": {
+        "favorite_opponent": "Paraguay",
+        "goals": 4
+      }
+    },
+    "special_records": {
+      "most_goals_against_single_club": {
+        "opponent": "Sevilla",
+        "goals": 38
+      },
+      "most_goals_against_single_national_team": {
+        "opponent": "Bolivia",
+        "goals": 8
+      },
+      "most_el_clasico_goals": 26,
+      "most_goals_against_top_five_opponents": 158
+    },
+    "hat_tricks_by_opponent": {
+      "sevilla": 4,
+      "real_betis": 3,
+      "eibar": 2,
+      "espanyol": 2,
+      "bolivia": 2,
+      "estonia": 1
+    },
+    "records_summary": {
+      "club_opponents": 10,
+      "international_opponents": 10,
+      "competition_records": 4,
+      "special_records": 4,
+      "major_opponent_records": 28
+    }
+  },
+  "goal_records": {
+    "overview": {
+      "last_updated": "2024-12-31",
+      "record_categories": [
+        "World Records",
+        "FIFA Records",
+        "UEFA Records",
+        "Barcelona Records",
+        "Argentina Records",
+        "Competition Records",
+        "Guinness World Records"
+      ]
+    },
+    "world_records": {
+      "most_goals_for_single_club": {
+        "club": "FC Barcelona",
+        "goals": 672
+      },
+      "most_goals_in_calendar_year": {
+        "goals": 91,
+        "year": 2012
+      },
+      "most_goals_in_single_european_league_season": {
+        "goals": 50,
+        "season": "2011-12"
+      },
+      "most_direct_free_kick_goals_among_active_players": {
+        "goals": 68
+      },
+      "most_left_foot_goals_among_active_players": {
+        "goals": 710
+      }
+    },
+    "fifa_records": {
+      "world_cup_goals": 13,
+      "most_world_cup_goals_for_argentina": true,
+      "only_player_to_score_in": ["Teenage Years", "Twenties", "Thirties"],
+      "world_cup_final_goals": 2
+    },
+    "uefa_records": {
+      "champions_league_goals": 129,
+      "second_highest_goal_scorer": true,
+      "most_group_stage_goals": 80,
+      "most_round_of_16_goals": 29,
+      "most_goals_for_single_club": {
+        "club": "FC Barcelona",
+        "goals": 120
+      }
+    },
+    "barcelona_records": {
+      "club_top_scorer": {
+        "goals": 672
+      },
+      "la_liga_goals": 474,
+      "champions_league_goals": 120,
+      "copa_del_rey_goals": 56,
+      "supercopa_goals": 14,
+      "el_clasico_goals": 26
+    },
+    "argentina_records": {
+      "international_goals": 112,
+      "world_cup_goals": 13,
+      "copa_america_goals": 14,
+      "world_cup_qualifier_goals": 34,
+      "most_goals_for_argentina": true
+    },
+    "competition_records": {
+      "la_liga_top_scorer": {
+        "goals": 474
+      },
+      "most_pichichi_awards": 8,
+      "champions_league_top_scorer_titles": 6,
+      "supercopa_top_scorer": {
+        "goals": 14
+      },
+      "leagues_cup_golden_boot": {
+        "year": 2023,
+        "goals": 10
+      }
+    },
+    "guinness_world_records": [
+      {
+        "title": "Most goals in a calendar year",
+        "value": 91,
+        "year": 2012
+      },
+      {
+        "title": "Most goals for a single club",
+        "value": 672
+      }
+    ],
+    "historic_firsts": [
+      "First player to score 91 official goals in a calendar year.",
+      "First player to score 50 goals in a single La Liga season.",
+      "First player to score 600 goals for one European club.",
+      "First player to score 700 official club goals.",
+      "First South American men's player to score 100 international goals."
+    ],
+    "major_goal_records": [
+      "Most goals for FC Barcelona.",
+      "Most goals for Argentina.",
+      "Most La Liga goals.",
+      "Most goals in a calendar year.",
+      "Most goals in a single La Liga season.",
+      "Most goals for one club.",
+      "Most El Clásico goals.",
+      "Most World Cup goals for Argentina."
+    ],
+    "records_summary": {
+      "world_records": 5,
+      "fifa_records": 4,
+      "uefa_records": 5,
+      "barcelona_records": 5,
+      "argentina_records": 5,
+      "competition_records": 5,
+      "guinness_records": 2,
+      "historic_firsts": 5,
+      "major_goal_records": 8,
+      "total_major_goal_records": 44
+    }
+  },
+  "summary": {
+    "player": "Lionel Andrés Messi",
+    "status": "Active",
+    "last_updated": "2024-12-31",
+    "career_overview": {
+      "professional_debut": "2004-10-16",
+      "international_debut": "2005-08-17",
+      "professional_career_years": 20,
+      "clubs": ["FC Barcelona", "Paris Saint-Germain", "Inter Miami CF"],
+      "national_team": "Argentina"
+    },
+    "career_totals": {
+      "official_matches": 1104,
+      "official_goals": 879,
+      "club_matches": 913,
+      "club_goals": 767,
+      "international_matches": 191,
+      "international_goals": 112,
+      "official_assists": 390,
+      "official_goal_contributions": 1269,
+      "goals_per_match": 0.8
+    },
+    "goal_distribution": {
+      "club": {
+        "goals": 767,
+        "percentage": 87.26
+      },
+      "international": {
+        "goals": 112,
+        "percentage": 12.74
+      },
+      "left_foot": 710,
+      "right_foot": 131,
+      "headers": 38,
+      "open_play": 697,
+      "penalties": 114,
+      "direct_free_kicks": 68
+    },
+    "top_scoring_competitions": [
+      {
+        "competition": "La Liga",
+        "goals": 474
+      },
+      {
+        "competition": "UEFA Champions League",
+        "goals": 129
+      },
+      {
+        "competition": "Copa del Rey",
+        "goals": 56
+      },
+      {
+        "competition": "International Friendlies",
+        "goals": 51
+      },
+      {
+        "competition": "FIFA World Cup Qualifiers",
+        "goals": 34
+      }
+    ],
+    "career_highlights": [
+      "Most goals for FC Barcelona (672).",
+      "Most goals for Argentina (112).",
+      "Most La Liga goals (474).",
+      "Most goals in a calendar year (91).",
+      "Most goals in a single La Liga season (50).",
+      "Most goals for a single club in football history (672).",
+      "Eight-time Ballon d'Or winner.",
+      "Six-time European Golden Shoe winner."
+    ],
+    "major_goal_records": [
+      "Most goals for FC Barcelona.",
+      "Most goals for Argentina.",
+      "Most La Liga goals.",
+      "Most goals in a calendar year.",
+      "Most goals in a single European league season.",
+      "Most goals for one club.",
+      "Most El Clásico goals.",
+      "Most FIFA World Cup goals for Argentina."
+    ],
+    "milestone_goals": {
+      "100": true,
+      "200": true,
+      "300": true,
+      "400": true,
+      "500": true,
+      "600": true,
+      "700": true,
+      "800": true
+    },
+    "database_summary": {
+      "parts": 12,
+      "career_sections": 2,
+      "club_sections": 3,
+      "competition_sections": 13,
+      "season_sections": 21,
+      "calendar_year_sections": 21,
+      "goal_type_sections": 9,
+      "record_sections": 7,
+      "milestone_sections": 10
+    },
+    "database_information": {
+      "edition": "2024",
+      "version": "1.0",
+      "official_matches_only": true,
+      "official_goals_only": true,
+      "official_records_only": true,
+      "includes_club_goals": true,
+      "includes_international_goals": true,
+      "includes_competition_goals": true,
+      "includes_goal_records": true,
+      "includes_goal_milestones": true
+    },
+    "legacy": {
+      "description": "By the end of the 2024 season, Lionel Messi had established himself as one of the most prolific goalscorers in football history. His career combined extraordinary consistency, elite finishing, creativity, longevity and success across domestic leagues, continental competitions and international tournaments. His goalscoring records with FC Barcelona, Argentina and in La Liga remain among the most significant achievements in modern football.",
+      "status": "Active",
+      "database_completed": true
+    }
+  }
+}

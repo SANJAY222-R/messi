@@ -1,0 +1,506 @@
+{
+  "club": {
+    "id": "paris-saint-germain",
+    "name": "Paris Saint-Germain Football Club",
+    "short_name": "PSG",
+    "nickname": [
+      "Les Parisiens",
+      "Rouge-et-Bleu"
+    ],
+    "country": "France",
+    "city": "Paris",
+    "stadium": {
+      "name": "Parc des Princes",
+      "capacity": 47929
+    },
+    "league": "Ligue 1",
+    "joined": "2021-08-10",
+    "left": "2023-06-30",
+    "years": 2
+  },
+  "career": {
+    "status": "Completed",
+    "start_date": "2021-08-10",
+    "end_date": "2023-06-30",
+    "age_on_debut": 34,
+    "age_on_departure": 36,
+    "positions": [
+      "Right Winger",
+      "Second Striker",
+      "Centre Forward",
+      "Attacking Midfielder",
+      "Playmaker"
+    ],
+    "preferred_foot": "Left",
+    "shirt_numbers": [
+      30
+    ]
+  },
+  "debut": {
+    "official_debut": {
+      "date": "2021-08-29",
+      "competition": "Ligue 1",
+      "opponent": "Reims",
+      "venue": "Stade Auguste-Delaune",
+      "result": "Reims 0-2 Paris Saint-Germain",
+      "manager": "Mauricio Pochettino",
+      "shirt_number": 30,
+      "substituted_for": "Neymar Jr.",
+      "age": {
+        "years": 34,
+        "days": 65
+      }
+    },
+    "first_goal": {
+      "date": "2021-09-28",
+      "competition": "UEFA Champions League",
+      "opponent": "Manchester City",
+      "result": "Paris Saint-Germain 2-0 Manchester City",
+      "assist": "Kylian Mbappé",
+      "shirt_number": 30
+    },
+    "ligue1_first_goal": {
+      "date": "2021-11-20",
+      "competition": "Ligue 1",
+      "opponent": "Nantes",
+      "result": "Paris Saint-Germain 3-1 Nantes"
+    }
+  },
+  "managers": [
+    {
+      "name": "Mauricio Pochettino",
+      "period": "2021-2022",
+      "role": "First Team Manager",
+      "importance": [
+        "Managed Messi during his debut season at PSG.",
+        "Integrated Messi into the attacking trio with Neymar and Mbappé.",
+        "Won the 2021-22 Ligue 1 title."
+      ]
+    },
+    {
+      "name": "Christophe Galtier",
+      "period": "2022-2023",
+      "role": "First Team Manager",
+      "importance": [
+        "Oversaw Messi's most productive season at PSG.",
+        "Won the 2022-23 Ligue 1 title.",
+        "Utilized Messi primarily as a deep-lying playmaker and creator."
+      ]
+    }
+  ],
+  "captaincy": {
+    "vice_captain_since": null,
+    "club_captain_since": null,
+    "previous_captain": "Marquinhos",
+    "captain_until": null,
+    "captaincy_style": [
+      "Senior Leader",
+      "Lead by Example",
+      "Creative Influence"
+    ]
+  },
+  "shirt_history": [
+    {
+      "number": 30,
+      "from": 2021,
+      "to": 2023,
+      "reason": "The iconic No.10 shirt was already worn by Neymar, so Messi chose No.30—the number he wore when making his senior debut at Barcelona."
+    }
+  ],
+  "playing_roles": [
+    {
+      "role": "Right Winger",
+      "years": "2021-2022",
+      "description": "Started from the right flank but frequently drifted into central areas to create chances and combine with Neymar and Mbappé."
+    },
+    {
+      "role": "Second Striker",
+      "years": "2021-2023",
+      "description": "Played close to Mbappé, linking midfield and attack while creating space through movement and intelligent positioning."
+    },
+    {
+      "role": "Attacking Midfielder",
+      "years": "2022-2023",
+      "description": "Dropped deeper to orchestrate attacks, dictate tempo and provide key passes rather than acting solely as a goalscorer."
+    },
+    {
+      "role": "Playmaker",
+      "years": "2022-2023",
+      "description": "Became PSG's primary creator, leading Ligue 1 in assists and consistently initiating attacking moves."
+    }
+  ],
+  "important_teammates": [
+    "Kylian Mbappé",
+    "Neymar Jr.",
+    "Ángel Di María",
+    "Marco Verratti",
+    "Achraf Hakimi",
+    "Sergio Ramos",
+    "Marquinhos",
+    "Gianluigi Donnarumma",
+    "Nuno Mendes",
+    "Vitinha",
+    "Danilo Pereira",
+    "Presnel Kimpembe",
+    "Fabián Ruiz",
+    "Carlos Soler",
+    "Renato Sanches"
+  ],
+  "playing_style": {
+    "strengths": [
+      "Vision",
+      "Playmaking",
+      "Passing",
+      "Dribbling",
+      "Ball Control",
+      "Chance Creation",
+      "Through Balls",
+      "Finishing",
+      "Acceleration",
+      "Free Kicks",
+      "Decision Making",
+      "Creativity"
+    ],
+    "traits": [
+      "Deep-Lying Playmaker",
+      "Cuts Inside",
+      "Through Ball Specialist",
+      "Outside Foot Pass",
+      "Finesse Shot",
+      "Long Shot Taker",
+      "Flair",
+      "One-on-One Specialist",
+      "Progressive Ball Carrier"
+    ]
+  },
+  "legacy": {
+    "status": "One of the greatest players to represent Paris Saint-Germain",
+    "ranking": null,
+    "considered": [
+      "One of PSG's greatest-ever signings",
+      "One of Ligue 1's greatest players",
+      "One of the greatest footballers of all time"
+    ],
+    "considered_by": [
+      "Players",
+      "Managers",
+      "Supporters",
+      "Football historians"
+    ],
+    "description": "Although his stay lasted only two seasons, Messi helped Paris Saint-Germain win back-to-back Ligue 1 titles and a Trophée des Champions. He formed the celebrated MNM attacking trio alongside Neymar and Kylian Mbappé, evolved into one of Europe's finest playmakers, led Ligue 1 in assists during the 2022-23 season, won the FIFA World Cup while representing PSG, and became the first player in history to win the Ballon d'Or while playing for a French club since George Weah in 1995."
+  },
+  "seasons": [
+    {
+      "season": "2021-22",
+      "age": 34,
+      "manager": "Mauricio Pochettino",
+      "shirt_number": 30,
+      "position": "Right Winger / Playmaker",
+      "captain": false,
+      "statistics": {
+        "appearances": 34,
+        "starts": 31,
+        "goals": 11,
+        "assists": 15,
+        "hat_tricks": 0,
+        "penalty_goals": 0,
+        "free_kick_goals": 2,
+        "minutes": 2876
+      },
+      "competitions": [
+        "Ligue 1",
+        "UEFA Champions League",
+        "Coupe de France",
+        "Trophée des Champions"
+      ],
+      "team_achievements": [
+        "Ligue 1 Champion"
+      ],
+      "individual_awards": [
+        "IFFHS World's Best International Goal Scorer (2022)",
+        "IFFHS World's Best Playmaker (2022)",
+        "IFFHS World Team (2022)"
+      ],
+      "major_events": [
+        "Signed for Paris Saint-Germain after leaving Barcelona.",
+        "Made his PSG debut against Reims.",
+        "Scored his first PSG goal against Manchester City in the UEFA Champions League.",
+        "Won his first Ligue 1 title with PSG.",
+        "Adapted to a new league after spending his entire senior career at Barcelona.",
+        "Formed the 'MNM' attacking trio with Neymar and Kylian Mbappé.",
+        "Registered the most assists for PSG during the league season.",
+        "Reached the UEFA Champions League Round of 16 before elimination by Real Madrid."
+      ],
+      "iconic_matches": [
+        {
+          "date": "2021-09-28",
+          "competition": "UEFA Champions League",
+          "opponent": "Manchester City",
+          "result": "Paris Saint-Germain 2-0 Manchester City",
+          "goals": 1,
+          "assists": 0,
+          "description": "Scored his first official goal for PSG with a trademark left-foot finish after combining with Kylian Mbappé."
+        },
+        {
+          "date": "2021-08-29",
+          "competition": "Ligue 1",
+          "opponent": "Reims",
+          "result": "Reims 0-2 Paris Saint-Germain",
+          "goals": 0,
+          "assists": 0,
+          "description": "Made his official debut for Paris Saint-Germain after replacing Neymar in the second half."
+        },
+        {
+          "date": "2022-04-23",
+          "competition": "Ligue 1",
+          "opponent": "Lens",
+          "result": "Paris Saint-Germain 1-1 Lens",
+          "goals": 1,
+          "assists": 0,
+          "description": "Scored a spectacular long-range goal as PSG secured the Ligue 1 title."
+        }
+      ],
+      "records_broken": [
+        "First Argentine player to score for PSG in the UEFA Champions League.",
+        "Won a league title in a second European country."
+      ]
+    },
+    {
+      "season": "2022-23",
+      "age": 35,
+      "manager": "Christophe Galtier",
+      "shirt_number": 30,
+      "position": "Attacking Midfielder / Playmaker",
+      "captain": false,
+      "statistics": {
+        "appearances": 41,
+        "starts": 39,
+        "goals": 21,
+        "assists": 20,
+        "hat_tricks": 1,
+        "penalty_goals": 4,
+        "free_kick_goals": 0,
+        "minutes": 3540
+      },
+      "competitions": [
+        "Ligue 1",
+        "UEFA Champions League",
+        "Coupe de France",
+        "Trophée des Champions"
+      ],
+      "team_achievements": [
+        "Ligue 1 Champion",
+        "Trophée des Champions Winner"
+      ],
+      "individual_awards": [
+        "Ligue 1 Top Assist Provider",
+        "UNFP Ligue 1 Team of the Year",
+        "IFFHS World's Best Playmaker (2023)",
+        "IFFHS World Team (2023)",
+        "Time Athlete of the Year (2023)"
+      ],
+      "major_events": [
+        "Enjoyed his best season for Paris Saint-Germain.",
+        "Won the Trophée des Champions to begin the season.",
+        "Played a deeper creative role under Christophe Galtier.",
+        "Led Ligue 1 in assists.",
+        "Reached 1,000 career club goal contributions.",
+        "Scored the 700th club goal of his professional career.",
+        "Won the 2022 FIFA World Cup with Argentina while representing PSG.",
+        "Won his second consecutive Ligue 1 title.",
+        "Played his final match for PSG before leaving as a free agent."
+      ],
+      "iconic_matches": [
+        {
+          "date": "2022-08-31",
+          "competition": "Ligue 1",
+          "opponent": "Toulouse",
+          "result": "Toulouse 0-3 Paris Saint-Germain",
+          "goals": 1,
+          "assists": 2,
+          "description": "Produced a masterclass with a goal and two assists, highlighting his improved form."
+        },
+        {
+          "date": "2022-10-21",
+          "competition": "Ligue 1",
+          "opponent": "Ajaccio",
+          "result": "Ajaccio 0-3 Paris Saint-Germain",
+          "goals": 2,
+          "assists": 1,
+          "description": "Scored a brilliant volley and provided another outstanding all-round performance."
+        },
+        {
+          "date": "2023-02-26",
+          "competition": "Ligue 1",
+          "opponent": "Marseille",
+          "result": "Marseille 0-3 Paris Saint-Germain",
+          "goals": 1,
+          "assists": 2,
+          "description": "Scored his 700th club career goal and helped PSG secure a crucial victory."
+        },
+        {
+          "date": "2023-05-27",
+          "competition": "Ligue 1",
+          "opponent": "Strasbourg",
+          "result": "Strasbourg 1-1 Paris Saint-Germain",
+          "goals": 1,
+          "assists": 0,
+          "description": "Scored the goal that mathematically secured PSG's 11th Ligue 1 title."
+        },
+        {
+          "date": "2023-06-03",
+          "competition": "Ligue 1",
+          "opponent": "Clermont",
+          "result": "Paris Saint-Germain 2-3 Clermont",
+          "goals": 0,
+          "assists": 0,
+          "description": "Played his final match for Paris Saint-Germain before departing at the end of the season."
+        }
+      ],
+      "records_broken": [
+        "Reached 700 career club goals.",
+        "Became the Ligue 1 assist leader for the 2022-23 season.",
+        "Won the FIFA World Cup while representing Paris Saint-Germain.",
+        "Helped PSG win a record 11th French league title."
+      ],
+      "departure": {
+        "date": "2023-06-30",
+        "reason": "Contract expired and was not renewed.",
+        "next_club": "Inter Miami CF"
+      }
+    }
+  ],
+  "overall_statistics": {
+    "official_matches": 75,
+    "official_goals": 32,
+    "official_assists": 35,
+    "hat_tricks": 1,
+    "free_kick_goals": 2,
+    "penalty_goals": 4,
+    "captain_matches": 0,
+    "clean_sheets": null,
+    "minutes_played": 6416
+  },
+  "club_trophies": [
+    {
+      "competition": "Ligue 1",
+      "titles": 2,
+      "years": [
+        2022,
+        2023
+      ]
+    },
+    {
+      "competition": "Trophée des Champions",
+      "titles": 1,
+      "years": [
+        2022
+      ]
+    }
+  ],
+  "club_records": [
+    "First Ballon d'Or winner to play for Paris Saint-Germain.",
+    "First FIFA World Cup winner while representing Paris Saint-Germain.",
+    "Reached 700 club career goals while playing for PSG.",
+    "One of only a few PSG players to record 20+ goals and 20+ assists in a single season across all competitions.",
+    "Led Ligue 1 in assists during the 2022-23 season.",
+    "Part of PSG's iconic 'MNM' attacking trio alongside Neymar Jr. and Kylian Mbappé.",
+    "Contributed 67 goal involvements (32 goals and 35 assists) in 75 official appearances."
+  ],
+  "major_milestones": [
+    {
+      "year": 2021,
+      "event": "Signed for Paris Saint-Germain after leaving FC Barcelona."
+    },
+    {
+      "year": 2021,
+      "event": "Made official debut against Reims."
+    },
+    {
+      "year": 2021,
+      "event": "Scored first PSG goal against Manchester City in the UEFA Champions League."
+    },
+    {
+      "year": 2022,
+      "event": "Won first Ligue 1 title with PSG."
+    },
+    {
+      "year": 2022,
+      "event": "Won the Trophée des Champions."
+    },
+    {
+      "year": 2022,
+      "event": "Won the FIFA World Cup while representing Paris Saint-Germain."
+    },
+    {
+      "year": 2023,
+      "event": "Reached 700 career club goals."
+    },
+    {
+      "year": 2023,
+      "event": "Won second consecutive Ligue 1 title."
+    },
+    {
+      "year": 2023,
+      "event": "Finished as Ligue 1's top assist provider."
+    },
+    {
+      "year": 2023,
+      "event": "Played final match for Paris Saint-Germain."
+    },
+    {
+      "year": 2023,
+      "event": "Left Paris Saint-Germain as a free agent."
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2021-08-10",
+      "event": "Signed a two-year contract with Paris Saint-Germain."
+    },
+    {
+      "date": "2021-08-11",
+      "event": "Officially unveiled at Parc des Princes."
+    },
+    {
+      "date": "2021-08-29",
+      "event": "Made official PSG debut against Reims."
+    },
+    {
+      "date": "2021-09-28",
+      "event": "Scored first PSG goal against Manchester City in the UEFA Champions League."
+    },
+    {
+      "date": "2021-11-20",
+      "event": "Scored first Ligue 1 goal for PSG against Nantes."
+    },
+    {
+      "date": "2022-04-23",
+      "event": "Won first Ligue 1 title with Paris Saint-Germain."
+    },
+    {
+      "date": "2022-07-31",
+      "event": "Won the Trophée des Champions."
+    },
+    {
+      "date": "2022-12-18",
+      "event": "Won the FIFA World Cup with Argentina while representing PSG."
+    },
+    {
+      "date": "2023-02-26",
+      "event": "Scored his 700th club career goal against Marseille."
+    },
+    {
+      "date": "2023-05-27",
+      "event": "Scored against Strasbourg as PSG secured the Ligue 1 title."
+    },
+    {
+      "date": "2023-06-03",
+      "event": "Played his final match for Paris Saint-Germain against Clermont."
+    },
+    {
+      "date": "2023-06-30",
+      "event": "Officially departed Paris Saint-Germain following the expiration of his contract."
+    }
+  ]
+}

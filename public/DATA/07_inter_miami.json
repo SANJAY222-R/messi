@@ -1,0 +1,684 @@
+{
+  "club": {
+    "id": "inter-miami-cf",
+    "name": "Club Internacional de Fútbol Miami",
+    "short_name": "Inter Miami",
+    "nickname": [
+      "The Herons",
+      "The Pink and Black"
+    ],
+    "country": "United States",
+    "city": "Fort Lauderdale, Florida",
+    "stadium": {
+      "name": "Chase Stadium",
+      "capacity": 21550
+    },
+    "league": "Major League Soccer (MLS)",
+    "joined": "2023-07-15",
+    "left": null,
+    "years": 3
+  },
+  "career": {
+    "status": "Active",
+    "start_date": "2023-07-15",
+    "end_date": null,
+    "age_on_debut": 36,
+    "age_current": 39,
+    "positions": [
+      "Right Winger",
+      "Second Striker",
+      "Centre Forward",
+      "Attacking Midfielder",
+      "Playmaker"
+    ],
+    "preferred_foot": "Left",
+    "shirt_numbers": [
+      10
+    ]
+  },
+  "debut": {
+    "official_debut": {
+      "date": "2023-07-21",
+      "competition": "Leagues Cup",
+      "opponent": "Cruz Azul",
+      "venue": "DRV PNK Stadium",
+      "result": "Inter Miami 2-1 Cruz Azul",
+      "manager": "Gerardo 'Tata' Martino",
+      "shirt_number": 10,
+      "substituted_for": "Benjamin Cremaschi",
+      "age": {
+        "years": 36,
+        "days": 24
+      }
+    },
+    "first_goal": {
+      "date": "2023-07-21",
+      "competition": "Leagues Cup",
+      "opponent": "Cruz Azul",
+      "result": "Inter Miami 2-1 Cruz Azul",
+      "assist": null,
+      "shirt_number": 10,
+      "description": "Scored a match-winning free-kick in stoppage time on his debut."
+    },
+    "mls_debut": {
+      "date": "2023-08-26",
+      "competition": "Major League Soccer",
+      "opponent": "New York Red Bulls",
+      "result": "New York Red Bulls 0-2 Inter Miami",
+      "goals": 1,
+      "assists": 0
+    },
+    "concacaf_champions_cup_debut": {
+      "date": "2024-02-21",
+      "opponent": "Nashville SC"
+    }
+  },
+  "managers": [
+    {
+      "name": "Gerardo 'Tata' Martino",
+      "period": "2023-2024",
+      "role": "First Team Manager",
+      "importance": [
+        "Coached Messi during his arrival at Inter Miami.",
+        "Won the club's first-ever trophy (2023 Leagues Cup).",
+        "Previously managed Messi with both FC Barcelona and Argentina."
+      ]
+    },
+    {
+      "name": "Javier Mascherano",
+      "period": "2025-Present",
+      "role": "First Team Manager",
+      "importance": [
+        "Former Argentina teammate of Messi.",
+        "Leading Inter Miami during the next phase of Messi's MLS career.",
+        "Competing in MLS, CONCACAF Champions Cup and FIFA Club World Cup."
+      ]
+    }
+  ],
+  "captaincy": {
+    "vice_captain_since": null,
+    "club_captain_since": 2023,
+    "previous_captain": "DeAndre Yedlin",
+    "captain_until": null,
+    "captaincy_style": [
+      "Lead by Example",
+      "Experienced Leader",
+      "Performance-driven",
+      "Creative Influence"
+    ]
+  },
+  "shirt_history": [
+    {
+      "number": 10,
+      "from": 2023,
+      "to": null,
+      "previous_owner": "Gonzalo Higuaín",
+      "reason": "Messi was immediately awarded Inter Miami's iconic No.10 shirt upon signing."
+    }
+  ],
+  "playing_roles": [
+    {
+      "role": "Right Winger",
+      "years": "2023",
+      "description": "Started from the right side before drifting centrally to create chances and score."
+    },
+    {
+      "role": "Second Striker",
+      "years": "2023-Present",
+      "description": "Played alongside Luis Suárez, linking midfield and attack while exploiting spaces between defenders."
+    },
+    {
+      "role": "Attacking Midfielder",
+      "years": "2024-Present",
+      "description": "Dropped deeper to orchestrate attacks, dictate tempo and provide decisive passes."
+    },
+    {
+      "role": "Playmaker",
+      "years": "2024-Present",
+      "description": "Became Inter Miami's primary creative force, leading the team's build-up play and chance creation."
+    }
+  ],
+  "important_teammates": [
+    "Luis Suárez",
+    "Sergio Busquets",
+    "Jordi Alba",
+    "Diego Gómez",
+    "Benjamin Cremaschi",
+    "Leonardo Campana",
+    "Robert Taylor",
+    "Drake Callender",
+    "Federico Redondo",
+    "Telasco Segovia",
+    "Yannick Bright",
+    "Noah Allen",
+    "Marcelo Weigandt",
+    "Tomás Avilés",
+    "Gonzalo Luján"
+  ],
+  "playing_style": {
+    "strengths": [
+      "Vision",
+      "Playmaking",
+      "Passing",
+      "Dribbling",
+      "Ball Control",
+      "Chance Creation",
+      "Through Balls",
+      "Finishing",
+      "Free Kicks",
+      "Leadership",
+      "Decision Making",
+      "Creativity"
+    ],
+    "traits": [
+      "Deep-Lying Playmaker",
+      "Cuts Inside",
+      "Through Ball Specialist",
+      "Outside Foot Pass",
+      "Finesse Shot",
+      "Free Kick Specialist",
+      "Long Shot Taker",
+      "Flair",
+      "One-on-One Specialist",
+      "Progressive Ball Carrier"
+    ]
+  },
+  "legacy": {
+    "status": "The greatest player in Inter Miami history",
+    "ranking": 1,
+    "considered": [
+      "Greatest Inter Miami player",
+      "One of the greatest players in Major League Soccer history",
+      "One of the greatest footballers of all time"
+    ],
+    "considered_by": [
+      "Players",
+      "Managers",
+      "Supporters",
+      "Football historians"
+    ],
+    "description": "Messi transformed Inter Miami from one of Major League Soccer's struggling clubs into a global football powerhouse. He led the club to its first-ever trophy by winning the 2023 Leagues Cup, followed by the 2024 Supporters' Shield. His arrival dramatically increased worldwide attention toward MLS, boosted attendance and television audiences, and established Inter Miami as one of the most recognized football clubs globally. Alongside former Barcelona teammates Sergio Busquets, Jordi Alba and Luis Suárez, Messi helped usher in the most successful era in the club's history while continuing to perform at an elite level."
+  },
+  "seasons": [
+    {
+      "season": "2023",
+      "age": 36,
+      "manager": "Gerardo 'Tata' Martino",
+      "shirt_number": 10,
+      "position": "Forward / Playmaker",
+      "captain": true,
+      "statistics": {
+        "appearances": 14,
+        "starts": 14,
+        "goals": 11,
+        "assists": 5,
+        "hat_tricks": 0,
+        "penalty_goals": 1,
+        "free_kick_goals": 2,
+        "minutes": 1178
+      },
+      "competitions": [
+        "Leagues Cup",
+        "Major League Soccer",
+        "U.S. Open Cup"
+      ],
+      "team_achievements": [
+        "Leagues Cup Champion"
+      ],
+      "individual_awards": [
+        "Leagues Cup Best Player",
+        "Leagues Cup Top Scorer",
+        "Time Athlete of the Year (2023)",
+        "Ballon d'Or 2023",
+        "MLS Newcomer of the Year"
+      ],
+      "major_events": [
+        "Joined Inter Miami after leaving Paris Saint-Germain.",
+        "Scored a dramatic stoppage-time free-kick winner on his debut against Cruz Azul.",
+        "Scored in every Leagues Cup knockout round.",
+        "Led Inter Miami to its first trophy in club history by winning the 2023 Leagues Cup.",
+        "Won the Leagues Cup Golden Boot and Best Player awards.",
+        "Made his MLS debut against New York Red Bulls and scored after coming off the bench.",
+        "Reached the U.S. Open Cup Final before missing the match through injury.",
+        "Won a record eighth Ballon d'Or while playing for Inter Miami."
+      ],
+      "iconic_matches": [
+        {
+          "date": "2023-07-21",
+          "competition": "Leagues Cup",
+          "opponent": "Cruz Azul",
+          "result": "Inter Miami 2-1 Cruz Azul",
+          "goals": 1,
+          "assists": 0,
+          "description": "Made his debut and scored a stunning stoppage-time free-kick to win the match."
+        },
+        {
+          "date": "2023-08-15",
+          "competition": "Leagues Cup Semi-final",
+          "opponent": "Philadelphia Union",
+          "result": "Philadelphia Union 1-4 Inter Miami",
+          "goals": 1,
+          "assists": 0,
+          "description": "Scored from long range as Inter Miami reached its first-ever major final."
+        },
+        {
+          "date": "2023-08-19",
+          "competition": "Leagues Cup Final",
+          "opponent": "Nashville SC",
+          "result": "Nashville SC 1-1 Inter Miami (9-10 pens)",
+          "goals": 1,
+          "assists": 0,
+          "description": "Scored a spectacular opening goal and converted his penalty as Inter Miami won its first trophy."
+        },
+        {
+          "date": "2023-08-26",
+          "competition": "Major League Soccer",
+          "opponent": "New York Red Bulls",
+          "result": "New York Red Bulls 0-2 Inter Miami",
+          "goals": 1,
+          "assists": 0,
+          "description": "Made his MLS debut and scored after coming on as a substitute."
+        }
+      ],
+      "records_broken": [
+        "Led Inter Miami to the first trophy in club history.",
+        "Finished as the inaugural Leagues Cup Golden Boot winner under the expanded tournament format.",
+        "Won his eighth Ballon d'Or while playing for an MLS club.",
+        "Became the fastest player in Inter Miami history to reach 10 goals.",
+        "Scored in seven consecutive Leagues Cup matches."
+      ]
+    },
+    {
+      "season": "2024",
+      "age": 37,
+      "manager": "Gerardo 'Tata' Martino",
+      "shirt_number": 10,
+      "position": "Attacking Midfielder / Playmaker",
+      "captain": true,
+      "statistics": {
+        "appearances": 25,
+        "starts": 24,
+        "goals": 23,
+        "assists": 13,
+        "hat_tricks": 2,
+        "penalty_goals": 3,
+        "free_kick_goals": 2,
+        "minutes": 2127
+      },
+      "competitions": [
+        "Major League Soccer",
+        "CONCACAF Champions Cup",
+        "Leagues Cup"
+      ],
+      "team_achievements": [
+        "MLS Supporters' Shield Winner"
+      ],
+      "individual_awards": [
+        "MLS Most Valuable Player (Landon Donovan MVP)",
+        "MLS Best XI",
+        "MLS Player of the Matchday (Multiple Times)"
+      ],
+      "major_events": [
+        "Played his first full season with Inter Miami.",
+        "Led the club to the MLS Supporters' Shield, the first in club history.",
+        "Set a new MLS single-season points record for Inter Miami.",
+        "Finished the regular season with 23 goals and 13 assists despite missing matches through injury and international duty.",
+        "Won the MLS Most Valuable Player award.",
+        "Became the fastest player in MLS history to record multiple goal contributions in consecutive matches.",
+        "Recorded five assists in a single MLS match against the New York Red Bulls, equaling the league record.",
+        "Continued to establish Inter Miami as one of the world's most recognized football clubs."
+      ],
+      "iconic_matches": [
+        {
+          "date": "2024-05-04",
+          "competition": "Major League Soccer",
+          "opponent": "New York Red Bulls",
+          "result": "Inter Miami 6-2 New York Red Bulls",
+          "goals": 1,
+          "assists": 5,
+          "description": "Produced one of the greatest individual performances in MLS history with one goal and five assists."
+        },
+        {
+          "date": "2024-10-02",
+          "competition": "Major League Soccer",
+          "opponent": "Columbus Crew",
+          "result": "Columbus Crew 2-3 Inter Miami",
+          "goals": 2,
+          "assists": 0,
+          "description": "Scored twice as Inter Miami secured the 2024 MLS Supporters' Shield."
+        },
+        {
+          "date": "2024-10-19",
+          "competition": "Major League Soccer",
+          "opponent": "New England Revolution",
+          "result": "Inter Miami 6-2 New England Revolution",
+          "goals": 3,
+          "assists": 1,
+          "description": "Scored his first MLS hat-trick as Inter Miami finished the regular season with a league-record points total."
+        },
+        {
+          "date": "2024-04-06",
+          "competition": "Major League Soccer",
+          "opponent": "Colorado Rapids",
+          "result": "Inter Miami 2-2 Colorado Rapids",
+          "goals": 1,
+          "assists": 1,
+          "description": "Returned from injury and immediately changed the match with a goal and an assist."
+        }
+      ],
+      "records_broken": [
+        "Won the first MLS MVP award in Inter Miami history.",
+        "Helped Inter Miami set a new MLS single-season points record.",
+        "Equaled the MLS record with five assists in a single match.",
+        "Became the first Inter Miami player to win the MLS Golden Boot race's MVP combination (club MVP and league MVP).",
+        "Recorded the highest goal contribution rate in MLS during the 2024 regular season."
+      ]
+    },
+    {
+      "season": "2025",
+      "age": 38,
+      "manager": "Javier Mascherano",
+      "shirt_number": 10,
+      "position": "Attacking Midfielder / Playmaker",
+      "captain": true,
+      "statistics": {
+        "appearances": 25,
+        "starts": 23,
+        "goals": 18,
+        "assists": 8,
+        "hat_tricks": 1,
+        "penalty_goals": 4,
+        "free_kick_goals": 2,
+        "minutes": 1987
+      },
+      "competitions": [
+        "Major League Soccer",
+        "CONCACAF Champions Cup",
+        "FIFA Club World Cup",
+        "Leagues Cup"
+      ],
+      "team_achievements": [],
+      "individual_awards": [],
+      "major_events": [
+        "Began a new era under head coach Javier Mascherano.",
+        "Continued as Inter Miami's captain and primary attacking playmaker.",
+        "Led the club in goals and chance creation across all competitions.",
+        "Competed in the expanded FIFA Club World Cup.",
+        "Reached another milestone in career goal contributions.",
+        "Remained one of Major League Soccer's most influential players despite a carefully managed workload."
+      ],
+      "iconic_matches": [
+        {
+          "date": "2025-03-13",
+          "competition": "CONCACAF Champions Cup",
+          "opponent": "Cavalier FC",
+          "result": "Cavalier FC 0-2 Inter Miami",
+          "goals": 1,
+          "assists": 0,
+          "description": "Returned from injury and scored shortly after coming off the bench to help Inter Miami advance."
+        },
+        {
+          "date": "2025-05-10",
+          "competition": "Major League Soccer",
+          "opponent": "Minnesota United",
+          "result": "Minnesota United 4-1 Inter Miami",
+          "goals": 1,
+          "assists": 0,
+          "description": "Scored Inter Miami's only goal despite the team's defeat."
+        },
+        {
+          "date": "2025-06-19",
+          "competition": "FIFA Club World Cup",
+          "opponent": "FC Porto",
+          "result": "Inter Miami 2-1 FC Porto",
+          "goals": 1,
+          "assists": 0,
+          "description": "Scored a spectacular match-winning free-kick as Inter Miami recorded its first victory in FIFA Club World Cup history."
+        },
+        {
+          "date": "2025-06-23",
+          "competition": "FIFA Club World Cup",
+          "opponent": "Palmeiras",
+          "result": "Inter Miami 2-2 Palmeiras",
+          "goals": 0,
+          "assists": 1,
+          "description": "Provided a key assist as Inter Miami secured qualification for the knockout stage."
+        }
+      ],
+      "records_broken": [
+        "First Inter Miami captain to lead the club at the FIFA Club World Cup.",
+        "Scored Inter Miami's first goal from a direct free-kick in FIFA Club World Cup history.",
+        "Extended his record as Inter Miami's all-time leader in goal contributions.",
+        "Continued to rank among the MLS leaders in goal contributions per 90 minutes."
+      ]
+    },
+    {
+      "season": "2026",
+      "age": 38,
+      "manager": "Javier Mascherano",
+      "shirt_number": 10,
+      "position": "Attacking Midfielder / Playmaker",
+      "captain": true,
+      "status": "Ongoing",
+      "statistics": {
+        "appearances": 14,
+        "starts": 14,
+        "goals": 12,
+        "assists": 8,
+        "hat_tricks": 0,
+        "penalty_goals": 2,
+        "free_kick_goals": 2,
+        "minutes": 1243
+      },
+      "competitions": [
+        "Major League Soccer",
+        "CONCACAF Champions Cup",
+        "FIFA Club World Cup",
+        "Leagues Cup"
+      ],
+      "team_achievements": [],
+      "individual_awards": [],
+      "major_events": [
+        "Began his fourth season with Inter Miami.",
+        "Continued as club captain under Javier Mascherano.",
+        "Opened Inter Miami's new home stadium with a goal.",
+        "Reached 900 senior career goals.",
+        "Represented Argentina at the 2026 FIFA World Cup during the mid-season break.",
+        "Remained Inter Miami's leading attacking player before the MLS schedule paused for the World Cup."
+      ],
+      "iconic_matches": [
+        {
+          "date": "2026-03-01",
+          "competition": "Major League Soccer",
+          "opponent": "Orlando City",
+          "result": "Orlando City 2-4 Inter Miami",
+          "goals": 2,
+          "assists": 1,
+          "description": "Inspired a second-half comeback with two goals and an assist."
+        },
+        {
+          "date": "2026-03-18",
+          "competition": "CONCACAF Champions Cup",
+          "opponent": "Nashville SC",
+          "result": "Inter Miami 1-1 Nashville SC",
+          "goals": 1,
+          "assists": 0,
+          "description": "Scored his 900th senior career goal."
+        },
+        {
+          "date": "2026-04-04",
+          "competition": "Major League Soccer",
+          "opponent": "Austin FC",
+          "result": "Inter Miami 2-2 Austin FC",
+          "goals": 1,
+          "assists": 0,
+          "description": "Scored the first official goal at Inter Miami's new stadium."
+        },
+        {
+          "date": "2026-06-19",
+          "competition": "FIFA World Cup",
+          "opponent": "Austria",
+          "result": "Argentina 2-0 Austria",
+          "goals": 2,
+          "assists": 0,
+          "description": "Became the all-time leading goalscorer in FIFA World Cup history."
+        },
+        {
+          "date": "2026-06-28",
+          "competition": "FIFA World Cup",
+          "opponent": "Jordan",
+          "result": "Argentina 3-1 Jordan",
+          "goals": 1,
+          "assists": 0,
+          "description": "Scored in a record seventh consecutive FIFA World Cup match."
+        }
+      ],
+      "records_broken": [
+        "Reached 900 senior career goals.",
+        "Became the all-time leading men's goalscorer in FIFA World Cup history.",
+        "First player to score in seven consecutive FIFA World Cup matches.",
+        "Continued as Inter Miami's all-time leader in goals and goal contributions."
+      ],
+      "last_updated": "2026-06-28"
+    }
+  ],
+  "overall_statistics": {
+    "official_matches": 95,
+    "official_goals": 74,
+    "official_assists": 37,
+    "hat_tricks": 3,
+    "free_kick_goals": 7,
+    "penalty_goals": 8,
+    "captain_matches": 90,
+    "clean_sheets": null,
+    "minutes_played": 7580
+  },
+  "club_trophies": [
+    {
+      "competition": "Leagues Cup",
+      "titles": 1,
+      "years": [
+        2023
+      ]
+    },
+    {
+      "competition": "MLS Supporters' Shield",
+      "titles": 1,
+      "years": [
+        2024
+      ]
+    }
+  ],
+  "club_records": [
+    "Greatest player in Inter Miami history.",
+    "Led Inter Miami to the first major trophy in club history (2023 Leagues Cup).",
+    "Led Inter Miami to its first MLS Supporters' Shield (2024).",
+    "Inter Miami's all-time leader in goals.",
+    "Inter Miami's all-time leader in assists.",
+    "Inter Miami's all-time leader in goal contributions.",
+    "Inter Miami's all-time leader in free-kick goals.",
+    "Fastest player in club history to reach 10 goals.",
+    "Fastest player in club history to reach 25 goals.",
+    "Fastest player in club history to reach 50 goal contributions.",
+    "First Inter Miami player to win the MLS Most Valuable Player award.",
+    "First Inter Miami player to win the Ballon d'Or.",
+    "First Inter Miami player to win the FIFA The Best Men's Player award.",
+    "Part of the legendary 'Barcelona Four' alongside Luis Suárez, Sergio Busquets and Jordi Alba."
+  ],
+  "major_milestones": [
+    {
+      "year": 2023,
+      "event": "Signed for Inter Miami as a free agent."
+    },
+    {
+      "year": 2023,
+      "event": "Made debut and scored a stoppage-time winning free-kick against Cruz Azul."
+    },
+    {
+      "year": 2023,
+      "event": "Led Inter Miami to its first-ever trophy by winning the Leagues Cup."
+    },
+    {
+      "year": 2023,
+      "event": "Won his eighth Ballon d'Or."
+    },
+    {
+      "year": 2024,
+      "event": "Won the MLS Supporters' Shield."
+    },
+    {
+      "year": 2024,
+      "event": "Won the MLS Most Valuable Player award."
+    },
+    {
+      "year": 2024,
+      "event": "Recorded five assists in a single MLS match, equaling the league record."
+    },
+    {
+      "year": 2025,
+      "event": "Competed in the expanded FIFA Club World Cup with Inter Miami."
+    },
+    {
+      "year": 2025,
+      "event": "Scored Inter Miami's first-ever FIFA Club World Cup goal from a direct free kick against FC Porto."
+    },
+    {
+      "year": 2026,
+      "event": "Continued as club captain and all-time leading scorer."
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2023-06-07",
+      "event": "Announced his decision to join Inter Miami."
+    },
+    {
+      "date": "2023-07-15",
+      "event": "Officially signed for Inter Miami."
+    },
+    {
+      "date": "2023-07-16",
+      "event": "Officially unveiled at DRV PNK Stadium."
+    },
+    {
+      "date": "2023-07-21",
+      "event": "Made debut and scored a stoppage-time free-kick winner against Cruz Azul."
+    },
+    {
+      "date": "2023-08-19",
+      "event": "Won the Leagues Cup, Inter Miami's first trophy."
+    },
+    {
+      "date": "2023-08-26",
+      "event": "Made his MLS debut and scored against New York Red Bulls."
+    },
+    {
+      "date": "2023-10-30",
+      "event": "Won his eighth Ballon d'Or."
+    },
+    {
+      "date": "2024-05-04",
+      "event": "Recorded one goal and five assists against New York Red Bulls."
+    },
+    {
+      "date": "2024-10-02",
+      "event": "Helped Inter Miami secure the MLS Supporters' Shield."
+    },
+    {
+      "date": "2024-12-06",
+      "event": "Won the MLS Most Valuable Player award."
+    },
+    {
+      "date": "2025-06-19",
+      "event": "Scored a match-winning free kick against FC Porto in the FIFA Club World Cup."
+    },
+    {
+      "date": "2025-06-23",
+      "event": "Helped Inter Miami qualify for the FIFA Club World Cup knockout stage."
+    },
+    {
+      "date": "2026-01-01",
+      "event": "Began his fourth season with Inter Miami."
+    }
+  ]
+}

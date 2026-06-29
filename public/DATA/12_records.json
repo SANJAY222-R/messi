@@ -1,0 +1,1574 @@
+{
+  "overview": {
+    "player": "Lionel Andrés Messi",
+    "status": "Active",
+    "last_updated": "2024-12-31",
+    "career_span": {
+      "professional_debut": "2004-10-16",
+      "international_debut": "2005-08-17",
+      "years_active": 20
+    },
+    "database_information": {
+      "edition": "2024",
+      "version": "1.0",
+      "record_standard": "Official FIFA, UEFA, CONMEBOL, CONCACAF, La Liga, Ligue 1, MLS and club-recognized records",
+      "official_matches_only": true,
+      "official_statistics_only": true,
+      "includes_friendlies": false,
+      "includes_youth_records": true,
+      "includes_olympic_records": true
+    },
+    "record_categories": [
+      {
+        "name": "World Records",
+        "description": "Official football world records recognized by FIFA, UEFA, IFFHS and Guinness World Records."
+      },
+      {
+        "name": "FIFA Records",
+        "description": "Records achieved in FIFA competitions and FIFA awards."
+      },
+      {
+        "name": "UEFA Records",
+        "description": "Records in UEFA competitions and UEFA individual awards."
+      },
+      {
+        "name": "Barcelona Records",
+        "description": "Official club records achieved with FC Barcelona."
+      },
+      {
+        "name": "Argentina Records",
+        "description": "Official national team records."
+      },
+      {
+        "name": "Competition Records",
+        "description": "Records in domestic and international competitions."
+      },
+      {
+        "name": "Goal Records",
+        "description": "Goalscoring records across all official competitions."
+      },
+      {
+        "name": "Assist Records",
+        "description": "Playmaking and assist records."
+      },
+      {
+        "name": "Appearance Records",
+        "description": "Matches, captaincy and longevity records."
+      },
+      {
+        "name": "Age Records",
+        "description": "Youngest and oldest player achievements."
+      }
+    ],
+    "career_record_summary": {
+      "major_record_groups": 10,
+      "estimated_official_records": 300,
+      "world_records": 35,
+      "fifa_records": 18,
+      "uefa_records": 24,
+      "barcelona_records": 60,
+      "argentina_records": 32,
+      "competition_records": 48,
+      "goal_records": 40,
+      "assist_records": 25,
+      "appearance_records": 18
+    },
+    "major_record_holding_areas": {
+      "world": [
+        "Most Ballon d'Or awards",
+        "Most European Golden Shoe awards",
+        "Only player with two FIFA World Cup Golden Ball awards"
+      ],
+      "club": [
+        "Most goals for Barcelona",
+        "Most assists for Barcelona",
+        "Most trophies for Barcelona"
+      ],
+      "country": [
+        "Most Argentina appearances",
+        "Most Argentina goals",
+        "Most Argentina assists"
+      ],
+      "league": [
+        "Most La Liga goals",
+        "Most La Liga assists",
+        "Most La Liga hat-tricks"
+      ],
+      "international": [
+        "Most FIFA World Cup Player of the Match awards",
+        "Only player with two FIFA World Cup Golden Balls"
+      ]
+    },
+    "career_highlights": [
+      "Holds official records across FIFA, UEFA, CONMEBOL and domestic football.",
+      "Barcelona's all-time leading goalscorer.",
+      "Argentina's all-time leading goalscorer.",
+      "Argentina's most-capped player.",
+      "Eight-time Ballon d'Or winner.",
+      "Six-time European Golden Shoe winner.",
+      "Recognized as one of the greatest footballers in history."
+    ],
+    "record_sources": [
+      "FIFA",
+      "UEFA",
+      "CONMEBOL",
+      "La Liga",
+      "Ligue 1",
+      "Major League Soccer",
+      "FC Barcelona",
+      "Argentine Football Association",
+      "IFFHS",
+      "Guinness World Records"
+    ]
+  },
+  "world_records": {
+    "overview": {
+      "category": "Official World Football Records",
+      "last_updated": "2024-12-31",
+      "recognized_by": [
+        "FIFA",
+        "UEFA",
+        "IFFHS",
+        "Guinness World Records",
+        "France Football"
+      ]
+    },
+    "ballon_dor_records": {
+      "most_titles": {
+        "value": 8,
+        "years": [
+          2009,
+          2010,
+          2011,
+          2012,
+          2015,
+          2019,
+          2021,
+          2023
+        ]
+      },
+      "most_fifa_ballon_dor_titles": {
+        "value": 4,
+        "years": [
+          2010,
+          2011,
+          2012,
+          2015
+        ]
+      },
+      "only_player_to_win_ballon_dor_in_three_decades": true,
+      "youngest_player_to_win": {
+        "two_titles": true,
+        "three_titles": true,
+        "four_titles": true
+      },
+      "longest_span_between_first_and_last_title": {
+        "years": 14
+      }
+    },
+    "golden_shoe_records": {
+      "most_titles": {
+        "value": 6,
+        "seasons": [
+          "2009-10",
+          "2011-12",
+          "2012-13",
+          "2016-17",
+          "2017-18",
+          "2018-19"
+        ]
+      }
+    },
+    "world_cup_records": {
+      "only_player_with_two_golden_balls": {
+        "years": [
+          2014,
+          2022
+        ]
+      },
+      "most_player_of_the_match_awards": {
+        "value": 11
+      }
+    },
+    "scoring_records": {
+      "most_goals_in_calendar_year": {
+        "value": 91,
+        "year": 2012,
+        "recognized_by": "Guinness World Records"
+      },
+      "most_goals_in_single_european_league_season": {
+        "value": 50,
+        "season": "2011-12"
+      },
+      "most_consecutive_league_matches_scored": {
+        "value": 21,
+        "season": "2012-13"
+      },
+      "most_goals_for_single_club": {
+        "club": "Barcelona",
+        "goals": 672
+      }
+    },
+    "playmaking_records": {
+      "most_assists_for_single_club": {
+        "club": "Barcelona",
+        "assists": 303
+      },
+      "official_career_assists": {
+        "value": 381,
+        "status": "Highest officially recognized total by major statistical providers as of 2024"
+      }
+    },
+    "international_records": {
+      "most_goals_for_argentina": 112,
+      "most_assists_for_argentina": 61,
+      "most_appearances_for_argentina": 191
+    },
+    "historic_firsts": [
+      "First footballer to win eight Ballon d'Or awards.",
+      "First footballer to win six European Golden Shoes.",
+      "Only footballer to win two FIFA World Cup Golden Ball awards.",
+      "First footballer to score 91 official goals in a calendar year.",
+      "First footballer to score 50 goals in a single La Liga season."
+    ],
+    "guinness_world_records": [
+      {
+        "title": "Most goals scored in a calendar year",
+        "value": 91,
+        "year": 2012
+      },
+      {
+        "title": "Most Ballon d'Or awards",
+        "value": 8
+      },
+      {
+        "title": "Most European Golden Shoe awards",
+        "value": 6
+      },
+      {
+        "title": "Only player with two FIFA World Cup Golden Ball awards",
+        "value": 2
+      }
+    ],
+    "records_summary": {
+      "official_world_records": 25,
+      "major_individual_world_records": 12,
+      "major_team_related_world_records": 5,
+      "career_scoring_world_records": 8
+    },
+    "career_highlights": [
+      "Eight-time Ballon d'Or winner (world record).",
+      "Six-time European Golden Shoe winner (world record).",
+      "Holder of the Guinness World Record for 91 goals in a calendar year.",
+      "Only footballer to win two FIFA World Cup Golden Ball awards.",
+      "Barcelona's all-time leading goalscorer.",
+      "Argentina's all-time leading goalscorer and appearance holder."
+    ]
+  },
+  "fifa_records": {
+    "overview": {
+      "organization": "FIFA",
+      "last_updated": "2024-12-31",
+      "record_categories": [
+        "FIFA World Cup",
+        "FIFA Club World Cup",
+        "FIFA Individual Awards",
+        "International Football"
+      ]
+    },
+    "fifa_world_cup": {
+      "most_matches_played": {
+        "value": 26,
+        "status": "World Record"
+      },
+      "most_matches_as_captain": {
+        "value": 19,
+        "status": "World Record"
+      },
+      "most_minutes_played": {
+        "value": 2314,
+        "status": "World Record"
+      },
+      "golden_ball": {
+        "titles": 2,
+        "years": [
+          2014,
+          2022
+        ],
+        "record": "Only player to win the FIFA World Cup Golden Ball twice"
+      },
+      "player_of_the_match": {
+        "awards": 11,
+        "status": "World Record"
+      },
+      "tournaments_played": {
+        "value": 5,
+        "years": [
+          2006,
+          2010,
+          2014,
+          2018,
+          2022
+        ]
+      },
+      "goals": {
+        "value": 13,
+        "record": "Argentina's all-time FIFA World Cup top scorer"
+      },
+      "assists": {
+        "value": 8
+      },
+      "goal_contributions": {
+        "value": 21,
+        "record": "Joint-most FIFA World Cup goal contributions"
+      },
+      "only_player_to_score_in": {
+        "teens": true,
+        "twenties": true,
+        "thirties": true
+      },
+      "only_player_to_assist_in_five_world_cups": {
+        "years": [
+          2006,
+          2010,
+          2014,
+          2018,
+          2022
+        ]
+      },
+      "youngest_goal_and_assist_same_match": {
+        "age": "18 years, 357 days",
+        "match": "Argentina vs Serbia and Montenegro",
+        "date": "2006-06-16"
+      },
+      "oldest_goal_and_assist_same_match": {
+        "age": "35 years, 172 days",
+        "match": "Argentina vs Mexico",
+        "date": "2022-11-26"
+      }
+    },
+    "fifa_club_world_cup": {
+      "golden_ball_titles": {
+        "value": 2,
+        "years": [
+          2009,
+          2011
+        ]
+      },
+      "silver_ball_titles": {
+        "value": 1,
+        "year": 2015
+      },
+      "only_player_to_score_in_three_finals": {
+        "years": [
+          2009,
+          2011,
+          2015
+        ]
+      }
+    },
+    "fifa_individual_awards": {
+      "fifa_world_player_of_the_year": 1,
+      "fifa_ballon_dor": 4,
+      "the_best_fifa_mens_player": 3,
+      "fifa_fifpro_world11": 17
+    },
+    "argentina_fifa_records": {
+      "most_world_cup_matches": 26,
+      "most_world_cup_goals": 13,
+      "most_world_cup_assists": 8,
+      "most_world_cup_player_of_the_match_awards": 11
+    },
+    "historic_firsts": [
+      "Only footballer to win two FIFA World Cup Golden Ball awards.",
+      "Only footballer to assist in five different FIFA World Cups.",
+      "Only footballer to score in his teens, twenties and thirties in FIFA World Cup history.",
+      "Only footballer to score in three FIFA Club World Cup finals.",
+      "First player to reach 26 FIFA World Cup appearances."
+    ],
+    "records_summary": {
+      "major_fifa_records": 19,
+      "world_cup_records": 12,
+      "club_world_cup_records": 3,
+      "fifa_award_records": 4
+    }
+  },
+  "uefa_records": {
+    "overview": {
+      "organization": "UEFA",
+      "last_updated": "2024-12-31",
+      "record_categories": [
+        "UEFA Champions League",
+        "UEFA Super Cup",
+        "UEFA Individual Awards",
+        "European Club Football"
+      ]
+    },
+    "uefa_champions_league": {
+      "all_time_statistics": {
+        "appearances": 163,
+        "goals": 129,
+        "assists": 40,
+        "goal_contributions": 169,
+        "titles": 4
+      },
+      "competition_records": {
+        "most_group_stage_goals": {
+          "value": 80,
+          "status": "Record"
+        },
+        "most_round_of_16_goals": {
+          "value": 29,
+          "status": "Record"
+        },
+        "most_goals_for_one_club": {
+          "club": "Barcelona",
+          "value": 120,
+          "status": "Record"
+        },
+        "most_consecutive_seasons_scoring": {
+          "value": 18,
+          "period": "2005-06 to 2022-23",
+          "status": "Record"
+        },
+        "joint_most_top_scorer_titles": {
+          "value": 6,
+          "seasons": [
+            "2008-09",
+            "2009-10",
+            "2010-11",
+            "2011-12",
+            "2014-15",
+            "2018-19"
+          ]
+        }
+      },
+      "knockout_stage_records": {
+        "round_of_16_goals": 29,
+        "quarter_final_goals": 15,
+        "semi_final_goals": 13,
+        "final_goals": 2,
+        "knockout_goals": 59
+      },
+      "hat_tricks": {
+        "total": 8,
+        "status": "Joint-second in competition history"
+      },
+      "single_season_records": {
+        "most_goals": {
+          "value": 14,
+          "season": "2011-12"
+        },
+        "most_group_stage_goals": {
+          "value": 10,
+          "season": "2016-17"
+        }
+      }
+    },
+    "uefa_super_cup": {
+      "titles": 3,
+      "years": [
+        2009,
+        2011,
+        2015
+      ],
+      "goals": 3,
+      "record": "Joint-most goals in UEFA Super Cup history"
+    },
+    "uefa_individual_awards": {
+      "uefa_best_player_in_europe": {
+        "titles": 3,
+        "years": [
+          2011,
+          2015,
+          2019
+        ]
+      },
+      "uefa_club_footballer_of_the_year": {
+        "titles": 1,
+        "year": 2009
+      },
+      "uefa_team_of_the_year": {
+        "selections": 12,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2011,
+          2012,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020
+        ]
+      },
+      "champions_league_forward_of_the_season": {
+        "titles": 1,
+        "season": "2018-19"
+      },
+      "champions_league_team_of_the_season": {
+        "selections": 8
+      }
+    },
+    "historic_firsts": [
+      "First player to score in 18 consecutive UEFA Champions League seasons.",
+      "First player to score 80 UEFA Champions League group-stage goals.",
+      "First player to score 120 UEFA Champions League goals for a single club.",
+      "Joint-most UEFA Champions League Top Scorer awards (6)."
+    ],
+    "records_summary": {
+      "major_uefa_records": 18,
+      "champions_league_records": 13,
+      "uefa_award_records": 5
+    },
+    "career_highlights": [
+      "Four-time UEFA Champions League winner.",
+      "Second-highest goalscorer in UEFA Champions League history (129 goals).",
+      "Record holder for most UEFA Champions League group-stage goals.",
+      "Record holder for most UEFA Champions League goals for one club.",
+      "Three-time UEFA Best Player in Europe."
+    ]
+  },
+  "barcelona_records": {
+    "overview": {
+      "club": "FC Barcelona",
+      "period": {
+        "from": "2000-09-17",
+        "to": "2021-08-08"
+      },
+      "first_team_period": {
+        "from": "2004-10-16",
+        "to": "2021-08-08"
+      },
+      "status": "Completed"
+    },
+    "club_records": {
+      "most_official_appearances": {
+        "value": 778,
+        "status": "Club Record"
+      },
+      "most_official_goals": {
+        "value": 672,
+        "status": "Club Record"
+      },
+      "most_official_assists": {
+        "value": 303,
+        "status": "Club Record"
+      },
+      "most_goal_contributions": {
+        "value": 975,
+        "status": "Club Record"
+      },
+      "most_trophies": {
+        "value": 35,
+        "status": "Club Record"
+      }
+    },
+    "la_liga_records": {
+      "most_goals": 474,
+      "most_assists": 192,
+      "most_hat_tricks": 36,
+      "most_braces": 83,
+      "most_player_of_the_match_awards": 238,
+      "most_pichichi_trophies": 8,
+      "most_goals_single_season": {
+        "goals": 50,
+        "season": "2011-12"
+      },
+      "most_consecutive_matches_scoring": {
+        "matches": 21,
+        "season": "2012-13"
+      }
+    },
+    "champions_league_records": {
+      "most_goals_for_barcelona": 120,
+      "most_assists_for_barcelona": 39,
+      "most_goal_contributions": 159,
+      "most_knockout_goals": 49,
+      "most_group_stage_goals": 77
+    },
+    "domestic_cup_records": {
+      "copa_del_rey": {
+        "most_goals": 56,
+        "most_finals_played": 10,
+        "most_finals_won": 7
+      },
+      "supercopa_de_espana": {
+        "most_goals": 14,
+        "most_titles": 8
+      }
+    },
+    "captaincy_records": {
+      "captain_since": 2018,
+      "captain_matches": 245,
+      "captain_goals": 230,
+      "captain_assists": 95,
+      "captain_trophies": 2
+    },
+    "el_clasico_records": {
+      "appearances": 45,
+      "goals": 26,
+      "assists": 14,
+      "wins": 19,
+      "record": "All-time top scorer in El Clásico"
+    },
+    "hat_trick_records": {
+      "official_hat_tricks": 48,
+      "la_liga_hat_tricks": 36,
+      "champions_league_hat_tricks": 8,
+      "copa_del_rey_hat_tricks": 3,
+      "supercopa_hat_tricks": 1
+    },
+    "historic_firsts": [
+      "First Barcelona player to score 500 official goals.",
+      "First Barcelona player to score 600 official goals.",
+      "First Barcelona player to score 700 official goal contributions.",
+      "First Barcelona player to reach 100 Champions League goals.",
+      "First Barcelona player to score in 18 consecutive Champions League seasons."
+    ],
+    "major_records": [
+      "Most official appearances for Barcelona.",
+      "Most official goals for Barcelona.",
+      "Most official assists for Barcelona.",
+      "Most trophies won with Barcelona.",
+      "Most La Liga goals for Barcelona.",
+      "Most La Liga assists for Barcelona.",
+      "Most El Clásico goals.",
+      "Most Champions League goals for Barcelona.",
+      "Most Pichichi Trophy awards."
+    ],
+    "records_summary": {
+      "club_records": 12,
+      "la_liga_records": 8,
+      "champions_league_records": 5,
+      "captaincy_records": 4,
+      "el_clasico_records": 5,
+      "major_barcelona_records": 34
+    }
+  },
+  "argentina_records": {
+    "overview": {
+      "team": "Argentina National Football Team",
+      "period": {
+        "from": "2005-08-17",
+        "to": "2024-12-31"
+      },
+      "status": "Active"
+    },
+    "all_time_records": {
+      "most_appearances": {
+        "value": 191,
+        "status": "National Record"
+      },
+      "most_goals": {
+        "value": 112,
+        "status": "National Record"
+      },
+      "most_assists": {
+        "value": 61,
+        "status": "National Record"
+      },
+      "most_goal_contributions": {
+        "value": 173,
+        "status": "National Record"
+      },
+      "most_matches_as_captain": {
+        "value": 106,
+        "status": "National Record"
+      },
+      "most_wins": {
+        "value": 137,
+        "status": "National Record"
+      }
+    },
+    "fifa_world_cup_records": {
+      "most_world_cup_appearances": 26,
+      "most_world_cup_goals": 13,
+      "most_world_cup_assists": 8,
+      "most_world_cup_goal_contributions": 21,
+      "most_world_cup_matches_as_captain": 19,
+      "most_world_cup_player_of_the_match_awards": 11,
+      "only_argentine_with_two_world_cup_golden_balls": true
+    },
+    "copa_america_records": {
+      "most_appearances": 39,
+      "most_matches_as_captain": 24,
+      "most_assists": 18,
+      "most_player_of_the_match_awards": 15,
+      "team_of_the_tournament_selections": 6,
+      "best_player_awards": 2
+    },
+    "world_cup_qualifiers": {
+      "all_time_top_scorer": {
+        "goals": 34,
+        "status": "CONMEBOL Record"
+      }
+    },
+    "captaincy_records": {
+      "captain_since": 2011,
+      "major_titles_as_captain": 4,
+      "titles": [
+        {
+          "competition": "Copa América",
+          "year": 2021
+        },
+        {
+          "competition": "Finalissima",
+          "year": 2022
+        },
+        {
+          "competition": "FIFA World Cup",
+          "year": 2022
+        },
+        {
+          "competition": "Copa América",
+          "year": 2024
+        }
+      ]
+    },
+    "scoring_records": {
+      "most_hat_tricks": 10,
+      "most_penalty_goals": 24,
+      "most_direct_free_kick_goals": 12,
+      "first_argentine_to_score_100_international_goals": true,
+      "first_south_american_to_score_100_international_goals": true
+    },
+    "historic_firsts": [
+      "First Argentina player to reach 100 international goals.",
+      "First South American men's player to score 100 international goals.",
+      "First Argentina player to win the FIFA World Cup Golden Ball twice.",
+      "First Argentina captain to win the World Cup since Diego Maradona.",
+      "First Argentina player to appear in five FIFA World Cups.",
+      "First Argentina player to win consecutive Copa América titles as captain."
+    ],
+    "major_records": [
+      "Most appearances for Argentina.",
+      "Most goals for Argentina.",
+      "Most assists for Argentina.",
+      "Most goal contributions for Argentina.",
+      "Most matches as Argentina captain.",
+      "Most World Cup appearances for Argentina.",
+      "Most World Cup goals for Argentina.",
+      "Most Copa América appearances.",
+      "Most Copa América assists.",
+      "Most CONMEBOL World Cup qualifying goals."
+    ],
+    "records_summary": {
+      "national_team_records": 12,
+      "world_cup_records": 6,
+      "copa_america_records": 6,
+      "captaincy_records": 4,
+      "scoring_records": 4,
+      "major_argentina_records": 32
+    }
+  },
+  "club_records": {
+    "overview": {
+      "last_updated": "2024-12-31",
+      "clubs": [
+        "FC Barcelona",
+        "Paris Saint-Germain",
+        "Inter Miami CF"
+      ],
+      "professional_clubs": 3,
+      "official_club_matches": 913,
+      "official_club_goals": 767,
+      "official_club_assists": 329,
+      "official_club_goal_contributions": 1096
+    },
+    "overall_club_records": {
+      "most_goals_for_single_club": {
+        "club": "FC Barcelona",
+        "value": 672,
+        "status": "World Record"
+      },
+      "most_assists_for_single_club": {
+        "club": "FC Barcelona",
+        "value": 303,
+        "status": "World Record"
+      },
+      "most_goal_contributions_for_single_club": {
+        "club": "FC Barcelona",
+        "value": 975,
+        "status": "World Record"
+      },
+      "most_trophies_for_single_club": {
+        "club": "FC Barcelona",
+        "value": 35,
+        "status": "Club Record"
+      }
+    },
+    "barcelona_records": {
+      "official_matches": 778,
+      "official_goals": 672,
+      "official_assists": 303,
+      "goal_contributions": 975,
+      "trophies": 35,
+      "captain_matches": 245,
+      "captain_goals": 230,
+      "captain_assists": 95,
+      "hat_tricks": 48
+    },
+    "paris_saint_germain_records": {
+      "official_matches": 75,
+      "official_goals": 32,
+      "official_assists": 35,
+      "goal_contributions": 67,
+      "trophies": 3,
+      "club_records": [
+        "Most assists by a PSG player in the 2022-23 Ligue 1 season (16).",
+        "Only PSG player to record at least 15 league goals and 15 league assists in a single Ligue 1 season."
+      ]
+    },
+    "inter_miami_records": {
+      "official_matches": 60,
+      "official_goals": 63,
+      "official_assists": 26,
+      "goal_contributions": 89,
+      "trophies": 2,
+      "club_records": [
+        "Most goals in club history (through 2024).",
+        "Most assists in club history (through 2024).",
+        "Most goal contributions in club history (through 2024).",
+        "Most free-kick goals in club history.",
+        "Most Player of the Match awards in club history."
+      ]
+    },
+    "league_records": {
+      "la_liga": {
+        "goals": 474,
+        "assists": 192,
+        "hat_tricks": 36,
+        "titles": 10
+      },
+      "ligue_1": {
+        "goals": 22,
+        "assists": 31,
+        "titles": 2
+      },
+      "major_league_soccer": {
+        "goals": 22,
+        "assists": 11,
+        "goal_contributions": 33
+      }
+    },
+    "club_milestones": {
+      "500th_club_goal": {
+        "date": "2016-04-17",
+        "club": "Barcelona"
+      },
+      "600th_club_goal": {
+        "date": "2018-03-04",
+        "club": "Barcelona"
+      },
+      "700th_club_goal": {
+        "date": "2021-05-16",
+        "club": "Barcelona"
+      },
+      "750th_club_goal": {
+        "date": "2024-05-04",
+        "club": "Inter Miami"
+      }
+    },
+    "historic_firsts": [
+      "First Barcelona player to score 600 official goals.",
+      "First Barcelona player to score 700 official goals.",
+      "First Inter Miami player to reach 50 official goals.",
+      "First Inter Miami player to reach 25 official assists.",
+      "Only player to score 600+ goals for one European club."
+    ],
+    "records_summary": {
+      "overall_club_records": 8,
+      "barcelona_records": 9,
+      "psg_records": 2,
+      "inter_miami_records": 5,
+      "league_records": 4,
+      "major_club_records": 28
+    }
+  },
+  "competition_records": {
+    "overview": {
+      "last_updated": "2024-12-31",
+      "competitions": [
+        "La Liga",
+        "UEFA Champions League",
+        "Copa del Rey",
+        "Supercopa de España",
+        "Ligue 1",
+        "MLS",
+        "Leagues Cup",
+        "FIFA World Cup",
+        "Copa América",
+        "FIFA Club World Cup"
+      ]
+    },
+    "la_liga": {
+      "most_goals": 474,
+      "most_assists": 192,
+      "most_hat_tricks": 36,
+      "most_braces": 83,
+      "most_pichichi_trophies": 8,
+      "most_player_of_the_month_awards": 8,
+      "most_goals_single_season": {
+        "goals": 50,
+        "season": "2011-12"
+      },
+      "most_consecutive_matches_scored": {
+        "matches": 21,
+        "season": "2012-13"
+      },
+      "only_player_with_20_plus_goals_in_13_consecutive_seasons": true
+    },
+    "uefa_champions_league": {
+      "second_all_time_top_scorer": {
+        "goals": 129
+      },
+      "joint_most_top_scorer_titles": 6,
+      "most_group_stage_goals": 80,
+      "most_round_of_16_goals": 29,
+      "most_goals_for_single_club": {
+        "club": "Barcelona",
+        "goals": 120
+      },
+      "most_consecutive_seasons_scoring": 18,
+      "hat_tricks": 8
+    },
+    "copa_del_rey": {
+      "most_goals_for_barcelona": 56,
+      "most_titles_with_barcelona": 7,
+      "most_finals_won_with_barcelona": 7
+    },
+    "supercopa_de_espana": {
+      "most_goals": 14,
+      "most_titles": 8
+    },
+    "fifa_world_cup": {
+      "most_matches": 26,
+      "most_minutes": 2314,
+      "most_matches_as_captain": 19,
+      "most_player_of_the_match_awards": 11,
+      "only_player_with_two_golden_balls": true
+    },
+    "copa_america": {
+      "most_appearances": 39,
+      "most_assists": 18,
+      "most_player_of_the_match_awards": 15,
+      "best_player_awards": 2,
+      "team_of_the_tournament_selections": 6
+    },
+    "fifa_club_world_cup": {
+      "golden_ball_titles": 2,
+      "only_player_to_score_in_three_finals": true,
+      "titles": 3
+    },
+    "ligue_1": {
+      "titles": 2,
+      "best_assist_season": {
+        "assists": 16,
+        "season": "2022-23"
+      },
+      "only_player_with_15_goals_and_15_assists_single_season": true
+    },
+    "major_league_soccer": {
+      "mls_mvp": 1,
+      "supporters_shield": 1,
+      "mls_best_xi": 1,
+      "most_goal_contributions_single_club_season": {
+        "club": "Inter Miami",
+        "season": 2024
+      }
+    },
+    "leagues_cup": {
+      "titles": 1,
+      "golden_boot": 1,
+      "best_player": 1,
+      "top_scorer": {
+        "goals": 10,
+        "year": 2023
+      }
+    },
+    "competition_firsts": [
+      "First player to score 50 goals in a La Liga season.",
+      "First player to win two FIFA World Cup Golden Balls.",
+      "First player to score in 18 consecutive UEFA Champions League seasons.",
+      "First Inter Miami player to win the Leagues Cup Golden Boot.",
+      "First Inter Miami player to win MLS MVP."
+    ],
+    "competition_summary": {
+      "major_competition_records": 46,
+      "domestic_competition_records": 18,
+      "continental_competition_records": 15,
+      "international_competition_records": 13
+    }
+  },
+  "goal_records": {
+    "overview": {
+      "last_updated": "2024-12-31",
+      "official_career_goals": 879,
+      "club_goals": 767,
+      "international_goals": 112
+    },
+    "career_records": {
+      "most_goals_for_single_club": {
+        "club": "FC Barcelona",
+        "goals": 672,
+        "status": "World Record"
+      },
+      "most_goals_for_argentina": {
+        "goals": 112,
+        "status": "National Record"
+      },
+      "most_goals_in_calendar_year": {
+        "goals": 91,
+        "year": 2012,
+        "recognized_by": "Guinness World Records"
+      },
+      "most_goals_in_single_european_league_season": {
+        "goals": 50,
+        "season": "2011-12"
+      },
+      "most_goals_in_single_club_season": {
+        "goals": 73,
+        "season": "2011-12"
+      }
+    },
+    "competition_records": {
+      "la_liga": {
+        "goals": 474,
+        "record": "Competition Record"
+      },
+      "uefa_champions_league": {
+        "goals": 129,
+        "ranking": 2
+      },
+      "copa_del_rey": {
+        "goals": 56,
+        "record": "Barcelona Record"
+      },
+      "supercopa_de_espana": {
+        "goals": 14,
+        "record": "Competition Record"
+      },
+      "fifa_world_cup": {
+        "goals": 13,
+        "record": "Argentina Record"
+      },
+      "copa_america": {
+        "goals": 14,
+        "record": "Argentina Record"
+      },
+      "fifa_club_world_cup": {
+        "goals": 5
+      },
+      "leagues_cup": {
+        "goals": 10,
+        "season": 2023,
+        "record": "Golden Boot Winner"
+      }
+    },
+    "hat_trick_records": {
+      "official_hat_tricks": 61,
+      "club_hat_tricks": 51,
+      "international_hat_tricks": 10,
+      "by_competition": {
+        "la_liga": 36,
+        "uefa_champions_league": 8,
+        "copa_del_rey": 3,
+        "supercopa_de_espana": 1,
+        "international": 10,
+        "other": 3
+      },
+      "four_goal_matches": 6,
+      "five_goal_matches": 2,
+      "fastest_hat_trick": {
+        "minutes": 17
+      }
+    },
+    "free_kick_records": {
+      "official_direct_free_kick_goals": 68,
+      "club": 56,
+      "international": 12,
+      "most_free_kick_goals_for_barcelona": true,
+      "most_free_kick_goals_for_argentina": true
+    },
+    "penalty_records": {
+      "official_penalty_goals": 114,
+      "club": 90,
+      "international": 24
+    },
+    "milestone_records": {
+      "100th_goal": true,
+      "200th_goal": true,
+      "300th_goal": true,
+      "400th_goal": true,
+      "500th_goal": true,
+      "600th_goal": true,
+      "700th_goal": true,
+      "800th_goal": true
+    },
+    "body_part_records": {
+      "left_foot": 710,
+      "right_foot": 131,
+      "head": 38
+    },
+    "goal_type_records": {
+      "open_play": 739,
+      "penalties": 114,
+      "direct_free_kicks": 68
+    },
+    "special_records": {
+      "most_goals_for_barcelona": 672,
+      "most_goals_for_argentina": 112,
+      "most_goals_in_el_clasico": 26,
+      "most_goals_in_la_liga": 474,
+      "most_goals_in_calendar_year": 91,
+      "most_consecutive_league_matches_scored": 21,
+      "only_player_to_score_in": [
+        "Teens",
+        "Twenties",
+        "Thirties"
+      ],
+      "only_player_with_two_world_cup_golden_balls": true
+    },
+    "historic_firsts": [
+      "First player to score 500 goals for one European club.",
+      "First player to score 600 goals for one European club.",
+      "First player to score 650 goals for one European club.",
+      "First player to score 700 official club goals.",
+      "First player to score 50 goals in a La Liga season.",
+      "First player to score 91 goals in a calendar year."
+    ],
+    "records_summary": {
+      "career_goal_records": 10,
+      "competition_goal_records": 8,
+      "hat_trick_records": 6,
+      "free_kick_records": 4,
+      "penalty_records": 3,
+      "major_goal_records": 31
+    }
+  },
+  "assist_records": {
+    "overview": {
+      "last_updated": "2024-12-31",
+      "official_career_assists": 390,
+      "club_assists": 329,
+      "international_assists": 61
+    },
+    "career_records": {
+      "most_assists_for_single_club": {
+        "club": "FC Barcelona",
+        "assists": 303,
+        "status": "World Record"
+      },
+      "most_assists_for_argentina": {
+        "assists": 61,
+        "status": "National Record"
+      },
+      "most_official_career_assists": {
+        "assists": 390,
+        "status": "Highest officially recognized total among major statistical providers"
+      },
+      "most_goal_contributions": {
+        "value": 1269
+      }
+    },
+    "competition_records": {
+      "la_liga": {
+        "assists": 192,
+        "status": "Competition Record"
+      },
+      "uefa_champions_league": {
+        "assists": 40,
+        "ranking": 2
+      },
+      "copa_del_rey": {
+        "assists": 36
+      },
+      "supercopa_de_espana": {
+        "assists": 8
+      },
+      "ligue_1": {
+        "assists": 31
+      },
+      "major_league_soccer": {
+        "assists": 20
+      },
+      "leagues_cup": {
+        "assists": 5
+      },
+      "fifa_world_cup": {
+        "assists": 8,
+        "record": "Argentina Record"
+      },
+      "copa_america": {
+        "assists": 18,
+        "record": "Competition Record"
+      },
+      "finalissima": {
+        "assists": 2
+      }
+    },
+    "club_records": {
+      "barcelona": {
+        "assists": 303,
+        "goal_contributions": 975
+      },
+      "paris_saint_germain": {
+        "assists": 35,
+        "best_league_season": {
+          "season": "2022-23",
+          "assists": 16
+        }
+      },
+      "inter_miami": {
+        "assists": 26,
+        "club_record": true
+      }
+    },
+    "international_records": {
+      "argentina": {
+        "assists": 61,
+        "world_cup": 8,
+        "copa_america": 18,
+        "finalissima": 2,
+        "world_cup_qualifiers": 17,
+        "friendlies": 16
+      }
+    },
+    "playmaking_records": {
+      "key_passes": 2320,
+      "big_chances_created": 640,
+      "successful_through_balls": 410,
+      "most_assists_in_single_la_liga_season": {
+        "assists": 21,
+        "season": "2019-20"
+      },
+      "most_assists_in_single_ligue_1_season": {
+        "assists": 16,
+        "season": "2022-23"
+      }
+    },
+    "milestone_records": {
+      "100th_assist": true,
+      "150th_assist": true,
+      "200th_assist": true,
+      "250th_assist": true,
+      "300th_assist": true,
+      "350th_assist": true
+    },
+    "special_records": {
+      "only_player_with": [
+        "300+ club assists",
+        "1000+ career goal contributions",
+        "190+ La Liga assists"
+      ],
+      "most_assists_for_barcelona": true,
+      "most_assists_for_argentina": true,
+      "most_assists_in_la_liga_history": true,
+      "most_copa_america_assists": true
+    },
+    "historic_firsts": [
+      "First player to record 300 assists for one club.",
+      "First player to record 190 assists in La Liga.",
+      "First Argentine player to record 60 international assists.",
+      "First player to surpass 1,250 official goal contributions."
+    ],
+    "records_summary": {
+      "career_assist_records": 8,
+      "competition_assist_records": 10,
+      "club_assist_records": 5,
+      "international_assist_records": 5,
+      "playmaking_records": 5,
+      "major_assist_records": 33
+    }
+  },
+  "appearance_and_age_records": {
+    "overview": {
+      "last_updated": "2024-12-31",
+      "official_career_appearances": 1104,
+      "club_appearances": 913,
+      "international_appearances": 191
+    },
+    "career_appearance_records": {
+      "most_appearances_for_barcelona": {
+        "matches": 778,
+        "status": "Club Record"
+      },
+      "most_appearances_for_argentina": {
+        "matches": 191,
+        "status": "National Record"
+      },
+      "most_world_cup_matches": {
+        "matches": 26,
+        "status": "World Record"
+      },
+      "most_world_cup_matches_as_captain": {
+        "matches": 19,
+        "status": "World Record"
+      },
+      "most_world_cup_minutes": {
+        "minutes": 2314,
+        "status": "World Record"
+      }
+    },
+    "captaincy_records": {
+      "argentina": {
+        "captain_matches": 106,
+        "major_titles": 4,
+        "titles": [
+          "Copa América 2021",
+          "Finalissima 2022",
+          "FIFA World Cup 2022",
+          "Copa América 2024"
+        ]
+      },
+      "barcelona": {
+        "captain_matches": 245,
+        "captain_period": "2018-2021"
+      },
+      "overall_captain_matches": 351
+    },
+    "youngest_records": {
+      "barcelona_first_team_debut": {
+        "age": "17 years, 114 days",
+        "date": "2004-10-16"
+      },
+      "argentina_debut": {
+        "age": "18 years, 54 days",
+        "date": "2005-08-17"
+      },
+      "world_cup_debut": {
+        "age": "18 years, 357 days",
+        "tournament": "FIFA World Cup 2006"
+      },
+      "youngest_argentina_world_cup_scorer": {
+        "age": "18 years, 357 days"
+      },
+      "youngest_ballon_dor_winner": {
+        "age": "22 years, 160 days",
+        "year": 2009
+      },
+      "youngest_four_time_ballon_dor_winner": {
+        "age": "25 years"
+      }
+    },
+    "oldest_records": {
+      "oldest_argentina_world_cup_scorer": {
+        "age": "35 years, 172 days",
+        "match": "Argentina vs Mexico",
+        "date": "2022-11-26"
+      },
+      "oldest_argentina_world_cup_assist": {
+        "age": "35 years, 172 days"
+      },
+      "oldest_copa_america_final_scorer": {
+        "status": false
+      },
+      "oldest_mls_mvp": {
+        "age": 37,
+        "year": 2024
+      }
+    },
+    "longevity_records": {
+      "professional_career": {
+        "years": 20,
+        "period": "2004-2024"
+      },
+      "international_career": {
+        "years": 19,
+        "period": "2005-2024"
+      },
+      "world_cup_tournaments": {
+        "count": 5,
+        "years": [
+          2006,
+          2010,
+          2014,
+          2018,
+          2022
+        ]
+      },
+      "copa_america_tournaments": {
+        "count": 7,
+        "years": [
+          2007,
+          2011,
+          2015,
+          2016,
+          2019,
+          2021,
+          2024
+        ]
+      }
+    },
+    "milestone_appearances": {
+      "100th_club_match": true,
+      "250th_club_match": true,
+      "500th_club_match": true,
+      "750th_club_match": true,
+      "900th_club_match": true,
+      "50th_argentina_match": true,
+      "100th_argentina_match": true,
+      "150th_argentina_match": true,
+      "1000th_official_match": true
+    },
+    "historic_firsts": [
+      "First player to appear in 26 FIFA World Cup matches.",
+      "First player to captain a team in 19 FIFA World Cup matches.",
+      "First Argentina player to reach 150 international appearances.",
+      "First Barcelona outfield player to reach 750 official appearances.",
+      "Youngest player to win four Ballon d'Or awards."
+    ],
+    "records_summary": {
+      "appearance_records": 10,
+      "captaincy_records": 6,
+      "youngest_records": 6,
+      "oldest_records": 4,
+      "longevity_records": 4,
+      "major_records": 30
+    }
+  },
+  "summary": {
+    "player": "Lionel Andrés Messi",
+    "status": "Active",
+    "last_updated": "2024-12-31",
+    "career_overview": {
+      "professional_debut": "2004-10-16",
+      "international_debut": "2005-08-17",
+      "professional_career_years": 20,
+      "clubs_represented": [
+        "FC Barcelona",
+        "Paris Saint-Germain",
+        "Inter Miami CF"
+      ],
+      "international_team": "Argentina"
+    },
+    "major_records_summary": {
+      "world_records": 25,
+      "fifa_records": 19,
+      "uefa_records": 18,
+      "barcelona_records": 34,
+      "argentina_records": 32,
+      "competition_records": 46,
+      "goal_records": 31,
+      "assist_records": 33,
+      "appearance_and_age_records": 30,
+      "estimated_total_major_records": 268
+    },
+    "most_iconic_records": [
+      {
+        "record": "Most Ballon d'Or awards",
+        "value": 8
+      },
+      {
+        "record": "Most European Golden Shoe awards",
+        "value": 6
+      },
+      {
+        "record": "Most goals for a single club",
+        "value": 672,
+        "club": "FC Barcelona"
+      },
+      {
+        "record": "Most goals in a calendar year",
+        "value": 91,
+        "year": 2012
+      },
+      {
+        "record": "Most La Liga goals",
+        "value": 474
+      },
+      {
+        "record": "Most La Liga assists",
+        "value": 192
+      },
+      {
+        "record": "Most Argentina goals",
+        "value": 112
+      },
+      {
+        "record": "Most Argentina appearances",
+        "value": 191
+      },
+      {
+        "record": "Most FIFA World Cup matches",
+        "value": 26
+      },
+      {
+        "record": "Only player with two FIFA World Cup Golden Balls",
+        "value": 2
+      }
+    ],
+    "historic_firsts": [
+      "First footballer to win eight Ballon d'Or awards.",
+      "First footballer to win six European Golden Shoes.",
+      "Only footballer to win two FIFA World Cup Golden Ball awards.",
+      "First player to score 91 official goals in a calendar year.",
+      "First player to score 50 goals in a single La Liga season.",
+      "First player to score in 21 consecutive La Liga matches.",
+      "First Barcelona player to score 600 official goals.",
+      "First Argentina player to score 100 international goals.",
+      "First South American men's player to score 100 international goals."
+    ],
+    "records_by_competition": {
+      "la_liga": {
+        "major_records": 8
+      },
+      "uefa_champions_league": {
+        "major_records": 7
+      },
+      "fifa_world_cup": {
+        "major_records": 8
+      },
+      "copa_america": {
+        "major_records": 6
+      },
+      "fifa_club_world_cup": {
+        "major_records": 3
+      },
+      "major_league_soccer": {
+        "major_records": 4
+      }
+    },
+    "career_totals": {
+      "official_matches": 1104,
+      "official_goals": 879,
+      "official_assists": 390,
+      "official_goal_contributions": 1269,
+      "official_trophies": 46,
+      "ballon_dor": 8,
+      "major_individual_awards": 70
+    },
+    "recognition": {
+      "guinness_world_records": [
+        "Most goals in a calendar year",
+        "Most Ballon d'Or awards",
+        "Most European Golden Shoe awards"
+      ],
+      "global_reputation": [
+        "One of the greatest footballers in history",
+        "One of the most decorated players in football history",
+        "One of the most complete players statistically"
+      ]
+    },
+    "database_information": {
+      "edition": "2024",
+      "version": "1.0",
+      "official_records_only": true,
+      "official_matches_only": true,
+      "includes_club_records": true,
+      "includes_international_records": true,
+      "includes_world_records": true,
+      "includes_age_records": true,
+      "includes_competition_records": true
+    },
+    "legacy": {
+      "description": "Lionel Messi concluded the 2024 season as one of the most accomplished footballers in history. His career combined exceptional goalscoring, elite playmaking, longevity, consistency and success across club and international football. His records span domestic leagues, UEFA competitions, FIFA tournaments and international football, many of which remain unmatched.",
+      "status": "Active",
+      "database_completed": true
+    }
+  }
+}

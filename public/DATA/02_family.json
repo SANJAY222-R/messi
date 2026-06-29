@@ -1,0 +1,237 @@
+{
+  "family": {
+    "parents": {
+      "father": {
+        "full_name": "Jorge Horacio Messi",
+        "relationship": "Father",
+        "date_of_birth": null,
+        "place_of_birth": "Rosario, Santa Fe, Argentina",
+        "nationality": "Argentine",
+        "occupation": [
+          "Steel factory worker (former)",
+          "Football agent",
+          "Business manager"
+        ],
+        "roles": [
+          {
+            "title": "Manager and Representative",
+            "start_year": 2004,
+            "description": "Managed Lionel Messi's professional contracts, endorsements, and business affairs."
+          }
+        ],
+        "notes": [
+          "Played a major role in supporting Messi's football career.",
+          "Relocated with Messi to Spain during his youth career.",
+          "Continues to oversee aspects of Messi's business interests."
+        ]
+      },
+      "mother": {
+        "full_name": "Celia María Cuccittini",
+        "relationship": "Mother",
+        "date_of_birth": null,
+        "place_of_birth": "Argentina",
+        "nationality": "Argentine",
+        "occupation": [
+          "Magnet manufacturing worker"
+        ],
+        "notes": [
+          "Worked in a magnet manufacturing company.",
+          "Supported Messi throughout his youth football journey.",
+          "Maintained a close relationship with Messi after his move to Spain."
+        ]
+      }
+    },
+    "siblings": [
+      {
+        "full_name": "Rodrigo Messi",
+        "relationship": "Older Brother",
+        "occupation": [
+          "Business manager"
+        ],
+        "responsibilities": [
+          "Media relations",
+          "Business management",
+          "Brand partnerships"
+        ]
+      },
+      {
+        "full_name": "Matías Messi",
+        "relationship": "Older Brother",
+        "occupation": [
+          "Business associate"
+        ],
+        "notes": [
+          "Occasionally represents family interests.",
+          "Has remained publicly supportive of Lionel Messi."
+        ]
+      },
+      {
+        "full_name": "María Sol Messi",
+        "relationship": "Younger Sister",
+        "occupation": [
+          "Business and family administration"
+        ],
+        "notes": [
+          "Manages parts of the Messi family's business operations."
+        ]
+      }
+    ],
+    "spouse": {
+      "full_name": "Antonela Roccuzzo",
+      "date_of_birth": "1988-02-26",
+      "place_of_birth": "Rosario, Santa Fe, Argentina",
+      "nationality": "Argentine",
+      "occupation": [
+        "Model",
+        "Entrepreneur",
+        "Social Media Personality"
+      ],
+      "education": {
+        "university": "National University of Rosario",
+        "fields_of_study": [
+          "Dentistry",
+          "Social Communication"
+        ]
+      },
+      "relationship": {
+        "first_met": 1994,
+        "dating_started": 2008,
+        "engaged": null,
+        "married": "2017-06-30"
+      },
+      "marriage": {
+        "venue": "City Center Rosario Hotel & Casino",
+        "city": "Rosario",
+        "country": "Argentina",
+        "description": "Widely referred to by international media as the 'Wedding of the Century' in Argentina."
+      }
+    },
+    "children": [
+      {
+        "full_name": "Thiago Messi",
+        "date_of_birth": "2012-11-02",
+        "birth_place": "Barcelona, Spain",
+        "gender": "Male",
+        "order": 1,
+        "interests": [
+          "Football"
+        ]
+      },
+      {
+        "full_name": "Mateo Messi",
+        "date_of_birth": "2015-09-11",
+        "birth_place": "Barcelona, Spain",
+        "gender": "Male",
+        "order": 2,
+        "interests": [
+          "Football"
+        ]
+      },
+      {
+        "full_name": "Ciro Messi",
+        "date_of_birth": "2018-03-10",
+        "birth_place": "Barcelona, Spain",
+        "gender": "Male",
+        "order": 3,
+        "interests": [
+          "Football"
+        ]
+      }
+    ],
+    "ancestry": {
+      "paternal": {
+        "origin": "Italy",
+        "region": "Marche"
+      },
+      "maternal": {
+        "origin": [
+          "Italy",
+          "Spain"
+        ]
+      }
+    },
+    "childhood_home": {
+      "address": null,
+      "city": "Rosario",
+      "province": "Santa Fe",
+      "country": "Argentina",
+      "description": "Messi grew up in a modest family home in Rosario."
+    },
+    "family_values": [
+      "Humility",
+      "Loyalty",
+      "Hard work",
+      "Privacy",
+      "Strong family relationships"
+    ],
+    "pets": [
+      {
+        "name": "Hulk",
+        "species": "Dog",
+        "breed": "Dogue de Bordeaux"
+      },
+      {
+        "name": "Abu",
+        "species": "Dog"
+      }
+    ],
+    "residences": [
+      {
+        "city": "Rosario",
+        "country": "Argentina",
+        "years": "1987-2000"
+      },
+      {
+        "city": "Barcelona",
+        "country": "Spain",
+        "years": "2000-2021"
+      },
+      {
+        "city": "Paris",
+        "country": "France",
+        "years": "2021-2023"
+      },
+      {
+        "city": "Miami",
+        "country": "United States",
+        "years": "2023-Present"
+      }
+    ],
+    "important_family_events": [
+      {
+        "year": 1987,
+        "event": "Lionel Messi was born in Rosario."
+      },
+      {
+        "year": 2000,
+        "event": "Family supported Messi's move to Barcelona for football and medical treatment."
+      },
+      {
+        "year": 2008,
+        "event": "Relationship with Antonela Roccuzzo became public."
+      },
+      {
+        "year": 2012,
+        "event": "Birth of first son Thiago."
+      },
+      {
+        "year": 2015,
+        "event": "Birth of second son Mateo."
+      },
+      {
+        "year": 2017,
+        "event": "Marriage to Antonela Roccuzzo."
+      },
+      {
+        "year": 2018,
+        "event": "Birth of third son Ciro."
+      }
+    ],
+    "family_quotes": [
+      {
+        "speaker": "Lionel Messi",
+        "quote": "My family is everything to me."
+      }
+    ]
+  }
+}

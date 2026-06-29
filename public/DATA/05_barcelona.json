@@ -1,0 +1,1033 @@
+{
+  "club": {
+    "id": "fc-barcelona",
+    "name": "Futbol Club Barcelona",
+    "short_name": "FC Barcelona",
+    "nickname": [
+      "Barça",
+      "Blaugrana"
+    ],
+    "country": "Spain",
+    "city": "Barcelona",
+    "stadium": {
+      "name": "Camp Nou",
+      "capacity": 99354
+    },
+    "league": "La Liga",
+    "joined": {
+      "academy": "2000-09",
+      "first_team": "2004-07-01"
+    },
+    "left": "2021-08-08",
+    "years": 21,
+    "academy_years": 4,
+    "first_team_years": 17
+  },
+  "career": {
+    "status": "Completed",
+    "start_date": "2004-07-01",
+    "end_date": "2021-08-08",
+    "age_on_debut": 17,
+    "age_on_departure": 34,
+    "positions": [
+      "Right Winger",
+      "False Nine",
+      "Centre Forward",
+      "Second Striker",
+      "Attacking Midfielder",
+      "Playmaker"
+    ],
+    "preferred_foot": "Left",
+    "shirt_numbers": [
+      30,
+      19,
+      10
+    ]
+  },
+  "debut": {
+    "official_debut": {
+      "date": "2004-10-16",
+      "competition": "La Liga",
+      "opponent": "Espanyol",
+      "venue": "Estadi Olímpic Lluís Companys",
+      "result": "Barcelona 1-0 Espanyol",
+      "manager": "Frank Rijkaard",
+      "shirt_number": 30,
+      "substituted_for": "Deco",
+      "age": {
+        "years": 17,
+        "days": 114
+      }
+    },
+    "first_goal": {
+      "date": "2005-05-01",
+      "competition": "La Liga",
+      "opponent": "Albacete",
+      "result": "Barcelona 2-0 Albacete",
+      "assist": "Ronaldinho",
+      "shirt_number": 30
+    },
+    "champions_league_debut": {
+      "date": "2004-12-07",
+      "opponent": "Shakhtar Donetsk"
+    }
+  },
+  "managers": [
+    {
+      "name": "Frank Rijkaard",
+      "period": "2003-2008",
+      "role": "First Team Manager",
+      "importance": [
+        "Gave Messi his official debut.",
+        "Developed Messi into a first-team player."
+      ]
+    },
+    {
+      "name": "Pep Guardiola",
+      "period": "2008-2012",
+      "role": "First Team Manager",
+      "importance": [
+        "Moved Messi to the False Nine role.",
+        "Built one of football's greatest teams around him.",
+        "Won multiple domestic and European titles."
+      ]
+    },
+    {
+      "name": "Tito Vilanova",
+      "period": "2012-2013"
+    },
+    {
+      "name": "Gerardo Martino",
+      "period": "2013-2014"
+    },
+    {
+      "name": "Luis Enrique",
+      "period": "2014-2017",
+      "importance": [
+        "Managed the MSN era.",
+        "Won the 2015 continental treble."
+      ]
+    },
+    {
+      "name": "Ernesto Valverde",
+      "period": "2017-2020"
+    },
+    {
+      "name": "Quique Setién",
+      "period": "2020"
+    },
+    {
+      "name": "Ronald Koeman",
+      "period": "2020-2021"
+    }
+  ],
+  "captaincy": {
+    "vice_captain_since": 2015,
+    "club_captain_since": 2018,
+    "previous_captain": "Andrés Iniesta",
+    "captain_until": 2021,
+    "captaincy_style": [
+      "Lead by example",
+      "Quiet leadership",
+      "Performance-driven"
+    ]
+  },
+  "shirt_history": [
+    {
+      "number": 30,
+      "from": 2004,
+      "to": 2006
+    },
+    {
+      "number": 19,
+      "from": 2006,
+      "to": 2008
+    },
+    {
+      "number": 10,
+      "from": 2008,
+      "to": 2021,
+      "previous_owner": "Ronaldinho"
+    }
+  ],
+  "playing_roles": [
+    {
+      "role": "Right Winger",
+      "years": "2004-2008"
+    },
+    {
+      "role": "False Nine",
+      "years": "2009-2012"
+    },
+    {
+      "role": "Centre Forward",
+      "years": "2012-2015"
+    },
+    {
+      "role": "Playmaker",
+      "years": "2015-2021"
+    }
+  ],
+  "important_teammates": [
+    "Ronaldinho",
+    "Samuel Eto'o",
+    "Xavi",
+    "Andrés Iniesta",
+    "Carles Puyol",
+    "Gerard Piqué",
+    "Dani Alves",
+    "Sergio Busquets",
+    "David Villa",
+    "Pedro",
+    "Neymar Jr.",
+    "Luis Suárez",
+    "Jordi Alba",
+    "Ivan Rakitić"
+  ],
+  "playing_style": {
+    "strengths": [
+      "Dribbling",
+      "Ball Control",
+      "Vision",
+      "Passing",
+      "Finishing",
+      "Free Kicks",
+      "Acceleration",
+      "Playmaking",
+      "Decision Making",
+      "Creativity"
+    ],
+    "traits": [
+      "Cuts Inside",
+      "Outside Foot Shot",
+      "Finesse Shot",
+      "Playmaker",
+      "Long Shot Taker",
+      "Flair",
+      "One-on-One Specialist"
+    ]
+  },
+  "legacy": {
+    "status": "Greatest player in FC Barcelona history",
+    "ranking": 1,
+    "considered": [
+      "Greatest Barcelona player",
+      "Greatest La Liga player",
+      "One of the greatest footballers of all time"
+    ],
+    "considered_by": [
+      "Players",
+      "Managers",
+      "Supporters",
+      "Football historians"
+    ],
+    "description": "Messi transformed FC Barcelona into one of the most successful clubs in football history. Between 2004 and 2021 he won 35 major trophies, became the club's all-time leading scorer and appearance maker, and established himself as one of the greatest footballers of all time."
+  },
+  "seasons": [
+    {
+      "season": "2004-05",
+      "age": 17,
+      "manager": "Frank Rijkaard",
+      "shirt_number": 30,
+      "position": "Right Winger",
+      "competitions": [
+        "La Liga",
+        "UEFA Champions League"
+      ],
+      "statistics": {
+        "appearances": 9,
+        "starts": 1,
+        "goals": 1,
+        "assists": 0,
+        "minutes": 517
+      },
+      "major_events": [
+        "Official first-team debut against Espanyol.",
+        "Scored first senior goal against Albacete from Ronaldinho's assist.",
+        "Became the youngest Barcelona scorer in La Liga history at that time."
+      ],
+      "team_achievements": [
+        "La Liga Champion"
+      ],
+      "individual_awards": []
+    },
+    {
+      "season": "2005-06",
+      "age": 18,
+      "manager": "Frank Rijkaard",
+      "shirt_number": 30,
+      "position": "Right Winger",
+      "competitions": [
+        "La Liga",
+        "Champions League",
+        "Copa del Rey",
+        "Spanish Super Cup"
+      ],
+      "statistics": {
+        "appearances": 25,
+        "goals": 8,
+        "assists": 3
+      },
+      "major_events": [
+        "Established himself in the first team.",
+        "Won first UEFA Champions League title.",
+        "Missed the Champions League Final through injury."
+      ],
+      "team_achievements": [
+        "La Liga Champion",
+        "UEFA Champions League Champion",
+        "Spanish Super Cup Winner"
+      ],
+      "individual_awards": [
+        "Golden Boy",
+        "World Soccer Young Player of the Year"
+      ]
+    },
+    {
+      "season": "2006-07",
+      "age": 19,
+      "manager": "Frank Rijkaard",
+      "shirt_number": 19,
+      "position": "Right Winger",
+      "statistics": {
+        "appearances": 36,
+        "goals": 17,
+        "assists": 3
+      },
+      "major_events": [
+        "Scored first career hat-trick.",
+        "Scored iconic hat-trick against Real Madrid.",
+        "Scored the famous Getafe solo goal compared to Maradona."
+      ],
+      "iconic_matches": [
+        {
+          "opponent": "Real Madrid",
+          "competition": "La Liga",
+          "result": "3-3",
+          "goals": 3,
+          "description": "First El Clásico hat-trick."
+        },
+        {
+          "opponent": "Getafe",
+          "competition": "Copa del Rey",
+          "description": "Maradona-style solo goal."
+        }
+      ],
+      "individual_awards": [
+        "IFFHS World's Best Playmaker Nominee"
+      ]
+    },
+    {
+      "season": "2007-08",
+      "age": 20,
+      "manager": "Frank Rijkaard",
+      "shirt_number": 19,
+      "statistics": {
+        "appearances": 40,
+        "goals": 16,
+        "assists": 13
+      },
+      "major_events": [
+        "Became Barcelona's main attacking player.",
+        "Inherited greater responsibility after Ronaldinho's decline."
+      ],
+      "team_achievements": [],
+      "individual_awards": [
+        "FIFA World Player Finalist",
+        "Ballon d'Or Runner-up"
+      ]
+    },
+    {
+      "season": "2008-09",
+      "age": 21,
+      "manager": "Pep Guardiola",
+      "shirt_number": 10,
+      "position": "False Nine",
+      "statistics": {
+        "appearances": 51,
+        "goals": 38,
+        "assists": 18
+      },
+      "major_events": [
+        "Inherited Barcelona's iconic No.10 shirt.",
+        "Pep Guardiola moved Messi into the False Nine role.",
+        "Won the historic continental treble."
+      ],
+      "team_achievements": [
+        "La Liga",
+        "Copa del Rey",
+        "UEFA Champions League"
+      ],
+      "individual_awards": [
+        "Ballon d'Or 2009",
+        "FIFA World Player of the Year",
+        "UEFA Club Forward of the Year",
+        "UEFA Club Footballer of the Year"
+      ],
+      "iconic_matches": [
+        {
+          "opponent": "Manchester United",
+          "competition": "Champions League Final",
+          "result": "2-0",
+          "goals": 1,
+          "description": "Scored memorable header in Rome."
+        },
+        {
+          "opponent": "Real Madrid",
+          "competition": "La Liga",
+          "result": "6-2",
+          "goals": 2,
+          "assists": 1
+        }
+      ]
+    },
+    {
+      "season": "2009-10",
+      "age": 22,
+      "manager": "Pep Guardiola",
+      "shirt_number": 10,
+      "position": "False Nine",
+      "captain": false,
+      "statistics": {
+        "appearances": 53,
+        "starts": 49,
+        "goals": 47,
+        "assists": 11,
+        "hat_tricks": 4,
+        "penalty_goals": 4,
+        "free_kick_goals": 2
+      },
+      "team_achievements": [
+        "La Liga Champion",
+        "Spanish Super Cup",
+        "UEFA Super Cup",
+        "FIFA Club World Cup"
+      ],
+      "individual_awards": [
+        "Ballon d'Or",
+        "FIFA World Player of the Year",
+        "European Golden Shoe"
+      ],
+      "major_events": [
+        "Finished as Europe's top scorer.",
+        "Won six trophies within Guardiola's dominant era."
+      ]
+    },
+    {
+      "season": "2010-11",
+      "age": 23,
+      "manager": "Pep Guardiola",
+      "shirt_number": 10,
+      "position": "False Nine",
+      "statistics": {
+        "appearances": 55,
+        "starts": 53,
+        "goals": 53,
+        "assists": 24,
+        "hat_tricks": 6,
+        "penalty_goals": 6,
+        "free_kick_goals": 3
+      },
+      "team_achievements": [
+        "La Liga Champion",
+        "UEFA Champions League",
+        "Spanish Super Cup"
+      ],
+      "individual_awards": [
+        "Ballon d'Or",
+        "UEFA Best Player in Europe"
+      ],
+      "major_events": [
+        "Scored in the Champions League Final against Manchester United.",
+        "Barcelona considered one of the greatest club teams ever."
+      ],
+      "iconic_matches": [
+        {
+          "date": "2011-05-28",
+          "competition": "UEFA Champions League Final",
+          "opponent": "Manchester United",
+          "result": "Barcelona 3-1 Manchester United",
+          "goals": 1,
+          "assists": 0,
+          "stadium": "Wembley Stadium"
+        }
+      ]
+    },
+    {
+      "season": "2011-12",
+      "age": 24,
+      "manager": "Pep Guardiola",
+      "shirt_number": 10,
+      "position": "False Nine",
+      "statistics": {
+        "appearances": 60,
+        "starts": 58,
+        "goals": 73,
+        "assists": 29,
+        "hat_tricks": 8,
+        "penalty_goals": 14,
+        "free_kick_goals": 7
+      },
+      "team_achievements": [
+        "Copa del Rey",
+        "UEFA Super Cup",
+        "FIFA Club World Cup",
+        "Spanish Super Cup"
+      ],
+      "individual_awards": [
+        "Ballon d'Or",
+        "European Golden Shoe",
+        "IFFHS World's Best Goal Scorer"
+      ],
+      "major_events": [
+        "Scored 73 official goals in a single club season.",
+        "Set Barcelona's all-time single-season scoring record.",
+        "Won his third consecutive Ballon d'Or."
+      ],
+      "records_broken": [
+        "Most goals in a European club season.",
+        "Most goals in Barcelona history for a single season."
+      ]
+    },
+    {
+      "season": "2012-13",
+      "age": 25,
+      "manager": "Tito Vilanova",
+      "shirt_number": 10,
+      "position": "Forward",
+      "statistics": {
+        "appearances": 50,
+        "starts": 47,
+        "goals": 60,
+        "assists": 16,
+        "hat_tricks": 6,
+        "penalty_goals": 8,
+        "free_kick_goals": 5
+      },
+      "team_achievements": [
+        "La Liga Champion"
+      ],
+      "individual_awards": [
+        "Ballon d'Or",
+        "European Golden Shoe"
+      ],
+      "major_events": [
+        "Won fourth Ballon d'Or.",
+        "Scored against every La Liga opponent consecutively.",
+        "Built on his historic 91-goal calendar year achieved during 2012."
+      ],
+      "records_broken": [
+        "Most consecutive league matches scoring against different opponents."
+      ]
+    },
+    {
+      "season": "2013-14",
+      "age": 26,
+      "manager": "Gerardo Martino",
+      "shirt_number": 10,
+      "position": "Forward",
+      "captain": false,
+      "statistics": {
+        "appearances": 46,
+        "starts": 42,
+        "goals": 41,
+        "assists": 14,
+        "hat_tricks": 4,
+        "penalty_goals": 6,
+        "free_kick_goals": 2
+      },
+      "team_achievements": [
+        "Spanish Super Cup"
+      ],
+      "individual_awards": [
+        "FIFA Ballon d'Or Finalist"
+      ],
+      "major_events": [
+        "Returned after injury setbacks.",
+        "Scored his 400th professional career goal.",
+        "Barcelona finished second in La Liga."
+      ]
+    },
+    {
+      "season": "2014-15",
+      "age": 27,
+      "manager": "Luis Enrique",
+      "shirt_number": 10,
+      "position": "Forward / Playmaker",
+      "captain": false,
+      "statistics": {
+        "appearances": 57,
+        "starts": 54,
+        "goals": 58,
+        "assists": 31,
+        "hat_tricks": 3,
+        "penalty_goals": 8,
+        "free_kick_goals": 4
+      },
+      "team_achievements": [
+        "La Liga",
+        "Copa del Rey",
+        "UEFA Champions League",
+        "Continental Treble"
+      ],
+      "individual_awards": [
+        "Ballon d'Or 2015",
+        "UEFA Best Player in Europe"
+      ],
+      "major_events": [
+        "MSN partnership (Messi, Suárez, Neymar) became one of football's greatest attacking trios.",
+        "Won Barcelona's second historic treble.",
+        "Scored two spectacular goals against Bayern Munich in the Champions League semi-final."
+      ],
+      "iconic_matches": [
+        {
+          "date": "2015-05-06",
+          "competition": "UEFA Champions League",
+          "opponent": "Bayern Munich",
+          "result": "Barcelona 3-0 Bayern Munich",
+          "goals": 2,
+          "assists": 0,
+          "description": "Included the famous dribble that left Jérôme Boateng off balance before Messi chipped Manuel Neuer."
+        },
+        {
+          "date": "2015-06-06",
+          "competition": "UEFA Champions League Final",
+          "opponent": "Juventus",
+          "result": "Barcelona 3-1 Juventus",
+          "goals": 0,
+          "assists": 1
+        }
+      ]
+    },
+    {
+      "season": "2015-16",
+      "age": 28,
+      "manager": "Luis Enrique",
+      "shirt_number": 10,
+      "position": "Forward",
+      "captain": false,
+      "statistics": {
+        "appearances": 49,
+        "starts": 46,
+        "goals": 41,
+        "assists": 23,
+        "hat_tricks": 4,
+        "penalty_goals": 7,
+        "free_kick_goals": 6
+      },
+      "team_achievements": [
+        "La Liga",
+        "Copa del Rey",
+        "UEFA Super Cup",
+        "FIFA Club World Cup"
+      ],
+      "individual_awards": [
+        "FIFA FIFPro World XI"
+      ],
+      "major_events": [
+        "Won the domestic double.",
+        "Won FIFA Club World Cup.",
+        "Scored memorable free-kicks and continued to dominate European football."
+      ]
+    },
+    {
+      "season": "2016-17",
+      "age": 29,
+      "manager": "Luis Enrique",
+      "shirt_number": 10,
+      "position": "Forward",
+      "captain": "Vice Captain",
+      "statistics": {
+        "appearances": 52,
+        "starts": 50,
+        "goals": 54,
+        "assists": 16,
+        "hat_tricks": 3,
+        "penalty_goals": 9,
+        "free_kick_goals": 6
+      },
+      "team_achievements": [
+        "Copa del Rey",
+        "Spanish Super Cup"
+      ],
+      "individual_awards": [
+        "European Golden Shoe"
+      ],
+      "major_events": [
+        "Scored the dramatic winning goal against Real Madrid in El Clásico.",
+        "Celebrated by holding his Barcelona shirt up to the Santiago Bernabéu crowd.",
+        "Part of Barcelona's historic 6–1 comeback against Paris Saint-Germain."
+      ],
+      "iconic_matches": [
+        {
+          "date": "2017-04-23",
+          "competition": "La Liga",
+          "opponent": "Real Madrid",
+          "result": "Real Madrid 2-3 Barcelona",
+          "goals": 2,
+          "description": "Scored the stoppage-time winner and celebrated by holding up his shirt."
+        },
+        {
+          "date": "2017-03-08",
+          "competition": "UEFA Champions League",
+          "opponent": "Paris Saint-Germain",
+          "result": "Barcelona 6-1 PSG",
+          "description": "Barcelona completed the famous 'Remontada' after losing the first leg 4-0."
+        }
+      ]
+    },
+    {
+      "season": "2017-18",
+      "age": 30,
+      "manager": "Ernesto Valverde",
+      "shirt_number": 10,
+      "captain": "Vice Captain",
+      "position": "Forward / Playmaker",
+      "statistics": {
+        "appearances": 54,
+        "starts": 51,
+        "goals": 45,
+        "assists": 18,
+        "hat_tricks": 6,
+        "penalty_goals": 7,
+        "free_kick_goals": 6
+      },
+      "team_achievements": [
+        "La Liga",
+        "Copa del Rey"
+      ],
+      "individual_awards": [
+        "European Golden Shoe",
+        "La Liga Best Player"
+      ],
+      "major_events": [
+        "Won the domestic double.",
+        "Finished as Europe's top scorer.",
+        "Became Barcelona's undisputed leader."
+      ]
+    },
+    {
+      "season": "2018-19",
+      "age": 31,
+      "manager": "Ernesto Valverde",
+      "shirt_number": 10,
+      "captain": true,
+      "position": "Forward / Playmaker",
+      "statistics": {
+        "appearances": 50,
+        "starts": 47,
+        "goals": 51,
+        "assists": 22,
+        "hat_tricks": 8,
+        "penalty_goals": 10,
+        "free_kick_goals": 8
+      },
+      "team_achievements": [
+        "La Liga"
+      ],
+      "individual_awards": [
+        "European Golden Shoe",
+        "FIFA The Best Men's Player"
+      ],
+      "major_events": [
+        "Appointed Barcelona captain.",
+        "Reached 600 Barcelona goals.",
+        "Scored one of the greatest free-kicks against Liverpool."
+      ],
+      "iconic_matches": [
+        {
+          "date": "2019-05-01",
+          "competition": "UEFA Champions League",
+          "opponent": "Liverpool",
+          "result": "Barcelona 3-0 Liverpool",
+          "goals": 2,
+          "description": "Scored a spectacular 35-yard free-kick."
+        }
+      ]
+    },
+    {
+      "season": "2019-20",
+      "age": 32,
+      "manager": "Ernesto Valverde / Quique Setién",
+      "shirt_number": 10,
+      "captain": true,
+      "statistics": {
+        "appearances": 44,
+        "starts": 42,
+        "goals": 31,
+        "assists": 26,
+        "hat_tricks": 3,
+        "penalty_goals": 8,
+        "free_kick_goals": 5
+      },
+      "team_achievements": [],
+      "individual_awards": [
+        "Pichichi Trophy"
+      ],
+      "major_events": [
+        "Became first player to win seven Pichichi awards.",
+        "Reached 700 career goals.",
+        "Barcelona lost 8-2 to Bayern Munich in the Champions League."
+      ],
+      "iconic_matches": [
+        {
+          "date": "2020-06-30",
+          "competition": "La Liga",
+          "opponent": "Atlético Madrid",
+          "goals": 1,
+          "description": "Scored his 700th senior career goal with a Panenka penalty."
+        }
+      ]
+    },
+    {
+      "season": "2020-21",
+      "age": 33,
+      "manager": "Ronald Koeman",
+      "shirt_number": 10,
+      "captain": true,
+      "statistics": {
+        "appearances": 47,
+        "starts": 45,
+        "goals": 38,
+        "assists": 14,
+        "hat_tricks": 2,
+        "penalty_goals": 5,
+        "free_kick_goals": 5
+      },
+      "team_achievements": [
+        "Copa del Rey"
+      ],
+      "individual_awards": [
+        "Pichichi Trophy"
+      ],
+      "major_events": [
+        "Won his final trophy with Barcelona.",
+        "Finished as La Liga's top scorer.",
+        "Played his final match for Barcelona.",
+        "Left the club due to financial and La Liga registration rules."
+      ],
+      "last_match": {
+        "date": "2021-05-16",
+        "competition": "La Liga",
+        "opponent": "Celta Vigo",
+        "result": "Barcelona 1-2 Celta Vigo"
+      },
+      "departure": {
+        "date": "2021-08-08",
+        "reason": "Contract renewal could not be completed because of FC Barcelona's financial situation and La Liga salary cap regulations.",
+        "farewell_press_conference": true
+      }
+    }
+  ],
+  "overall_statistics": {
+    "official_matches": 778,
+    "official_goals": 672,
+    "official_assists": 305,
+    "hat_tricks": 48,
+    "free_kick_goals": 50,
+    "penalty_goals": 78,
+    "captain_matches": 188,
+    "clean_sheets": null,
+    "minutes_played": 60000
+  },
+  "club_trophies": [
+    {
+      "competition": "La Liga",
+      "titles": 10,
+      "years": [
+        2005,
+        2006,
+        2009,
+        2010,
+        2011,
+        2013,
+        2015,
+        2016,
+        2018,
+        2019
+      ]
+    },
+    {
+      "competition": "Copa del Rey",
+      "titles": 7,
+      "years": [
+        2009,
+        2012,
+        2015,
+        2016,
+        2017,
+        2018,
+        2021
+      ]
+    },
+    {
+      "competition": "Spanish Super Cup",
+      "titles": 8
+    },
+    {
+      "competition": "UEFA Champions League",
+      "titles": 4,
+      "years": [
+        2006,
+        2009,
+        2011,
+        2015
+      ]
+    },
+    {
+      "competition": "UEFA Super Cup",
+      "titles": 3
+    },
+    {
+      "competition": "FIFA Club World Cup",
+      "titles": 3
+    }
+  ],
+  "club_records": [
+    "Most appearances for FC Barcelona",
+    "Most goals for FC Barcelona",
+    "Most assists for FC Barcelona",
+    "Most La Liga goals for Barcelona",
+    "Most Champions League goals for Barcelona",
+    "Most El Clásico goals",
+    "Most hat-tricks for Barcelona",
+    "Most free-kick goals for Barcelona",
+    "Most trophies won by a Barcelona player"
+  ],
+  "major_milestones": [
+    {
+      "year": 2004,
+      "event": "Made official Barcelona debut."
+    },
+    {
+      "year": 2005,
+      "event": "Scored first senior goal."
+    },
+    {
+      "year": 2006,
+      "event": "Won first Champions League."
+    },
+    {
+      "year": 2007,
+      "event": "Scored first El Clásico hat-trick."
+    },
+    {
+      "year": 2007,
+      "event": "Scored Maradona-style goal against Getafe."
+    },
+    {
+      "year": 2008,
+      "event": "Inherited the No.10 shirt."
+    },
+    {
+      "year": 2009,
+      "event": "Won first Ballon d'Or."
+    },
+    {
+      "year": 2009,
+      "event": "Won historic Barcelona treble."
+    },
+    {
+      "year": 2014,
+      "event": "Surpassed Telmo Zarra to become La Liga's all-time leading scorer."
+    },
+    {
+      "year": 2014,
+      "event": "Became Barcelona's all-time top scorer in official competitions."
+    },
+    {
+      "year": 2015,
+      "event": "Won second continental treble."
+    },
+    {
+      "year": 2015,
+      "event": "Won fifth Ballon d'Or."
+    },
+    {
+      "year": 2017,
+      "event": "Scored iconic last-minute winner against Real Madrid."
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2000-09",
+      "event": "Joined La Masia."
+    },
+    {
+      "date": "2004-10-16",
+      "event": "Official first-team debut."
+    },
+    {
+      "date": "2005-05-01",
+      "event": "Scored first official goal."
+    },
+    {
+      "date": "2008-09",
+      "event": "Inherited the No. 10 shirt."
+    },
+    {
+      "date": "2009-12-21",
+      "event": "Won FIFA Club World Cup."
+    },
+    {
+      "date": "2010-08-29",
+      "event": "Won second consecutive La Liga title."
+    },
+    {
+      "date": "2011-05-28",
+      "event": "Champions League triumph at Wembley."
+    },
+    {
+      "date": "2012-12-09",
+      "event": "Broke Gerd Müller's calendar-year goals record with 91 goals."
+    },
+    {
+      "date": "2013-01-07",
+      "event": "Won fourth consecutive Ballon d'Or."
+    },
+    {
+      "date": "2014-11-22",
+      "event": "Became La Liga's all-time top scorer."
+    },
+    {
+      "date": "2015-06-06",
+      "event": "Won UEFA Champions League in Berlin."
+    },
+    {
+      "date": "2015-12-20",
+      "event": "Won FIFA Club World Cup."
+    },
+    {
+      "date": "2016-01-11",
+      "event": "Won fifth Ballon d'Or."
+    },
+    {
+      "date": "2017-03-08",
+      "event": "Historic 6-1 comeback against PSG."
+    },
+    {
+      "date": "2017-04-23",
+      "event": "Last-minute winner in El Clásico at the Bernabéu."
+    },
+    {
+      "date": "2018-08",
+      "event": "Appointed club captain."
+    },
+    {
+      "date": "2019",
+      "event": "Reached 600 Barcelona goals."
+    },
+    {
+      "date": "2020",
+      "event": "Scored 700th senior career goal."
+    },
+    {
+      "date": "2021",
+      "event": "Won final Copa del Rey."
+    },
+    {
+      "date": "2021-08-08",
+      "event": "Departed FC Barcelona."
+    }
+  ]
+}

@@ -1,0 +1,2009 @@
+{
+  "national_team": {
+    "id": "argentina",
+    "name": "Argentina National Football Team",
+    "short_name": "Argentina",
+    "nickname": [
+      "La Albiceleste"
+    ],
+    "country": "Argentina",
+    "confederation": "CONMEBOL",
+    "association": "Argentine Football Association (AFA)",
+    "stadium": {
+      "name": "Estadio Monumental",
+      "capacity": 84782
+    },
+    "joined": "2004-06-29",
+    "senior_debut": "2005-08-17",
+    "active": true,
+    "years": 21
+  },
+  "career": {
+    "status": "Active",
+    "start_date": "2005-08-17",
+    "end_date": null,
+    "age_on_debut": 18,
+    "age_current": 39,
+    "positions": [
+      "Right Winger",
+      "Second Striker",
+      "Centre Forward",
+      "Attacking Midfielder",
+      "False Nine",
+      "Playmaker"
+    ],
+    "preferred_foot": "Left",
+    "shirt_numbers": [
+      18,
+      19,
+      10
+    ]
+  },
+  "debut": {
+    "official_debut": {
+      "date": "2005-08-17",
+      "competition": "International Friendly",
+      "opponent": "Hungary",
+      "venue": "Puskás Ferenc Stadium",
+      "result": "Hungary 2-1 Argentina",
+      "manager": "José Pekerman",
+      "shirt_number": 18,
+      "substituted_for": "Lisandro López",
+      "age": {
+        "years": 18,
+        "days": 54
+      },
+      "notable_event": "Was sent off less than two minutes after coming on following an incident with Vilmos Vanczák."
+    },
+    "first_goal": {
+      "date": "2006-03-01",
+      "competition": "International Friendly",
+      "opponent": "Croatia",
+      "result": "Croatia 2-3 Argentina",
+      "shirt_number": 19
+    },
+    "competitive_debut": {
+      "date": "2006-06-10",
+      "competition": "FIFA World Cup",
+      "opponent": "Ivory Coast",
+      "result": "Argentina 2-1 Ivory Coast"
+    },
+    "captain_debut": {
+      "date": "2011-03-26",
+      "competition": "International Friendly",
+      "opponent": "United States",
+      "result": "Argentina 1-1 United States"
+    }
+  },
+  "managers": [
+    {
+      "name": "José Pekerman",
+      "period": "2004-2006",
+      "role": "Head Coach",
+      "importance": [
+        "Gave Messi his senior international debut.",
+        "Included Messi in the 2006 FIFA World Cup squad."
+      ]
+    },
+    {
+      "name": "Alfio Basile",
+      "period": "2006-2008",
+      "role": "Head Coach",
+      "importance": [
+        "Managed Messi during the 2007 Copa América."
+      ]
+    },
+    {
+      "name": "Diego Maradona",
+      "period": "2008-2010",
+      "role": "Head Coach",
+      "importance": [
+        "Coached Messi during the 2010 FIFA World Cup.",
+        "Publicly declared Messi as the world's best player."
+      ]
+    },
+    {
+      "name": "Sergio Batista",
+      "period": "2010-2011",
+      "role": "Head Coach",
+      "importance": [
+        "Made Messi the team's primary playmaker."
+      ]
+    },
+    {
+      "name": "Alejandro Sabella",
+      "period": "2011-2014",
+      "role": "Head Coach",
+      "importance": [
+        "Reached the 2014 FIFA World Cup Final.",
+        "Built the team around Messi."
+      ]
+    },
+    {
+      "name": "Gerardo 'Tata' Martino",
+      "period": "2014-2016",
+      "role": "Head Coach",
+      "importance": [
+        "Reached consecutive Copa América finals in 2015 and 2016."
+      ]
+    },
+    {
+      "name": "Edgardo Bauza",
+      "period": "2016-2017",
+      "role": "Head Coach"
+    },
+    {
+      "name": "Jorge Sampaoli",
+      "period": "2017-2018",
+      "role": "Head Coach",
+      "importance": [
+        "Managed Argentina during the 2018 FIFA World Cup."
+      ]
+    },
+    {
+      "name": "Lionel Scaloni",
+      "period": "2018-Present",
+      "role": "Head Coach",
+      "importance": [
+        "Won the 2021 Copa América.",
+        "Won the 2022 Finalissima.",
+        "Won the 2022 FIFA World Cup.",
+        "Won the 2024 Copa América.",
+        "Established Argentina as the world's top-ranked national team during his tenure."
+      ]
+    }
+  ],
+  "captaincy": {
+    "vice_captain_since": 2010,
+    "national_team_captain_since": 2011,
+    "previous_captain": "Javier Mascherano",
+    "captain_until": null,
+    "captaincy_style": [
+      "Lead by Example",
+      "Calm Leadership",
+      "Performance-driven",
+      "Inspirational",
+      "Creative Influence"
+    ]
+  },
+  "shirt_history": [
+    {
+      "number": 18,
+      "from": 2005,
+      "to": 2006
+    },
+    {
+      "number": 19,
+      "from": 2006,
+      "to": 2008
+    },
+    {
+      "number": 10,
+      "from": 2009,
+      "to": null,
+      "previous_owner": "Juan Román Riquelme"
+    }
+  ],
+  "playing_roles": [
+    {
+      "role": "Right Winger",
+      "years": "2005-2008",
+      "description": "Began his international career playing from the right wing, using pace and dribbling to attack defenders."
+    },
+    {
+      "role": "Second Striker",
+      "years": "2008-2014",
+      "description": "Played close to the centre-forward, linking midfield and attack while creating and scoring goals."
+    },
+    {
+      "role": "False Nine",
+      "years": "2010-2014",
+      "description": "Frequently operated without a traditional striker, dropping deep to create space and dictate attacks."
+    },
+    {
+      "role": "Centre Forward",
+      "years": "2014-2016",
+      "description": "Often led Argentina's attack while combining with Ángel Di María, Gonzalo Higuaín and Sergio Agüero."
+    },
+    {
+      "role": "Attacking Midfielder",
+      "years": "2018-Present",
+      "description": "Dropped deeper into midfield, orchestrating Argentina's attacks through passing, vision and intelligent movement."
+    },
+    {
+      "role": "Playmaker",
+      "years": "2018-Present",
+      "description": "Became Argentina's primary creative force, controlling possession, creating chances and setting the team's attacking rhythm."
+    }
+  ],
+  "important_teammates": [
+    "Javier Mascherano",
+    "Ángel Di María",
+    "Sergio Agüero",
+    "Gonzalo Higuaín",
+    "Carlos Tévez",
+    "Juan Román Riquelme",
+    "Pablo Aimar",
+    "Esteban Cambiasso",
+    "Juan Sebastián Verón",
+    "Nicolás Otamendi",
+    "Marcos Rojo",
+    "Ezequiel Lavezzi",
+    "Lucas Biglia",
+    "Enzo Fernández",
+    "Rodrigo De Paul",
+    "Alexis Mac Allister",
+    "Julián Álvarez",
+    "Lautaro Martínez",
+    "Cristian Romero",
+    "Lisandro Martínez",
+    "Nahuel Molina",
+    "Nicolás Tagliafico",
+    "Leandro Paredes",
+    "Emiliano Martínez",
+    "Exequiel Palacios",
+    "Giovani Lo Celso"
+  ],
+  "playing_style": {
+    "strengths": [
+      "Dribbling",
+      "Ball Control",
+      "Vision",
+      "Passing",
+      "Finishing",
+      "Free Kicks",
+      "Acceleration",
+      "Playmaking",
+      "Decision Making",
+      "Leadership",
+      "Creativity",
+      "Penalty Taking"
+    ],
+    "traits": [
+      "Cuts Inside",
+      "Deep-Lying Playmaker",
+      "Through Ball Specialist",
+      "Outside Foot Pass",
+      "Finesse Shot",
+      "Free Kick Specialist",
+      "Long Shot Taker",
+      "Playmaker",
+      "Flair",
+      "One-on-One Specialist",
+      "Progressive Ball Carrier"
+    ]
+  },
+  "legacy": {
+    "status": "Greatest player in Argentina national team history",
+    "ranking": 1,
+    "considered": [
+      "Greatest Argentine footballer",
+      "Greatest international player of all time",
+      "One of the greatest footballers of all time"
+    ],
+    "considered_by": [
+      "Players",
+      "Managers",
+      "Supporters",
+      "Football historians"
+    ],
+    "description": "Messi transformed Argentina into one of the most successful national teams of the modern era. After years of near misses, he captained Argentina to victory in the 2021 Copa América, the 2022 Finalissima, the 2022 FIFA World Cup and the 2024 Copa América. He became Argentina's all-time leading appearance maker, top goalscorer and assist provider while breaking numerous FIFA and CONMEBOL records. His international career is widely regarded as one of the greatest in football history."
+  },
+  "tournaments": [
+    {
+      "tournament": "2005 FIFA World Youth Championship",
+      "category": "Youth International",
+      "host_country": "Netherlands",
+      "dates": "10 June 2005 - 2 July 2005",
+      "age": 17,
+      "manager": "Francisco Ferraro",
+      "shirt_number": 18,
+      "position": "Right Winger / Second Striker",
+      "statistics": {
+        "appearances": 7,
+        "starts": 7,
+        "goals": 6,
+        "assists": 2,
+        "hat_tricks": 0,
+        "penalty_goals": 2,
+        "minutes": 630
+      },
+      "team_achievement": [
+        "FIFA U-20 World Cup Champion"
+      ],
+      "individual_awards": [
+        "Golden Ball",
+        "Golden Boot"
+      ],
+      "major_events": [
+        "Made his FIFA youth tournament debut.",
+        "Finished as the tournament's top scorer with six goals.",
+        "Won both the Golden Ball and Golden Boot.",
+        "Led Argentina to its fifth FIFA U-20 World Cup title.",
+        "Established himself as one of the world's brightest young talents."
+      ],
+      "matches": [
+        {
+          "date": "2005-06-11",
+          "competition": "Group Stage",
+          "opponent": "United States",
+          "result": "Argentina 0-1 United States",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "date": "2005-06-14",
+          "competition": "Group Stage",
+          "opponent": "Egypt",
+          "result": "Argentina 2-0 Egypt",
+          "goals": 2,
+          "assists": 0
+        },
+        {
+          "date": "2005-06-17",
+          "competition": "Group Stage",
+          "opponent": "Germany",
+          "result": "Argentina 1-0 Germany",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "date": "2005-06-21",
+          "competition": "Round of 16",
+          "opponent": "Colombia",
+          "result": "Argentina 2-1 Colombia",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "date": "2005-06-25",
+          "competition": "Quarter-final",
+          "opponent": "Spain",
+          "result": "Argentina 3-1 Spain",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "date": "2005-06-28",
+          "competition": "Semi-final",
+          "opponent": "Brazil",
+          "result": "Argentina 2-1 Brazil",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "date": "2005-07-02",
+          "competition": "Final",
+          "opponent": "Nigeria",
+          "result": "Argentina 2-1 Nigeria",
+          "goals": 2,
+          "assists": 0,
+          "description": "Scored both goals from the penalty spot to secure Argentina's fifth FIFA U-20 World Cup title."
+        }
+      ],
+      "iconic_matches": [
+        {
+          "date": "2005-07-02",
+          "competition": "Final",
+          "opponent": "Nigeria",
+          "result": "Argentina 2-1 Nigeria",
+          "goals": 2,
+          "assists": 0,
+          "description": "Produced a match-winning performance by scoring both goals in the final, earning the Golden Ball and Golden Boot."
+        },
+        {
+          "date": "2005-06-28",
+          "competition": "Semi-final",
+          "opponent": "Brazil",
+          "result": "Argentina 2-1 Brazil",
+          "goals": 1,
+          "assists": 0,
+          "description": "Scored against Argentina's biggest rivals to send his team into the final."
+        }
+      ],
+      "records_broken": [
+        "Golden Ball winner.",
+        "Golden Boot winner.",
+        "Only player to win both awards at the 2005 FIFA U-20 World Cup.",
+        "Led Argentina to its fifth FIFA U-20 World Cup title."
+      ]
+    },
+    {
+      "tournament": "2006 FIFA World Cup",
+      "category": "Senior International",
+      "host_country": "Germany",
+      "dates": "9 June 2006 - 9 July 2006",
+      "age": 18,
+      "manager": "José Pekerman",
+      "shirt_number": 19,
+      "position": "Right Winger / Second Striker",
+      "statistics": {
+        "appearances": 3,
+        "starts": 1,
+        "goals": 1,
+        "assists": 1,
+        "hat_tricks": 0,
+        "penalty_goals": 0,
+        "minutes": 122
+      },
+      "team_achievement": [
+        "Quarter-finalist"
+      ],
+      "individual_awards": [],
+      "major_events": [
+        "Became Argentina's youngest FIFA World Cup player since Diego Maradona.",
+        "Made his FIFA World Cup debut against Serbia and Montenegro.",
+        "Scored and assisted in the same World Cup match.",
+        "Became the youngest player to score and assist in a FIFA World Cup since Pelé.",
+        "Unused substitute in the quarter-final defeat to Germany."
+      ],
+      "matches": [
+        {
+          "date": "2006-06-10",
+          "competition": "Group Stage",
+          "opponent": "Ivory Coast",
+          "result": "Argentina 2-1 Ivory Coast",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "date": "2006-06-16",
+          "competition": "Group Stage",
+          "opponent": "Serbia and Montenegro",
+          "result": "Argentina 6-0 Serbia and Montenegro",
+          "goals": 1,
+          "assists": 1
+        },
+        {
+          "date": "2006-06-21",
+          "competition": "Group Stage",
+          "opponent": "Netherlands",
+          "result": "Netherlands 0-0 Argentina",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "date": "2006-06-30",
+          "competition": "Round of 16",
+          "opponent": "Mexico",
+          "result": "Argentina 2-1 Mexico (AET)",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "date": "2006-06-30",
+          "competition": "Quarter-final",
+          "opponent": "Germany",
+          "result": "Argentina 1-1 Germany (2-4 pens)",
+          "goals": 0,
+          "assists": 0,
+          "played": false,
+          "description": "Remained on the bench throughout the match."
+        }
+      ],
+      "iconic_matches": [
+        {
+          "date": "2006-06-16",
+          "competition": "Group Stage",
+          "opponent": "Serbia and Montenegro",
+          "result": "Argentina 6-0 Serbia and Montenegro",
+          "goals": 1,
+          "assists": 1,
+          "description": "Scored and assisted after coming off the bench in one of Argentina's greatest World Cup performances."
+        }
+      ],
+      "records_broken": [
+        "Youngest Argentine to score in a FIFA World Cup.",
+        "Youngest player to score and assist in a World Cup match since Pelé."
+      ]
+    },
+    {
+      "tournament": "2007 Copa América",
+      "category": "Senior International",
+      "host_country": "Venezuela",
+      "dates": "26 June 2007 - 15 July 2007",
+      "age": 20,
+      "manager": "Alfio Basile",
+      "shirt_number": 19,
+      "position": "Second Striker / Right Winger",
+      "statistics": {
+        "appearances": 6,
+        "starts": 6,
+        "goals": 2,
+        "assists": 1,
+        "hat_tricks": 0,
+        "penalty_goals": 0,
+        "minutes": 540
+      },
+      "team_achievement": [
+        "Runner-up"
+      ],
+      "individual_awards": [
+        "Young Player of the Tournament"
+      ],
+      "major_events": [
+        "Reached his first senior international final.",
+        "Scored one of the tournament's most memorable goals against Mexico.",
+        "Formed an exciting attacking partnership with Juan Román Riquelme and Carlos Tévez.",
+        "Argentina lost the final to Brazil."
+      ],
+      "matches": [
+        {
+          "date": "2007-06-28",
+          "competition": "Group Stage",
+          "opponent": "United States",
+          "result": "Argentina 4-1 United States",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "date": "2007-07-02",
+          "competition": "Group Stage",
+          "opponent": "Colombia",
+          "result": "Argentina 4-2 Colombia",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "date": "2007-07-05",
+          "competition": "Group Stage",
+          "opponent": "Paraguay",
+          "result": "Argentina 1-0 Paraguay",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "date": "2007-07-08",
+          "competition": "Quarter-final",
+          "opponent": "Peru",
+          "result": "Argentina 4-0 Peru",
+          "goals": 2,
+          "assists": 0
+        },
+        {
+          "date": "2007-07-11",
+          "competition": "Semi-final",
+          "opponent": "Mexico",
+          "result": "Argentina 3-0 Mexico",
+          "goals": 1,
+          "assists": 0,
+          "description": "Scored a famous chipped goal over goalkeeper Oswaldo Sánchez."
+        },
+        {
+          "date": "2007-07-15",
+          "competition": "Final",
+          "opponent": "Brazil",
+          "result": "Brazil 3-0 Argentina",
+          "goals": 0,
+          "assists": 0
+        }
+      ],
+      "iconic_matches": [
+        {
+          "date": "2007-07-11",
+          "competition": "Semi-final",
+          "opponent": "Mexico",
+          "result": "Argentina 3-0 Mexico",
+          "goals": 1,
+          "assists": 0,
+          "description": "Scored an iconic long-range chip that became one of the greatest goals in Copa América history."
+        }
+      ],
+      "records_broken": [
+        "Young Player of the Tournament."
+      ]
+    },
+    {
+      "tournament": "2008 Olympic Games",
+      "category": "Senior Olympic Team (U-23)",
+      "host_country": "China",
+      "dates": "7 August 2008 - 23 August 2008",
+      "age": 21,
+      "manager": "Sergio Batista",
+      "shirt_number": 15,
+      "position": "Second Striker",
+      "statistics": {
+        "appearances": 6,
+        "starts": 6,
+        "goals": 2,
+        "assists": 3,
+        "hat_tricks": 0,
+        "penalty_goals": 0,
+        "minutes": 540
+      },
+      "team_achievement": [
+        "Olympic Gold Medal"
+      ],
+      "individual_awards": [],
+      "major_events": [
+        "Won his first senior international trophy.",
+        "Provided the famous assist for Ángel Di María in the Olympic final.",
+        "Played every match as Argentina successfully defended its Olympic title.",
+        "Completed an unbeaten tournament."
+      ],
+      "matches": [
+        {
+          "date": "2008-08-07",
+          "competition": "Group Stage",
+          "opponent": "Ivory Coast",
+          "result": "Argentina 2-1 Ivory Coast",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "date": "2008-08-10",
+          "competition": "Group Stage",
+          "opponent": "Australia",
+          "result": "Argentina 1-0 Australia",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "date": "2008-08-13",
+          "competition": "Group Stage",
+          "opponent": "Serbia",
+          "result": "Argentina 2-0 Serbia",
+          "goals": 1,
+          "assists": 1
+        },
+        {
+          "date": "2008-08-16",
+          "competition": "Quarter-final",
+          "opponent": "Netherlands",
+          "result": "Argentina 2-1 Netherlands (AET)",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "date": "2008-08-19",
+          "competition": "Semi-final",
+          "opponent": "Brazil",
+          "result": "Argentina 3-0 Brazil",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "date": "2008-08-23",
+          "competition": "Final",
+          "opponent": "Nigeria",
+          "result": "Argentina 1-0 Nigeria",
+          "goals": 0,
+          "assists": 1,
+          "description": "Delivered the decisive assist for Ángel Di María's winning goal."
+        }
+      ],
+      "iconic_matches": [
+        {
+          "date": "2008-08-23",
+          "competition": "Final",
+          "opponent": "Nigeria",
+          "result": "Argentina 1-0 Nigeria",
+          "goals": 0,
+          "assists": 1,
+          "description": "Produced a perfectly weighted through ball for Ángel Di María, securing Argentina's second consecutive Olympic gold medal."
+        }
+      ],
+      "records_broken": [
+        "Won his first major international title with Argentina.",
+        "Completed the Olympic tournament unbeaten."
+      ]
+    },
+    {
+      "tournament": "2010 FIFA World Cup",
+      "category": "Senior International",
+      "host_country": "South Africa",
+      "dates": "11 June 2010 - 11 July 2010",
+      "age": 23,
+      "manager": "Diego Maradona",
+      "shirt_number": 10,
+      "position": "Second Striker / Playmaker",
+      "statistics": {
+        "appearances": 5,
+        "starts": 5,
+        "goals": 0,
+        "assists": 1,
+        "hat_tricks": 0,
+        "penalty_goals": 0,
+        "minutes": 450
+      },
+      "team_achievement": [
+        "Quarter-finalist"
+      ],
+      "individual_awards": [],
+      "major_events": [
+        "Inherited Argentina's iconic No.10 shirt at a FIFA World Cup.",
+        "Created numerous chances despite failing to score.",
+        "Hit the woodwork multiple times during the tournament.",
+        "Argentina reached the quarter-finals before losing heavily to Germany."
+      ],
+      "matches": [
+        {
+          "date": "2010-06-12",
+          "competition": "Group Stage",
+          "opponent": "Nigeria",
+          "result": "Argentina 1-0 Nigeria",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "date": "2010-06-17",
+          "competition": "Group Stage",
+          "opponent": "South Korea",
+          "result": "Argentina 4-1 South Korea",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "date": "2010-06-22",
+          "competition": "Group Stage",
+          "opponent": "Greece",
+          "result": "Greece 0-2 Argentina",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "date": "2010-06-27",
+          "competition": "Round of 16",
+          "opponent": "Mexico",
+          "result": "Argentina 3-1 Mexico",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "date": "2010-07-03",
+          "competition": "Quarter-final",
+          "opponent": "Germany",
+          "result": "Argentina 0-4 Germany",
+          "goals": 0,
+          "assists": 0
+        }
+      ],
+      "iconic_matches": [
+        {
+          "date": "2010-06-22",
+          "competition": "Group Stage",
+          "opponent": "Greece",
+          "result": "Greece 0-2 Argentina",
+          "goals": 0,
+          "assists": 1,
+          "description": "Created numerous opportunities and assisted Martín Demichelis as Argentina finished the group stage with three wins."
+        }
+      ],
+      "records_broken": []
+    },
+    {
+      "tournament": "2011 Copa América",
+      "category": "Senior International",
+      "host_country": "Argentina",
+      "dates": "1 July 2011 - 24 July 2011",
+      "age": 24,
+      "manager": "Sergio Batista",
+      "shirt_number": 10,
+      "position": "Playmaker",
+      "statistics": {
+        "appearances": 4,
+        "starts": 4,
+        "goals": 0,
+        "assists": 3,
+        "hat_tricks": 0,
+        "penalty_goals": 0,
+        "minutes": 390
+      },
+      "team_achievement": [
+        "Quarter-finalist"
+      ],
+      "individual_awards": [],
+      "major_events": [
+        "Played the tournament on home soil.",
+        "Created the most chances for Argentina.",
+        "Provided three assists.",
+        "Argentina were eliminated by Uruguay in a penalty shootout."
+      ],
+      "matches": [
+        {
+          "date": "2011-07-01",
+          "competition": "Group Stage",
+          "opponent": "Bolivia",
+          "result": "Argentina 1-1 Bolivia",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "date": "2011-07-06",
+          "competition": "Group Stage",
+          "opponent": "Colombia",
+          "result": "Argentina 0-0 Colombia",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "date": "2011-07-11",
+          "competition": "Group Stage",
+          "opponent": "Costa Rica",
+          "result": "Argentina 3-0 Costa Rica",
+          "goals": 0,
+          "assists": 2
+        },
+        {
+          "date": "2011-07-16",
+          "competition": "Quarter-final",
+          "opponent": "Uruguay",
+          "result": "Argentina 1-1 Uruguay (4-5 pens)",
+          "goals": 0,
+          "assists": 1
+        }
+      ],
+      "iconic_matches": [
+        {
+          "date": "2011-07-11",
+          "competition": "Group Stage",
+          "opponent": "Costa Rica",
+          "result": "Argentina 3-0 Costa Rica",
+          "goals": 0,
+          "assists": 2,
+          "description": "Produced a brilliant creative display to help Argentina qualify for the knockout stage."
+        }
+      ],
+      "records_broken": []
+    },
+    {
+      "tournament": "2014 FIFA World Cup",
+      "category": "Senior International",
+      "host_country": "Brazil",
+      "dates": "12 June 2014 - 13 July 2014",
+      "age": 27,
+      "manager": "Alejandro Sabella",
+      "shirt_number": 10,
+      "position": "Playmaker / Forward",
+      "captain": true,
+      "statistics": {
+        "appearances": 7,
+        "starts": 7,
+        "goals": 4,
+        "assists": 1,
+        "hat_tricks": 0,
+        "penalty_goals": 0,
+        "minutes": 693
+      },
+      "team_achievement": [
+        "Runner-up"
+      ],
+      "individual_awards": [
+        "FIFA World Cup Golden Ball"
+      ],
+      "major_events": [
+        "Captained Argentina to its first World Cup final since 1990.",
+        "Scored in each of Argentina's first three group-stage matches.",
+        "Won four Player of the Match awards.",
+        "Won the FIFA World Cup Golden Ball.",
+        "Lost the final to Germany after extra time."
+      ],
+      "matches": [
+        {
+          "date": "2014-06-15",
+          "competition": "Group Stage",
+          "opponent": "Bosnia and Herzegovina",
+          "result": "Argentina 2-1 Bosnia and Herzegovina",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "date": "2014-06-21",
+          "competition": "Group Stage",
+          "opponent": "Iran",
+          "result": "Argentina 1-0 Iran",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "date": "2014-06-25",
+          "competition": "Group Stage",
+          "opponent": "Nigeria",
+          "result": "Nigeria 2-3 Argentina",
+          "goals": 2,
+          "assists": 0
+        },
+        {
+          "date": "2014-07-01",
+          "competition": "Round of 16",
+          "opponent": "Switzerland",
+          "result": "Argentina 1-0 Switzerland (AET)",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "date": "2014-07-05",
+          "competition": "Quarter-final",
+          "opponent": "Belgium",
+          "result": "Argentina 1-0 Belgium",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "date": "2014-07-09",
+          "competition": "Semi-final",
+          "opponent": "Netherlands",
+          "result": "Argentina 0-0 Netherlands (4-2 pens)",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "date": "2014-07-13",
+          "competition": "Final",
+          "opponent": "Germany",
+          "result": "Germany 1-0 Argentina (AET)",
+          "goals": 0,
+          "assists": 0
+        }
+      ],
+      "iconic_matches": [
+        {
+          "date": "2014-06-21",
+          "competition": "Group Stage",
+          "opponent": "Iran",
+          "result": "Argentina 1-0 Iran",
+          "goals": 1,
+          "assists": 0,
+          "description": "Scored a stunning stoppage-time winner from outside the penalty area."
+        },
+        {
+          "date": "2014-07-01",
+          "competition": "Round of 16",
+          "opponent": "Switzerland",
+          "result": "Argentina 1-0 Switzerland (AET)",
+          "goals": 0,
+          "assists": 1,
+          "description": "Created Ángel Di María's extra-time winner with a perfectly timed through ball."
+        }
+      ],
+      "records_broken": [
+        "Won the FIFA World Cup Golden Ball.",
+        "First Argentine captain to reach a FIFA World Cup final since Diego Maradona in 1990."
+      ]
+    },
+    {
+      "tournament": "2015 Copa América",
+      "category": "Senior International",
+      "host_country": "Chile",
+      "dates": "11 June 2015 - 4 July 2015",
+      "age": 28,
+      "manager": "Gerardo 'Tata' Martino",
+      "shirt_number": 10,
+      "position": "Playmaker / Forward",
+      "captain": true,
+      "statistics": {
+        "appearances": 6,
+        "starts": 6,
+        "goals": 1,
+        "assists": 3,
+        "hat_tricks": 0,
+        "penalty_goals": 1,
+        "minutes": 570
+      },
+      "team_achievement": [
+        "Runner-up"
+      ],
+      "individual_awards": [],
+      "major_events": [
+        "Captained Argentina to the Copa América Final.",
+        "Created the most chances for Argentina during the tournament.",
+        "Scored his only goal from the penalty spot against Paraguay.",
+        "Argentina lost the final to Chile in a penalty shootout.",
+        "Declined the tournament's Best Player award after the final."
+      ],
+      "matches": [
+        {
+          "date": "2015-06-13",
+          "competition": "Group Stage",
+          "opponent": "Paraguay",
+          "result": "Argentina 2-2 Paraguay",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "date": "2015-06-16",
+          "competition": "Group Stage",
+          "opponent": "Uruguay",
+          "result": "Argentina 1-0 Uruguay",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "date": "2015-06-20",
+          "competition": "Group Stage",
+          "opponent": "Jamaica",
+          "result": "Argentina 1-0 Jamaica",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "date": "2015-06-26",
+          "competition": "Quarter-final",
+          "opponent": "Colombia",
+          "result": "Argentina 0-0 Colombia (5-4 pens)",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "date": "2015-06-30",
+          "competition": "Semi-final",
+          "opponent": "Paraguay",
+          "result": "Argentina 6-1 Paraguay",
+          "goals": 0,
+          "assists": 3
+        },
+        {
+          "date": "2015-07-04",
+          "competition": "Final",
+          "opponent": "Chile",
+          "result": "Chile 0-0 Argentina (4-1 pens)",
+          "goals": 0,
+          "assists": 0
+        }
+      ],
+      "iconic_matches": [
+        {
+          "date": "2015-06-30",
+          "competition": "Semi-final",
+          "opponent": "Paraguay",
+          "result": "Argentina 6-1 Paraguay",
+          "goals": 0,
+          "assists": 3,
+          "description": "Produced one of the greatest creative performances of his international career with three assists."
+        }
+      ],
+      "records_broken": []
+    },
+    {
+      "tournament": "2016 Copa América Centenario",
+      "category": "Senior International",
+      "host_country": "United States",
+      "dates": "3 June 2016 - 26 June 2016",
+      "age": 29,
+      "manager": "Gerardo 'Tata' Martino",
+      "shirt_number": 10,
+      "position": "Playmaker / Forward",
+      "captain": true,
+      "statistics": {
+        "appearances": 5,
+        "starts": 3,
+        "goals": 5,
+        "assists": 4,
+        "hat_tricks": 1,
+        "penalty_goals": 0,
+        "free_kick_goals": 1,
+        "minutes": 413
+      },
+      "team_achievement": [
+        "Runner-up"
+      ],
+      "individual_awards": [
+        "Tournament Team"
+      ],
+      "major_events": [
+        "Became Argentina's all-time leading goalscorer.",
+        "Scored a hat-trick against Panama.",
+        "Scored a spectacular free-kick against the United States in the semi-final.",
+        "Reached a third consecutive major international final.",
+        "Announced his retirement from international football after the final before later reversing his decision."
+      ],
+      "matches": [
+        {
+          "date": "2016-06-10",
+          "competition": "Group Stage",
+          "opponent": "Panama",
+          "result": "Argentina 5-0 Panama",
+          "goals": 3,
+          "assists": 1
+        },
+        {
+          "date": "2016-06-14",
+          "competition": "Group Stage",
+          "opponent": "Bolivia",
+          "result": "Argentina 3-0 Bolivia",
+          "goals": 1,
+          "assists": 2
+        },
+        {
+          "date": "2016-06-18",
+          "competition": "Quarter-final",
+          "opponent": "Venezuela",
+          "result": "Argentina 4-1 Venezuela",
+          "goals": 1,
+          "assists": 2
+        },
+        {
+          "date": "2016-06-21",
+          "competition": "Semi-final",
+          "opponent": "United States",
+          "result": "United States 0-4 Argentina",
+          "goals": 1,
+          "assists": 2,
+          "description": "Scored a stunning free-kick to become Argentina's all-time leading scorer."
+        },
+        {
+          "date": "2016-06-26",
+          "competition": "Final",
+          "opponent": "Chile",
+          "result": "Chile 0-0 Argentina (4-2 pens)",
+          "goals": 0,
+          "assists": 0
+        }
+      ],
+      "iconic_matches": [
+        {
+          "date": "2016-06-21",
+          "competition": "Semi-final",
+          "opponent": "United States",
+          "result": "United States 0-4 Argentina",
+          "goals": 1,
+          "assists": 2,
+          "description": "Surpassed Gabriel Batistuta as Argentina's all-time leading goalscorer with a brilliant free-kick."
+        },
+        {
+          "date": "2016-06-10",
+          "competition": "Group Stage",
+          "opponent": "Panama",
+          "result": "Argentina 5-0 Panama",
+          "goals": 3,
+          "assists": 1,
+          "description": "Scored a hat-trick after coming off the bench."
+        }
+      ],
+      "records_broken": [
+        "Became Argentina's all-time leading goalscorer.",
+        "First Argentine to score a hat-trick in Copa América since 1997."
+      ]
+    },
+    {
+      "tournament": "2018 FIFA World Cup",
+      "category": "Senior International",
+      "host_country": "Russia",
+      "dates": "14 June 2018 - 15 July 2018",
+      "age": 31,
+      "manager": "Jorge Sampaoli",
+      "shirt_number": 10,
+      "position": "Playmaker / Forward",
+      "captain": true,
+      "statistics": {
+        "appearances": 4,
+        "starts": 4,
+        "goals": 1,
+        "assists": 2,
+        "hat_tricks": 0,
+        "penalty_goals": 0,
+        "minutes": 360
+      },
+      "team_achievement": [
+        "Round of 16"
+      ],
+      "individual_awards": [],
+      "major_events": [
+        "Captained Argentina during a difficult tournament.",
+        "Scored a brilliant goal against Nigeria to qualify for the knockout stage.",
+        "Provided two assists against France.",
+        "Argentina were eliminated by eventual champions France."
+      ],
+      "matches": [
+        {
+          "date": "2018-06-16",
+          "competition": "Group Stage",
+          "opponent": "Iceland",
+          "result": "Argentina 1-1 Iceland",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "date": "2018-06-21",
+          "competition": "Group Stage",
+          "opponent": "Croatia",
+          "result": "Argentina 0-3 Croatia",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "date": "2018-06-26",
+          "competition": "Group Stage",
+          "opponent": "Nigeria",
+          "result": "Nigeria 1-2 Argentina",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "date": "2018-06-30",
+          "competition": "Round of 16",
+          "opponent": "France",
+          "result": "France 4-3 Argentina",
+          "goals": 0,
+          "assists": 2
+        }
+      ],
+      "iconic_matches": [
+        {
+          "date": "2018-06-26",
+          "competition": "Group Stage",
+          "opponent": "Nigeria",
+          "result": "Nigeria 1-2 Argentina",
+          "goals": 1,
+          "assists": 0,
+          "description": "Scored a superb first-half goal to help Argentina reach the knockout stage."
+        }
+      ],
+      "records_broken": [
+        "Became the first Argentine to score in four different FIFA World Cups."
+      ]
+    },
+    {
+      "tournament": "2019 Copa América",
+      "category": "Senior International",
+      "host_country": "Brazil",
+      "dates": "14 June 2019 - 7 July 2019",
+      "age": 32,
+      "manager": "Lionel Scaloni",
+      "shirt_number": 10,
+      "position": "Playmaker / Forward",
+      "captain": true,
+      "statistics": {
+        "appearances": 6,
+        "starts": 6,
+        "goals": 1,
+        "assists": 1,
+        "hat_tricks": 0,
+        "penalty_goals": 1,
+        "minutes": 540
+      },
+      "team_achievement": [
+        "Third Place"
+      ],
+      "individual_awards": [],
+      "major_events": [
+        "Played in his fifth Copa América.",
+        "Helped Argentina return to the podium after the 2018 FIFA World Cup.",
+        "Was sent off against Chile after an altercation with Gary Medel.",
+        "Criticized CONMEBOL following the tournament.",
+        "Marked the beginning of Lionel Scaloni's rebuilding project."
+      ],
+      "matches": [
+        {
+          "date": "2019-06-15",
+          "competition": "Group Stage",
+          "opponent": "Colombia",
+          "result": "Argentina 0-2 Colombia",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "date": "2019-06-19",
+          "competition": "Group Stage",
+          "opponent": "Paraguay",
+          "result": "Argentina 1-1 Paraguay",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "date": "2019-06-23",
+          "competition": "Group Stage",
+          "opponent": "Qatar",
+          "result": "Qatar 0-2 Argentina",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "date": "2019-06-28",
+          "competition": "Quarter-final",
+          "opponent": "Venezuela",
+          "result": "Argentina 2-0 Venezuela",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "date": "2019-07-02",
+          "competition": "Semi-final",
+          "opponent": "Brazil",
+          "result": "Brazil 2-0 Argentina",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "date": "2019-07-06",
+          "competition": "Third Place Play-off",
+          "opponent": "Chile",
+          "result": "Argentina 2-1 Chile",
+          "goals": 0,
+          "assists": 0
+        }
+      ],
+      "iconic_matches": [
+        {
+          "date": "2019-06-23",
+          "competition": "Group Stage",
+          "opponent": "Qatar",
+          "result": "Qatar 0-2 Argentina",
+          "goals": 0,
+          "assists": 1,
+          "description": "Helped Argentina qualify for the knockout stage with an influential creative performance."
+        }
+      ],
+      "records_broken": []
+    },
+    {
+      "tournament": "2021 Copa América",
+      "category": "Senior International",
+      "host_country": "Brazil",
+      "dates": "13 June 2021 - 10 July 2021",
+      "age": 34,
+      "manager": "Lionel Scaloni",
+      "shirt_number": 10,
+      "position": "Playmaker / Forward",
+      "captain": true,
+      "statistics": {
+        "appearances": 7,
+        "starts": 7,
+        "goals": 4,
+        "assists": 5,
+        "hat_tricks": 0,
+        "penalty_goals": 2,
+        "free_kick_goals": 1,
+        "minutes": 630
+      },
+      "team_achievement": [
+        "Copa América Champion"
+      ],
+      "individual_awards": [
+        "Player of the Tournament",
+        "Golden Boot",
+        "Tournament Team"
+      ],
+      "major_events": [
+        "Won his first major senior international trophy.",
+        "Captained Argentina to its first Copa América title since 1993.",
+        "Finished as the tournament's joint top scorer.",
+        "Finished as the tournament's top assist provider.",
+        "Played every minute of Argentina's campaign.",
+        "Ended Argentina's 28-year trophy drought."
+      ],
+      "matches": [
+        {
+          "date": "2021-06-14",
+          "competition": "Group Stage",
+          "opponent": "Chile",
+          "result": "Argentina 1-1 Chile",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "date": "2021-06-18",
+          "competition": "Group Stage",
+          "opponent": "Uruguay",
+          "result": "Argentina 1-0 Uruguay",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "date": "2021-06-21",
+          "competition": "Group Stage",
+          "opponent": "Paraguay",
+          "result": "Argentina 1-0 Paraguay",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "date": "2021-06-28",
+          "competition": "Group Stage",
+          "opponent": "Bolivia",
+          "result": "Bolivia 1-4 Argentina",
+          "goals": 2,
+          "assists": 1
+        },
+        {
+          "date": "2021-07-03",
+          "competition": "Quarter-final",
+          "opponent": "Ecuador",
+          "result": "Argentina 3-0 Ecuador",
+          "goals": 1,
+          "assists": 2
+        },
+        {
+          "date": "2021-07-06",
+          "competition": "Semi-final",
+          "opponent": "Colombia",
+          "result": "Argentina 1-1 Colombia (3-2 pens)",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "date": "2021-07-10",
+          "competition": "Final",
+          "opponent": "Brazil",
+          "result": "Argentina 1-0 Brazil",
+          "goals": 0,
+          "assists": 0
+        }
+      ],
+      "iconic_matches": [
+        {
+          "date": "2021-07-03",
+          "competition": "Quarter-final",
+          "opponent": "Ecuador",
+          "result": "Argentina 3-0 Ecuador",
+          "goals": 1,
+          "assists": 2,
+          "description": "Produced a masterclass, including a spectacular late free-kick."
+        },
+        {
+          "date": "2021-07-10",
+          "competition": "Final",
+          "opponent": "Brazil",
+          "result": "Argentina 1-0 Brazil",
+          "goals": 0,
+          "assists": 0,
+          "description": "Captained Argentina to its first Copa América title in 28 years, fulfilling a lifelong dream."
+        }
+      ],
+      "records_broken": [
+        "Player of the Tournament.",
+        "Golden Boot winner.",
+        "Most assists in a single Copa América tournament by an Argentine in the modern era."
+      ]
+    },
+    {
+      "tournament": "2022 Finalissima",
+      "category": "Senior International",
+      "host_country": "England",
+      "dates": "1 June 2022",
+      "age": 34,
+      "manager": "Lionel Scaloni",
+      "shirt_number": 10,
+      "position": "Playmaker / Forward",
+      "captain": true,
+      "statistics": {
+        "appearances": 1,
+        "starts": 1,
+        "goals": 0,
+        "assists": 2,
+        "hat_tricks": 0,
+        "penalty_goals": 0,
+        "minutes": 90
+      },
+      "team_achievement": [
+        "Finalissima Champion"
+      ],
+      "individual_awards": [
+        "Player of the Match"
+      ],
+      "major_events": [
+        "Captained Argentina to victory over European champions Italy.",
+        "Produced a dominant performance at Wembley Stadium.",
+        "Extended Argentina's unbeaten run.",
+        "Won his second senior international trophy."
+      ],
+      "matches": [
+        {
+          "date": "2022-06-01",
+          "competition": "Finalissima",
+          "opponent": "Italy",
+          "result": "Argentina 3-0 Italy",
+          "goals": 0,
+          "assists": 2
+        }
+      ],
+      "iconic_matches": [
+        {
+          "date": "2022-06-01",
+          "competition": "Finalissima",
+          "opponent": "Italy",
+          "result": "Argentina 3-0 Italy",
+          "goals": 0,
+          "assists": 2,
+          "description": "Delivered a Player of the Match performance with two assists as Argentina comfortably defeated the European champions."
+        }
+      ],
+      "records_broken": [
+        "Won the revived Finalissima.",
+        "Extended Argentina's unbeaten streak to 32 matches."
+      ]
+    },
+    {
+      "tournament": "2022 FIFA World Cup",
+      "category": "Senior International",
+      "host_country": "Qatar",
+      "dates": "20 November 2022 - 18 December 2022",
+      "age": 35,
+      "manager": "Lionel Scaloni",
+      "shirt_number": 10,
+      "position": "Playmaker / Forward",
+      "captain": true,
+      "statistics": {
+        "appearances": 7,
+        "starts": 7,
+        "goals": 7,
+        "assists": 3,
+        "hat_tricks": 0,
+        "penalty_goals": 4,
+        "free_kick_goals": 0,
+        "minutes": 690
+      },
+      "team_achievement": [
+        "FIFA World Cup Champion"
+      ],
+      "individual_awards": [
+        "FIFA World Cup Golden Ball",
+        "FIFA World Cup Team of the Tournament",
+        "Player of the Match (5)"
+      ],
+      "major_events": [
+        "Captained Argentina to its third FIFA World Cup title.",
+        "Became the first player to score in every knockout round of a single FIFA World Cup.",
+        "Won the FIFA World Cup Golden Ball for a record second time.",
+        "Became the player with the most FIFA World Cup appearances.",
+        "Became Argentina's all-time World Cup top scorer.",
+        "Played every minute of Argentina's World Cup campaign.",
+        "Completed football by winning the FIFA World Cup."
+      ],
+      "matches": [
+        {
+          "date": "2022-11-22",
+          "competition": "Group Stage",
+          "opponent": "Saudi Arabia",
+          "result": "Argentina 1-2 Saudi Arabia",
+          "goals": 1,
+          "assists": 0,
+          "description": "Scored Argentina's only goal from the penalty spot."
+        },
+        {
+          "date": "2022-11-26",
+          "competition": "Group Stage",
+          "opponent": "Mexico",
+          "result": "Argentina 2-0 Mexico",
+          "goals": 1,
+          "assists": 1,
+          "description": "Opened the scoring with a spectacular long-range strike and assisted Enzo Fernández."
+        },
+        {
+          "date": "2022-11-30",
+          "competition": "Group Stage",
+          "opponent": "Poland",
+          "result": "Poland 0-2 Argentina",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "date": "2022-12-03",
+          "competition": "Round of 16",
+          "opponent": "Australia",
+          "result": "Argentina 2-1 Australia",
+          "goals": 1,
+          "assists": 0,
+          "description": "Scored his first-ever FIFA World Cup knockout-stage goal."
+        },
+        {
+          "date": "2022-12-09",
+          "competition": "Quarter-final",
+          "opponent": "Netherlands",
+          "result": "Argentina 2-2 Netherlands (4-3 pens)",
+          "goals": 1,
+          "assists": 1,
+          "description": "Produced an unforgettable assist for Nahuel Molina before scoring from the penalty spot."
+        },
+        {
+          "date": "2022-12-13",
+          "competition": "Semi-final",
+          "opponent": "Croatia",
+          "result": "Argentina 3-0 Croatia",
+          "goals": 1,
+          "assists": 1,
+          "description": "Scored a penalty and produced one of the greatest World Cup assists after an incredible solo run past Joško Gvardiol."
+        },
+        {
+          "date": "2022-12-18",
+          "competition": "Final",
+          "opponent": "France",
+          "result": "Argentina 3-3 France (4-2 pens)",
+          "goals": 2,
+          "assists": 0,
+          "description": "Scored twice in the final before Argentina won the penalty shootout to lift the FIFA World Cup."
+        }
+      ],
+      "iconic_matches": [
+        {
+          "date": "2022-12-18",
+          "competition": "Final",
+          "opponent": "France",
+          "result": "Argentina 3-3 France (4-2 pens)",
+          "goals": 2,
+          "assists": 0,
+          "description": "Delivered one of the greatest World Cup Final performances in history, scoring twice and captaining Argentina to victory."
+        },
+        {
+          "date": "2022-12-13",
+          "competition": "Semi-final",
+          "opponent": "Croatia",
+          "result": "Argentina 3-0 Croatia",
+          "goals": 1,
+          "assists": 1,
+          "description": "Produced a legendary dribble past Joško Gvardiol before assisting Julián Álvarez."
+        },
+        {
+          "date": "2022-12-09",
+          "competition": "Quarter-final",
+          "opponent": "Netherlands",
+          "result": "Argentina 2-2 Netherlands (4-3 pens)",
+          "goals": 1,
+          "assists": 1,
+          "description": "Created one of the greatest assists in World Cup history with an inch-perfect pass to Nahuel Molina."
+        },
+        {
+          "date": "2022-11-26",
+          "competition": "Group Stage",
+          "opponent": "Mexico",
+          "result": "Argentina 2-0 Mexico",
+          "goals": 1,
+          "assists": 1,
+          "description": "Saved Argentina's World Cup campaign with a stunning goal and assist."
+        }
+      ],
+      "records_broken": [
+        "FIFA World Cup Champion.",
+        "First player to score in the group stage, Round of 16, quarter-final, semi-final and final of the same FIFA World Cup.",
+        "First player to win two FIFA World Cup Golden Balls.",
+        "Most FIFA World Cup appearances (26).",
+        "Most minutes played in FIFA World Cup history.",
+        "Argentina's all-time leading FIFA World Cup goalscorer.",
+        "Most Player of the Match awards in FIFA World Cup history.",
+        "Most direct goal contributions by an Argentine in a single FIFA World Cup (10).",
+        "Only player to score in every knockout round of a single FIFA World Cup."
+      ]
+    },
+    {
+      "tournament": "2024 Copa América",
+      "category": "Senior International",
+      "host_country": "United States",
+      "dates": "20 June 2024 - 14 July 2024",
+      "age": 37,
+      "manager": "Lionel Scaloni",
+      "shirt_number": 10,
+      "position": "Playmaker / Forward",
+      "captain": true,
+      "statistics": {
+        "appearances": 5,
+        "starts": 5,
+        "goals": 1,
+        "assists": 1,
+        "hat_tricks": 0,
+        "penalty_goals": 0,
+        "free_kick_goals": 0,
+        "minutes": 444
+      },
+      "team_achievement": [
+        "Copa América Champion"
+      ],
+      "individual_awards": [
+        "Tournament Team"
+      ],
+      "major_events": [
+        "Captained Argentina to consecutive Copa América titles.",
+        "Missed one group-stage match due to injury.",
+        "Scored against Canada in the semi-final.",
+        "Suffered an ankle injury during the final but remained with the team until the trophy presentation.",
+        "Won his fourth major senior international trophy."
+      ],
+      "matches": [
+        {
+          "date": "2024-06-20",
+          "competition": "Group Stage",
+          "opponent": "Canada",
+          "result": "Argentina 2-0 Canada",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "date": "2024-06-25",
+          "competition": "Group Stage",
+          "opponent": "Chile",
+          "result": "Chile 0-1 Argentina",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "date": "2024-07-04",
+          "competition": "Quarter-final",
+          "opponent": "Ecuador",
+          "result": "Argentina 1-1 Ecuador (4-2 pens)",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "date": "2024-07-09",
+          "competition": "Semi-final",
+          "opponent": "Canada",
+          "result": "Argentina 2-0 Canada",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "date": "2024-07-14",
+          "competition": "Final",
+          "opponent": "Colombia",
+          "result": "Argentina 1-0 Colombia (AET)",
+          "goals": 0,
+          "assists": 0
+        }
+      ],
+      "iconic_matches": [
+        {
+          "date": "2024-07-09",
+          "competition": "Semi-final",
+          "opponent": "Canada",
+          "result": "Argentina 2-0 Canada",
+          "goals": 1,
+          "assists": 0,
+          "description": "Scored his first goal of the tournament to send Argentina into another Copa América final."
+        },
+        {
+          "date": "2024-07-14",
+          "competition": "Final",
+          "opponent": "Colombia",
+          "result": "Argentina 1-0 Colombia (AET)",
+          "goals": 0,
+          "assists": 0,
+          "description": "Despite leaving the match injured, he captained Argentina to back-to-back Copa América titles."
+        }
+      ],
+      "records_broken": [
+        "Most Copa América titles won by an Argentine player in the modern era.",
+        "Won his fourth major senior international trophy with Argentina."
+      ]
+    },
+    {
+      "tournament": "2025 International Season",
+      "category": "Senior International",
+      "age": 38,
+      "manager": "Lionel Scaloni",
+      "shirt_number": 10,
+      "position": "Playmaker / Forward",
+      "captain": true,
+      "statistics": {
+        "appearances": 10,
+        "starts": 9,
+        "goals": 6,
+        "assists": 5,
+        "hat_tricks": 1,
+        "penalty_goals": 1,
+        "free_kick_goals": 1,
+        "minutes": 810
+      },
+      "team_achievement": [
+        "Qualified for the 2026 FIFA World Cup"
+      ],
+      "individual_awards": [],
+      "major_events": [
+        "Continued as Argentina captain.",
+        "Helped Argentina secure qualification for the 2026 FIFA World Cup.",
+        "Extended his records as Argentina's all-time leading scorer and appearance maker.",
+        "Remained one of the team's primary creative players."
+      ],
+      "iconic_matches": [
+        {
+          "competition": "FIFA World Cup Qualifier",
+          "opponent": "Brazil",
+          "description": "Played a key role in Argentina's qualification campaign."
+        }
+      ],
+      "records_broken": [
+        "Extended Argentina appearance record.",
+        "Extended Argentina goalscoring record."
+      ]
+    },
+    {
+      "tournament": "2026 FIFA World Cup",
+      "category": "Senior International",
+      "host_country": "United States, Canada & Mexico",
+      "status": "Ongoing",
+      "age": 39,
+      "manager": "Lionel Scaloni",
+      "shirt_number": 10,
+      "position": "Playmaker / Forward",
+      "captain": true,
+      "statistics": {
+        "appearances": 3,
+        "starts": 3,
+        "goals": 3,
+        "assists": 2,
+        "hat_tricks": 0,
+        "penalty_goals": 1,
+        "free_kick_goals": 0,
+        "minutes": 270
+      },
+      "team_achievement": [],
+      "individual_awards": [],
+      "major_events": [
+        "Competing in a record sixth FIFA World Cup.",
+        "Continued as Argentina's captain.",
+        "Reached the FIFA World Cup knockout stage.",
+        "Extended multiple FIFA World Cup appearance and captaincy records."
+      ],
+      "matches": [],
+      "iconic_matches": [],
+      "records_broken": [
+        "Extended his record for most FIFA World Cup appearances.",
+        "Extended his record for most matches as Argentina captain."
+      ]
+    }
+  ],
+  "overall_statistics": {
+    "official_matches": 197,
+    "official_goals": 112,
+    "official_assists": 61,
+    "hat_tricks": 10,
+    "penalty_goals": 24,
+    "free_kick_goals": 12,
+    "captain_matches": 150,
+    "minutes_played": 16500,
+    "major_tournaments": {
+      "fifa_world_cups": 6,
+      "copa_america": 7,
+      "finalissima": 1,
+      "olympic_games": 1,
+      "fifa_u20_world_cup": 1
+    }
+  },
+  "international_trophies": [
+    {
+      "competition": "FIFA U-20 World Cup",
+      "titles": 1,
+      "years": [
+        2005
+      ]
+    },
+    {
+      "competition": "Olympic Games",
+      "titles": 1,
+      "years": [
+        2008
+      ]
+    },
+    {
+      "competition": "Copa América",
+      "titles": 2,
+      "years": [
+        2021,
+        2024
+      ]
+    },
+    {
+      "competition": "Finalissima",
+      "titles": 1,
+      "years": [
+        2022
+      ]
+    },
+    {
+      "competition": "FIFA World Cup",
+      "titles": 1,
+      "years": [
+        2022
+      ]
+    }
+  ],
+  "argentina_records": [
+    "Argentina's all-time leading appearance maker.",
+    "Argentina's all-time leading goalscorer.",
+    "Argentina's all-time leading assist provider.",
+    "Most matches as Argentina captain.",
+    "Most FIFA World Cup appearances by an Argentine player.",
+    "Argentina's all-time leading FIFA World Cup goalscorer.",
+    "Most Copa América appearances for Argentina.",
+    "Most Copa América assists for Argentina.",
+    "Most Copa América Player of the Match awards by an Argentine.",
+    "Only Argentine captain to win the FIFA World Cup, Copa América and Finalissima.",
+    "Most international trophies won as Argentina captain.",
+    "Only Argentine player to win the FIFA World Cup Golden Ball twice.",
+    "Most Player of the Match awards in FIFA World Cup history.",
+    "First player to score in the group stage, Round of 16, quarter-final, semi-final and final of the same FIFA World Cup.",
+    "Only Argentine player to appear in six FIFA World Cups."
+  ],
+  "major_milestones": [
+    {
+      "year": 2005,
+      "event": "Won the FIFA U-20 World Cup, Golden Ball and Golden Boot."
+    },
+    {
+      "year": 2005,
+      "event": "Made his senior Argentina debut."
+    },
+    {
+      "year": 2006,
+      "event": "Scored his first senior international goal."
+    },
+    {
+      "year": 2008,
+      "event": "Won the Olympic Gold Medal."
+    },
+    {
+      "year": 2011,
+      "event": "Became Argentina's permanent captain."
+    },
+    {
+      "year": 2014,
+      "event": "Won the FIFA World Cup Golden Ball."
+    },
+    {
+      "year": 2016,
+      "event": "Became Argentina's all-time leading goalscorer."
+    },
+    {
+      "year": 2021,
+      "event": "Won the Copa América and ended Argentina's 28-year trophy drought."
+    },
+    {
+      "year": 2022,
+      "event": "Won the Finalissima."
+    },
+    {
+      "year": 2022,
+      "event": "Won the FIFA World Cup and a second FIFA World Cup Golden Ball."
+    },
+    {
+      "year": 2024,
+      "event": "Won a second consecutive Copa América title."
+    },
+    {
+      "year": 2026,
+      "event": "Became the first footballer to appear in six FIFA World Cups."
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2005-06-29",
+      "event": "Won the FIFA U-20 World Cup with Argentina."
+    },
+    {
+      "date": "2005-08-17",
+      "event": "Made his senior international debut against Hungary."
+    },
+    {
+      "date": "2006-03-01",
+      "event": "Scored his first senior international goal against Croatia."
+    },
+    {
+      "date": "2006-06-16",
+      "event": "Scored his first FIFA World Cup goal against Serbia and Montenegro."
+    },
+    {
+      "date": "2008-08-23",
+      "event": "Won the Olympic Gold Medal in Beijing."
+    },
+    {
+      "date": "2011-03-26",
+      "event": "Captained Argentina for the first time."
+    },
+    {
+      "date": "2014-07-13",
+      "event": "Won the FIFA World Cup Golden Ball."
+    },
+    {
+      "date": "2016-06-21",
+      "event": "Became Argentina's all-time leading goalscorer."
+    },
+    {
+      "date": "2021-07-10",
+      "event": "Won the Copa América against Brazil at the Maracanã."
+    },
+    {
+      "date": "2022-06-01",
+      "event": "Won the Finalissima against Italy at Wembley Stadium."
+    },
+    {
+      "date": "2022-12-18",
+      "event": "Won the FIFA World Cup after defeating France in the final."
+    },
+    {
+      "date": "2024-07-14",
+      "event": "Won the Copa América for the second consecutive time."
+    },
+    {
+      "date": "2026-06-15",
+      "event": "Became the first footballer in history to play in six FIFA World Cups."
+    }
+  ]
+}

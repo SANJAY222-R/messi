@@ -1,0 +1,173 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary-bg: #050608;
+  --color-secondary-bg: #0A0F17;
+  --color-section-bg: #10131A;
+  --color-glass: rgba(255, 255, 255, 0.08);
+  --color-card-bg: rgba(20, 20, 20, 0.65);
+  
+  --color-accent-blue: #6EC6FF;
+  --color-accent-blue-light: #A7DBFF;
+  --color-gold: #D4AF37;
+  --color-muted-text: #B4BDC9;
+  --color-border-accent: rgba(110, 198, 255, 0.15);
+
+  --font-cinzel: var(--font-cinzel), serif;
+  --font-sans: var(--font-inter), sans-serif;
+}
+
+:root {
+  --background: #050608;
+  --foreground: #FFFFFF;
+}
+
+html, body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+  cursor: default;
+}
+
+/* Custom scrollbar to match Argentina Night theme */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #050608;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(110, 198, 255, 0.2);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #6EC6FF;
+}
+
+/* Lenis smooth scrolling compatibility */
+html.lenis, html.lenis body {
+  height: auto;
+}
+
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overflow: clip;
+}
+
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+
+/* Premium noise overlay utility */
+.noise-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+  opacity: 0.025;
+  pointer-events: none;
+}
+
+/* Glassmorphism card default styles */
+.glass-card {
+  background: rgba(20, 20, 20, 0.65);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(110, 198, 255, 0.15);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
+
+.glass-nav {
+  background: rgba(5, 6, 8, 0.7);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-bottom: 1px solid rgba(110, 198, 255, 0.1);
+}
+
+/* Gradient typography text styles */
+.text-blue-gradient {
+  background: linear-gradient(135deg, #FFFFFF 0%, #A7DBFF 50%, #6EC6FF 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-gold-gradient {
+  background: linear-gradient(135deg, #FFF1C5 0%, #D4AF37 50%, #B8901D 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.glow-blue {
+  box-shadow: 0 0 30px rgba(110, 198, 255, 0.15);
+}
+
+.glow-gold {
+  box-shadow: 0 0 30px rgba(212, 175, 55, 0.15);
+}
+
+/* Argentina Ambient Lighting */
+.ambient-glow-blue {
+  background: radial-gradient(circle at 50% 50%, rgba(110, 198, 255, 0.15) 0%, transparent 60%);
+}
+
+.ambient-glow-gold {
+  background: radial-gradient(circle at 50% 50%, rgba(212, 175, 55, 0.1) 0%, transparent 60%);
+}
+
+.ambient-glow-blaugrana {
+  background: radial-gradient(circle at 30% 50%, rgba(165, 0, 68, 0.1) 0%, transparent 50%),
+              radial-gradient(circle at 70% 50%, rgba(0, 77, 152, 0.1) 0%, transparent 50%);
+}
+
+/* Premium Glassmorphism */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.03);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+}
+
+.glass-card {
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.05) 0%, rgba(255, 255, 255, 0.01) 100%);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-top: 1px solid rgba(255, 255, 255, 0.15);
+  border-left: 1px solid rgba(255, 255, 255, 0.1);
+  border-right: 1px solid rgba(255, 255, 255, 0.05);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.02);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.5);
+}
+
+/* Premium Typography Utilities */
+.text-outline {
+  -webkit-text-stroke: 1px rgba(255, 255, 255, 0.15);
+  color: transparent;
+}
+
+.text-outline-blue {
+  -webkit-text-stroke: 1px rgba(110, 198, 255, 0.4);
+  color: transparent;
+}
+
+.text-outline:hover {
+  color: white;
+  transition: color 0.4s ease;
+}
+
+/* Image masking utilities */
+.mask-image-gradient {
+  mask-image: linear-gradient(to bottom, black 50%, transparent 100%);
+  -webkit-mask-image: linear-gradient(to bottom, black 50%, transparent 100%);
+}

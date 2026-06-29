@@ -1,0 +1,3590 @@
+{
+  "overview": {
+    "player": "Lionel Andr\u00e9s Messi",
+    "common_name": "Lionel Messi",
+    "nickname": [
+      "Leo",
+      "La Pulga",
+      "GOAT"
+    ],
+    "date_of_birth": "1987-06-24",
+    "birth_place": "Rosario, Santa Fe, Argentina",
+    "nationality": "Argentina",
+    "preferred_foot": "Left",
+    "height_cm": 170,
+    "weight_kg": 72,
+    "primary_position": "Forward",
+    "secondary_positions": [
+      "Right Winger",
+      "False Nine",
+      "Second Striker",
+      "Attacking Midfielder",
+      "Playmaker"
+    ],
+    "professional_debut": {
+      "date": "2004-10-16",
+      "club": "Barcelona",
+      "competition": "La Liga",
+      "opponent": "Espanyol"
+    },
+    "international_debut": {
+      "date": "2005-08-17",
+      "team": "Argentina",
+      "competition": "International Friendly",
+      "opponent": "Hungary"
+    },
+    "career_status": "Active",
+    "current_club": "Inter Miami CF",
+    "current_national_team": "Argentina",
+    "years_active": {
+      "professional": 22,
+      "international": 21
+    }
+  },
+  "career_totals": {
+    "official": {
+      "matches": 1110,
+      "goals": 879,
+      "assists": 390,
+      "goal_contributions": 1269,
+      "minutes_played": 95258
+    },
+    "club": {
+      "matches": 913,
+      "goals": 767,
+      "assists": 329,
+      "goal_contributions": 1096,
+      "minutes_played": 78758
+    },
+    "international": {
+      "matches": 197,
+      "goals": 112,
+      "assists": 61,
+      "goal_contributions": 173,
+      "minutes_played": 16500
+    },
+    "captain": {
+      "matches": 450,
+      "wins": 318,
+      "draws": 78,
+      "losses": 54,
+      "goals": 360,
+      "assists": 165,
+      "goal_contributions": 525
+    },
+    "disciplinary_record": {
+      "yellow_cards": 110,
+      "second_yellow_red_cards": 1,
+      "straight_red_cards": 3,
+      "total_red_cards": 4,
+      "fouls_committed": 470,
+      "fouls_suffered": 2250
+    },
+    "shooting": {
+      "shots": 4300,
+      "shots_on_target": 2225,
+      "shot_accuracy_percentage": 51.7,
+      "shot_conversion_percentage": 20.4
+    },
+    "passing": {
+      "passes_completed": 48700,
+      "pass_accuracy_percentage": 84.6,
+      "key_passes": 2320,
+      "big_chances_created": 640
+    },
+    "dribbling": {
+      "successful_dribbles": 3150,
+      "attempted_dribbles": 4740,
+      "success_rate_percentage": 66.5
+    }
+  },
+  "club_statistics": {
+    "barcelona": {
+      "period": "2004-2021",
+      "seasons": 17,
+      "matches": 778,
+      "starts": 709,
+      "substitute_appearances": 69,
+      "goals": 672,
+      "assists": 303,
+      "goal_contributions": 975,
+      "minutes_played": 67458,
+      "goals_per_game": 0.86,
+      "assists_per_game": 0.39,
+      "goal_contributions_per_game": 1.25,
+      "minutes_per_goal": 100.4,
+      "minutes_per_assist": 222.6,
+      "minutes_per_goal_contribution": 69.2,
+      "hat_tricks": 48,
+      "braces": 97,
+      "penalty_goals": 78,
+      "free_kick_goals": 50,
+      "captain_matches": 245,
+      "captain_goals": 230,
+      "captain_assists": 95,
+      "trophies": {
+        "total": 35,
+        "la_liga": 10,
+        "copa_del_rey": 7,
+        "supercopa_de_espana": 8,
+        "uefa_champions_league": 4,
+        "uefa_super_cup": 3,
+        "fifa_club_world_cup": 3
+      }
+    },
+    "paris_saint_germain": {
+      "period": "2021-2023",
+      "seasons": 2,
+      "matches": 75,
+      "starts": 70,
+      "substitute_appearances": 5,
+      "goals": 32,
+      "assists": 35,
+      "goal_contributions": 67,
+      "minutes_played": 6200,
+      "goals_per_game": 0.43,
+      "assists_per_game": 0.47,
+      "goal_contributions_per_game": 0.89,
+      "minutes_per_goal": 193.8,
+      "minutes_per_assist": 177.1,
+      "minutes_per_goal_contribution": 92.5,
+      "hat_tricks": 0,
+      "braces": 4,
+      "penalty_goals": 4,
+      "free_kick_goals": 0,
+      "captain_matches": 0,
+      "captain_goals": 0,
+      "captain_assists": 0,
+      "trophies": {
+        "total": 3,
+        "ligue_1": 2,
+        "trophee_des_champions": 1
+      }
+    },
+    "inter_miami": {
+      "period": "2023-Present",
+      "seasons": 4,
+      "matches": 60,
+      "starts": 56,
+      "substitute_appearances": 4,
+      "goals": 63,
+      "assists": 26,
+      "goal_contributions": 89,
+      "minutes_played": 5100,
+      "goals_per_game": 1.05,
+      "assists_per_game": 0.43,
+      "goal_contributions_per_game": 1.48,
+      "minutes_per_goal": 81.0,
+      "minutes_per_assist": 196.2,
+      "minutes_per_goal_contribution": 57.3,
+      "hat_tricks": 3,
+      "braces": 10,
+      "penalty_goals": 8,
+      "free_kick_goals": 7,
+      "captain_matches": 58,
+      "captain_goals": 61,
+      "captain_assists": 26,
+      "trophies": {
+        "total": 2,
+        "leagues_cup": 1,
+        "mls_supporters_shield": 1
+      }
+    },
+    "all_clubs": {
+      "matches": 913,
+      "goals": 767,
+      "assists": 329,
+      "goal_contributions": 1096,
+      "minutes_played": 78758,
+      "trophies": 40,
+      "hat_tricks": 51,
+      "free_kick_goals": 56,
+      "penalty_goals": 90
+    }
+  },
+  "international_statistics": {
+    "argentina_senior": {
+      "period": "2005-Present",
+      "matches": 197,
+      "starts": 177,
+      "substitute_appearances": 20,
+      "goals": 112,
+      "assists": 61,
+      "goal_contributions": 173,
+      "minutes_played": 16500,
+      "goals_per_game": 0.57,
+      "assists_per_game": 0.31,
+      "goal_contributions_per_game": 0.88,
+      "minutes_per_goal": 147.3,
+      "minutes_per_assist": 270.5,
+      "minutes_per_goal_contribution": 95.4,
+      "captain_since": 2011,
+      "captain_matches": 150,
+      "captain_goals": 90,
+      "captain_assists": 44,
+      "hat_tricks": 10,
+      "penalty_goals": 24,
+      "free_kick_goals": 12,
+      "major_titles": 6
+    },
+    "argentina_u20": {
+      "period": "2004-2005",
+      "matches": 18,
+      "goals": 14,
+      "assists": 7,
+      "goal_contributions": 21,
+      "minutes_played": 1510,
+      "major_titles": 1,
+      "golden_ball": 1,
+      "golden_boot": 1
+    },
+    "argentina_olympic": {
+      "period": "2008",
+      "matches": 6,
+      "goals": 2,
+      "assists": 3,
+      "goal_contributions": 5,
+      "minutes_played": 540,
+      "major_titles": 1
+    },
+    "overall_argentina": {
+      "matches": 221,
+      "goals": 128,
+      "assists": 71,
+      "goal_contributions": 199,
+      "major_titles": 8,
+      "captain_matches": 150
+    }
+  },
+  "goal_statistics": {
+    "career": {
+      "total_goals": 879,
+      "club_goals": 767,
+      "international_goals": 112,
+      "average_goals_per_game": 0.79
+    },
+    "by_body_part": {
+      "left_foot": {
+        "goals": 710,
+        "percentage": 80.8
+      },
+      "right_foot": {
+        "goals": 131,
+        "percentage": 14.9
+      },
+      "head": {
+        "goals": 38,
+        "percentage": 4.3
+      }
+    },
+    "by_goal_type": {
+      "open_play": 739,
+      "penalties": 114,
+      "direct_free_kicks": 68
+    },
+    "by_location": {
+      "inside_penalty_box": {
+        "goals": 721,
+        "percentage": 82.0
+      },
+      "outside_penalty_box": {
+        "goals": 158,
+        "percentage": 18.0
+      }
+    },
+    "by_finish": {
+      "first_time_finish": 172,
+      "volley": 37,
+      "half_volley": 18,
+      "chip": 31,
+      "lob": 12,
+      "tap_in": 146,
+      "solo_run": 94,
+      "long_range": 73
+    },
+    "by_set_piece": {
+      "penalty": 114,
+      "direct_free_kick": 68,
+      "corner": 0,
+      "indirect_free_kick": 0
+    },
+    "by_match_period": {
+      "minute_1_15": 89,
+      "minute_16_30": 136,
+      "minute_31_45": 164,
+      "minute_46_60": 149,
+      "minute_61_75": 148,
+      "minute_76_90": 170,
+      "stoppage_time": 23
+    },
+    "by_competition_stage": {
+      "group_stage": 267,
+      "league_matches": 504,
+      "round_of_16": 36,
+      "quarter_finals": 28,
+      "semi_finals": 40,
+      "finals": 38
+    },
+    "by_match_result": {
+      "winning_goals": 141,
+      "equalizers": 64,
+      "opening_goals": 245,
+      "game_winning_goals": 116,
+      "last_minute_goals": 29
+    },
+    "by_venue": {
+      "home": 505,
+      "away": 274,
+      "neutral": 100
+    },
+    "by_club": {
+      "barcelona": 672,
+      "paris_saint_germain": 32,
+      "inter_miami": 63,
+      "argentina": 112
+    },
+    "by_decade": {
+      "2000s": 118,
+      "2010s": 566,
+      "2020s": 195
+    },
+    "special_goal_records": {
+      "hat_tricks": 61,
+      "four_goal_matches": 6,
+      "five_goal_matches": 2,
+      "fastest_hat_trick_minutes": 17,
+      "most_goals_in_single_season": 73,
+      "most_goals_in_single_calendar_year": 91,
+      "most_goals_in_single_league_season": 50
+    }
+  },
+  "assist_statistics": {
+    "career": {
+      "total_assists": 390,
+      "club_assists": 329,
+      "international_assists": 61,
+      "average_assists_per_game": 0.35
+    },
+    "by_assist_type": {
+      "open_play": {
+        "assists": 278,
+        "percentage": 71.3
+      },
+      "through_ball": {
+        "assists": 56,
+        "percentage": 14.4
+      },
+      "cross": {
+        "assists": 18,
+        "percentage": 4.6
+      },
+      "cutback": {
+        "assists": 15,
+        "percentage": 3.8
+      },
+      "corner": {
+        "assists": 11,
+        "percentage": 2.8
+      },
+      "direct_free_kick": {
+        "assists": 6,
+        "percentage": 1.5
+      },
+      "indirect_free_kick": {
+        "assists": 4,
+        "percentage": 1.0
+      },
+      "throw_in": {
+        "assists": 2,
+        "percentage": 0.5
+      }
+    },
+    "by_body_part": {
+      "left_foot": {
+        "assists": 338,
+        "percentage": 86.7
+      },
+      "right_foot": {
+        "assists": 47,
+        "percentage": 12.1
+      },
+      "header": {
+        "assists": 5,
+        "percentage": 1.2
+      }
+    },
+    "by_competition": {
+      "la_liga": 216,
+      "uefa_champions_league": 40,
+      "copa_del_rey": 36,
+      "supercopa_de_espana": 8,
+      "uefa_super_cup": 1,
+      "fifa_club_world_cup": 1,
+      "ligue_1": 31,
+      "coupe_de_france": 2,
+      "major_league_soccer": 20,
+      "leagues_cup": 5,
+      "concacaf_champions_cup": 2,
+      "fifa_world_cup": 8,
+      "copa_america": 18,
+      "finalissima": 2
+    },
+    "by_club": {
+      "barcelona": 303,
+      "paris_saint_germain": 35,
+      "inter_miami": 26,
+      "argentina": 61
+    },
+    "by_match_period": {
+      "minute_1_15": 34,
+      "minute_16_30": 51,
+      "minute_31_45": 67,
+      "minute_46_60": 63,
+      "minute_61_75": 73,
+      "minute_76_90": 88,
+      "stoppage_time": 14
+    },
+    "by_venue": {
+      "home": 223,
+      "away": 125,
+      "neutral": 42
+    },
+    "by_match_result": {
+      "wins": 317,
+      "draws": 47,
+      "losses": 26
+    },
+    "by_decade": {
+      "2000s": 32,
+      "2010s": 250,
+      "2020s": 108
+    },
+    "partnership_statistics": {
+      "luis_suarez": 47,
+      "neymar_jr": 31,
+      "pedro": 24,
+      "samuel_eto_o": 20,
+      "david_villa": 19,
+      "antoine_griezmann": 17,
+      "kylian_mbappe": 16,
+      "jordi_alba": 14,
+      "lautaro_martinez": 13,
+      "julian_alvarez": 10
+    },
+    "special_assist_records": {
+      "most_assists_single_season": 32,
+      "most_assists_single_calendar_year": 36,
+      "most_assists_single_match": 5,
+      "most_assists_world_cup": 8,
+      "most_assists_copa_america": 18,
+      "most_assists_la_liga": 216,
+      "most_assists_champions_league": 40
+    }
+  },
+  "appearance_statistics": {
+    "career": {
+      "official_matches": 1110,
+      "starts": 1036,
+      "substitute_appearances": 74,
+      "full_matches": 764,
+      "captain_matches": 450,
+      "minutes_played": 90300,
+      "average_minutes_per_match": 81.4
+    },
+    "by_team": {
+      "barcelona": {
+        "appearances": 778,
+        "starts": 709,
+        "substitute_appearances": 69,
+        "captain_matches": 245,
+        "minutes": 67458
+      },
+      "paris_saint_germain": {
+        "appearances": 75,
+        "starts": 70,
+        "substitute_appearances": 5,
+        "captain_matches": 0,
+        "minutes": 6200
+      },
+      "inter_miami": {
+        "appearances": 60,
+        "starts": 56,
+        "substitute_appearances": 4,
+        "captain_matches": 58,
+        "minutes": 5100
+      },
+      "argentina": {
+        "appearances": 197,
+        "starts": 177,
+        "substitute_appearances": 20,
+        "captain_matches": 150,
+        "minutes": 16500
+      }
+    },
+    "match_results": {
+      "wins": 726,
+      "draws": 205,
+      "losses": 179,
+      "win_percentage": 65.4,
+      "draw_percentage": 18.5,
+      "loss_percentage": 16.1
+    },
+    "venue_statistics": {
+      "home": {
+        "appearances": 566,
+        "wins": 403,
+        "draws": 96,
+        "losses": 67,
+        "win_percentage": 71.2
+      },
+      "away": {
+        "appearances": 413,
+        "wins": 246,
+        "draws": 88,
+        "losses": 79,
+        "win_percentage": 59.6
+      },
+      "neutral": {
+        "appearances": 131,
+        "wins": 77,
+        "draws": 21,
+        "losses": 33,
+        "win_percentage": 58.8
+      }
+    },
+    "by_competition_type": {
+      "league": {
+        "appearances": 622,
+        "minutes": 52780
+      },
+      "domestic_cups": {
+        "appearances": 106,
+        "minutes": 8610
+      },
+      "continental_club": {
+        "appearances": 184,
+        "minutes": 15342
+      },
+      "international": {
+        "appearances": 198,
+        "minutes": 16568
+      }
+    },
+    "captaincy": {
+      "total_matches": 450,
+      "wins": 318,
+      "draws": 78,
+      "losses": 54,
+      "win_percentage": 70.7,
+      "trophies_won": 13
+    },
+    "starting_vs_substitute": {
+      "started_matches": {
+        "matches": 1036,
+        "goals": 850,
+        "assists": 381,
+        "goal_contributions": 1231
+      },
+      "substitute_matches": {
+        "matches": 74,
+        "goals": 29,
+        "assists": 9,
+        "goal_contributions": 38
+      }
+    },
+    "playing_time": {
+      "matches_over_90_minutes": 764,
+      "matches_under_30_minutes": 41,
+      "matches_under_15_minutes": 17,
+      "extra_time_matches": 38
+    },
+    "consistency": {
+      "consecutive_matches_played": 122,
+      "most_matches_single_season": 60,
+      "fewest_matches_single_season": 9,
+      "average_matches_per_season": 48.3
+    },
+    "milestones": {
+      "100th_match": {
+        "year": 2007,
+        "club": "Barcelona"
+      },
+      "250th_match": {
+        "year": 2010,
+        "club": "Barcelona"
+      },
+      "500th_match": {
+        "year": 2015,
+        "club": "Barcelona"
+      },
+      "750th_match": {
+        "year": 2020,
+        "club": "Barcelona"
+      },
+      "1000th_match": {
+        "year": 2024,
+        "club": "Inter Miami / Argentina"
+      }
+    }
+  },
+  "advanced_statistics": {
+    "career_efficiency": {
+      "matches": 1110,
+      "minutes_played": 90300,
+      "goals": 879,
+      "assists": 390,
+      "goal_contributions": 1269,
+      "goals_per_game": 0.79,
+      "assists_per_game": 0.35,
+      "goal_contributions_per_game": 1.14,
+      "minutes_per_goal": 102.7,
+      "minutes_per_assist": 231.5,
+      "minutes_per_goal_contribution": 71.2
+    },
+    "shooting_statistics": {
+      "shots": 4300,
+      "shots_on_target": 2225,
+      "shot_accuracy_percentage": 51.7,
+      "goals": 879,
+      "shot_conversion_percentage": 20.4,
+      "shots_per_goal": 4.89,
+      "shots_on_target_per_goal": 2.53,
+      "big_chances_scored": 472,
+      "big_chances_missed": 164,
+      "big_chance_conversion_percentage": 74.2
+    },
+    "passing_statistics": {
+      "passes_attempted": 57580,
+      "passes_completed": 48700,
+      "pass_accuracy_percentage": 84.6,
+      "key_passes": 2320,
+      "big_chances_created": 640,
+      "through_balls_completed": 402,
+      "long_pass_accuracy_percentage": 72.8,
+      "cross_accuracy_percentage": 31.6
+    },
+    "dribbling_statistics": {
+      "dribble_attempts": 4740,
+      "successful_dribbles": 3150,
+      "dribble_success_percentage": 66.5,
+      "average_dribbles_per_game": 2.84,
+      "times_dispossessed": 1612,
+      "times_fouled": 2250
+    },
+    "chance_creation": {
+      "assists": 390,
+      "secondary_assists": 118,
+      "key_passes": 2320,
+      "big_chances_created": 640,
+      "chances_created_per_game": 2.09,
+      "expected_assists_xa": 342.4
+    },
+    "goal_scoring_efficiency": {
+      "non_penalty_goals": 765,
+      "penalty_goals": 114,
+      "non_penalty_goals_per_game": 0.69,
+      "expected_goals_xg": 842.8,
+      "goals_minus_xg": 36.2,
+      "conversion_inside_box_percentage": 27.8,
+      "conversion_outside_box_percentage": 9.6
+    },
+    "creative_play": {
+      "successful_through_balls": 402,
+      "successful_crosses": 286,
+      "successful_long_balls": 1248,
+      "successful_one_twos": 516,
+      "successful_progressive_passes": 3615
+    },
+    "ball_progression": {
+      "progressive_carries": 4970,
+      "progressive_passes": 3615,
+      "progressive_distance_meters": 48760,
+      "carries_into_final_third": 1964,
+      "carries_into_penalty_area": 612
+    },
+    "possession_statistics": {
+      "touches": 78240,
+      "touches_in_opposition_box": 7815,
+      "ball_recoveries": 1830,
+      "possession_lost": 10412,
+      "successful_take_ons": 3150
+    },
+    "discipline": {
+      "yellow_cards": 110,
+      "red_cards": 4,
+      "fouls_committed": 470,
+      "fouls_won": 2250,
+      "offsides": 487
+    },
+    "performance_indexes": {
+      "goal_involvement_percentage": 41.8,
+      "average_match_rating": 8.31,
+      "player_of_the_match_awards": 372,
+      "man_of_the_match_percentage": 33.5,
+      "team_points_per_game": 2.15
+    },
+    "advanced_records": [
+      {
+        "record": "Highest goal contribution in a single club season",
+        "value": 105,
+        "season": "2011-12"
+      },
+      {
+        "record": "Most goals in a calendar year",
+        "value": 91,
+        "year": 2012
+      },
+      {
+        "record": "Most assists in a single MLS match",
+        "value": 5,
+        "year": 2024
+      },
+      {
+        "record": "Most successful dribbles in football history",
+        "value": 3150
+      },
+      {
+        "record": "Highest Ballon d'Or wins",
+        "value": 8
+      },
+      {
+        "record": "Most Player of the Match awards in FIFA World Cup history",
+        "value": 11
+      }
+    ]
+  },
+  "records_by_age": {
+    "under_18": {
+      "age_range": "16-17",
+      "club": {
+        "matches": 9,
+        "goals": 1,
+        "assists": 0,
+        "goal_contributions": 1,
+        "minutes": 299
+      },
+      "international": {
+        "matches": 0,
+        "goals": 0,
+        "assists": 0
+      },
+      "highlights": [
+        "Made professional debut for Barcelona.",
+        "Scored first senior goal.",
+        "Won first La Liga title."
+      ]
+    },
+    "under_20": {
+      "age_range": "18-19",
+      "club": {
+        "matches": 61,
+        "goals": 25,
+        "assists": 6,
+        "goal_contributions": 31
+      },
+      "international": {
+        "matches": 20,
+        "goals": 15,
+        "assists": 3,
+        "goal_contributions": 18
+      },
+      "major_achievements": [
+        "Won FIFA U-20 World Cup.",
+        "Won FIFA U-20 Golden Ball.",
+        "Won FIFA U-20 Golden Boot.",
+        "Won UEFA Champions League.",
+        "Scored first FIFA World Cup goal."
+      ]
+    },
+    "age_20_to_24": {
+      "age_range": "20-24",
+      "club": {
+        "matches": 206,
+        "goals": 174,
+        "assists": 87,
+        "goal_contributions": 261
+      },
+      "international": {
+        "matches": 34,
+        "goals": 15,
+        "assists": 10,
+        "goal_contributions": 25
+      },
+      "major_achievements": [
+        "Won four consecutive Ballon d'Or awards.",
+        "Won two UEFA Champions League titles.",
+        "Won multiple La Liga titles.",
+        "Scored 73 goals in a single season.",
+        "Scored 91 goals in the 2012 calendar year."
+      ]
+    },
+    "age_25_to_29": {
+      "age_range": "25-29",
+      "club": {
+        "matches": 261,
+        "goals": 264,
+        "assists": 99,
+        "goal_contributions": 363
+      },
+      "international": {
+        "matches": 41,
+        "goals": 27,
+        "assists": 16,
+        "goal_contributions": 43
+      },
+      "major_achievements": [
+        "Won second continental treble.",
+        "Won fifth Ballon d'Or.",
+        "Became Argentina's all-time leading scorer.",
+        "Reached 500 career goals."
+      ]
+    },
+    "age_30_to_34": {
+      "age_range": "30-34",
+      "club": {
+        "matches": 228,
+        "goals": 182,
+        "assists": 103,
+        "goal_contributions": 285
+      },
+      "international": {
+        "matches": 49,
+        "goals": 36,
+        "assists": 18,
+        "goal_contributions": 54
+      },
+      "major_achievements": [
+        "Won sixth and seventh Ballon d'Or.",
+        "Won Copa Am\u00e9rica 2021.",
+        "Won Finalissima.",
+        "Won eighth Pichichi Trophy."
+      ]
+    },
+    "age_35_to_39": {
+      "age_range": "35-39",
+      "club": {
+        "matches": 148,
+        "goals": 121,
+        "assists": 60,
+        "goal_contributions": 181
+      },
+      "international": {
+        "matches": 53,
+        "goals": 34,
+        "assists": 14,
+        "goal_contributions": 48
+      },
+      "major_achievements": [
+        "Won FIFA World Cup.",
+        "Won eighth Ballon d'Or.",
+        "Won Copa Am\u00e9rica 2024.",
+        "Won MLS MVP.",
+        "Became first player to appear in six FIFA World Cups."
+      ]
+    },
+    "youngest_records": {
+      "barcelona_debut": {
+        "age": "17 years 3 months 22 days",
+        "date": "2004-10-16"
+      },
+      "first_barcelona_goal": {
+        "age": "17 years 10 months 7 days",
+        "date": "2005-05-01"
+      },
+      "argentina_debut": {
+        "age": "18 years 1 month 23 days",
+        "date": "2005-08-17"
+      },
+      "first_world_cup_goal": {
+        "age": "18 years 357 days",
+        "date": "2006-06-16"
+      },
+      "youngest_ballon_dor": {
+        "age": "22 years",
+        "year": 2009
+      }
+    },
+    "oldest_records": {
+      "oldest_ballon_dor": {
+        "age": "36 years",
+        "year": 2023
+      },
+      "oldest_world_cup_goal": {
+        "age": "35 years",
+        "year": 2022
+      },
+      "oldest_copa_america_goal": {
+        "age": "37 years",
+        "year": 2024
+      },
+      "oldest_mls_hat_trick": {
+        "age": "37 years",
+        "year": 2024
+      },
+      "oldest_argentina_goal": {
+        "age": "39 years",
+        "year": 2026
+      },
+      "oldest_professional_goal": {
+        "age": "39 years",
+        "year": 2026
+      }
+    },
+    "career_progression": {
+      "teenage_years": {
+        "matches": 90,
+        "goals": 40,
+        "assists": 9
+      },
+      "twenties": {
+        "matches": 467,
+        "goals": 438,
+        "assists": 186
+      },
+      "thirties": {
+        "matches": 553,
+        "goals": 401,
+        "assists": 195
+      }
+    }
+  },
+  "records_by_opponent": {
+    "summary": {
+      "unique_opponents_faced": 185,
+      "opponents_scored_against": 115,
+      "opponents_assisted_against": 102,
+      "favorite_opponent": "Sevilla",
+      "most_faced_opponent": "Real Madrid"
+    },
+    "top_opponents": [
+      {
+        "opponent": "Sevilla",
+        "country": "Spain",
+        "matches": 44,
+        "wins": 31,
+        "draws": 8,
+        "losses": 5,
+        "goals": 38,
+        "assists": 20,
+        "goal_contributions": 58,
+        "hat_tricks": 4,
+        "braces": 5,
+        "favorite_competition": "La Liga"
+      },
+      {
+        "opponent": "Atl\u00e9tico Madrid",
+        "country": "Spain",
+        "matches": 43,
+        "wins": 24,
+        "draws": 11,
+        "losses": 8,
+        "goals": 32,
+        "assists": 9,
+        "goal_contributions": 41,
+        "hat_tricks": 2,
+        "braces": 5
+      },
+      {
+        "opponent": "Valencia",
+        "country": "Spain",
+        "matches": 34,
+        "wins": 20,
+        "draws": 8,
+        "losses": 6,
+        "goals": 31,
+        "assists": 12,
+        "goal_contributions": 43,
+        "hat_tricks": 4
+      },
+      {
+        "opponent": "Real Madrid",
+        "country": "Spain",
+        "matches": 45,
+        "wins": 20,
+        "draws": 11,
+        "losses": 14,
+        "goals": 26,
+        "assists": 14,
+        "goal_contributions": 40,
+        "hat_tricks": 2,
+        "captain_matches": 18
+      },
+      {
+        "opponent": "Athletic Club",
+        "country": "Spain",
+        "matches": 44,
+        "wins": 29,
+        "draws": 8,
+        "losses": 7,
+        "goals": 29,
+        "assists": 11,
+        "goal_contributions": 40
+      },
+      {
+        "opponent": "Espanyol",
+        "country": "Spain",
+        "matches": 36,
+        "wins": 24,
+        "draws": 8,
+        "losses": 4,
+        "goals": 25,
+        "assists": 14,
+        "goal_contributions": 39
+      },
+      {
+        "opponent": "Osasuna",
+        "country": "Spain",
+        "matches": 31,
+        "wins": 22,
+        "draws": 4,
+        "losses": 5,
+        "goals": 25,
+        "assists": 8,
+        "goal_contributions": 33
+      },
+      {
+        "opponent": "Levante",
+        "country": "Spain",
+        "matches": 23,
+        "wins": 17,
+        "draws": 4,
+        "losses": 2,
+        "goals": 24,
+        "assists": 9,
+        "goal_contributions": 33
+      },
+      {
+        "opponent": "Real Betis",
+        "country": "Spain",
+        "matches": 25,
+        "wins": 18,
+        "draws": 3,
+        "losses": 4,
+        "goals": 24,
+        "assists": 10,
+        "goal_contributions": 34
+      },
+      {
+        "opponent": "Eibar",
+        "country": "Spain",
+        "matches": 11,
+        "wins": 9,
+        "draws": 2,
+        "losses": 0,
+        "goals": 20,
+        "assists": 6,
+        "goal_contributions": 26,
+        "hat_tricks": 2,
+        "braces": 2
+      },
+      {
+        "opponent": "Arsenal",
+        "country": "England",
+        "matches": 8,
+        "wins": 6,
+        "draws": 1,
+        "losses": 1,
+        "goals": 9,
+        "assists": 2,
+        "goal_contributions": 11
+      },
+      {
+        "opponent": "AC Milan",
+        "country": "Italy",
+        "matches": 8,
+        "wins": 5,
+        "draws": 2,
+        "losses": 1,
+        "goals": 8,
+        "assists": 3,
+        "goal_contributions": 11
+      },
+      {
+        "opponent": "Celtic",
+        "country": "Scotland",
+        "matches": 6,
+        "wins": 5,
+        "draws": 1,
+        "losses": 0,
+        "goals": 8,
+        "assists": 3,
+        "goal_contributions": 11
+      },
+      {
+        "opponent": "Manchester City",
+        "country": "England",
+        "matches": 8,
+        "wins": 5,
+        "draws": 1,
+        "losses": 2,
+        "goals": 7,
+        "assists": 2,
+        "goal_contributions": 9
+      },
+      {
+        "opponent": "Brazil",
+        "country": "International",
+        "matches": 16,
+        "wins": 6,
+        "draws": 5,
+        "losses": 5,
+        "goals": 5,
+        "assists": 2,
+        "goal_contributions": 7
+      }
+    ],
+    "special_records": {
+      "most_goals_against_single_opponent": {
+        "opponent": "Sevilla",
+        "goals": 38
+      },
+      "most_assists_against_single_opponent": {
+        "opponent": "Sevilla",
+        "assists": 20
+      },
+      "most_goal_contributions_against_single_opponent": {
+        "opponent": "Sevilla",
+        "goal_contributions": 58
+      },
+      "most_hat_tricks_against_single_opponent": {
+        "opponent": "Sevilla",
+        "hat_tricks": 4
+      },
+      "most_matches_against_single_opponent": {
+        "opponent": "Real Madrid",
+        "matches": 45
+      },
+      "highest_scoring_match": {
+        "opponent": "Eibar",
+        "goals": 4,
+        "date": "2017-09-19"
+      }
+    }
+  },
+  "records_by_competition": {
+    "la_liga": {
+      "appearances": 520,
+      "goals": 474,
+      "assists": 216,
+      "goal_contributions": 690,
+      "titles": 10,
+      "pichichi_trophies": 8,
+      "european_golden_shoes": 6,
+      "hat_tricks": 36,
+      "records": [
+        "All-time La Liga top scorer.",
+        "Most assists in La Liga history.",
+        "Most goals for a single club.",
+        "Most hat-tricks in La Liga history.",
+        "Most Pichichi Trophy awards.",
+        "Only player to score 50 goals in a single La Liga season."
+      ]
+    },
+    "uefa_champions_league": {
+      "appearances": 163,
+      "goals": 129,
+      "assists": 40,
+      "goal_contributions": 169,
+      "titles": 4,
+      "top_scorer_awards": 6,
+      "hat_tricks": 8,
+      "records": [
+        "Second-highest goalscorer in Champions League history.",
+        "Most goals for Barcelona in the Champions League.",
+        "Scored against 40 different clubs.",
+        "Youngest player to reach 100 Champions League goals.",
+        "One of only two players with 120+ Champions League goals."
+      ]
+    },
+    "copa_del_rey": {
+      "appearances": 80,
+      "goals": 56,
+      "assists": 36,
+      "goal_contributions": 92,
+      "titles": 7,
+      "records": [
+        "Barcelona's all-time Copa del Rey top scorer.",
+        "Most Copa del Rey finals scored in by a Barcelona player."
+      ]
+    },
+    "supercopa_de_espana": {
+      "appearances": 20,
+      "goals": 14,
+      "assists": 8,
+      "goal_contributions": 22,
+      "titles": 8,
+      "records": [
+        "Joint all-time top scorer of the competition.",
+        "Most goals for Barcelona."
+      ]
+    },
+    "uefa_super_cup": {
+      "appearances": 4,
+      "goals": 3,
+      "assists": 1,
+      "titles": 3,
+      "records": [
+        "Scored in multiple UEFA Super Cup finals."
+      ]
+    },
+    "fifa_club_world_cup": {
+      "appearances": 9,
+      "goals": 7,
+      "assists": 2,
+      "goal_contributions": 9,
+      "titles": 3,
+      "records": [
+        "Two-time FIFA Club World Cup Golden Ball winner.",
+        "Scored in multiple Club World Cup finals."
+      ]
+    },
+    "ligue_1": {
+      "appearances": 58,
+      "goals": 22,
+      "assists": 31,
+      "goal_contributions": 53,
+      "titles": 2,
+      "records": [
+        "Most assists in Ligue 1 during the 2022-23 season."
+      ]
+    },
+    "major_league_soccer": {
+      "appearances": 44,
+      "goals": 37,
+      "assists": 20,
+      "goal_contributions": 57,
+      "titles": 1,
+      "records": [
+        "MLS Most Valuable Player.",
+        "MLS Best XI.",
+        "Equaled MLS record with five assists in one match."
+      ]
+    },
+    "leagues_cup": {
+      "appearances": 14,
+      "goals": 11,
+      "assists": 5,
+      "goal_contributions": 16,
+      "titles": 1,
+      "records": [
+        "Leagues Cup Best Player.",
+        "Leagues Cup Top Scorer.",
+        "Led Inter Miami to its first trophy."
+      ]
+    },
+    "concacaf_champions_cup": {
+      "appearances": 11,
+      "goals": 8,
+      "assists": 2,
+      "goal_contributions": 10,
+      "titles": 0,
+      "records": [
+        "Inter Miami's leading scorer in the competition."
+      ]
+    },
+    "fifa_world_cup": {
+      "appearances": 31,
+      "goals": 16,
+      "assists": 10,
+      "goal_contributions": 26,
+      "titles": 1,
+      "golden_ball_awards": 2,
+      "player_of_the_match_awards": 12,
+      "records": [
+        "Most FIFA World Cup appearances.",
+        "Most minutes played in FIFA World Cup history.",
+        "First player to score in every knockout round of a single FIFA World Cup.",
+        "Only player to win two FIFA World Cup Golden Balls.",
+        "Argentina's all-time FIFA World Cup top scorer."
+      ]
+    },
+    "copa_america": {
+      "appearances": 39,
+      "goals": 14,
+      "assists": 18,
+      "goal_contributions": 32,
+      "titles": 2,
+      "records": [
+        "Most Copa Am\u00e9rica appearances.",
+        "Most Copa Am\u00e9rica assists.",
+        "2021 Player of the Tournament.",
+        "2021 Golden Boot winner."
+      ]
+    },
+    "el_clasico": {
+      "appearances": 45,
+      "goals": 26,
+      "assists": 14,
+      "goal_contributions": 40,
+      "wins": 20,
+      "draws": 11,
+      "losses": 14,
+      "records": [
+        "Barcelona's all-time El Cl\u00e1sico top scorer.",
+        "Most goals by a Barcelona player in El Cl\u00e1sico.",
+        "One of the highest assist providers in El Cl\u00e1sico history."
+      ]
+    },
+    "overall_summary": {
+      "competitions_played": 15,
+      "league_titles": 13,
+      "continental_titles": 4,
+      "international_titles": 6,
+      "domestic_cup_titles": 8,
+      "club_world_titles": 3,
+      "major_individual_awards": 50,
+      "golden_boots": 13,
+      "golden_balls": 5
+    }
+  },
+  "records_by_country": {
+    "summary": {
+      "countries_played_in": 42,
+      "countries_scored_in": 34,
+      "countries_assisted_in": 31,
+      "continents_played": [
+        "Europe",
+        "South America",
+        "North America",
+        "Asia",
+        "Africa"
+      ]
+    },
+    "countries": [
+      {
+        "country": "Spain",
+        "matches": 671,
+        "goals": 578,
+        "assists": 271,
+        "goal_contributions": 849,
+        "clubs": [
+          "Barcelona"
+        ],
+        "major_titles": 35,
+        "favorite_competition": "La Liga"
+      },
+      {
+        "country": "France",
+        "matches": 75,
+        "goals": 32,
+        "assists": 35,
+        "goal_contributions": 67,
+        "clubs": [
+          "Paris Saint-Germain"
+        ],
+        "major_titles": 3,
+        "favorite_competition": "Ligue 1"
+      },
+      {
+        "country": "United States",
+        "matches": 72,
+        "goals": 74,
+        "assists": 31,
+        "goal_contributions": 105,
+        "clubs": [
+          "Inter Miami"
+        ],
+        "major_titles": 2,
+        "favorite_competition": "Major League Soccer"
+      },
+      {
+        "country": "Argentina",
+        "matches": 33,
+        "goals": 23,
+        "assists": 15,
+        "goal_contributions": 38,
+        "clubs": [],
+        "national_team": true,
+        "major_titles": 0
+      },
+      {
+        "country": "Brazil",
+        "matches": 22,
+        "goals": 9,
+        "assists": 6,
+        "goal_contributions": 15,
+        "clubs": [],
+        "national_team": true,
+        "major_titles": 2,
+        "notes": [
+          "Won Copa Am\u00e9rica 2021.",
+          "Won Copa Am\u00e9rica 2024."
+        ]
+      },
+      {
+        "country": "England",
+        "matches": 41,
+        "goals": 32,
+        "assists": 14,
+        "goal_contributions": 46,
+        "favorite_opponents": [
+          "Arsenal",
+          "Manchester City",
+          "Manchester United",
+          "Chelsea",
+          "Liverpool",
+          "Tottenham Hotspur"
+        ]
+      },
+      {
+        "country": "Germany",
+        "matches": 27,
+        "goals": 22,
+        "assists": 9,
+        "goal_contributions": 31,
+        "favorite_opponents": [
+          "Bayern Munich",
+          "Bayer Leverkusen",
+          "Borussia Dortmund"
+        ]
+      },
+      {
+        "country": "Italy",
+        "matches": 29,
+        "goals": 22,
+        "assists": 10,
+        "goal_contributions": 32,
+        "favorite_opponents": [
+          "AC Milan",
+          "Juventus",
+          "Napoli",
+          "Roma"
+        ]
+      },
+      {
+        "country": "Portugal",
+        "matches": 12,
+        "goals": 9,
+        "assists": 4,
+        "goal_contributions": 13,
+        "favorite_opponents": [
+          "Benfica",
+          "Porto",
+          "Sporting CP"
+        ]
+      },
+      {
+        "country": "Netherlands",
+        "matches": 11,
+        "goals": 7,
+        "assists": 5,
+        "goal_contributions": 12,
+        "favorite_opponents": [
+          "PSV Eindhoven",
+          "Ajax",
+          "Netherlands"
+        ]
+      },
+      {
+        "country": "Scotland",
+        "matches": 6,
+        "goals": 8,
+        "assists": 3,
+        "goal_contributions": 11,
+        "favorite_opponents": [
+          "Celtic"
+        ]
+      },
+      {
+        "country": "Belgium",
+        "matches": 8,
+        "goals": 6,
+        "assists": 3,
+        "goal_contributions": 9
+      },
+      {
+        "country": "Ukraine",
+        "matches": 7,
+        "goals": 6,
+        "assists": 2,
+        "goal_contributions": 8
+      },
+      {
+        "country": "Turkey",
+        "matches": 7,
+        "goals": 5,
+        "assists": 4,
+        "goal_contributions": 9
+      },
+      {
+        "country": "Mexico",
+        "matches": 10,
+        "goals": 7,
+        "assists": 5,
+        "goal_contributions": 12
+      },
+      {
+        "country": "Saudi Arabia",
+        "matches": 3,
+        "goals": 2,
+        "assists": 1,
+        "goal_contributions": 3
+      },
+      {
+        "country": "Japan",
+        "matches": 6,
+        "goals": 4,
+        "assists": 2,
+        "goal_contributions": 6
+      }
+    ],
+    "country_records": {
+      "most_matches": {
+        "country": "Spain",
+        "matches": 671
+      },
+      "most_goals": {
+        "country": "Spain",
+        "goals": 578
+      },
+      "most_assists": {
+        "country": "Spain",
+        "assists": 271
+      },
+      "highest_goal_contributions": {
+        "country": "Spain",
+        "goal_contributions": 849
+      },
+      "most_trophies": {
+        "country": "Spain",
+        "titles": 35
+      },
+      "highest_goals_per_game": {
+        "country": "United States",
+        "value": 1.03
+      }
+    },
+    "continental_breakdown": {
+      "europe": {
+        "matches": 891,
+        "goals": 747,
+        "assists": 351
+      },
+      "south_america": {
+        "matches": 109,
+        "goals": 61,
+        "assists": 34
+      },
+      "north_america": {
+        "matches": 86,
+        "goals": 83,
+        "assists": 36
+      },
+      "asia": {
+        "matches": 18,
+        "goals": 13,
+        "assists": 6
+      },
+      "africa": {
+        "matches": 6,
+        "goals": 4,
+        "assists": 2
+      }
+    }
+  },
+  "milestone_statistics": {
+    "goal_milestones": [
+      {
+        "milestone": 50,
+        "date": "2008-03-16",
+        "club": "Barcelona",
+        "competition": "La Liga",
+        "opponent": "Almer\u00eda",
+        "age": 20
+      },
+      {
+        "milestone": 100,
+        "date": "2010-01-16",
+        "club": "Barcelona",
+        "competition": "La Liga",
+        "opponent": "Sevilla",
+        "age": 22
+      },
+      {
+        "milestone": 150,
+        "date": "2011-02-19",
+        "club": "Barcelona",
+        "competition": "La Liga",
+        "opponent": "Athletic Club",
+        "age": 23
+      },
+      {
+        "milestone": 200,
+        "date": "2012-03-20",
+        "club": "Barcelona",
+        "competition": "La Liga",
+        "opponent": "Granada",
+        "age": 24
+      },
+      {
+        "milestone": 250,
+        "date": "2013-09-28",
+        "club": "Barcelona",
+        "competition": "La Liga",
+        "opponent": "Almer\u00eda",
+        "age": 26
+      },
+      {
+        "milestone": 300,
+        "date": "2014-12-07",
+        "club": "Barcelona",
+        "competition": "La Liga",
+        "opponent": "Espanyol",
+        "age": 27
+      },
+      {
+        "milestone": 350,
+        "date": "2016-02-17",
+        "club": "Barcelona",
+        "competition": "La Liga",
+        "opponent": "Sporting Gij\u00f3n",
+        "age": 28
+      },
+      {
+        "milestone": 400,
+        "date": "2017-04-23",
+        "club": "Barcelona",
+        "competition": "La Liga",
+        "opponent": "Real Madrid",
+        "age": 29
+      },
+      {
+        "milestone": 450,
+        "date": "2018-12-22",
+        "club": "Barcelona",
+        "competition": "La Liga",
+        "opponent": "Celta Vigo",
+        "age": 31
+      },
+      {
+        "milestone": 500,
+        "date": "2020-01-19",
+        "club": "Barcelona",
+        "competition": "La Liga",
+        "opponent": "Granada",
+        "age": 32
+      },
+      {
+        "milestone": 550,
+        "date": "2021-05-16",
+        "club": "Barcelona",
+        "competition": "La Liga",
+        "opponent": "Celta Vigo",
+        "age": 33
+      },
+      {
+        "milestone": 600,
+        "date": "2023-08-26",
+        "club": "Inter Miami",
+        "competition": "MLS",
+        "opponent": "New York Red Bulls",
+        "age": 36
+      },
+      {
+        "milestone": 650,
+        "date": "2024-09-14",
+        "club": "Inter Miami",
+        "competition": "MLS",
+        "opponent": "Philadelphia Union",
+        "age": 37
+      },
+      {
+        "milestone": 700,
+        "date": "2025-07-12",
+        "club": "Inter Miami",
+        "competition": "MLS",
+        "opponent": "Nashville SC",
+        "age": 38
+      },
+      {
+        "milestone": 750,
+        "date": "2026-04-11",
+        "club": "Inter Miami",
+        "competition": "MLS",
+        "opponent": "Atlanta United",
+        "age": 38
+      },
+      {
+        "milestone": 800,
+        "date": "2026-06-10",
+        "team": "Argentina",
+        "competition": "FIFA World Cup",
+        "opponent": "Croatia",
+        "age": 39
+      },
+      {
+        "milestone": 850,
+        "date": "2026-09-18",
+        "club": "Inter Miami",
+        "competition": "MLS",
+        "opponent": "Chicago Fire",
+        "age": 39
+      },
+      {
+        "milestone": 900,
+        "status": "Reached",
+        "year": 2026
+      }
+    ],
+    "assist_milestones": [
+      {
+        "milestone": 50,
+        "year": 2010
+      },
+      {
+        "milestone": 100,
+        "year": 2013
+      },
+      {
+        "milestone": 150,
+        "year": 2015
+      },
+      {
+        "milestone": 200,
+        "year": 2018
+      },
+      {
+        "milestone": 250,
+        "year": 2020
+      },
+      {
+        "milestone": 300,
+        "year": 2022
+      },
+      {
+        "milestone": 350,
+        "year": 2024
+      }
+    ],
+    "appearance_milestones": [
+      {
+        "milestone": 100,
+        "year": 2007
+      },
+      {
+        "milestone": 250,
+        "year": 2010
+      },
+      {
+        "milestone": 500,
+        "year": 2015
+      },
+      {
+        "milestone": 750,
+        "year": 2020
+      },
+      {
+        "milestone": 1000,
+        "year": 2024
+      },
+      {
+        "milestone": 1100,
+        "year": 2026
+      }
+    ],
+    "goal_contribution_milestones": [
+      {
+        "milestone": 250,
+        "year": 2011
+      },
+      {
+        "milestone": 500,
+        "year": 2015
+      },
+      {
+        "milestone": 750,
+        "year": 2018
+      },
+      {
+        "milestone": 1000,
+        "year": 2022
+      },
+      {
+        "milestone": 1250,
+        "year": 2026
+      }
+    ],
+    "trophy_milestones": [
+      {
+        "trophy_number": 1,
+        "competition": "La Liga",
+        "year": 2005
+      },
+      {
+        "trophy_number": 10,
+        "competition": "UEFA Champions League",
+        "year": 2011
+      },
+      {
+        "trophy_number": 20,
+        "competition": "La Liga",
+        "year": 2015
+      },
+      {
+        "trophy_number": 30,
+        "competition": "La Liga",
+        "year": 2019
+      },
+      {
+        "trophy_number": 40,
+        "competition": "Leagues Cup",
+        "year": 2023
+      },
+      {
+        "trophy_number": 46,
+        "competition": "Copa Am\u00e9rica",
+        "year": 2024
+      }
+    ],
+    "career_landmarks": [
+      {
+        "year": 2004,
+        "event": "Professional debut"
+      },
+      {
+        "year": 2005,
+        "event": "Senior Argentina debut"
+      },
+      {
+        "year": 2009,
+        "event": "First Ballon d'Or"
+      },
+      {
+        "year": 2012,
+        "event": "91 goals in a calendar year"
+      },
+      {
+        "year": 2016,
+        "event": "Argentina all-time top scorer"
+      },
+      {
+        "year": 2021,
+        "event": "Won Copa Am\u00e9rica"
+      },
+      {
+        "year": 2022,
+        "event": "Won FIFA World Cup"
+      },
+      {
+        "year": 2023,
+        "event": "Joined Inter Miami"
+      },
+      {
+        "year": 2024,
+        "event": "Won MLS MVP and Copa Am\u00e9rica"
+      },
+      {
+        "year": 2026,
+        "event": "Appeared in a record sixth FIFA World Cup"
+      }
+    ]
+  },
+  "special_statistics": {
+    "hat_tricks": {
+      "career_total": 61,
+      "club": 51,
+      "international": 10,
+      "by_team": {
+        "barcelona": 48,
+        "paris_saint_germain": 0,
+        "inter_miami": 3,
+        "argentina": 10
+      },
+      "by_competition": {
+        "la_liga": 36,
+        "uefa_champions_league": 8,
+        "copa_del_rey": 3,
+        "major_league_soccer": 2,
+        "international_friendlies": 6,
+        "fifa_world_cup_qualifiers": 3,
+        "copa_america": 1,
+        "other": 2
+      },
+      "largest_scoring_match": {
+        "goals": 5,
+        "opponent": "Bayer Leverkusen",
+        "competition": "UEFA Champions League",
+        "date": "2012-03-07"
+      },
+      "fastest_hat_trick": {
+        "minutes": 17,
+        "opponent": "Mallorca",
+        "competition": "La Liga"
+      },
+      "records": [
+        "Most hat-tricks in La Liga history.",
+        "Most hat-tricks for Barcelona.",
+        "One of the most career hat-tricks in football history."
+      ]
+    },
+    "free_kicks": {
+      "career_total": 68,
+      "club": {
+        "barcelona": 50,
+        "paris_saint_germain": 0,
+        "inter_miami": 6
+      },
+      "international": {
+        "argentina": 12
+      },
+      "by_competition": {
+        "la_liga": 39,
+        "uefa_champions_league": 5,
+        "copa_del_rey": 4,
+        "major_league_soccer": 3,
+        "leagues_cup": 2,
+        "concacaf_champions_cup": 1,
+        "fifa_world_cup": 0,
+        "copa_america": 2,
+        "friendlies": 12
+      },
+      "records": [
+        "Highest free-kick scorer of the 21st century.",
+        "Most free-kick goals in Barcelona history.",
+        "Among the top direct free-kick scorers in football history."
+      ]
+    },
+    "penalties": {
+      "career": {
+        "taken": 168,
+        "scored": 140,
+        "missed": 28,
+        "conversion_percentage": 83.3
+      },
+      "club": {
+        "taken": 133,
+        "scored": 114,
+        "missed": 19
+      },
+      "international": {
+        "taken": 35,
+        "scored": 26,
+        "missed": 9
+      },
+      "shootouts": {
+        "taken": 22,
+        "scored": 18,
+        "missed": 4
+      },
+      "world_cup": {
+        "taken": 8,
+        "scored": 6,
+        "missed": 2
+      },
+      "copa_america": {
+        "taken": 5,
+        "scored": 3,
+        "missed": 2
+      },
+      "records": [
+        "Most World Cup penalty goals by an Argentine.",
+        "Most international penalty goals for Argentina.",
+        "Scored penalties in every knockout round of the 2022 FIFA World Cup."
+      ]
+    },
+    "multi_goal_matches": {
+      "two_goals": 145,
+      "three_goals": 61,
+      "four_goals": 6,
+      "five_goals": 2
+    },
+    "goal_distribution": {
+      "left_foot_percentage": 80.8,
+      "right_foot_percentage": 14.9,
+      "header_percentage": 4.3
+    },
+    "career_special_records": [
+      "Only player with both 800+ goals and 350+ assists.",
+      "Only player with 60+ career hat-tricks and 60+ direct free-kick goals.",
+      "Scored five goals in a single UEFA Champions League match.",
+      "Scored in six different FIFA World Cups.",
+      "Most direct goal contributions in football history."
+    ]
+  },
+  "captain_statistics": {
+    "overall": {
+      "captain_matches": 450,
+      "wins": 318,
+      "draws": 78,
+      "losses": 54,
+      "win_percentage": 70.67,
+      "goals": 360,
+      "assists": 165,
+      "goal_contributions": 525,
+      "trophies": 13
+    },
+    "barcelona": {
+      "captain_period": "2018-2021",
+      "captain_matches": 245,
+      "wins": 170,
+      "draws": 42,
+      "losses": 33,
+      "goals": 230,
+      "assists": 95,
+      "goal_contributions": 325,
+      "trophies": 2,
+      "major_titles": [
+        "La Liga",
+        "Copa del Rey"
+      ]
+    },
+    "paris_saint_germain": {
+      "captain_period": "Occasional",
+      "captain_matches": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goals": 0,
+      "assists": 0,
+      "goal_contributions": 0,
+      "trophies": 0
+    },
+    "inter_miami": {
+      "captain_period": "2023-Present",
+      "captain_matches": 58,
+      "wins": 34,
+      "draws": 13,
+      "losses": 11,
+      "goals": 61,
+      "assists": 26,
+      "goal_contributions": 87,
+      "trophies": 2,
+      "major_titles": [
+        "Leagues Cup",
+        "MLS Supporters' Shield"
+      ]
+    },
+    "argentina": {
+      "captain_period": "2011-Present",
+      "captain_matches": 150,
+      "wins": 114,
+      "draws": 23,
+      "losses": 13,
+      "goals": 90,
+      "assists": 44,
+      "goal_contributions": 134,
+      "trophies": 6,
+      "major_titles": [
+        "Copa Am\u00e9rica 2021",
+        "Finalissima 2022",
+        "FIFA World Cup 2022",
+        "Copa Am\u00e9rica 2024"
+      ]
+    }
+  },
+  "career_averages": {
+    "matches_per_season": 48.3,
+    "goals_per_season": 38.2,
+    "assists_per_season": 17.0,
+    "goal_contributions_per_season": 55.2,
+    "minutes_per_match": 81.4,
+    "goals_per_game": 0.79,
+    "assists_per_game": 0.35,
+    "goal_contributions_per_game": 1.14,
+    "minutes_per_goal": 102.7,
+    "minutes_per_assist": 231.5,
+    "minutes_per_goal_contribution": 71.2
+  },
+  "best_seasons": {
+    "highest_scoring_season": {
+      "season": "2011-12",
+      "club": "Barcelona",
+      "goals": 73
+    },
+    "highest_assist_season": {
+      "season": "2011-12",
+      "club": "Barcelona",
+      "assists": 32
+    },
+    "highest_goal_contribution_season": {
+      "season": "2011-12",
+      "club": "Barcelona",
+      "goal_contributions": 105
+    },
+    "best_international_tournament": {
+      "tournament": "2022 FIFA World Cup",
+      "goals": 7,
+      "assists": 3,
+      "award": "Golden Ball"
+    },
+    "best_copa_america": {
+      "tournament": "2021 Copa Am\u00e9rica",
+      "goals": 4,
+      "assists": 5,
+      "awards": [
+        "Player of the Tournament",
+        "Golden Boot"
+      ]
+    }
+  },
+  "career_highlights": {
+    "club_statistics": {
+      "matches": 913,
+      "goals": 767,
+      "assists": 329,
+      "goal_contributions": 1096,
+      "trophies": 40
+    },
+    "international_statistics": {
+      "matches": 197,
+      "goals": 112,
+      "assists": 61,
+      "goal_contributions": 173,
+      "major_titles": 6
+    },
+    "individual_awards": {
+      "ballon_dor": 8,
+      "fifa_the_best": 3,
+      "golden_shoes": 6,
+      "pichichi_trophies": 8,
+      "world_cup_golden_balls": 2,
+      "champions_league_top_scorer": 6
+    }
+  },
+  "favorite_opponents": {
+    "most_goals": {
+      "opponent": "Sevilla",
+      "goals": 38
+    },
+    "most_assists": {
+      "opponent": "Sevilla",
+      "assists": 20
+    },
+    "most_goal_contributions": {
+      "opponent": "Sevilla",
+      "goal_contributions": 58
+    },
+    "most_matches": {
+      "opponent": "Real Madrid",
+      "matches": 45
+    }
+  },
+  "career_summary": {
+    "professional_career_start": 2004,
+    "international_career_start": 2005,
+    "professional_seasons": 22,
+    "international_seasons": 21,
+    "official_matches": 1110,
+    "official_goals": 879,
+    "official_assists": 390,
+    "official_goal_contributions": 1269,
+    "official_trophies": 46,
+    "major_individual_awards": 50,
+    "hat_tricks": 61,
+    "free_kick_goals": 68,
+    "penalty_goals": 140,
+    "captain_matches": 450,
+    "ballon_dor_titles": 8,
+    "world_cup_titles": 1,
+    "copa_america_titles": 2,
+    "champions_league_titles": 4,
+    "league_titles": 13,
+    "status": "Active"
+  },
+  "legacy": {
+    "recognized_as": [
+      "One of the greatest footballers of all time",
+      "Barcelona's greatest player",
+      "Argentina's greatest player",
+      "Eight-time Ballon d'Or winner",
+      "FIFA World Cup Champion",
+      "Most decorated player in football history"
+    ],
+    "career_records": {
+      "official_records": 100,
+      "club_records": 75,
+      "international_records": 25
+    }
+  },
+  "season_statistics": [
+    {
+      "season": "2004-05",
+      "club": "Barcelona",
+      "age": 17,
+      "manager": "Frank Rijkaard",
+      "shirt_number": 30,
+      "position": "Right Winger",
+      "statistics": {
+        "appearances": 9,
+        "starts": 1,
+        "substitute_appearances": 8,
+        "goals": 1,
+        "assists": 0,
+        "goal_contributions": 1,
+        "minutes": 299,
+        "hat_tricks": 0,
+        "braces": 0,
+        "penalty_goals": 0,
+        "free_kick_goals": 0
+      },
+      "team_achievements": [
+        "La Liga Champion"
+      ],
+      "individual_awards": [],
+      "season_highlights": [
+        "Made his professional debut.",
+        "Scored his first senior goal against Albacete.",
+        "Youngest Barcelona goalscorer at the time."
+      ]
+    },
+    {
+      "season": "2005-06",
+      "club": "Barcelona",
+      "age": 18,
+      "manager": "Frank Rijkaard",
+      "shirt_number": 19,
+      "position": "Right Winger",
+      "statistics": {
+        "appearances": 25,
+        "starts": 16,
+        "substitute_appearances": 9,
+        "goals": 8,
+        "assists": 3,
+        "goal_contributions": 11,
+        "minutes": 1417,
+        "hat_tricks": 0,
+        "braces": 1,
+        "penalty_goals": 0,
+        "free_kick_goals": 0
+      },
+      "team_achievements": [
+        "La Liga Champion",
+        "UEFA Champions League Champion"
+      ],
+      "individual_awards": [],
+      "season_highlights": [
+        "Established himself in the first team.",
+        "Won his first UEFA Champions League.",
+        "Missed the Champions League final due to injury."
+      ]
+    },
+    {
+      "season": "2006-07",
+      "club": "Barcelona",
+      "age": 19,
+      "manager": "Frank Rijkaard",
+      "shirt_number": 19,
+      "position": "Right Winger",
+      "statistics": {
+        "appearances": 36,
+        "starts": 31,
+        "substitute_appearances": 5,
+        "goals": 17,
+        "assists": 3,
+        "goal_contributions": 20,
+        "minutes": 2608,
+        "hat_tricks": 1,
+        "braces": 2,
+        "penalty_goals": 2,
+        "free_kick_goals": 0
+      },
+      "team_achievements": [],
+      "individual_awards": [],
+      "season_highlights": [
+        "Scored his first El Cl\u00e1sico hat-trick.",
+        "Established himself as one of Europe's best young players.",
+        "Finished among Barcelona's top scorers."
+      ]
+    },
+    {
+      "season": "2007-08",
+      "club": "Barcelona",
+      "age": 20,
+      "manager": "Frank Rijkaard",
+      "shirt_number": 19,
+      "position": "Forward",
+      "statistics": {
+        "appearances": 40,
+        "starts": 36,
+        "substitute_appearances": 4,
+        "goals": 16,
+        "assists": 13,
+        "goal_contributions": 29,
+        "minutes": 3125,
+        "hat_tricks": 0,
+        "braces": 2,
+        "penalty_goals": 1,
+        "free_kick_goals": 1
+      },
+      "team_achievements": [],
+      "individual_awards": [],
+      "season_highlights": [
+        "Became Barcelona's primary attacking threat.",
+        "Finished with double-digit assists.",
+        "Last season under Frank Rijkaard."
+      ]
+    },
+    {
+      "season": "2008-09",
+      "club": "Barcelona",
+      "age": 21,
+      "manager": "Pep Guardiola",
+      "shirt_number": 10,
+      "position": "Right Winger",
+      "statistics": {
+        "appearances": 51,
+        "starts": 46,
+        "substitute_appearances": 5,
+        "goals": 38,
+        "assists": 18,
+        "goal_contributions": 56,
+        "minutes": 4088,
+        "hat_tricks": 1,
+        "braces": 6,
+        "penalty_goals": 5,
+        "free_kick_goals": 1
+      },
+      "team_achievements": [
+        "La Liga Champion",
+        "Copa del Rey Champion",
+        "UEFA Champions League Champion"
+      ],
+      "individual_awards": [
+        "Ballon d'Or",
+        "FIFA World Player of the Year"
+      ],
+      "season_highlights": [
+        "Won the historic continental treble.",
+        "Scored in the UEFA Champions League final.",
+        "Won his first Ballon d'Or.",
+        "Established himself as the world's best player."
+      ]
+    },
+    {
+      "season": "2009-10",
+      "club": "Barcelona",
+      "age": 22,
+      "manager": "Pep Guardiola",
+      "shirt_number": 10,
+      "position": "False Nine",
+      "statistics": {
+        "appearances": 53,
+        "starts": 50,
+        "substitute_appearances": 3,
+        "goals": 47,
+        "assists": 11,
+        "goal_contributions": 58,
+        "minutes": 4503,
+        "hat_tricks": 4,
+        "braces": 6,
+        "penalty_goals": 5,
+        "free_kick_goals": 2
+      },
+      "team_achievements": [
+        "La Liga Champion",
+        "Spanish Super Cup Champion",
+        "UEFA Super Cup Champion",
+        "FIFA Club World Cup Champion"
+      ],
+      "individual_awards": [
+        "Ballon d'Or",
+        "European Golden Shoe",
+        "Pichichi Trophy"
+      ],
+      "season_highlights": [
+        "Won his second Ballon d'Or.",
+        "Won the European Golden Shoe for the first time.",
+        "Finished as Europe's top scorer.",
+        "Played one of the greatest individual seasons in Barcelona history."
+      ]
+    },
+    {
+      "season": "2010-11",
+      "club": "Barcelona",
+      "age": 23,
+      "manager": "Pep Guardiola",
+      "shirt_number": 10,
+      "position": "False Nine",
+      "statistics": {
+        "appearances": 55,
+        "starts": 52,
+        "substitute_appearances": 3,
+        "goals": 53,
+        "assists": 24,
+        "goal_contributions": 77,
+        "minutes": 4723,
+        "hat_tricks": 4,
+        "braces": 8,
+        "penalty_goals": 7,
+        "free_kick_goals": 1
+      },
+      "team_achievements": [
+        "La Liga Champion",
+        "UEFA Champions League Champion",
+        "Spanish Super Cup Champion"
+      ],
+      "individual_awards": [
+        "Ballon d'Or",
+        "UEFA Best Player in Europe",
+        "Champions League Top Scorer"
+      ],
+      "season_highlights": [
+        "Won his third consecutive Ballon d'Or.",
+        "Scored twice in the Champions League semi-final against Real Madrid.",
+        "Produced one of the greatest Champions League campaigns in history.",
+        "Helped Barcelona win their fourth European Cup."
+      ]
+    },
+    {
+      "season": "2011-12",
+      "club": "Barcelona",
+      "age": 24,
+      "manager": "Pep Guardiola",
+      "shirt_number": 10,
+      "position": "False Nine",
+      "statistics": {
+        "appearances": 60,
+        "starts": 58,
+        "substitute_appearances": 2,
+        "goals": 73,
+        "assists": 32,
+        "goal_contributions": 105,
+        "minutes": 5221,
+        "hat_tricks": 8,
+        "braces": 10,
+        "penalty_goals": 14,
+        "free_kick_goals": 3
+      },
+      "team_achievements": [
+        "Copa del Rey Champion",
+        "Spanish Super Cup Champion",
+        "UEFA Super Cup Champion",
+        "FIFA Club World Cup Champion"
+      ],
+      "individual_awards": [
+        "Ballon d'Or",
+        "European Golden Shoe",
+        "Pichichi Trophy",
+        "Champions League Top Scorer"
+      ],
+      "season_highlights": [
+        "Scored a world-record 73 official goals.",
+        "Recorded over 100 goal contributions.",
+        "Became Europe's top scorer.",
+        "Won his fourth consecutive Ballon d'Or."
+      ]
+    },
+    {
+      "season": "2012-13",
+      "club": "Barcelona",
+      "age": 25,
+      "manager": "Tito Vilanova",
+      "shirt_number": 10,
+      "position": "False Nine",
+      "statistics": {
+        "appearances": 50,
+        "starts": 47,
+        "substitute_appearances": 3,
+        "goals": 60,
+        "assists": 15,
+        "goal_contributions": 75,
+        "minutes": 4308,
+        "hat_tricks": 6,
+        "braces": 8,
+        "penalty_goals": 10,
+        "free_kick_goals": 4
+      },
+      "team_achievements": [
+        "La Liga Champion"
+      ],
+      "individual_awards": [
+        "European Golden Shoe",
+        "Pichichi Trophy"
+      ],
+      "season_highlights": [
+        "Scored against every La Liga opponent consecutively.",
+        "Finished with 46 league goals.",
+        "Helped Barcelona equal the then-record 100 La Liga points."
+      ]
+    },
+    {
+      "season": "2013-14",
+      "club": "Barcelona",
+      "age": 26,
+      "manager": "Gerardo Martino",
+      "shirt_number": 10,
+      "position": "Forward",
+      "statistics": {
+        "appearances": 46,
+        "starts": 42,
+        "substitute_appearances": 4,
+        "goals": 41,
+        "assists": 14,
+        "goal_contributions": 55,
+        "minutes": 3768,
+        "hat_tricks": 4,
+        "braces": 5,
+        "penalty_goals": 8,
+        "free_kick_goals": 2
+      },
+      "team_achievements": [
+        "Spanish Super Cup Champion"
+      ],
+      "individual_awards": [],
+      "season_highlights": [
+        "Became Barcelona's all-time leading goalscorer in official matches.",
+        "Overcame injury setbacks.",
+        "Reached another 40-goal season."
+      ]
+    },
+    {
+      "season": "2014-15",
+      "club": "Barcelona",
+      "age": 27,
+      "manager": "Luis Enrique",
+      "shirt_number": 10,
+      "position": "Right Winger",
+      "statistics": {
+        "appearances": 57,
+        "starts": 55,
+        "substitute_appearances": 2,
+        "goals": 58,
+        "assists": 31,
+        "goal_contributions": 89,
+        "minutes": 4978,
+        "hat_tricks": 3,
+        "braces": 8,
+        "penalty_goals": 8,
+        "free_kick_goals": 2
+      },
+      "team_achievements": [
+        "La Liga Champion",
+        "Copa del Rey Champion",
+        "UEFA Champions League Champion"
+      ],
+      "individual_awards": [
+        "Ballon d'Or",
+        "UEFA Best Player in Europe",
+        "Champions League Top Scorer"
+      ],
+      "season_highlights": [
+        "Formed the legendary MSN trio with Su\u00e1rez and Neymar.",
+        "Won the second continental treble in Barcelona history.",
+        "Produced the iconic solo goal against Athletic Club in the Copa del Rey Final.",
+        "Scored one of football's most famous dribbles against Bayern Munich, sending J\u00e9r\u00f4me Boateng to the ground."
+      ]
+    },
+    {
+      "season": "2015-16",
+      "club": "Barcelona",
+      "age": 28,
+      "manager": "Luis Enrique",
+      "shirt_number": 10,
+      "position": "Right Winger",
+      "statistics": {
+        "appearances": 49,
+        "starts": 46,
+        "substitute_appearances": 3,
+        "goals": 41,
+        "assists": 23,
+        "goal_contributions": 64,
+        "minutes": 4214,
+        "hat_tricks": 3,
+        "braces": 6,
+        "penalty_goals": 8,
+        "free_kick_goals": 4
+      },
+      "team_achievements": [
+        "La Liga Champion",
+        "Copa del Rey Champion",
+        "UEFA Super Cup Champion",
+        "FIFA Club World Cup Champion"
+      ],
+      "individual_awards": [
+        "IFFHS World's Best Playmaker"
+      ],
+      "season_highlights": [
+        "Won another domestic double.",
+        "Formed one of football's greatest attacking trios with Su\u00e1rez and Neymar.",
+        "Finished second in the Ballon d'Or voting.",
+        "Produced numerous memorable assists and free-kick goals."
+      ]
+    },
+    {
+      "season": "2016-17",
+      "club": "Barcelona",
+      "age": 29,
+      "manager": "Luis Enrique",
+      "shirt_number": 10,
+      "position": "Forward",
+      "statistics": {
+        "appearances": 52,
+        "starts": 49,
+        "substitute_appearances": 3,
+        "goals": 54,
+        "assists": 16,
+        "goal_contributions": 70,
+        "minutes": 4470,
+        "hat_tricks": 4,
+        "braces": 7,
+        "penalty_goals": 9,
+        "free_kick_goals": 6
+      },
+      "team_achievements": [
+        "Copa del Rey Champion"
+      ],
+      "individual_awards": [
+        "European Golden Shoe",
+        "Pichichi Trophy",
+        "IFFHS World's Best Playmaker"
+      ],
+      "season_highlights": [
+        "Scored the famous last-minute winner against Real Madrid at the Santiago Bernab\u00e9u.",
+        "Reached another 50-goal season.",
+        "Finished as La Liga top scorer."
+      ]
+    },
+    {
+      "season": "2017-18",
+      "club": "Barcelona",
+      "age": 30,
+      "manager": "Ernesto Valverde",
+      "shirt_number": 10,
+      "position": "Forward",
+      "statistics": {
+        "appearances": 54,
+        "starts": 52,
+        "substitute_appearances": 2,
+        "goals": 45,
+        "assists": 18,
+        "goal_contributions": 63,
+        "minutes": 4644,
+        "hat_tricks": 6,
+        "braces": 4,
+        "penalty_goals": 7,
+        "free_kick_goals": 6
+      },
+      "team_achievements": [
+        "La Liga Champion",
+        "Copa del Rey Champion"
+      ],
+      "individual_awards": [
+        "European Golden Shoe",
+        "Pichichi Trophy"
+      ],
+      "season_highlights": [
+        "Won another domestic double.",
+        "Finished as Europe's top scorer.",
+        "Produced several spectacular free-kick goals.",
+        "Extended Barcelona's unbeaten league run."
+      ]
+    },
+    {
+      "season": "2018-19",
+      "club": "Barcelona",
+      "age": 31,
+      "manager": "Ernesto Valverde",
+      "shirt_number": 10,
+      "position": "Forward / Playmaker",
+      "statistics": {
+        "appearances": 50,
+        "starts": 47,
+        "substitute_appearances": 3,
+        "goals": 51,
+        "assists": 22,
+        "goal_contributions": 73,
+        "minutes": 4308,
+        "hat_tricks": 3,
+        "braces": 7,
+        "penalty_goals": 10,
+        "free_kick_goals": 8
+      },
+      "team_achievements": [
+        "La Liga Champion"
+      ],
+      "individual_awards": [
+        "Ballon d'Or",
+        "European Golden Shoe",
+        "Pichichi Trophy",
+        "UEFA Best Player in Europe",
+        "Champions League Top Scorer",
+        "FIFA The Best Men's Player",
+        "IFFHS World's Best Playmaker"
+      ],
+      "season_highlights": [
+        "Won his sixth Ballon d'Or.",
+        "Finished with over 70 goal contributions.",
+        "Scored two stunning free-kicks against Liverpool in the Champions League semi-final first leg.",
+        "Won another European Golden Shoe."
+      ]
+    },
+    {
+      "season": "2019-20",
+      "club": "Barcelona",
+      "age": 32,
+      "manager": "Ernesto Valverde / Quique Seti\u00e9n",
+      "shirt_number": 10,
+      "position": "Playmaker",
+      "statistics": {
+        "appearances": 44,
+        "starts": 42,
+        "substitute_appearances": 2,
+        "goals": 31,
+        "assists": 26,
+        "goal_contributions": 57,
+        "minutes": 3773,
+        "hat_tricks": 2,
+        "braces": 3,
+        "penalty_goals": 7,
+        "free_kick_goals": 5
+      },
+      "team_achievements": [],
+      "individual_awards": [
+        "Pichichi Trophy"
+      ],
+      "season_highlights": [
+        "Finished as La Liga's top scorer and assist provider.",
+        "Became the first player to win seven Pichichi Trophies.",
+        "Recorded over 20 league assists.",
+        "Despite a trophyless season, remained Barcelona's standout performer."
+      ]
+    },
+    {
+      "season": "2020-21",
+      "club": "Barcelona",
+      "age": 33,
+      "manager": "Ronald Koeman",
+      "shirt_number": 10,
+      "position": "Forward / Playmaker",
+      "captain": true,
+      "statistics": {
+        "appearances": 47,
+        "starts": 46,
+        "substitute_appearances": 1,
+        "goals": 38,
+        "assists": 14,
+        "goal_contributions": 52,
+        "minutes": 4114,
+        "hat_tricks": 2,
+        "braces": 5,
+        "penalty_goals": 9,
+        "free_kick_goals": 5
+      },
+      "team_achievements": [
+        "Copa del Rey Champion"
+      ],
+      "individual_awards": [
+        "Pichichi Trophy"
+      ],
+      "season_highlights": [
+        "Final season at Barcelona.",
+        "Won his eighth Pichichi Trophy.",
+        "Scored twice in the Copa del Rey Final.",
+        "Left Barcelona as the club's all-time leading scorer, assister and appearance-maker among outfield players."
+      ]
+    },
+    {
+      "season": "2021-22",
+      "club": "Paris Saint-Germain",
+      "age": 34,
+      "manager": "Mauricio Pochettino",
+      "shirt_number": 30,
+      "position": "Forward / Playmaker",
+      "statistics": {
+        "appearances": 34,
+        "starts": 31,
+        "substitute_appearances": 3,
+        "goals": 11,
+        "assists": 15,
+        "goal_contributions": 26,
+        "minutes": 2850,
+        "hat_tricks": 0,
+        "braces": 1,
+        "penalty_goals": 1,
+        "free_kick_goals": 0
+      },
+      "team_achievements": [
+        "Ligue 1 Champion"
+      ],
+      "individual_awards": [],
+      "season_highlights": [
+        "Made his PSG debut after leaving Barcelona.",
+        "Won Ligue 1 in his first French season.",
+        "Recorded the most assists for PSG in the league.",
+        "Adapted to a new league after 17 years at Barcelona."
+      ]
+    },
+    {
+      "season": "2022-23",
+      "club": "Paris Saint-Germain",
+      "age": 35,
+      "manager": "Christophe Galtier",
+      "shirt_number": 30,
+      "position": "Playmaker",
+      "statistics": {
+        "appearances": 41,
+        "starts": 39,
+        "substitute_appearances": 2,
+        "goals": 21,
+        "assists": 20,
+        "goal_contributions": 41,
+        "minutes": 3350,
+        "hat_tricks": 0,
+        "braces": 3,
+        "penalty_goals": 3,
+        "free_kick_goals": 0
+      },
+      "team_achievements": [
+        "Ligue 1 Champion"
+      ],
+      "individual_awards": [
+        "IFFHS World's Best Playmaker"
+      ],
+      "season_highlights": [
+        "Won the FIFA World Cup during the season.",
+        "Reached 1,000 career goal contributions.",
+        "Finished Ligue 1's leading assist provider.",
+        "Ended his PSG career with consecutive league titles."
+      ]
+    },
+    {
+      "season": "2023",
+      "club": "Inter Miami",
+      "age": 36,
+      "manager": "Gerardo 'Tata' Martino",
+      "shirt_number": 10,
+      "position": "Playmaker",
+      "captain": true,
+      "statistics": {
+        "appearances": 14,
+        "starts": 13,
+        "substitute_appearances": 1,
+        "goals": 11,
+        "assists": 5,
+        "goal_contributions": 16,
+        "minutes": 1178,
+        "hat_tricks": 0,
+        "braces": 2,
+        "penalty_goals": 1,
+        "free_kick_goals": 2
+      },
+      "team_achievements": [
+        "Leagues Cup Champion"
+      ],
+      "individual_awards": [
+        "Leagues Cup Best Player",
+        "Leagues Cup Top Scorer"
+      ],
+      "season_highlights": [
+        "Joined Inter Miami as a free agent.",
+        "Scored a stoppage-time free-kick winner on his debut.",
+        "Led Inter Miami to the first trophy in club history.",
+        "Won his eighth Ballon d'Or."
+      ]
+    },
+    {
+      "season": "2024",
+      "club": "Inter Miami",
+      "age": 37,
+      "manager": "Gerardo 'Tata' Martino",
+      "shirt_number": 10,
+      "position": "Playmaker",
+      "captain": true,
+      "statistics": {
+        "appearances": 25,
+        "starts": 24,
+        "substitute_appearances": 1,
+        "goals": 23,
+        "assists": 13,
+        "goal_contributions": 36,
+        "minutes": 2080,
+        "hat_tricks": 2,
+        "braces": 5,
+        "penalty_goals": 3,
+        "free_kick_goals": 2
+      },
+      "team_achievements": [
+        "MLS Supporters' Shield"
+      ],
+      "individual_awards": [
+        "MLS Most Valuable Player",
+        "MLS Best XI"
+      ],
+      "season_highlights": [
+        "Won the first MLS Supporters' Shield in Inter Miami history.",
+        "Won the MLS Most Valuable Player award.",
+        "Recorded five assists in a single MLS match, equalling the league record.",
+        "Finished with the highest goal contribution rate in MLS."
+      ]
+    },
+    {
+      "season": "2025",
+      "club": "Inter Miami",
+      "age": 38,
+      "manager": "Javier Mascherano",
+      "shirt_number": 10,
+      "position": "Attacking Midfielder / Playmaker",
+      "captain": true,
+      "statistics": {
+        "appearances": 25,
+        "starts": 23,
+        "substitute_appearances": 2,
+        "goals": 18,
+        "assists": 8,
+        "goal_contributions": 26,
+        "minutes": 1987,
+        "hat_tricks": 1,
+        "braces": 3,
+        "penalty_goals": 4,
+        "free_kick_goals": 2
+      },
+      "team_achievements": [],
+      "individual_awards": [],
+      "season_highlights": [
+        "Started a new era under Javier Mascherano.",
+        "Competed in the expanded FIFA Club World Cup.",
+        "Scored the match-winning free-kick against FC Porto.",
+        "Remained Inter Miami's leading scorer and playmaker."
+      ]
+    },
+    {
+      "season": "2026",
+      "club": "Inter Miami",
+      "age": 39,
+      "manager": "Javier Mascherano",
+      "shirt_number": 10,
+      "position": "Attacking Midfielder / Playmaker",
+      "captain": true,
+      "status": "Ongoing",
+      "statistics": {
+        "appearances": 14,
+        "starts": 14,
+        "substitute_appearances": 0,
+        "goals": 12,
+        "assists": 8,
+        "goal_contributions": 20,
+        "minutes": 1243,
+        "hat_tricks": 0,
+        "braces": 2,
+        "penalty_goals": 2,
+        "free_kick_goals": 2
+      },
+      "team_achievements": [],
+      "individual_awards": [],
+      "season_highlights": [
+        "Opened Inter Miami's new stadium with a goal.",
+        "Reached 900 senior career goals.",
+        "Represented Argentina at the 2026 FIFA World Cup.",
+        "Continued as Inter Miami captain.",
+        "Season currently in progress."
+      ]
+    }
+  ],
+  "competition_statistics": {
+    "la_liga": {
+      "competition": "La Liga",
+      "country": "Spain",
+      "club": "Barcelona",
+      "period": "2004-2021",
+      "statistics": {
+        "appearances": 520,
+        "starts": 478,
+        "substitute_appearances": 42,
+        "goals": 474,
+        "assists": 216,
+        "goal_contributions": 690,
+        "minutes_played": 42962,
+        "wins": 383,
+        "draws": 89,
+        "losses": 48,
+        "goals_per_game": 0.91,
+        "assists_per_game": 0.42,
+        "goal_contributions_per_game": 1.33,
+        "minutes_per_goal": 90.6,
+        "minutes_per_assist": 198.9,
+        "minutes_per_goal_contribution": 62.3,
+        "hat_tricks": 36,
+        "braces": 83,
+        "penalty_goals": 60,
+        "free_kick_goals": 39,
+        "left_foot_goals": 396,
+        "right_foot_goals": 61,
+        "headed_goals": 17,
+        "titles": 10
+      },
+      "records": [
+        "All-time La Liga top scorer.",
+        "Most assists in La Liga history.",
+        "Most goals for a single club in La Liga.",
+        "Most hat-tricks in La Liga history.",
+        "Most Pichichi Trophy awards."
+      ]
+    },
+    "copa_del_rey": {
+      "competition": "Copa del Rey",
+      "country": "Spain",
+      "club": "Barcelona",
+      "period": "2004-2021",
+      "statistics": {
+        "appearances": 80,
+        "starts": 70,
+        "substitute_appearances": 10,
+        "goals": 56,
+        "assists": 36,
+        "goal_contributions": 92,
+        "minutes_played": 6355,
+        "wins": 60,
+        "draws": 10,
+        "losses": 10,
+        "goals_per_game": 0.7,
+        "assists_per_game": 0.45,
+        "goal_contributions_per_game": 1.15,
+        "minutes_per_goal": 113.5,
+        "minutes_per_assist": 176.5,
+        "minutes_per_goal_contribution": 69.1,
+        "hat_tricks": 3,
+        "braces": 8,
+        "penalty_goals": 4,
+        "free_kick_goals": 4,
+        "titles": 7
+      },
+      "records": [
+        "Barcelona's all-time Copa del Rey top scorer.",
+        "Most Copa del Rey finals scored in by a Barcelona player."
+      ]
+    },
+    "supercopa_de_espana": {
+      "competition": "Supercopa de Espa\u00f1a",
+      "country": "Spain",
+      "club": "Barcelona",
+      "period": "2005-2021",
+      "statistics": {
+        "appearances": 20,
+        "starts": 18,
+        "substitute_appearances": 2,
+        "goals": 14,
+        "assists": 8,
+        "goal_contributions": 22,
+        "minutes_played": 1712,
+        "wins": 12,
+        "draws": 4,
+        "losses": 4,
+        "goals_per_game": 0.7,
+        "assists_per_game": 0.4,
+        "goal_contributions_per_game": 1.1,
+        "minutes_per_goal": 122.3,
+        "minutes_per_goal_contribution": 77.8,
+        "hat_tricks": 0,
+        "braces": 2,
+        "penalty_goals": 1,
+        "free_kick_goals": 2,
+        "titles": 8
+      },
+      "records": [
+        "Joint all-time top scorer of the competition.",
+        "Most goals for Barcelona in the competition."
+      ]
+    },
+    "uefa_champions_league": {
+      "competition": "UEFA Champions League",
+      "clubs": [
+        "Barcelona",
+        "Paris Saint-Germain"
+      ],
+      "period": "2004-2023",
+      "statistics": {
+        "appearances": 163,
+        "starts": 149,
+        "substitute_appearances": 14,
+        "goals": 129,
+        "assists": 40,
+        "goal_contributions": 169,
+        "minutes_played": 13600,
+        "wins": 95,
+        "draws": 34,
+        "losses": 34,
+        "goals_per_game": 0.79,
+        "assists_per_game": 0.25,
+        "goal_contributions_per_game": 1.04,
+        "minutes_per_goal": 105.4,
+        "minutes_per_assist": 340.0,
+        "minutes_per_goal_contribution": 80.5,
+        "hat_tricks": 8,
+        "braces": 18,
+        "penalty_goals": 18,
+        "free_kick_goals": 5,
+        "left_foot_goals": 106,
+        "right_foot_goals": 15,
+        "headed_goals": 8,
+        "titles": 4
+      },
+      "records": [
+        "Second-highest goalscorer in UEFA Champions League history.",
+        "Most goals for a single club in Champions League history.",
+        "Most Round of 16 goals.",
+        "One of only two players to score 120+ Champions League goals.",
+        "Scored against 40 different clubs.",
+        "Six-time Champions League top scorer."
+      ]
+    },
+    "uefa_super_cup": {
+      "competition": "UEFA Super Cup",
+      "country": "Europe",
+      "clubs": [
+        "Barcelona"
+      ],
+      "period": "2009-2015",
+      "statistics": {
+        "appearances": 4,
+        "starts": 4,
+        "substitute_appearances": 0,
+        "goals": 3,
+        "assists": 1,
+        "goal_contributions": 4,
+        "minutes_played": 390,
+        "wins": 3,
+        "draws": 1,
+        "losses": 0,
+        "goals_per_game": 0.75,
+        "assists_per_game": 0.25,
+        "goal_contributions_per_game": 1.0,
+        "minutes_per_goal": 130.0,
+        "minutes_per_assist": 390.0,
+        "minutes_per_goal_contribution": 97.5,
+        "hat_tricks": 0,
+        "braces": 1,
+        "penalty_goals": 0,
+        "free_kick_goals": 1,
+        "titles": 3
+      },
+      "records": [
+        "One of Barcelona's all-time top scorers in the UEFA Super Cup.",
+        "Scored in two UEFA Super Cup finals."
+      ]
+    },
+    "fifa_club_world_cup": {
+      "competition": "FIFA Club World Cup",
+      "country": "International",
+      "clubs": [
+        "Barcelona"
+      ],
+      "period": "2009-2015",
+      "statistics": {
+        "appearances": 5,
+        "starts": 5,
+        "substitute_appearances": 0,
+        "goals": 5,
+        "assists": 1,
+        "goal_contributions": 6,
+        "minutes_played": 450,
+        "wins": 5,
+        "draws": 0,
+        "losses": 0,
+        "goals_per_game": 1.0,
+        "assists_per_game": 0.2,
+        "goal_contributions_per_game": 1.2,
+        "minutes_per_goal": 90.0,
+        "minutes_per_assist": 450.0,
+        "minutes_per_goal_contribution": 75.0,
+        "hat_tricks": 0,
+        "braces": 0,
+        "penalty_goals": 0,
+        "free_kick_goals": 0,
+        "titles": 3
+      },
+      "records": [
+        "Two-time FIFA Club World Cup Golden Ball winner.",
+        "Scored in multiple FIFA Club World Cup finals.",
+        "Won every FIFA Club World Cup match played with Barcelona."
+      ]
+    },
+    "ligue_1": {
+      "competition": "Ligue 1",
+      "country": "France",
+      "club": "Paris Saint-Germain",
+      "period": "2021-2023",
+      "statistics": {
+        "appearances": 58,
+        "starts": 56,
+        "substitute_appearances": 2,
+        "goals": 22,
+        "assists": 31,
+        "goal_contributions": 53,
+        "minutes_played": 4972,
+        "wins": 39,
+        "draws": 11,
+        "losses": 8,
+        "goals_per_game": 0.38,
+        "assists_per_game": 0.53,
+        "goal_contributions_per_game": 0.91,
+        "minutes_per_goal": 226.0,
+        "minutes_per_assist": 160.4,
+        "minutes_per_goal_contribution": 93.8,
+        "hat_tricks": 0,
+        "braces": 2,
+        "penalty_goals": 3,
+        "free_kick_goals": 0,
+        "titles": 2
+      },
+      "records": [
+        "Most assists in Ligue 1 during the 2022-23 season.",
+        "Won the Ligue 1 title in both seasons with PSG."
+      ]
+    },
+    "coupe_de_france": {
+      "competition": "Coupe de France",
+      "country": "France",
+      "club": "Paris Saint-Germain",
+      "period": "2021-2023",
+      "statistics": {
+        "appearances": 5,
+        "starts": 5,
+        "substitute_appearances": 0,
+        "goals": 4,
+        "assists": 2,
+        "goal_contributions": 6,
+        "minutes_played": 445,
+        "wins": 3,
+        "draws": 0,
+        "losses": 2,
+        "goals_per_game": 0.8,
+        "assists_per_game": 0.4,
+        "goal_contributions_per_game": 1.2,
+        "minutes_per_goal": 111.3,
+        "minutes_per_assist": 222.5,
+        "minutes_per_goal_contribution": 74.2,
+        "hat_tricks": 0,
+        "braces": 1,
+        "penalty_goals": 0,
+        "free_kick_goals": 0,
+        "titles": 0
+      },
+      "records": [
+        "Reached the Round of 16 in consecutive seasons."
+      ]
+    },
+    "trophee_des_champions": {
+      "competition": "Troph\u00e9e des Champions",
+      "country": "France",
+      "club": "Paris Saint-Germain",
+      "period": "2022",
+      "statistics": {
+        "appearances": 1,
+        "starts": 1,
+        "substitute_appearances": 0,
+        "goals": 1,
+        "assists": 0,
+        "goal_contributions": 1,
+        "minutes_played": 90,
+        "wins": 1,
+        "draws": 0,
+        "losses": 0,
+        "goals_per_game": 1.0,
+        "assists_per_game": 0.0,
+        "goal_contributions_per_game": 1.0,
+        "minutes_per_goal": 90.0,
+        "minutes_per_goal_contribution": 90.0,
+        "hat_tricks": 0,
+        "braces": 0,
+        "penalty_goals": 0,
+        "free_kick_goals": 0,
+        "titles": 1
+      },
+      "records": [
+        "Scored in his only Troph\u00e9e des Champions appearance.",
+        "Won the competition with Paris Saint-Germain."
+      ]
+    },
+    "major_league_soccer": {
+      "competition": "Major League Soccer",
+      "country": "United States",
+      "club": "Inter Miami CF",
+      "period": "2023-Present",
+      "statistics": {
+        "appearances": 44,
+        "starts": 42,
+        "substitute_appearances": 2,
+        "goals": 37,
+        "assists": 20,
+        "goal_contributions": 57,
+        "minutes_played": 3735,
+        "wins": 27,
+        "draws": 9,
+        "losses": 8,
+        "goals_per_game": 0.84,
+        "assists_per_game": 0.45,
+        "goal_contributions_per_game": 1.3,
+        "minutes_per_goal": 101.0,
+        "minutes_per_assist": 186.8,
+        "minutes_per_goal_contribution": 65.5,
+        "hat_tricks": 2,
+        "braces": 6,
+        "penalty_goals": 5,
+        "free_kick_goals": 3,
+        "left_foot_goals": 31,
+        "right_foot_goals": 4,
+        "headed_goals": 2,
+        "titles": 1
+      },
+      "records": [
+        "First Inter Miami player to win MLS Most Valuable Player.",
+        "First Inter Miami player selected in the MLS Best XI.",
+        "Equaled the MLS record with five assists in a single match.",
+        "Led Inter Miami to its first MLS Supporters' Shield."
+      ]
+    },
+    "leagues_cup": {
+      "competition": "Leagues Cup",
+      "country": "North America",
+      "club": "Inter Miami CF",
+      "period": "2023-2024",
+      "statistics": {
+        "appearances": 14,
+        "starts": 13,
+        "substitute_appearances": 1,
+        "goals": 11,
+        "assists": 5,
+        "goal_contributions": 16,
+        "minutes_played": 1178,
+        "wins": 11,
+        "draws": 3,
+        "losses": 0,
+        "goals_per_game": 0.79,
+        "assists_per_game": 0.36,
+        "goal_contributions_per_game": 1.14,
+        "minutes_per_goal": 107.1,
+        "minutes_per_assist": 235.6,
+        "minutes_per_goal_contribution": 73.6,
+        "hat_tricks": 0,
+        "braces": 2,
+        "penalty_goals": 1,
+        "free_kick_goals": 2,
+        "titles": 1
+      },
+      "records": [
+        "Top scorer of Inter Miami's 2023 Leagues Cup campaign.",
+        "Led Inter Miami to its first trophy.",
+        "Scored in every knockout round of the 2023 tournament."
+      ]
+    },
+    "concacaf_champions_cup": {
+      "competition": "CONCACAF Champions Cup",
+      "country": "North America",
+      "club": "Inter Miami CF",
+      "period": "2024-Present",
+      "statistics": {
+        "appearances": 11,
+        "starts": 10,
+        "substitute_appearances": 1,
+        "goals": 8,
+        "assists": 2,
+        "goal_contributions": 10,
+        "minutes_played": 892,
+        "wins": 6,
+        "draws": 2,
+        "losses": 3,
+        "goals_per_game": 0.73,
+        "assists_per_game": 0.18,
+        "goal_contributions_per_game": 0.91,
+        "minutes_per_goal": 111.5,
+        "minutes_per_assist": 446.0,
+        "minutes_per_goal_contribution": 89.2,
+        "hat_tricks": 0,
+        "braces": 2,
+        "penalty_goals": 1,
+        "free_kick_goals": 1,
+        "titles": 0
+      },
+      "records": [
+        "Inter Miami's leading scorer in the CONCACAF Champions Cup.",
+        "Scored in consecutive knockout-stage matches."
+      ]
+    },
+    "fifa_club_world_cup_inter_miami": {
+      "competition": "FIFA Club World Cup",
+      "country": "International",
+      "club": "Inter Miami CF",
+      "period": "2025-Present",
+      "statistics": {
+        "appearances": 4,
+        "starts": 4,
+        "substitute_appearances": 0,
+        "goals": 2,
+        "assists": 1,
+        "goal_contributions": 3,
+        "minutes_played": 360,
+        "wins": 1,
+        "draws": 2,
+        "losses": 1,
+        "goals_per_game": 0.5,
+        "assists_per_game": 0.25,
+        "goal_contributions_per_game": 0.75,
+        "minutes_per_goal": 180.0,
+        "minutes_per_assist": 360.0,
+        "minutes_per_goal_contribution": 120.0,
+        "hat_tricks": 0,
+        "braces": 0,
+        "penalty_goals": 0,
+        "free_kick_goals": 1,
+        "titles": 0
+      },
+      "records": [
+        "Scored Inter Miami's first FIFA Club World Cup goal.",
+        "Scored Inter Miami's first FIFA Club World Cup free-kick goal.",
+        "Helped Inter Miami reach the knockout stage in the club's first FIFA Club World Cup appearance."
+      ]
+    },
+    "fifa_world_cup": {
+      "competition": "FIFA World Cup",
+      "team": "Argentina",
+      "period": "2006-2026",
+      "statistics": {
+        "appearances": 31,
+        "starts": 29,
+        "substitute_appearances": 2,
+        "goals": 16,
+        "assists": 10,
+        "goal_contributions": 26,
+        "minutes_played": 2760,
+        "wins": 20,
+        "draws": 7,
+        "losses": 4,
+        "goals_per_game": 0.52,
+        "assists_per_game": 0.32,
+        "goal_contributions_per_game": 0.84,
+        "minutes_per_goal": 172.5,
+        "minutes_per_assist": 276.0,
+        "minutes_per_goal_contribution": 106.2,
+        "hat_tricks": 0,
+        "braces": 1,
+        "penalty_goals": 5,
+        "free_kick_goals": 0,
+        "captain_matches": 23,
+        "player_of_the_match": 12,
+        "titles": 1
+      },
+      "records": [
+        "Most FIFA World Cup appearances.",
+        "Most minutes played in FIFA World Cup history.",
+        "Only player to score in every knockout round of a single FIFA World Cup.",
+        "Only player to win two FIFA World Cup Golden Balls.",
+        "Argentina's all-time World Cup top scorer.",
+        "Most Player of the Match awards in FIFA World Cup history."
+      ]
+    },
+    "copa_america": {
+      "competition": "Copa Am\u00e9rica",
+      "team": "Argentina",
+      "period": "2007-2024",
+      "statistics": {
+        "appearances": 39,
+        "starts": 38,
+        "substitute_appearances": 1,
+        "goals": 14,
+        "assists": 18,
+        "goal_contributions": 32,
+        "minutes_played": 3370,
+        "wins": 24,
+        "draws": 10,
+        "losses": 5,
+        "goals_per_game": 0.36,
+        "assists_per_game": 0.46,
+        "goal_contributions_per_game": 0.82,
+        "minutes_per_goal": 240.7,
+        "minutes_per_assist": 187.2,
+        "minutes_per_goal_contribution": 105.3,
+        "hat_tricks": 1,
+        "braces": 1,
+        "penalty_goals": 3,
+        "free_kick_goals": 2,
+        "captain_matches": 25,
+        "titles": 2
+      },
+      "records": [
+        "Most Copa Am\u00e9rica appearances.",
+        "Most Copa Am\u00e9rica assists.",
+        "Joint-most Copa Am\u00e9rica titles in Messi's career.",
+        "2021 Player of the Tournament.",
+        "2021 Golden Boot winner."
+      ]
+    },
+    "finalissima": {
+      "competition": "Finalissima",
+      "team": "Argentina",
+      "period": "2022",
+      "statistics": {
+        "appearances": 1,
+        "starts": 1,
+        "substitute_appearances": 0,
+        "goals": 0,
+        "assists": 2,
+        "goal_contributions": 2,
+        "minutes_played": 90,
+        "wins": 1,
+        "draws": 0,
+        "losses": 0,
+        "goals_per_game": 0.0,
+        "assists_per_game": 2.0,
+        "goal_contributions_per_game": 2.0,
+        "minutes_per_assist": 45.0,
+        "captain_matches": 1,
+        "titles": 1
+      },
+      "records": [
+        "Player of the Match.",
+        "Won the revived Finalissima.",
+        "Registered two assists in the final."
+      ]
+    },
+    "olympic_games": {
+      "competition": "Olympic Games",
+      "team": "Argentina U23",
+      "period": "2008",
+      "statistics": {
+        "appearances": 6,
+        "starts": 6,
+        "substitute_appearances": 0,
+        "goals": 2,
+        "assists": 3,
+        "goal_contributions": 5,
+        "minutes_played": 540,
+        "wins": 6,
+        "draws": 0,
+        "losses": 0,
+        "goals_per_game": 0.33,
+        "assists_per_game": 0.5,
+        "goal_contributions_per_game": 0.83,
+        "minutes_per_goal": 270.0,
+        "minutes_per_assist": 180.0,
+        "minutes_per_goal_contribution": 108.0,
+        "captain_matches": 0,
+        "titles": 1
+      },
+      "records": [
+        "Olympic Gold Medal winner.",
+        "Completed the tournament unbeaten.",
+        "Assisted the winning goal in the final."
+      ]
+    },
+    "fifa_u20_world_cup": {
+      "competition": "FIFA U-20 World Cup",
+      "team": "Argentina U20",
+      "period": "2005",
+      "statistics": {
+        "appearances": 7,
+        "starts": 7,
+        "substitute_appearances": 0,
+        "goals": 6,
+        "assists": 2,
+        "goal_contributions": 8,
+        "minutes_played": 630,
+        "wins": 6,
+        "draws": 0,
+        "losses": 1,
+        "goals_per_game": 0.86,
+        "assists_per_game": 0.29,
+        "goal_contributions_per_game": 1.14,
+        "minutes_per_goal": 105.0,
+        "minutes_per_assist": 315.0,
+        "minutes_per_goal_contribution": 78.8,
+        "penalty_goals": 2,
+        "titles": 1
+      },
+      "records": [
+        "Golden Ball winner.",
+        "Golden Boot winner.",
+        "Led Argentina to the FIFA U-20 World Cup title."
+      ]
+    }
+  }
+}
