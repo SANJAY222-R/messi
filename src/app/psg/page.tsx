@@ -24,18 +24,18 @@ export default function PSGPage() {
   if (!data) return <div ref={containerRef} className="min-h-[200vh] bg-[#02050f]" />;
 
   const images = {
-    hero: '/images/PSG/wallpaper.jpg',
-    presentation: '/images/PSG/presentation.jpg',
-    portrait: '/images/PSG/portrait.jpeg',
-    debut: '/images/PSG/debut.jpg',
-    mnm: '/images/PSG/neymar-mbappe.jpeg',
-    training: '/images/PSG/training.jpeg',
-    freeKick: '/images/PSG/free-kick.jpg',
-    ucl: '/images/PSG/champions-league.jpeg',
-    goalCeleb: '/images/PSG/goal-celebration.jpg',
-    celeb: '/images/PSG/celebration.webp',
-    trophy: '/images/PSG/ligue1-trophy.jpeg',
-    leaving: '/images/PSG/leaving.jpg',
+    hero: '/images/Psg/wallpaper.jpg',
+    presentation: '/images/Psg/presentation.jpg',
+    portrait: '/images/Psg/portrait.jpeg',
+    debut: '/images/Psg/debut.jpg',
+    mnm: '/images/Psg/neymar-mbappe.jpeg',
+    training: '/images/Psg/training.jpeg',
+    freeKick: '/images/Psg/free-kick.jpg',
+    ucl: '/images/Psg/champions-league.jpeg',
+    goalCeleb: '/images/Psg/goal-celebration.jpg',
+    celeb: '/images/Psg/celebration.webp',
+    trophy: '/images/Psg/ligue1-trophy.jpeg',
+    leaving: '/images/Psg/leaving.jpg',
   };
 
   return (
