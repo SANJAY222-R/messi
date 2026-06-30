@@ -81,12 +81,10 @@ export default function TimelinePage() {
       <section className="relative h-[80vh] w-full flex flex-col items-center justify-center border-b border-white/5 overflow-hidden">
         {/* Massive Ambient Background Image */}
         <div className="absolute inset-0 z-0">
-          <Image 
+          <img 
             src={allImages[0] || '/images/Wallpapers/dark-wallpaper.jpg'} 
             alt="Timeline Hero" 
-            fill 
-            sizes="100vw"
-            className="object-cover object-top opacity-30 grayscale blur-sm"
+            className="absolute inset-0 w-full h-full object-cover object-center opacity-30 grayscale blur-sm"
           />
           <div className="absolute inset-0 bg-gradient-to-b from-[#050608]/80 via-[#050608]/60 to-[#050608]" />
         </div>
@@ -148,14 +146,14 @@ export default function TimelinePage() {
                     
                     {/* OPTIONAL IMAGE FOR EVENT */}
                     {showImage && eventImg && (
-                      <div className="relative w-full mb-8 rounded-xl overflow-hidden shadow-lg border border-white/5 bg-[#050608]">
+                      <div className="relative w-full mb-8 rounded-xl overflow-hidden shadow-lg border border-white/5 bg-[#0a0c10] flex justify-center items-center">
                         <img 
                           src={eventImg} 
                           alt={event.title} 
-                          className="w-full h-auto max-h-[500px] object-cover object-top opacity-60 grayscale group-hover:grayscale-0 group-hover:opacity-100 group-hover:scale-[1.02] transition-all duration-700" 
+                          className="w-full h-auto max-h-[600px] object-contain opacity-80 grayscale group-hover:grayscale-0 group-hover:opacity-100 group-hover:scale-[1.02] transition-all duration-700" 
                           loading="lazy"
                         />
-                        <div className="absolute inset-0 bg-gradient-to-t from-[#0a0c10] via-[#0a0c10]/10 to-transparent pointer-events-none" />
+                        <div className="absolute inset-0 bg-gradient-to-t from-[#0a0c10] via-[#0a0c10]/20 to-transparent pointer-events-none" />
                       </div>
                     )}
 
