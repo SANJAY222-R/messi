@@ -66,7 +66,7 @@ export default function Home() {
         <div className="absolute inset-0 ambient-glow-blue z-0 opacity-50 pointer-events-none" />
         <div className="absolute inset-0 ambient-glow-gold z-0 opacity-30 pointer-events-none mix-blend-screen" />
 
-        <motion.div style={{ y: heroY, opacity: heroOpacity }} className="absolute inset-0 z-0 h-[120%] -top-[10%]">
+        <motion.div style={{ y: heroY, opacity: heroOpacity }} className="absolute inset-0 z-0 h-[120%] top-0">
           <Image 
             src={worldCupImage} 
             alt="Messi World Cup Champion"
@@ -160,7 +160,7 @@ export default function Home() {
                 alt="Messi Portrait"
                 fill
                 sizes="(max-width: 768px) 100vw, 50vw"
-                className="object-cover transition-transform duration-1000 group-hover:scale-105"
+                className="object-cover object-[center_20%] transition-transform duration-1000 group-hover:scale-105"
               />
               <div className="absolute inset-0 bg-black/20 group-hover:bg-transparent transition-colors duration-500" />
             </div>
@@ -188,7 +188,7 @@ export default function Home() {
                 alt="Messi Iconic Celebration"
                 fill
                 sizes="(max-width: 1024px) 100vw, 50vw"
-                className="object-cover transition-transform duration-[2000ms] group-hover:scale-110"
+                className="object-cover object-[center_20%] transition-transform duration-[2000ms] group-hover:scale-110"
               />
               <div className="absolute inset-0 bg-gradient-to-tr from-black/60 via-transparent to-transparent" />
             </motion.div>
@@ -243,7 +243,7 @@ export default function Home() {
                `}
              >
                 <div className="relative w-full h-full rounded-xl overflow-hidden">
-                  <Image src={img} alt={`Scatter ${i}`} fill sizes="25vw" className="object-cover grayscale hover:grayscale-0 transition-all duration-1000" />
+                  <Image src={img} alt={`Scatter ${i}`} fill sizes="25vw" className="object-cover object-[center_20%] grayscale hover:grayscale-0 transition-all duration-1000" />
                 </div>
              </motion.div>
            ))}
@@ -270,7 +270,7 @@ export default function Home() {
           alt="Messi Action" 
           fill 
           sizes="100vw"
-          className="object-cover opacity-20 fixed inset-0 z-0 pointer-events-none"
+          className="object-cover object-[center_20%] opacity-20 fixed inset-0 z-0 pointer-events-none"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-[#050608] via-transparent to-[#050608] z-0" />
         

@@ -16,7 +16,7 @@ const cinzel = Cinzel({
 });
 
 export const metadata: Metadata = {
-  title: "LIONEL MESSI | The Digital Museum",
+  title: "LIONEL MESSI",
   description: "Experience the legendary career of Lionel Andrés Messi inside an interactive Awwwards-quality digital museum.",
 };
 

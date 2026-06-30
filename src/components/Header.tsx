@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { Menu, X, ChevronDown, Search, Award } from 'lucide-react';
+import { Menu, X, ChevronDown, Award } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
 interface NavLink {
@@ -49,7 +49,6 @@ export default function Header() {
       links: [
         { label: 'About (Biography)', path: '/about' },
         { label: 'Media Gallery', path: '/gallery' },
-        { label: 'Database References', path: '/references' },
       ],
     },
   ];
@@ -107,25 +106,11 @@ export default function Header() {
             </div>
           ))}
 
-          {/* Search CTA */}
-          <Link
-            href="/search"
-            className={`p-2 rounded-lg bg-neutral-900 border border-white/5 text-neutral-400 hover:text-accent-blue hover:border-accent-blue/30 transition-all ${
-              pathname === '/search' ? 'text-accent-blue border-accent-blue/30' : ''
-            }`}
-          >
-            <Search className="w-4 h-4" />
-          </Link>
+
         </nav>
 
-        {/* Mobile Toggle & Search Button */}
+        {/* Mobile Toggle Button */}
         <div className="flex items-center gap-2 lg:hidden">
-          <Link
-            href="/search"
-            className="p-2 rounded-lg bg-neutral-900 border border-white/5 text-neutral-400 hover:text-accent-blue"
-          >
-            <Search className="w-4 h-4" />
-          </Link>
           <button
             onClick={() => setMobileOpen(!mobileOpen)}
             className="p-2 rounded-lg bg-neutral-900 border border-white/10 text-white hover:bg-neutral-800 transition-colors"
