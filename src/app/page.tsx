@@ -54,7 +54,7 @@ export default function Home() {
   // Explicitly use confetti.webp for the main hero
   const worldCupImage = '/images/Argentina/confetti.webp';
   // Explicitly use the cinematic dark wallpaper
-  const celebrationImage = '/images/wallpapers/cinematic-wallpaper.jpeg';
+  const celebrationImage = '/images/Wallpapers/cinematic-wallpaper.jpeg';
 
   return (
     <div ref={containerRef} className="relative bg-[#050608] min-h-[400vh] overflow-hidden">
