@@ -51,7 +51,7 @@ pnpm dev
 bun dev
 ```
 
-Open https://lionelmessi10.vercel.app/ with your browser to see the result.
+Open https://lm10legacy.vercel.app with your browser to see the result.
 
 ## 📝 Disclaimer
 

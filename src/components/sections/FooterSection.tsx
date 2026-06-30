@@ -20,11 +20,10 @@ export default function FooterSection() {
           </p>
           <div className="flex items-center gap-2 text-xs text-neutral-600 pt-4">
             <span>Crafted with</span>
-            <Heart className="w-4 h-4 text-red-500 fill-red-500" />
+           <Heart className="w-4 h-4 text-sky-400 fill-sky-400" />
             <span>by Sanjay • 2026</span>
           </div>
         </div>
-
         {/* Middle Side: Quick Navigation */}
         <div className="space-y-6 w-full md:w-auto">
           <span className="text-xs uppercase tracking-widest font-bold text-white block flex items-center gap-2">
