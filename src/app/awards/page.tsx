@@ -22,10 +22,6 @@ export default function AwardsPage() {
       // Parse the complex 11_awards.json into a flat list for the UI
       const parsed: any[] = [];
       
-      if (awardsData.ballon_dor) {
-        parsed.push({ name: "Ballon d'Or", count: awardsData.ballon_dor.overview.total_titles, details: awardsData.ballon_dor.titles.map((t:any) => t.year).join(', ') });
-      }
-      
       if (awardsData.fifa_awards) {
         parsed.push({ name: "FIFA World Player of the Year", count: awardsData.fifa_awards.fifa_world_player_of_the_year.titles, details: awardsData.fifa_awards.fifa_world_player_of_the_year.years.join(', ') });
         parsed.push({ name: "The Best FIFA Men's Player", count: awardsData.fifa_awards.the_best_fifa_mens_player.titles, details: awardsData.fifa_awards.the_best_fifa_mens_player.years.join(', ') });
