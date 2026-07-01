@@ -224,7 +224,7 @@ export default function GoalsPage() {
             <div className="relative rounded-3xl overflow-hidden border border-[#6EC6FF]/30 shadow-[0_0_50px_rgba(110,198,255,0.1)] aspect-square group">
               <Image src="/images/Goals/bicycle-kick.jpg" alt="Bicycle Kick" fill sizes="(max-width: 768px) 100vw, 33vw" className="object-cover group-hover:scale-105 transition-transform duration-1000" />
               <div className="absolute bottom-6 left-6 right-6">
-                <span className="text-xs uppercase tracking-widest text-[#6EC6FF] font-bold bg-black/50 px-3 py-1 rounded backdrop-blur-md">Acrobatic Brilliance</span>
+                <span className="text-xs uppercase tracking-widest text-[#6EC6FF] font-bold bg-black/50 px-3 py-1 rounded backdrop-blur-md">Alien Dribbling</span>
               </div>
             </div>
           </motion.div>
