@@ -28,7 +28,6 @@ export default function AwardsPage() {
       
       if (awardsData.fifa_awards) {
         parsed.push({ name: "FIFA World Player of the Year", count: awardsData.fifa_awards.fifa_world_player_of_the_year.titles, details: awardsData.fifa_awards.fifa_world_player_of_the_year.years.join(', ') });
-        parsed.push({ name: "FIFA Ballon d'Or", count: awardsData.fifa_awards.fifa_ballon_dor.titles, details: awardsData.fifa_awards.fifa_ballon_dor.years.join(', ') });
         parsed.push({ name: "The Best FIFA Men's Player", count: awardsData.fifa_awards.the_best_fifa_mens_player.titles, details: awardsData.fifa_awards.the_best_fifa_mens_player.years.join(', ') });
         parsed.push({ name: "FIFPRO World 11", count: awardsData.fifa_awards.fifa_fifpro_world11.appearances, details: 'Record 17 Selections' });
         parsed.push({ name: "FIFA World Cup Golden Ball", count: awardsData.fifa_awards.fifa_world_cup_awards.golden_ball.titles, details: awardsData.fifa_awards.fifa_world_cup_awards.golden_ball.years.join(', ') });
